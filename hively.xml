@@ -1,7 +1,7 @@
 <source>
 <publisher>Cookorico</publisher>
 <publisherurl>https://www.cookorico.com</publisherurl>
-<lastupdatedat>2025-06-14 06:00</lastupdatedat>
+<lastupdatedat>2025-06-15 09:00</lastupdatedat>
 
 <job>
   <company>Hively Hospitality - Thalazur</company>
@@ -553,67 +553,6 @@
   </salary>
 </job>
 <job>
-  <company>Hively Hospitality - Thalazur</company>
-  <companydescription/>
-  <companyuuid>491</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber></referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Spa Praticien H/F</title>
-<description><![CDATA[
-<p><strong>Notre hôtel : </strong>Posé sur la dune, Thalazur Cabourg **** se fait pudique pour ne pas occulter le panorama et la mer que l’on voit danser depuis les fenêtres des chambres, des terrasses et de notre spa marin.</p><p>Dans un cadre naturel et sauvage l’institut de Thalassothérapie et le Spa invite nos clients à la détente et au bien-être.</p><p><br></p><p><strong>Votre mission :</strong></p><p><strong>Apporter du bien-être à nos clients grâce à votre bienveillance !</strong></p><ul><li class="ql-align-justify">Prendre le client en charge du début à la fin du soin</li><li class="ql-align-justify">Prodiguer les soins suivants dans le cadre des protocoles de soin Thalazur : modelages de relaxation ainsi que les modelages du monde (Californien, Balinais, Polynésien...), </li><li class="ql-align-justify">Favoriser la vente des produits Thalazur</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un contrat de 35h par semaine<strong> </strong>avec 2 jours de repos consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des tickets restaurant et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus.</li><li>des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li>Prise en charge 75% Transports en commun</li></ul>
- <p><strong>Votre profil : </strong></p><ul><li>Une expérience de 1 an minimum dans le domaine du bien-être, idéalement en Thalassothérapie</li><li>Diplôme Spa praticien(ne) / BP / BTS (et/ou CAP avec expérience en massages)</li><li>Dynamique &amp; bienveillant/e</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p> </p>]]></description>
-  <startdate>2025-06-02</startdate>
-  <enddate></enddate>
-  <createddate>2025-05-12 05:23</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/ny8hz7?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/ny8hz7?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Cabourg</city>
-      <zip>14390</zip>
-      <address>Avenue Charles de Gaulle</address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-<job>
   <company>Hively Hospitality - Novotel</company>
   <companydescription/>
   <companyuuid>497</companyuuid>
@@ -1138,67 +1077,6 @@
       <city>Le Grau-du-Roi</city>
       <zip>30240</zip>
       <address></address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-<job>
-  <company>Hively Hospitality - Ibis Budget</company>
-  <companydescription/>
-  <companyuuid>492</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber></referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Femme de chambre / Valet de chambre</title>
-<description><![CDATA[
-<p><strong>Notre hôtel : Dans un établissement de 141 chambres, ouvert depuis le 01 août 2022, vous contribuez au standing de l'hôtel et à la satisfaction de la clientèle.</strong></p><p><br></p><p><strong>Votre mission :</strong></p><p>Prendre soin de nos clients en chouchoutant ses espaces de vie.</p><p>Au quotidien, il s’agira de nettoyer les chambres en respectant les normes d'hygiène.</p><p>Assurez la mise en état quotidienne des chambres, des salles de bain et des lieux communs : aucun détail ne vous échappe !</p><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire de 12 euros/ H 1560 euros brut pour 130h par mois avec 2 jours de repos consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté</li><li>Un week-end par mois (samedi/dimanche)</li><li>Horaires 9 h / 15 h</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li></ul><p><br></p>
- <p><strong>Votre profil : </strong></p><ul><li>Attentif(ve) aux détails, vous aimez quand les choses sont bien faites et qu’elles répondent aux normes qualité et hygiène auxquelles vous avez été formé(e)</li><li>Expérience en hôtellerie et/ou formation en hôtellerie es un plus</li><li>Sens du service et de la propreté, efficacité et rapidité d'exécution, discrétion et honnêteté, rigueur, sens aigu du détail, polyvalence</li><li>Qualités relationnelle, envie de rejoindre une équipe énergique et professionnelle</li></ul><p><span style="color: rgb(230, 0, 0);">﻿</span></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p> </p>]]></description>
-  <startdate>2025-07-01</startdate>
-  <enddate></enddate>
-  <createddate>2025-06-10 10:22</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/tcw27g?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/tcw27g?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>La Rochelle</city>
-      <zip>17000</zip>
-      <address>Rue de Périgny</address>
       <countrycode>FR</countrycode>
       <region/>
     </location>
