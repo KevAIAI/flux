@@ -1,8 +1,69 @@
 <source>
 <publisher>Cookorico</publisher>
 <publisherurl>https://www.cookorico.com</publisherurl>
-<lastupdatedat>2025-06-19 12:00</lastupdatedat>
+<lastupdatedat>2025-06-19 03:00</lastupdatedat>
 
+<job>
+  <company>Hively Hospitality - Thalazur</company>
+  <companydescription/>
+  <companyuuid>491</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber></referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Plongeur H/F</title>
+<description><![CDATA[
+<p><strong>Notre site :&nbsp;</strong>Thalazur Carnac - Hôtel 4 étoiles 200 chambres - espace séminaire 700m² - Restaurant 180 places - 75 000 couverts à l'année -75 000 Petits déjeuners</p><p>Situé au bord des Salines de Carnac, notre établissement a été entièrement rénové.</p><p><br></p><p><br></p><p><strong>Votre mission :</strong></p><p>Plongez au sein d’une équipe chaleureuse et dynamique, aucune formation n’est exigée !&nbsp;</p><ul><li>Vous assurez le nettoyage de la vaisselle et de tous les ustensiles de cuisine, voire du gros matériel et des locaux, et vous prenez soin de ranger les éléments à leur place.</li><li>Une cuisine propre pour un service de qualité !&nbsp;</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un contrat de 39h par semaine avec 2 jours de repos consécutifs</li><li>Des avantages nourriture et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Valorisation de la coupure à partir de 3h d'interruption</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximale</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li></ul>
+ <p><strong>Votre profil : </strong></p><ul><li>Habitué(e) à travailler efficacement en équipe, vous êtes organisé(e) et dynamique.</li><li>Attentif(ve) à l’hygiène, aux détails, et à la satisfaction de nos clients.</li><li>Votre connaissance des normes HACCP est un plus.&nbsp;</li></ul><p><br></p><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p> </p>]]></description>
+  <startdate>2025-06-26</startdate>
+  <enddate></enddate>
+  <createddate>2025-06-19</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/vkvakr?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/vkvakr?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Carnac</city>
+      <zip>56340</zip>
+      <address></address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
 <job>
   <company>Hively Hospitality - Thalazur</company>
   <companydescription/>
@@ -650,67 +711,6 @@
       <city>Paris</city>
       <zip>75014</zip>
       <address>Boulevard Romain Rolland</address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-<job>
-  <company>Hively Hospitality - Novotel</company>
-  <companydescription/>
-  <companyuuid>497</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber></referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Chef de partie H/F</title>
-<description><![CDATA[
-<p><strong>Notre hôtel : </strong>Novotel Beaune</p><p><br></p><p><strong>Votre mission :</strong></p><p>Régaler nos clients !</p><ul><li>Vous réalisez de manière autonome les plats et les recettes de notre restaurant <span style="color: rgb(230, 0, 0);"> </span><span class="ql-cursor">﻿</span></li><li>Vous coordonnez le secteur <span style="color: rgb(230, 0, 0);"> </span>de la cuisine<span style="color: rgb(230, 0, 0);"> </span></li><li> Vous managez le travail des commis de cuisine</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire selon compétence avec 2 jours de repos consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture (170€/mois) et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Le cas échéant : Valorisation de la coupure à partir de 3h d'interruption</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li><br></li></ul>
- <p><strong>Votre profil : </strong></p><ul><li>Expérience de 1à 2 ans réussie en cuisine, envie de rejoindre une équipe unie, énergique et professionnelle</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p> </p>]]></description>
-  <startdate>2024-05-01</startdate>
-  <enddate></enddate>
-  <createddate>2025-06-18</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/r76sal?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/r76sal?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Beaune</city>
-      <zip>21200</zip>
-      <address>Avenue Charles de Gaulle</address>
       <countrycode>FR</countrycode>
       <region/>
     </location>
