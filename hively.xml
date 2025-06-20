@@ -1,8 +1,618 @@
 <source>
 <publisher>Cookorico</publisher>
 <publisherurl>https://www.cookorico.com</publisherurl>
-<lastupdatedat>2025-06-19 06:00</lastupdatedat>
+<lastupdatedat>2025-06-20 09:00</lastupdatedat>
 
+<job>
+  <company>Hively Hospitality - Thalazur</company>
+  <companydescription/>
+  <companyuuid>491</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber></referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Hydro-praticien/ne en alternance</title>
+<description><![CDATA[
+<p><strong>Notre hôtel :</strong><strong style="color: rgb(230, 0, 0);"> </strong>Thalazur Ouistreham - Thalassothérapie - Hôtel **** &amp; Spa</p><p>Etablissement de 89 chambres au cadre intimiste, niché au pied des dunes de la grande plage de Ouistreham</p><p><br></p><p><strong>Votre mission :</strong></p><p><strong>Apporter du bien-être à nos clients grâce à vos talents !</strong></p><p><strong>L’Hydro Praticien/praticienne est qualifié/e pour pratiquer les techniques d’hydrothérapie et les massages de bien-être dans un service d’hydrothérapie.</strong></p><p><strong>Parmi les soins d'hydrothérapie, vous serez amené/e à pratiquer :</strong></p><p class="ql-align-justify">- Bains hydromassants</p><p class="ql-align-justify">- Enveloppements d’algues et boues marines</p><p class="ql-align-justify">- Cryothérapie jambes</p><p class="ql-align-justify">- Massage sous fine pluie d’eau de mer</p><p class="ql-align-justify">- Massage détente</p><p class="ql-align-justify">- Lit hydromassant</p><p class="ql-align-justify">- Douche à jet</p><p class="ql-align-justify">- Hydromassage marin</p><p class="ql-align-justify">- Pressothérapie&nbsp;</p><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un contrat d'apprentissage d'un an de mi-septembre 2025 à mi-septembre 2026</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des tickets restaurants</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li>Prise en charge 75% Transports en commun</li></ul>
+ <p><strong style="background-color: rgb(250, 250, 250); color: rgb(18, 18, 18);">Votre profil :</strong></p><p>Personne dynamique, sens de la prise en charge, de l’accompagnement, soucieuse du détail et du respect de la charte Thalazur.</p><p>Un esprit d’équipe, curieux/se, ouvert/e vers les autres.</p><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p> </p>]]></description>
+  <startdate>2025-09-15</startdate>
+  <enddate></enddate>
+  <createddate>2025-06-20</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/xvj50l?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/xvj50l?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Ouistreham</city>
+      <zip>14150</zip>
+      <address>Boulevard Commandant Kieffer</address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
+<job>
+  <company>Hively Hospitality - Thalazur</company>
+  <companydescription/>
+  <companyuuid>491</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber></referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Contrat apprentissage Hydro-praticien</title>
+<description><![CDATA[
+<p><strong>Notre hôtel : Thalazur Antibes </strong></p><p><br></p><p><strong>Votre mission :</strong></p><p><br></p><p><strong>Apporter du bien-être à nos clients grâce à vos talents !</strong></p><p><strong>L’Hydro Praticien/praticienne est qualifié/e pour pratiquer les techniques d’hydrothérapie et les massages de bien-être dans un service d’hydrothérapie.</strong></p><p><strong>Parmi les soins d'hydrothérapie, vous serez amené/e à pratiquer :</strong></p><p class="ql-align-justify">- Bains hydromassants</p><p class="ql-align-justify">- Enveloppements d’algues et boues marine</p><p class="ql-align-justify">- Cryothérapie jambes</p><p class="ql-align-justify">- Massage sous fine pluie d’eau de mer</p><p class="ql-align-justify">- Massage détente</p><p class="ql-align-justify">- Lit hydromassant</p><p class="ql-align-justify">- Douche à jet</p><p class="ql-align-justify">- Pressothérapie&nbsp;</p><p class="ql-align-justify">-Jets sous marins</p><p><br></p><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un contrat d'apprentissage d'un an de mi-septembre 2025 à mi-septembre 2026</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des tickets restaurants</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li>Parking collaborateurs</li><li>Blanchissage uniforme</li></ul>
+ <p><strong>Votre profil : </strong></p><p>Personne dynamique, sens de la prise en charge, de l’accompagnement, soucieuse du détail et du respect de la charte Thalazur.</p><ul><li>Un esprit d’équipe, curieux/se, ouvert/e vers les autres.</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p> </p>]]></description>
+  <startdate>2025-09-22</startdate>
+  <enddate></enddate>
+  <createddate>2025-06-20</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/3q7qsv?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/3q7qsv?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Antibes</city>
+      <zip>06600</zip>
+      <address></address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
+<job>
+  <company>Hively Hospitality - Novotel</company>
+  <companydescription/>
+  <companyuuid>497</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber></referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Chef de partie H/F</title>
+<description><![CDATA[
+<p><strong>Notre hôtel : </strong>Novotel Beaune</p><p><br></p><p><strong>Votre mission :</strong></p><p>Régaler nos clients !</p><ul><li>Vous réalisez de manière autonome les plats et les recettes de notre restaurant <span style="color: rgb(230, 0, 0);"> </span><span class="ql-cursor">﻿</span></li><li>Vous coordonnez le secteur <span style="color: rgb(230, 0, 0);"> </span>de la cuisine<span style="color: rgb(230, 0, 0);"> </span></li><li> Vous managez le travail des commis de cuisine</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire selon compétence avec 2 jours de repos consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture (170€/mois) et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Le cas échéant : Valorisation de la coupure à partir de 3h d'interruption</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li><br></li></ul>
+ <p><strong>Votre profil : </strong></p><ul><li>Expérience de 1à 2 ans réussie en cuisine, envie de rejoindre une équipe unie, énergique et professionnelle</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p> </p>]]></description>
+  <startdate>2024-05-01</startdate>
+  <enddate></enddate>
+  <createddate>2025-06-20</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/r76sal?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/r76sal?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Beaune</city>
+      <zip>21200</zip>
+      <address>Avenue Charles de Gaulle</address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
+<job>
+  <company>Hively Hospitality - Thalazur</company>
+  <companydescription/>
+  <companyuuid>491</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber></referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Femme de chambre / Valet de chambre</title>
+<description><![CDATA[
+<p><strong>Notre hôtel : Thalazur Carnac, Hôtel**** et Résidence*** , rouvre ses portes le 1er jouillet! Participez avec nous à cette nouvelle aventure!</strong></p><p><br></p><p><strong>Votre mission</strong></p><p>Prendre soin de nos clients en chouchoutant ses espaces de vie.</p><p>Au quotidien, il s’agira de nettoyer les chambres en respectant les normes d'hygiène.</p><p>Vous assurez la mise en état quotidienne des chambres, des salles de bain et des lieux communs : aucun détail ne vous échappe !</p><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un contrat de 35h par semaine<strong> </strong>avec 2 jours de repos</li><li>horaires de travail 9h-16h45, 45 minutes de pause</li><li>Travail en semaine, week-end et jours fériés</li><li>Vous apportez votre repas, vous bénéficiez d'indemnité compensatrice de nourriture, 4.22€ par jour travaillé</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…)</li></ul>
+ <p><strong>Votre profil : </strong></p><ul><li>Attentif(ve) aux détails, vous aimez quand les choses sont bien faites et qu’elles répondent aux normes qualité et hygiène auxquelles vous avez été formé(e)</li><li>Première expérience appréciée, qualités relationnelles, envie de rejoindre une équipe unie, énergique et professionnelle</li></ul><p><br></p><p>Thalazur fait parti d'HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p> </p>]]></description>
+  <startdate>2025-07-01</startdate>
+  <enddate></enddate>
+  <createddate>2025-06-20</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/qb3jrc?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/qb3jrc?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Carnac</city>
+      <zip>56340</zip>
+      <address>Allée Fleur de Sel</address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
+<job>
+  <company>Hively Hospitality - Renaissance</company>
+  <companydescription/>
+  <companyuuid>503</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber></referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Apprenti(e) Assistant(e) Ressources Humaines H/F</title>
+<description><![CDATA[
+<p><strong>Notre hôtel : </strong></p><p>Le Renaissance Paris Arc de Triomphe est un hôtel lifestyle 5 étoiles au cœur de Paris, offrant à ses clients des expériences uniques et des découvertes locales authentiques.&nbsp;Chaque membre de notre équipe incarne nos valeurs clés : local, intriguant, et indépendant.</p><p><br></p><p><strong>Votre mission : </strong></p><p class="ql-align-justify">Véritable champion(ne) de l’organisation, vous serez en partie en charge de la Gestion Administrative&nbsp;en&nbsp;: </p><ul><li class="ql-align-justify">Constituant les dossiers du personnel et en assurant leur suivi administratif&nbsp;; </li><li class="ql-align-justify">Assurant l’accompagnement quotidien des collaborateurs&nbsp;; </li><li class="ql-align-justify">Assurant la gestion des visites médicales&nbsp;; </li><li class="ql-align-justify">&nbsp;Assurant la gestion des contrats des extras&nbsp;; </li><li class="ql-align-justify">Participant à l’onboarding des nouveaux collaborateurs. </li></ul><p class="ql-align-justify"><br></p><p class="ql-align-justify">Vous laissez votre créativité s’exprimer pour communiquer en interne, et en externe en&nbsp;: </p><ul><li class="ql-align-justify">Mettant régulièrement à jour les panneaux d’affichage&nbsp;; </li><li class="ql-align-justify">Participant à la création de la newsletter mensuelle interne&nbsp;; </li><li class="ql-align-justify">Animant les réseaux sociaux professionnels de l’hôtel, notamment Linkedin. </li></ul><p class="ql-align-justify">&nbsp;</p><p class="ql-align-justify">Vous participez au recrutement de nouveaux collaborateurs en&nbsp;: </p><ul><li class="ql-align-justify">Publiant les nouvelles offres des postes à pourvoir&nbsp;; </li><li class="ql-align-justify">Effectuant le tri des candidatures reçues&nbsp;; </li><li class="ql-align-justify">Participant aux entretiens de recrutement&nbsp;;</li><li class="ql-align-justify">Animant les plateformes de recrutement&nbsp;; </li><li class="ql-align-justify">Participant aux journées de recrutement&nbsp;; </li><li class="ql-align-justify">Maintenant et développant les relations avec les différentes écoles. </li></ul><p class="ql-align-justify">&nbsp;</p><p class="ql-align-justify">Vous veillez au bien-être quotidien des collaborateurs en&nbsp;: </p><ul><li class="ql-align-justify">Animant le programme de bien-être au travail (TakeCare Program)&nbsp;; </li><li class="ql-align-justify">Etant un membre actif dans l’organisation d’évènements tels que la fête du personnel ou le Noël des enfants et dans l’organisation de diverses activités pour le personnel.&nbsp;</li></ul><p><br></p><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li class="ql-align-justify">Un 13ème mois, dès 3 mois d'ancienneté et payable mensuellement&nbsp;; </li><li class="ql-align-justify">Un Plan d’Epargne Entreprise avec abondement&nbsp;; </li><li class="ql-align-justify">Des avantages nourriture (170€/mois)&nbsp;; </li><li class="ql-align-justify">La prise en compte de chaque heure supplémentaire travaillée, qui donne ainsi droit à des repos supplémentaires&nbsp;; </li><li class="ql-align-justify">Des tarifs préférentiels dans notre réseau d’établissements (Hively Hospitality et Marriott)&nbsp;; </li><li class="ql-align-justify">Une mutuelle et une prévoyance offrant des garanties et une couverture maximale&nbsp;; </li><li class="ql-align-justify">L’accès à notre salle de Fitness&nbsp;; </li><li class="ql-align-justify">L’adhésion à une plateforme web avec des réductions sur les produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…).&nbsp;</li></ul><p><br></p>
+ <p><strong>Votre profil :</strong></p><ul><li class="ql-align-justify">Vous êtes passionné(e) par les métiers des Ressources Humaines et souhaitez intégrer un établissement à taille humaine, vous permettant d'avoir une vision globale des Ressources Humaines&nbsp;; </li><li class="ql-align-justify">Vous êtes reconnu(e) pour votre sens de l'organisation, votre esprit d'initiative et votre sens du service&nbsp;; </li><li class="ql-align-justify">Vous êtes idéalement titulaire d'une formation en Ressources Humaines ou en Management Hôtelier&nbsp;; </li><li class="ql-align-justify">Vous disposez d’une première expérience en Ressources Humaines ou en Hôtellerie&nbsp;; </li><li class="ql-align-justify">Vous êtes à l’aise avec les outils informatiques (Excel, Word, Canva).&nbsp;</li></ul><p><br></p><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p> </p>]]></description>
+  <startdate>2025-09-01</startdate>
+  <enddate></enddate>
+  <createddate>2025-06-20</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/7a7008?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/7a7008?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Paris</city>
+      <zip>75017</zip>
+      <address>Avenue de Wagram</address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
+<job>
+  <company>Hively Hospitality - Renaissance</company>
+  <companydescription/>
+  <companyuuid>503</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber></referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Apprenti(e) Technicien de maintenance H/F</title>
+<description><![CDATA[
+<p><strong>Notre hôtel : </strong></p><p><span style="background-color: rgb(250, 250, 250); color: rgb(18, 18, 18);">Le Renaissance Paris Arc de Triomphe est un hôtel lifestyle 5 étoiles au cœur de Paris, offrant à ses clients des expériences uniques et des découvertes locales authentiques. Chaque membre de notre équipe incarne nos trois valeurs clés : local, intriguant, et indépendant.</span></p><p><strong>&nbsp;</strong></p><p><strong>Votre mission : </strong></p><p class="ql-align-justify">En tant qu’Apprenti Technicien de maintenance, vous veillez au bon fonctionnement des équipements et infrastructures de l’hôtel. Vous jouez un rôle clé en apportant un soutien technique aux clients ainsi qu'aux différents départements de l’hôtel, en intervenant directement sur les problématiques ou, après validation du Responsable technique, en sollicitant des prestataires spécialisés. Intégré au sein de l’équipe technique, vous travaillez sous la supervision du Responsable technique.</p><p class="ql-align-justify"><br></p><p class="ql-align-justify">Vous participez activement à garantir le bon fonctionnement des infrastructures de l'hôtel, offrant ainsi une expérience inoubliable à nos clients, grâce aux missions suivantes&nbsp;: </p><ul><li class="ql-align-justify">Assurer l'entretien et la maintenance des équipements techniques de l'hôtel en effectuant des contrôles réguliers&nbsp;; </li><li class="ql-align-justify">Effectuer des rondes quotidiennes pour inspecter l’établissement, identifier les problèmes techniques, et intervenir ou les signaler au Responsable technique&nbsp;; </li><li class="ql-align-justify">Répondre rapidement et efficacement aux demandes techniques des clients et des autres départements&nbsp;; </li><li class="ql-align-justify">Mettre en œuvre vos compétences en maçonnerie, peinture, électricité, et climatisation pour réaliser divers travaux d’entretien&nbsp;; </li><li class="ql-align-justify">Utiliser et maîtriser les outils électroniques, logiciels informatiques, et systèmes de paramétrages techniques&nbsp;; </li><li class="ql-align-justify">Intervenir immédiatement en cas d’alarme incendie ou autre urgence, en respectant les procédures de sécurité et d’évacuation&nbsp;; </li><li class="ql-align-justify">Réaliser les travaux techniques, préventifs ou curatifs, demandés par le Responsable technique&nbsp;; </li><li class="ql-align-justify">Contribuer à l’élaboration et au suivi des documents et plannings de maintenance des équipements et installations.</li></ul><p class="ql-align-justify"><br></p><p><strong>Nous vous proposons :</strong></p><ul><li class="ql-align-justify">Un 13ème mois, dès 3 mois d'ancienneté et payable mensuellement&nbsp;; </li><li class="ql-align-justify">Un Plan d’Epargne Entreprise avec abondement&nbsp;; </li><li class="ql-align-justify">Des avantages nourriture (170€/mois)&nbsp;; </li><li class="ql-align-justify">La prise en compte de chaque heure supplémentaire travaillée, qui donne ainsi droit à des repos supplémentaires&nbsp;; </li><li class="ql-align-justify">Des tarifs préférentiels dans notre réseau d’établissements (Hively Hospitality et Marriott)&nbsp;; </li><li class="ql-align-justify">Une mutuelle et une prévoyance offrant des garanties et une couverture maximale&nbsp;; </li><li class="ql-align-justify">L’accès à notre salle de Fitness&nbsp;; </li><li class="ql-align-justify">L’adhésion à une plateforme web avec des réductions sur les produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…).&nbsp;</li></ul><p><br></p>
+ <p><strong>Votre profil : </strong></p><ul><li class="ql-align-justify">Vous êtes issu d’une formation en maintenance, électrotechnique, génie climatique ou dans un domaine technique équivalent (CAP, Bac Pro, BTS ou équivalent)&nbsp;; </li><li class="ql-align-justify">Vous disposez d'une première expérience réussie en hôtellerie ; </li><li class="ql-align-justify">Vous faites preuve de rigueur, d’autonomie et avez un bon sens de l’organisation&nbsp;; </li><li class="ql-align-justify">Vous êtes reconnu(e) pour votre réactivité et votre capacité à gérer les imprévus&nbsp;; </li><li class="ql-align-justify">Vous possédez un excellent relationnel et aimez travailler en équipe&nbsp;; </li><li class="ql-align-justify">Vous faites preuve d’une grande curiosité et avez et envie d’apprendre dans un environnement technique varié.</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p> </p>]]></description>
+  <startdate>2025-09-01</startdate>
+  <enddate></enddate>
+  <createddate>2025-06-20</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/3b9ygm?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/3b9ygm?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Paris</city>
+      <zip>75017</zip>
+      <address>Avenue de Wagram</address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
+<job>
+  <company>Hively Hospitality - Ibis Budget</company>
+  <companydescription/>
+  <companyuuid>492</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber></referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Réceptionniste tournant H/F</title>
+<description><![CDATA[
+<p><strong>Notre hôtel : Ibis Budget 88 chambres</strong></p><p><br></p><p><strong>Votre mission</strong></p><p>Accueillir nos clients avec le sourire! Au quotidien, il s’agira de réaliser :</p><ul><li>les check-in et check-out de nos client</li><li><span style="color: rgb(68, 68, 68);">Répondre aux appels téléphoniques et prend ponctuellement les réservations </span></li><li><span style="color: rgb(68, 68, 68);">Répondre aux différentes demandes des clients et assure leur suivi afin de garantir leur satisfaction</span></li><li>l'encaissement et la facturation</li><li><span style="color: rgb(68, 68, 68);">Renseigne les clients sur les informations touristiques</span></li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire de 2050.00€/bruts par mois pour 39h par semaine avec 2 jours de repos consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture (170€/mois) et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li>Une prime de complet</li></ul>
+ <p><strong>Votre profil :</strong></p><ul><li>Attentif.ve aux autres et à l’environnement qui vous entoure : vous contribuez à rendre le séjour de nos clients aussi irréprochable qu’inoubliable en apportant votre petite touche personnelle !</li><li>Très à l’aise en français et en anglais</li><li><span style="color: rgb(68, 68, 68);">Capacité à travailler efficacement en équipe et sens de l’initiative</span></li></ul><p><br></p><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p>&nbsp;</p><p> </p>]]></description>
+  <startdate></startdate>
+  <enddate></enddate>
+  <createddate>2025-06-20</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/eht1zx?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/eht1zx?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Saint-Maurice</city>
+      <zip>94410</zip>
+      <address>Rue du Maréchal Leclerc</address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
+<job>
+  <company>Hively Hospitality - Ibis</company>
+  <companydescription/>
+  <companyuuid>494</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber></referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Réceptionniste H/F</title>
+<description><![CDATA[
+<p><strong>Notre hôtel : </strong>Hotel de 75 chambres avec salles de séminaire et restaurant</p><p><br></p><p><strong>Votre mission : </strong></p><p>Accueillir nos clients avec le sourire! Au quotidien, il s’agira de réaliser :</p><ul><li>les check-in et check-out de nos clients</li><li>l'encaissement et la facturation</li><li>Service au bar</li><li>Mise en place de salon pour séminaire</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire de 2075.32/bruts par mois pour 39h par semaine avec 2 jours de repos</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture (170€/mois) et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li>Une prime de complet</li></ul>
+ <p><strong>Votre profil :</strong></p><ul><li>Attentif.ve aux autres et à l’environnement qui vous entoure : vous contribuez à rendre le séjour de nos clients aussi irréprochable qu’inoubliable en apportant votre petite touche personnelle !</li><li>Très à l’aise en français et en anglais</li><li>Un esprit créatif et aime prendre des initiatives</li></ul><p>&nbsp;</p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p> </p>]]></description>
+  <startdate></startdate>
+  <enddate></enddate>
+  <createddate>2025-06-20</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/7ilg6e?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/7ilg6e?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>La Teste-de-Buch</city>
+      <zip>33260</zip>
+      <address>Impasse du Bosquet</address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
+<job>
+  <company>Hively Hospitality - Thalazur</company>
+  <companydescription/>
+  <companyuuid>491</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber></referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Chef de rang/Barman tournant H/F</title>
+<description><![CDATA[
+<p><strong>Notre site : </strong><span style="color: rgb(230, 0, 0);">Thalazur Arcachon -Hôtel et Résidence</span></p><p><br></p><p><strong>Votre mission :</strong></p><ul><li>Remplacer notre barman sur la résidence (2 jours par semaine en continu) et sur l'hôtel (2 jours par semaine en continu) sur leur repos respectifs. Le 5ème jour en coupure, vous êtes en support pour le restaurant.</li><li>Prendre soin de nos clients au restaurant, aux bars</li><li>Attentif aux autres et à l’environnement qui vous entoure : vous contribuez à rendre le séjour de nos clients aussi irréprochable qu’inoubliable en apportant votre petite touche personnelle !</li><li>Vous assurez un accueil et un service personnalisés et chaleureux, le bien-être des clients est toujours votre priorité.</li><li>Vous êtes garant de la fidélisation du client, ils reviendront sûrement un peu pour vous !&nbsp;</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un contrat de 39h par semaine<strong> </strong>avec 2 jours de repos consécutifs</li><li>Un salaire brut de 2265€ brut par mois. A cela s'ajoute :</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Valorisation de la coupure à partir de 3h d'interruption</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li></ul>
+ <p><strong>Votre profil : </strong></p><ul><li><strong>Envie </strong>de rejoindre une équipe unie, énergique et professionnelle</li><li>Envie de vous investir dans une entreprise dynamique.</li><li>Vous avez quelques notions en bar et vous êtes soucieux d'approfondir vos connaissances.</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p> </p>]]></description>
+  <startdate></startdate>
+  <enddate></enddate>
+  <createddate>2025-06-20</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/5rwmcl?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/5rwmcl?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Arcachon</city>
+      <zip>33120</zip>
+      <address>Avenue du Parc</address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
+<job>
+  <company>Hively Hospitality - Thalazur</company>
+  <companydescription/>
+  <companyuuid>491</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber></referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Commis de cuisine H/F CDI Temps Plein</title>
+<description><![CDATA[
+<p><strong>Notre hôtel :</strong><strong style="color: rgb(230, 0, 0);"> </strong>Thalazur Arcachon Hotel ****, Thalassothérapie et Résidence</p><p><br></p><p><strong>Votre mission :</strong></p><p>Prendre soin des papilles de nos clients :</p><ul><li>Vous êtes sous la responsabilité du Chef de Cuisine et de son second de cuisine pour l’exécution des plats et des recettes de notre restaurant</li><li>Vous effectuez la mise en place nécessaire à la réalisation des plats et participez à l'envoi en salle des assiettes dressées.&nbsp;</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire brut de 2075€ brut/mois avec un contrat de 39h par semaine<strong> </strong>avec 2 jours de repos consécutifs. </li></ul><p>A cela s'ajoute :</p><ul><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Une prime de coupure à partir de 3h d’interruption&nbsp;</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li>Prise en charge 75% transports en commun</li><li>Une participation aux bénéfices (quand il y en a)</li></ul>
+ <p><strong>Votre profil : </strong></p><ul><li>Première expérience réussie en cuisine, envie de rejoindre une équipe unie, énergique et professionnelle</li><li>Vous maîtrisez les principales techniques culinaires et avez envie d'apprendre!</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p> </p>]]></description>
+  <startdate></startdate>
+  <enddate></enddate>
+  <createddate>2025-06-20</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/set5u1?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/set5u1?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Arcachon</city>
+      <zip>33120</zip>
+      <address>Avenue du Parc</address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
 <job>
   <company>Hively Hospitality - Thalazur</company>
   <companydescription/>
@@ -467,494 +1077,6 @@
       <city>Nice</city>
       <zip>06200</zip>
       <address>Boulevard René Cassin</address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-<job>
-  <company>Hively Hospitality - Gina</company>
-  <companydescription/>
-  <companyuuid>514</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber></referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Chef de rang H/F</title>
-<description><![CDATA[
-<p><strong>Notre restaurant :&nbsp;</strong></p><p>C’est un point de vue inédit sur Bordeaux : restaurant &amp; bar en rooftop, face à la Cité du Vin. Ajoutez à ça les saveurs italiennes du concept Gina et c’est la Dolce Vita qui flirte avec la Garonne. Au menu de (très) bons produits sans chichi : bar à mozza, plateaux d’antipasti, pizzas et autres classiques des meilleures trattorias. La cuisine du chef Franco Recce est ouverte. L’ambiance y est chic et décontractée.</p><p><br></p><p><strong><u>Missions</u> : </strong></p><p><strong>Placé(e) sous les directives de la Responsable de la Restauration, dans un respect total des règles d’hygiène et de sécurité, vos principales missions consistent à :</strong></p><ul><li>Dresser et débarrasser les tables</li><li>Aider et contrôler à la mise en place</li><li>Prendre les commandes et conseiller le client</li><li>Veiller au bon déroulement du service sur l’ensemble de son rang</li><li>S’assurer de la satisfaction du client</li><li>...</li></ul><p><br></p><p><strong>&nbsp;</strong></p><p><strong>Type d’emploi : CDI - CDD – stage / 39 heures par semaine</strong></p><p><strong>Rémunération :</strong> Selon profil</p>
- <p><strong>Profil recherché&nbsp;: </strong></p><p><strong>·</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Excellent relationnel client</p><ul><li>Esprit d’équipe</li><li>Sens du détail</li><li>Passionné(e) et curieux(se)</li><li>Organisé(e) et méthodique</li><li>Souriant(e) et dynamique</li><li>Positive attitude dans toute situation</li><li>Langues : Français et anglais courant, l’italien serait un plus.</li><li>1 an d'expérience similaire en restauration</li></ul><p><br></p><p><strong>Pourquoi nous rejoindre&nbsp;? </strong></p><p><strong><em>En tant qu’associé(e) de l’hôtel Marriott Renaissance Bordeaux, vous bénéficierez de nombreux avantages : </em></strong></p><ul><li>2 jours de repos consécutifs <em>(hors weekend)</em></li><li>Pas de coupures <em>(horaires de soirée)</em></li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande</li><li>Un Plan d’Epargne Entreprise avec abondement au bout de 3 mois d’ancienneté,</li><li>Prime de panier repas (environ 150 euros bruts/mois) et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximale</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li>Aide au logement pour les salariés déménageant à plus de 70km pour prendre le poste</li><li>De nombreuses primes <em>(sur objectifs, de cooptation…)</em></li><li>Abonnement Fitness avec tarif préférentiel</li><li>Formations</li><li>Team Bulding</li></ul><p><br></p><p><strong><em>Vous bénéficierez également des avantages suivants : </em></strong></p><ul><li><em>"Nuit découverte"</em> après validation de la période d’essai : 1 nuit + dîner pour 2 personnes</li><li>Programme <em>« Explore »</em> : réductions pour vous et vos proches dans tous les hôtels du groupe Marriott InternationalExpérience</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ&nbsp;: l’envie&nbsp;!&nbsp;</p><p> </p>]]></description>
-  <startdate></startdate>
-  <enddate></enddate>
-  <createddate>2025-06-18</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/gxfdss?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/gxfdss?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Bordeaux</city>
-      <zip>33300</zip>
-      <address>Place des millésimes</address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-<job>
-  <company>Hively Hospitality - Thalazur</company>
-  <companydescription/>
-  <companyuuid>491</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber></referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Agent de réservation H/F</title>
-<description><![CDATA[
-<p><strong>Notre marque </strong>: Thalazur,&nbsp;l'art de prendre soin de vous</p><p>&nbsp;</p><p><strong>Grâce à son expertise reconnue en thalassothérapie, hôtellerie et Spa</strong>, la marque&nbsp;<strong>Thalazur</strong>&nbsp;rayonne depuis plus de 20 ans sur 9 destinations en France. De la Normandie à la Méditerranée en passant par l'Atlantique, Thalazur offre son savoir faire à travers une large sélection de séjours&nbsp;<strong>bien-être</strong>&nbsp;(de 1 à 6 jours et plus).</p><p>&nbsp;</p><p><strong>Votre mission : </strong></p><p><strong>Prendre soin de notre clientèle, du premier contact jusqu'à la vente de prestations !</strong></p><p><strong>&nbsp;</strong></p><p><strong>Au quotidien, il s’agira d'assurer :</strong></p><ul><li>La gestion de l'accueil téléphonique et des emails clients</li><li>L'élaboration et le suivi des devis avec l'aide de différents outils</li><li>La vente des prestations répondant aux besoins clients</li><li>La fidélisation des clients grâce à votre professionnalisme et envie</li></ul><p>&nbsp;</p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire de 2124 €/bruts par mois pour 39h par semaine<strong> </strong>avec 2 jours de repos consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande</li><li>Primes trimestrielles sur objectifs</li><li>Un Plan d’Epargne Entreprise avec abondement</li><li>Des avantages nourriture (170€/mois)</li><li>Chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires etc.)</li></ul>
- <p><strong>Votre profil :</strong></p><p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>Organisé(e), rigoureux(euse), vous avez un esprit d'équipe et possédez un bon sens commercial</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vous avez une première expérience dans le domaine de la vente, de la commercialisation et tout cela dans le domaine de la thalassothérapie</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Connaissances bureautiques : Pack office, Outlook</p><p><strong>&nbsp;</strong></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p> </p>]]></description>
-  <startdate>2025-07-07</startdate>
-  <enddate></enddate>
-  <createddate>2025-06-18</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/euge92?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/euge92?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Carnac</city>
-      <zip>56340</zip>
-      <address>Avenue de l'Atlantique</address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-<job>
-  <company>Hively Hospitality - Renaissance</company>
-  <companydescription/>
-  <companyuuid>503</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber></referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Technicien de maintenance H/F</title>
-<description><![CDATA[
-<p><strong>Notre hôtel</strong> : Le Renaissance Paris République est un hôtel 5 étoiles situé au cœur du 10ème&nbsp;arrondissement de Paris&nbsp;: proche du Canal Saint-Martin, du quartier du Marais et des Grands Boulevards. Notre établissement dispose de 121 chambres, dont 10 suites réparties sur 9 étages. L’hôtel offre une vue imprenable sur les toits de la capitale et un service de qualité avec son Restaurant Martin, son Bar, ainsi que son espace sensoriel.</p><p>L'hôtel a été élu Meilleur Hôtel Franchise Marriott de la région Europe-Afrique-Moyen-Orient pour l'année 2022 !</p><p><strong>Aujourd’hui, l’hôtel Renaissance Paris République est à la recherche de son ou sa Technicien(ne) de Maintenance à vivre une expérience WILD, ELEGANT and VIBRANT en hôtellerie de luxe.</strong></p><p><br></p><p><strong>Votre mission :</strong></p><p><strong>Contribuer à un séjour client joyeux et sans fausse note ! Au quotidien, il s’agira de :</strong></p><ul><li>Contribuer au fonctionnement technique de l’ensemble des équipements de l’hôtel et en assurer le suivi : mise en conformité des chambres et des espaces communs. Pour que le confort des clients soit toujours optimal !&nbsp;</li><li>Vérifier les installations techniques (électricité, plomberie, …), effectuer les réparations nécessaires et assurer le suivi lié à la maintenance, sous la responsabilité du directeur technique et de l'adjoint de direction technique</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire de 2300€/bruts par mois pour 39h par semaine avec 2 jours de repos consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture (170€/mois)</li><li>Chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li></ul>
- <p><strong>Votre profil :</strong></p><ul><li>Vous maîtrisez les enjeux techniques d'un bâtiment hôtelier</li><li>Attentif.ve aux autres et à l’environnement qui vous entoure : vous contribuez à rendre le séjour de nos clients aussi irréprochable qu’inoubliable en résolvant les couacs techniques au fur et à mesure</li><li>Rigoureux(se), autonome et organisé(e), vous êtes réactif(ve) quand une demande d’assistance est formulée</li><li>Première expérience dans l'hôtellerie haut de gamme obligatoire</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ&nbsp;: l’envie&nbsp;!&nbsp;</p><p><br></p><p> </p>]]></description>
-  <startdate>2025-07-15</startdate>
-  <enddate></enddate>
-  <createddate>2025-06-18</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/kghdp2?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/kghdp2?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Paris</city>
-      <zip>75010</zip>
-      <address>Rue René Boulanger</address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-<job>
-  <company>Hively Hospitality - Novotel</company>
-  <companydescription/>
-  <companyuuid>497</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber></referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Réceptionniste Tournant H/F</title>
-<description><![CDATA[
-<p><strong>Description de l’offre</strong></p><p><strong>Le Novotel Paris Porte d’Orléans est un hôtel 4 étoiles, composé de 150 chambres, 4 salles de réunion, le restaurant «&nbsp;Doda&nbsp;» et un bar.</strong></p><p><br></p><p><strong>Nous sommes à la recherche d’un(e) réceptionniste pour compléter notre équipe ! </strong></p><p><strong>Si vous travaillez dans le domaine de l'hôtellerie et que vous êtes souriant(e), ce poste pourrait vous convenir.</strong></p><p><br></p><p><strong>Vous serez amené à&nbsp;:</strong></p><p><br></p><p><strong>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assurer l’accueil des clients.</strong></p><p><strong>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Appliquer les procédures de Check-in et Check-out en respectant les standards de l’hôtel.</strong></p><p><strong>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Réaliser les encaissements et les facturations.</strong></p><p><strong>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Traiter les appels téléphoniques et les mails.</strong></p><p><strong>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Promouvoir les différents points de vente de l’hôtel.</strong></p><p><strong>&nbsp;</strong></p><p><strong>Nous vous proposons les avantages suivants&nbsp;:</strong></p><p><br></p><p class="ql-align-justify">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Contrat de 39h par semaine avec 2 jours de repos consécutifs.</p><p class="ql-align-justify">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande.</p><p class="ql-align-justify">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Primes d’intéressement.</p><p class="ql-align-justify">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des jours de repos en plus grâce à&nbsp;notre badgeuse.</p><p class="ql-align-justify">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Plan d’Epargne Entreprise avec abondement.</p><p class="ql-align-justify">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Avantages nourriture.</p><p class="ql-align-justify">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mutuelle et prévoyance offrant des garanties et une couverture maximale.</p><p class="ql-align-justify">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tarifs préférentiels dans notre réseau d’établissement.</p><p class="ql-align-justify">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…).</p><ul><li><br></li></ul>
- <p class="ql-align-justify"><strong>Votre profil</strong></p><p class="ql-align-justify"><br></p><p class="ql-align-justify"><strong>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Première expérience en hôtellerie réussie.</strong></p><p class="ql-align-justify"><strong>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vous êtes motivé(e), dynamique et vous aimez le contact client.</strong></p><p class="ql-align-justify"><strong>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Compréhension des normes et des standards d’un hôtel 4 étoiles.</strong></p><p class="ql-align-justify"><strong>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maîtrise de la langue française et anglaise. Une langue supplémentaire serait un atout !</strong></p><p class="ql-align-justify"><strong>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Connaissance du logiciel FOLS serait un plus.</strong></p><p class="ql-align-justify"><br></p><p><br></p><p><strong>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</strong></p><p><br></p><p> </p>]]></description>
-  <startdate>2025-07-07</startdate>
-  <enddate></enddate>
-  <createddate>2025-06-18</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/00vfij?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/00vfij?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Paris</city>
-      <zip>75014</zip>
-      <address>Boulevard Romain Rolland</address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-<job>
-  <company>Hively Hospitality - Thalazur</company>
-  <companydescription/>
-  <companyuuid>491</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber></referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Chargé(e) de Déploiement Digital (e-Learning)</title>
-<description><![CDATA[
-<p><strong>Notre site : </strong>Vous travaillerez au siège social de la marque<strong> Thalazur. </strong>Déplacements possibles et ponctuels sur les 9 sites de Thalassothérapie.</p><p><br></p><p><strong>Votre mission :</strong></p><p><br></p><ul><li>Accompagner le paramétrage&nbsp;: arborescence, paramétrage, accès des collaborateurs, titre des modules…</li><li>Création de contenus&nbsp;en utilisant une base existante ou bien une construction complète. Contenus pédagogiques sous forme de texte, de jeu, de vidéo, quizz… </li><li>Ecrire des scripts</li><li>Faire valider ces contenus par des référents (siège, référents métiers…)</li><li>Implanter les contenus et en faire la promotion auprès des collaborateurs.</li><li>Suivre le déploiement (procédure) et le GO live.</li><li>Suivre les connections, le trafic et animer les flux, les interactions.</li><li>Paramétrer les rapports / tableaux de bord.</li><li>Analyser les premiers retours.&nbsp;</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un contrat de 35h par semaine<strong> </strong>avec 2 jours de repos consécutifs (samedi / dimanche)</li><li>Avantages Nourritures.</li><li>Remboursement des frais de transport en commun à hauteur de 75%</li><li>Chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus.</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li></ul><p><br></p><p><strong>Ce que vous pourrez acquérir comme compétences :</strong></p><ul><li>Création de contenu pédagogique, utilisation d'un LMS, gestion de projet opérationnel (en contact avec des équipes de terrain).</li></ul>
- <p><strong>Votre profil :</strong></p><ul><li>Etudiant cherchant un stage opérationnel (type fin d'étude) de long durée.</li><li>Personne dynamique, connectée, soucieuse du détail et du respect de l'image Thalazur.</li><li>Un esprit curieux, ouvert vers la pédagogie.</li><li>Bon relationnel pour communiquer avec nos 9 escales Thalassothérapie</li><li>Aisance rédactionnelle</li><li>Bac +2 dans le domaine de la pédagogie, de la communication ou du développement de support.</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p> </p>]]></description>
-  <startdate>2025-10-01</startdate>
-  <enddate></enddate>
-  <createddate>2025-06-18</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/lp3dxx?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/lp3dxx?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Levallois-Perret</city>
-      <zip>92300</zip>
-      <address>Rue Jean Jaurès</address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-<job>
-  <company>Hively Hospitality - Thalazur</company>
-  <companydescription/>
-  <companyuuid>491</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber></referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Maitre d'hôtel H/F</title>
-<description><![CDATA[
-<p><strong>Notre site :&nbsp;</strong>Thalazur Carnac - Hôtel 4 étoiles 200 chambres - espace séminaire 700m² - Restaurant 180 places - 75 000 couverts à l'année -75 000 Petits déjeuners - Equipe de 20 à 30 personnes</p><p>Situé au bord des Salines de Carnac, notre établissement a été entièrement rénové et vous propose un cadre très agréable de travail.</p><p><br></p><p><br></p><p><strong>Vos missions</strong> <strong>:</strong></p><p>Vous prenez soin de nos clients du petit déjeuner, restaurant, bar et espaces de séminaires afin de rendre le séjour de nos clients aussi irréprochable qu’inoubliable</p><p>Vous coordonnez le service en salle en assurant une bonne communication avec l’équipe restaurant et la cuisine</p><p>Vous formez et managez les serveuses, serveurs et chef de rang en favorisant un bon esprit d’équipe afin d’assurer une qualité de service et développer les prestations et les ventes</p><p>Vous faites respecter l’hygiène et le plan de nettoyage du restaurant</p><p>Gestion de la caisse&nbsp;et encaissement </p><p><br></p><p><strong>Nous vous proposons :</strong></p><p>Un contrat de 39h par semaine avec 2 jours de repos consécutifs</p><p>Des avantages nourriture et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</p><p>Valorisation de la coupure à partir de 3h d'interruption</p><p>Des tarifs préférentiels dans notre réseau d’établissements</p><p>Mutuelle et Prévoyance offrant des garanties et une couverture maximale</p><p>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</p><p>Uniforme et chaussures fournis</p><p><br></p>
- <p><strong>Votre profil : </strong></p><ul><li>Excellent sens de l'accueil et du service client, connaissances culinaires et œnologiques</li><li>Savoir coordonner une équipe, avoir le sens du management</li><li>Excellente présentation</li><li>Expérience : BTS hôtelier</li><li>Langues : anglais souhaité </li></ul><p><br></p><ul><li>Vous souhaitez participer à l’ouverture d’un hôtel 4 étoiles après un an et demi de fermeture pour travaux. Vous avez envie de rejoindre une équipe énergique et professionnelle, rejoignez nous&nbsp;!&nbsp;</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p> </p>]]></description>
-  <startdate>2025-06-02</startdate>
-  <enddate></enddate>
-  <createddate>2025-06-17</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/jeq34c?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/jeq34c?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Carnac</city>
-      <zip>56340</zip>
-      <address></address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-<job>
-  <company>Hively Hospitality - Thalazur</company>
-  <companydescription/>
-  <companyuuid>491</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber></referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Demi chef de partie H/F</title>
-<description><![CDATA[
-<p><strong>Notre hôtel : </strong></p><p><strong>Thalazur Cabourg</strong></p><p>Posé sur la dune, notre hôtel 4* de 165 chambres se fait pudique pour ne pas occulter le panorama et la mer que l’on voit danser depuis les fenêtres des chambres et des terrasses.</p><p>Le restaurant et le bar, ouvert 7 jours sur 7, offrent à nos clients une cuisine saine et gourmande, reflet d’une sensibilité et d’une harmonie autour de produits régionaux et de saison.</p><p>L’accès direct en peignoir depuis la chambre à l’institut de Thalassothérapie et au Spa invite nos clients à la détente et au bien-être.</p><p>&nbsp;</p><p><strong>Votre mission :</strong></p><p><strong>Régaler nos clients !</strong></p><ul><li>Vous réalisez de manière autonome les plats et les recettes de notre restaurant ; nous proposons une cuisine originale et créative à base de produits frais et locaux</li><li>Vous coordonnez le secteur Froid ou Chaud de la cuisine</li><li><strong>Vous managez le travail des commis de cuisine</strong></li></ul><p>&nbsp;</p><p><strong>Nous vous proposons :</strong></p><ul><li>Un contrat de 39h par semaine<strong> </strong>avec 2 jours de repos consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture (170€/mois) et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Valorisation de la coupure à partir de 3h d'interruption</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li></ul><p><br></p>
- <p><strong>Votre profil : </strong></p><ul><li>Expérience de 2 ans réussie en cuisine</li><li>Envie de rejoindre une équipe unie, énergique et professionnelle</li></ul><p><br></p><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p> </p>]]></description>
-  <startdate></startdate>
-  <enddate></enddate>
-  <createddate>2025-06-17</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/r2z9hs?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/r2z9hs?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Cabourg</city>
-      <zip>14390</zip>
-      <address>Avenue Charles de Gaulle</address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-<job>
-  <company>Hively Hospitality - Thalazur</company>
-  <companydescription/>
-  <companyuuid>491</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber></referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Commis de cuisine H/F</title>
-<description><![CDATA[
-<p><strong>Notre hôtel :&nbsp;</strong></p><p>&nbsp;</p><p>Posé sur la dune, Thalazur Cabourg **** se fait pudique pour ne pas occulter le panorama et la mer que l’on voit danser depuis les fenêtres des chambres, des terrasses et de notre spa marin.Dans un cadre naturel et sauvage l’institut de Thalassothérapie et le Spa invite nos clients à la détente et au bien-être.La philosophie de notre restauration, commune aux établissements Thalazur, est de proposer une restauration savoureuse et locale à base de produits de saison, pour une consommation responsable et saine.C’est le concept des Cinq S, développé par nos chefs de cuisine : S comme des produits de Saison remplis de Saveurs, issus de Situations géographiques exceptionnelles, cuisinés Sainement avec Simplicité.</p><p>&nbsp;</p><p><strong>Votre mission :</strong></p><p><strong>Régaler nos clients !</strong></p><ul><li>Vous êtes sous la responsabilité du chef de cuisine pour la réalisation des plats et des recettes de notre restaurant ; nous proposons une cuisine originale et créative à base de produits frais et locaux</li><li>Vous effectuez la mise en place nécessaire à la réalisation des plats et participez à l'envoi en salle des assiettes dressées.</li></ul><p>&nbsp;</p><p>&nbsp;</p><p><strong>Nous vous proposons :</strong></p><ul><li>Un contrat de 39h par semaine<strong>&nbsp;</strong>avec 2 jours de repos consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!&nbsp;</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li>Participation aux bénéfices</li><li>Prise en charge 75% transport en commun</li></ul><p><br></p>
- <p><strong>Votre profil : </strong></p><p>&nbsp;</p><ul><li>Habitué(e) à travailler efficacement en équipe, vous êtes organisé(e) et dynamique.</li><li>Attentif(ve) à l’hygiène, aux détails, et à la satisfaction de nos clients.</li><li>Votre connaissance des normes HACCP est un plus.&nbsp;</li></ul><p>&nbsp;</p><p>&nbsp;</p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p>&nbsp;</p><p> </p><p><br></p>]]></description>
-  <startdate></startdate>
-  <enddate></enddate>
-  <createddate>2025-06-17</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/xgzym4?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/xgzym4?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Cabourg</city>
-      <zip>14390</zip>
-      <address>Avenue Charles de Gaulle</address>
       <countrycode>FR</countrycode>
       <region/>
     </location>
