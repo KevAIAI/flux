@@ -1,7 +1,7 @@
 <source>
 <publisher>Cookorico</publisher>
 <publisherurl>https://www.cookorico.com</publisherurl>
-<lastupdatedat>2025-06-25 09:00</lastupdatedat>
+<lastupdatedat>2025-06-25 12:00</lastupdatedat>
 
 <job>
   <company>Hively Hospitality - Renaissance</company>
@@ -1077,67 +1077,6 @@
       <city>Blois</city>
       <zip>41000</zip>
       <address>Quai Saint-Jean</address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-<job>
-  <company>Hively Hospitality - Thalazur</company>
-  <companydescription/>
-  <companyuuid>491</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber></referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Gouvernante H/F</title>
-<description><![CDATA[
-<p><strong>Notre hôtel **** Thalazur&nbsp;Antibes&nbsp;</strong></p><p><br></p><p><strong>Votre mission : </strong></p><p>Prendre soin de nos clients en chouchoutant leurs espaces de vie ! Au quotidien, il s’agira de réaliser :</p><ul><li><span style="color: black;">Prendre en charge la gestion du service d’étages en coordonnant, contrôlant et planifiant l’activité de vos équipes.</span></li><li><span style="color: black;">Gérer les matériels, stocks et fournitures des produits d’accueil et d’entretien.</span></li><li><span style="color: black;">Assurer une hygiène parfaite dans les espaces réservés au séjour de la clientèle.</span></li><li><span style="color: black;">Animer et encadrer les équipes des étages.&nbsp;</span></li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un contrat de 39h par semaine avec 2 jours de repos consécutifs</li><li>Une prime sur objectifs pouvant aller jusqu'à 1 mois de salaire</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li></ul>
- <p><strong>Votre profil :</strong></p><ul><li>Première expérience de 3 ans minimum,</li><li>Qualités relationnelles</li><li>Envie<strong> </strong>de rejoindre une équipe unie, énergique et professionnelle</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p> </p>]]></description>
-  <startdate>2025-08-11</startdate>
-  <enddate></enddate>
-  <createddate>2025-06-21</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/7tpn3s?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/7tpn3s?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Antibes</city>
-      <zip>06600</zip>
-      <address>Chemin des Moyennes Bréguières</address>
       <countrycode>FR</countrycode>
       <region/>
     </location>
