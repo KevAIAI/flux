@@ -1,7 +1,7 @@
 <source>
 <publisher>Cookorico</publisher>
 <publisherurl>https://www.cookorico.com</publisherurl>
-<lastupdatedat>2025-06-26 09:00</lastupdatedat>
+<lastupdatedat>2025-06-26 12:00</lastupdatedat>
 
 <job>
   <company>Hively Hospitality - Renaissance</company>
@@ -955,67 +955,6 @@
       <city>Cabourg</city>
       <zip>14390</zip>
       <address>Avenue Charles de Gaulle</address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-<job>
-  <company>Hively Hospitality - Ibis Styles</company>
-  <companydescription/>
-  <companyuuid>495</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber></referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Réceptionniste H/F</title>
-<description><![CDATA[
-<p><strong>Notre hôtel : </strong>IBIS STYLES NICE AIRPORT - 91 Chambres</p><p><br></p><p>Réceptionniste SAISONNIER H/F de JUIN à OCTOBRE</p><p><br></p><p><strong>Votre mission : </strong></p><p>Accueillir nos clients avec le sourire! Au quotidien, il s’agira de réaliser :</p><ul><li>Les check-in et check-out de nos clients</li><li>L'encaissement et la facturation</li><li>Mettre en place le petit-déjeuner pour une nouvelle journée qui démarre!</li><li>Responsable de la sécurité des biens et personnes</li><li>Shifts de matin, journée, soir et nuit partagée avec les autres réceptionnistes tournants (OFF</li></ul><p>du night)</p><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire de 1862.50 €/bruts de base par mois pour 35h par semaine avec 2 jours de repos consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture (170€/mois) et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Chaque nuit travaillée est indemnisée avec une prime à hauteur de 10€ bruts</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…)</li><li>Une prime de complet</li></ul>
- <p><strong>Votre profil :</strong></p><ul><li>Attentif.ve aux autres et à l’environnement qui vous entoure : vous contribuez à rendre le séjour de nos clients aussi irréprochable qu’inoubliable en apportant votre petite touche personnelle !</li><li>Très à l’aise en français et en anglais</li><li>Langues obligatoires : Français, Anglais</li><li>Un plus : Espagnol ou Italien souhaitées</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p> </p>]]></description>
-  <startdate>2025-06-02</startdate>
-  <enddate></enddate>
-  <createddate>2025-06-24</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/tj7mm9?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/tj7mm9?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Nice</city>
-      <zip>06300</zip>
-      <address>Boulevard René Cassin</address>
       <countrycode>FR</countrycode>
       <region/>
     </location>
