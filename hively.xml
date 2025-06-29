@@ -1,8 +1,69 @@
 <source>
 <publisher>Cookorico</publisher>
 <publisherurl>https://www.cookorico.com</publisherurl>
-<lastupdatedat>2025-06-29 12:00</lastupdatedat>
+<lastupdatedat>2025-06-29 03:00</lastupdatedat>
 
+<job>
+  <company>Hively Hospitality - Thalazur</company>
+  <companydescription/>
+  <companyuuid>491</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber></referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>1ier Chef de Partie</title>
+<description><![CDATA[
+<p><strong>Notre hôtel : </strong>marque/lieu</p><p><br></p><p><strong>Votre mission :</strong></p><p>Prendre soin des papilles de nos clients, avec votre équipe !</p><ul><li>Vous participez avec le Chef et le Second à l'ensemble des missions de l'équipe encadrante au sein de notre restaurant Hélianthal : restaurant gastronomique, Séminaire, Banquet, Bar (carte de grignotage)</li><li>Rôle de manager, garant de la qualité et du niveau culinaires des prestations.</li><li>Vous veillez à la bonne application des normes HACCP</li><li>Vous animez l'équipe en cuisine et formez au fur et à mesure pour faire progresser nos talents!</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un contrat de 39h par semaine avec 2 jours de repos consécutifs</li><li>5 semaines de congés payés par an + 1 journée d'habillage et 6 autres  jours au titres des "jours fériés garantis"</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture (170€/mois) et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Valorisation de la coupure à partir de 3h d'interruption (prime de 12.50 par jour effectué avec une coupure)</li><li>Des tarifs préférentiels dans notre réseau d’établissements.</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li>Prise en charge 75% transports en commun</li><li>Prime mobilité de 25€ par mois.</li></ul>
+ <p><strong>Votre profil : </strong></p><ul><li>Expérience de 3<span style="color: rgb(230, 0, 0);"> a</span>ns réussie en cuisine, envie de rejoindre une équipe unie, énergique et professionnelle</li><li>Vous avez déjà une solide expérience et des certitudes au poste de Chef de Partie.</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p> </p>]]></description>
+  <startdate>2025-07-07</startdate>
+  <enddate></enddate>
+  <createddate>2025-06-29</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/bi666z?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/bi666z?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Saint-Jean-de-Luz</city>
+      <zip>64500</zip>
+      <address>Place Maurice Ravel</address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
 <job>
   <company>Hively Hospitality - Thalazur</company>
   <companydescription/>
@@ -894,67 +955,6 @@
       <city>Paris</city>
       <zip>75017</zip>
       <address>Avenue de Wagram</address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-<job>
-  <company>Hively Hospitality - Thalazur</company>
-  <companydescription/>
-  <companyuuid>491</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber></referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Serveur(se) CDD</title>
-<description><![CDATA[
-<p><strong>Notre site :&nbsp;</strong>Thalazur Carnac - Hôtel 4 étoiles 200 chambres - espace séminaire 700m² - Restaurant 180 places - 75 000 couverts à l'année -75 000 Petits déjeuners - Equipe de 20 à 30 personnes</p><p>Situé au bord des Salines de Carnac, notre établissement a été entièrement rénové et vous propose un cadre très agréable de travail.</p><p><br></p><p><strong>Votre mission principale : prendre soin de nos clients au restaurant, bar, petits déjeuners &amp; espaces de séminaires </strong></p><ul><li>Attentif aux autres et à l’environnement qui vous entoure : vous contribuez à rendre le séjour de nos clients aussi irréprochable qu’inoubliable en apportant votre petite touche personnelle !</li><li>Vous assurez un accueil et un service personnalisés et chaleureux, le bien-être des clients est toujours votre priorité.</li><li>Vous êtes garant de la fidélisation du client, ils reviendront sûrement un peu pour vous !&nbsp;</li></ul><p><br></p><p><strong><u>Missions générales</u></strong></p><ul><li class="ql-align-justify">Accueillir le client, l’installer à table et prendre la commande des apéritifs.</li><li class="ql-align-justify">Offrir un service attentionné et adapté aux attentes des clients.</li><li class="ql-align-justify">Servir les plats et débarrasser les assiettes, verres, plats et couverts.</li><li class="ql-align-justify">Procéder aux opérations de mise en place pour l’arrivée des clients suivants.</li><li class="ql-align-justify">Participer au rangement et au nettoyage des points de restauration.</li></ul><p><br></p><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un contrat de 39h par semaine avec 2 jours de repos consécutifs</li><li>Des avantages nourriture et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Valorisation de la coupure à partir de 3h d'interruption</li><li>Uniforme et chaussures fournis</li></ul>
- <p><strong>Votre profil : </strong></p><ul><li>Vous êtes&nbsp;<strong>dynamique, motivé(e)</strong>,</li><li>Vous possédez une première expérience réussie en restauration (1 an), des&nbsp;<strong>qualités relationnelles</strong>&nbsp;et une envie de rejoindre une équipe&nbsp;<strong>unie</strong>,&nbsp;<strong>énergique&nbsp;</strong>et&nbsp;<strong>professionnelle</strong></li><li>Très à l’aise tant dans la relation client que l'exécution du dressage et du débarrassage des tables en salle. (Votre adresse naturelle est un atout !)&nbsp;&nbsp;</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p> </p>]]></description>
-  <startdate>2025-06-23</startdate>
-  <enddate></enddate>
-  <createddate>2025-06-26</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/33k3ak?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/33k3ak?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Carnac</city>
-      <zip>56340</zip>
-      <address></address>
       <countrycode>FR</countrycode>
       <region/>
     </location>
