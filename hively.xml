@@ -1,7 +1,7 @@
 <source>
 <publisher>Cookorico</publisher>
 <publisherurl>https://www.cookorico.com</publisherurl>
-<lastupdatedat>2025-06-30 12:00</lastupdatedat>
+<lastupdatedat>2025-06-30 03:00</lastupdatedat>
 
 <job>
   <company>Hively Hospitality - Thalazur</company>
@@ -528,67 +528,6 @@
       <city>Antibes</city>
       <zip>06600</zip>
       <address>Chemin des Moyennes Bréguières</address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-<job>
-  <company>Hively Hospitality - Mercure</company>
-  <companydescription/>
-  <companyuuid>496</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber></referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Chef de rang</title>
-<description><![CDATA[
-<p><strong>Notre hôtel : Le Mercure Blois Centre dispose de 96 chambres, 9 salles de réunion, une salle fitness et un espace détente avec piscine intérieure chauffée, jacuzzi, sauna et hammam. Le bar Wine Not ? et le restaurant Le Quai vous plongent dans le décor d'un atelier d'artisan atypique et ravissent vos papilles avec une carte des vins et des produits locaux.</strong></p><p><br></p><p><strong>Votre mission :</strong></p><p>Prendre soin de nos clients au restaurant, bar, banquet</p><ul><li>Attentif.ve aux autres et à l’environnement qui vous entoure : vous contribuez à rendre le séjour de nos clients aussi irréprochable qu’inoubliable en apportant votre petite touche personnelle !</li><li>Vous assurez un accueil et un service personnalisés et chaleureux, le bien-être des clients est toujours votre priorité.</li><li>Vous êtes garant.e de la fidélisation du client, ils reviendront sûrement un peu pour vous !&nbsp;</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire de 2.183 €/bruts par mois pour 37h par semaine avec 2 jours de repos consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture (185€/mois) et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Valorisation de la coupure à partir de 3h d'interruption</li><li>Prise en charge du nettoyage de l'uniforme</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…)</li></ul>
- <p><strong>Votre profil : </strong></p><ul><li>Première expérience réussie en restauration sur un poste similaire, qualités relationnelles, <strong>envie </strong>de rejoindre une équipe unie, énergique et professionnelle</li><li>Très à l’aise tant dans la relation client que l'exécution du dressage et du débarrassage des tables en salle. (Votre adresse naturelle est un atout !)&nbsp;&nbsp;</li><li>Langues : français, anglais</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p> </p>]]></description>
-  <startdate>2025-06-01</startdate>
-  <enddate></enddate>
-  <createddate>2025-06-28</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/uvqhj2?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/uvqhj2?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Blois</city>
-      <zip>41000</zip>
-      <address>Quai Saint-Jean</address>
       <countrycode>FR</countrycode>
       <region/>
     </location>
