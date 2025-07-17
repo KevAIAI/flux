@@ -1,8 +1,69 @@
 <source>
 <publisher>Cookorico</publisher>
 <publisherurl>https://www.cookorico.com</publisherurl>
-<lastupdatedat>2025-07-16 06:00</lastupdatedat>
+<lastupdatedat>2025-07-17 09:00</lastupdatedat>
 
+<job>
+  <company>Hively Hospitality - Thalazur</company>
+  <companydescription/>
+  <companyuuid>491</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber></referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Chef de rang H/F</title>
+<description><![CDATA[
+<p><strong>Notre site : </strong></p><p>Posé sur la dune, notre hôtel 4* de 165 chambres se fait pudique pour ne pas occulter le panorama et la mer que l’on voit danser depuis les fenêtres des chambres et des terrasses.</p><p>Le restaurant et le bar, ouvert 7 jours sur 7, offrent à nos clients une cuisine saine et gourmande, reflet d’une sensibilité et d’une harmonie autour de produits régionaux et de saison.</p><p>L’accès direct en peignoir depuis la chambre à l’institut de Thalassothérapie et au Spa invite nos clients à la détente et au bien-être.</p><p><br></p><p><strong>Votre mission :</strong></p><p>Prendre soin de nos clients au restaurant, bar, petit déjeuner </p><ul><li>Attentif aux autres et à l’environnement qui vous entoure : vous contribuez à rendre le séjour de nos clients aussi irréprochable qu’inoubliable en apportant votre petite touche personnelle !</li><li>Vous assurez un accueil et un service personnalisés et chaleureux, le bien-être des clients est toujours votre priorité.</li><li>Vous êtes garant de la fidélisation du client, ils reviendront sûrement un peu pour vous !&nbsp;</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un contrat de 39h par semaine avec 2 jours de repos consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Valorisation de la coupure à partir de 3h d'interruption</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li></ul><p><br></p>
+ <p><strong>Votre profil : </strong></p><ul><li>Envie de rejoindre une équipe unie, énergique et professionnelle</li></ul><p><br></p><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p> </p>]]></description>
+  <startdate>2025-08-15</startdate>
+  <enddate></enddate>
+  <createddate>2025-07-17</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/rkwgou?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/rkwgou?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Cabourg</city>
+      <zip>14390</zip>
+      <address></address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
 <job>
   <company>Hively Hospitality - Thalazur</company>
   <companydescription/>
@@ -833,67 +894,6 @@
       <city>Saint-Jean-de-Luz</city>
       <zip>64500</zip>
       <address></address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-<job>
-  <company>Hively Hospitality - Mercure</company>
-  <companydescription/>
-  <companyuuid>496</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber></referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Chef de cuisine H/F</title>
-<description><![CDATA[
-<p><strong>Notre hôtel : Le Mercure Blois Centre dispose de 96 chambres, 9 salles de réunion, une salle fitness et un espace détente avec piscine intérieure chauffée, jacuzzi, sauna et hammam. Le bar Wine Not ? et le restaurant Le Quai vous plongent dans le décor d'un atelier d'artisan atypique et ravissent vos papilles avec une carte des vins et des produits locaux.</strong></p><p><strong>Votre mission :</strong></p><p><strong>Prendre soin des papilles de nos clients, avec votre équipe !</strong></p><ul><li>Vous êtes responsable de l'ensemble de la production culinaire de notre restaurant "Le Quai", avec une cuisine authentique à base de produits frais et une carte renouvelée au fils des saisons<span style="color: rgb(230, 0, 0);"> </span></li><li>Vous êtes force de proposition sur la carte du restaurant tout en maîtrisant les coûts matières premières</li><li>Vous veillez à la bonne application des normes HACCP</li><li>Vous commandez vos produits, vous faites l'inventaire en fin de mois et gérez vos stocks</li><li>Vous gérez les plannings de votre équipe, les réunions et les entretiens annuels</li><li>Leader dans l'âme, vous savez fédérer votre équipe autour d'un objectif commun : la satisfaction de nos clients !</li></ul><p>&nbsp;</p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire de 3.200 €/bruts par mois pour 37h par semaine avec 2 jours de repos consécutifs</li><li>Une prime sur objectifs pouvant aller jusqu'à 1 mois de salaire</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>La valorisation de la coupure à partir de 3h d'interruption</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li></ul><p><br></p>
- <p><strong>Votre profil : </strong></p><ul><li>Expérience de 5 ans réussie en cuisine, dont 2 ans en tant que Chef de cuisine dans un établissement hôtelier, envie de rejoindre une équipe unie, énergique et professionnelle</li><li>Maîtrise des outils informatiques : E-pack Hygiène, Word, Excel, Outlook.</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p> </p>]]></description>
-  <startdate>2025-10-01</startdate>
-  <enddate></enddate>
-  <createddate>2025-07-11</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/ctj200?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/ctj200?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Blois</city>
-      <zip>41000</zip>
-      <address>Quai Saint-Jean</address>
       <countrycode>FR</countrycode>
       <region/>
     </location>
