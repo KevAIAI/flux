@@ -1,12 +1,12 @@
 <source>
 <publisher>Cookorico</publisher>
 <publisherurl>https://www.cookorico.com</publisherurl>
-<lastupdatedat>2025-07-17 11:29</lastupdatedat>
+<lastupdatedat>2025-07-17 11:32</lastupdatedat>
 
 <job>
   <company>Hively Hospitality - Thalazur</company>
   <companydescription/>
-  <companyuuid>The ID Hively for Hively Hospitality - Thalazur located at 14390 Cabourg is **7**【4:0†source】.</companyuuid>
+  <companyuuid>7</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -67,7 +67,7 @@
 <job>
   <company>Hively Hospitality - Thalazur</company>
   <companydescription/>
-  <companyuuid>L'ID Hively pour l'établissement "Hively Hospitality - Thalazur" à l'adresse "Chemin des Moyennes Bréguières 06600 Antibes" est **10**【4:0†source】.</companyuuid>
+  <companyuuid>10</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -128,7 +128,7 @@
 <job>
   <company>Hively Hospitality - Thalazur</company>
   <companydescription/>
-  <companyuuid>L'ID Hively correspondant est `10`【4:0†Set Up Hively Hospitality x TalentPlug - Feuille 1 (1).pdf】.</companyuuid>
+  <companyuuid>10</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -189,11 +189,7 @@
 <job>
   <company>Hively Hospitality - Ibis Styles</company>
   <companydescription/>
-  <companyuuid>L'ID Hively correspondant de l'établissement "Hively Hospitality - Ibis Styles" situé au Boulevard René Cassin 06300 Nice est :
-
-**28**
-
-【4:0†source】.</companyuuid>
+  <companyuuid>28</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -254,14 +250,7 @@
 <job>
   <company>Hively Hospitality - AC Hotel</company>
   <companydescription/>
-  <companyuuid>There are two possibilities in the search results:
-
-- AC Hôtel par Marriott Paris Porte Maillot, which has the ID 46
-- Hôtel Novotel Porte d'Asnières, which has the ID 19 
-
-Since the address provided is "Rue Gustave Charpentier 75017 Paris", it matches the address of "AC Hôtel par Marriott Paris Porte Maillot".
-
-The Hively ID for "Hively Hospitality - AC Hotel" located at Rue Gustave Charpentier 75017 Paris is **46**【4:0†source】.</companyuuid>
+  <companyuuid>46</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -322,7 +311,7 @@ The Hively ID for "Hively Hospitality - AC Hotel" located at Rue Gustave Charpen
 <job>
   <company>Hively Hospitality - Thalazur</company>
   <companydescription/>
-  <companyuuid>L'ID Hively de l'établissement "Thalazur Royan" situé à l'adresse Allée des Rochers 17200 Royan est 4【4:0†source】.</companyuuid>
+  <companyuuid>4</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -383,7 +372,7 @@ The Hively ID for "Hively Hospitality - AC Hotel" located at Rue Gustave Charpen
 <job>
   <company>Hively Hospitality - Renaissance</company>
   <companydescription/>
-  <companyuuid>L'ID Hively de l'établissement "Hively Hospitality - Renaissance" situé Rue René Boulanger 75010 Paris est **11**【4:0†source】.</companyuuid>
+  <companyuuid>11</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -444,7 +433,7 @@ The Hively ID for "Hively Hospitality - AC Hotel" located at Rue Gustave Charpen
 <job>
   <company>Hively Hospitality - Thalazur</company>
   <companydescription/>
-  <companyuuid>Le ID Hively pour **Hively Hospitality - Thalazur** à l'adresse **Avenue Charles de Gaulle 14390 Cabourg** est **7**【4:0†source】.</companyuuid>
+  <companyuuid>7</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -566,7 +555,7 @@ The Hively ID for "Hively Hospitality - AC Hotel" located at Rue Gustave Charpen
 <job>
   <company>Hively Hospitality - Thalazur</company>
   <companydescription/>
-  <companyuuid>7 </companyuuid>
+  <companyuuid>7</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -627,7 +616,7 @@ The Hively ID for "Hively Hospitality - AC Hotel" located at Rue Gustave Charpen
 <job>
   <company>Hively Hospitality - Thalazur</company>
   <companydescription/>
-  <companyuuid>7</companyuuid>
+  <companyuuid>7【4:0†source】</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
