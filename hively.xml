@@ -1,12 +1,12 @@
 <source>
 <publisher>Cookorico</publisher>
 <publisherurl>https://www.cookorico.com</publisherurl>
-<lastupdatedat>2025-07-17 11:26</lastupdatedat>
+<lastupdatedat>2025-07-17 11:29</lastupdatedat>
 
 <job>
   <company>Hively Hospitality - Thalazur</company>
   <companydescription/>
-  <companyuuid>L'ID Hively pour "Hively Hospitality - Thalazur" à l'adresse "14390 Cabourg" est 7【4:0†source】.</companyuuid>
+  <companyuuid>The ID Hively for Hively Hospitality - Thalazur located at 14390 Cabourg is **7**【4:0†source】.</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -67,7 +67,7 @@
 <job>
   <company>Hively Hospitality - Thalazur</company>
   <companydescription/>
-  <companyuuid>10</companyuuid>
+  <companyuuid>L'ID Hively pour l'établissement "Hively Hospitality - Thalazur" à l'adresse "Chemin des Moyennes Bréguières 06600 Antibes" est **10**【4:0†source】.</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -128,7 +128,7 @@
 <job>
   <company>Hively Hospitality - Thalazur</company>
   <companydescription/>
-  <companyuuid>The ID Hively for Hively Hospitality - Thalazur located at Chemin des Moyennes Bréguières 06600 Antibes is 10【4:0†source】.</companyuuid>
+  <companyuuid>L'ID Hively correspondant est `10`【4:0†Set Up Hively Hospitality x TalentPlug - Feuille 1 (1).pdf】.</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -189,7 +189,11 @@
 <job>
   <company>Hively Hospitality - Ibis Styles</company>
   <companydescription/>
-  <companyuuid>L'ID Hively correspondant pour l'établissement "Hively Hospitality - Ibis Styles" situé au Boulevard René Cassin 06300 Nice est **28**【4:0†Set Up Hively Hospitality x TalentPlug - Feuille 1 (1).pdf】.</companyuuid>
+  <companyuuid>L'ID Hively correspondant de l'établissement "Hively Hospitality - Ibis Styles" situé au Boulevard René Cassin 06300 Nice est :
+
+**28**
+
+【4:0†source】.</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -250,7 +254,14 @@
 <job>
   <company>Hively Hospitality - AC Hotel</company>
   <companydescription/>
-  <companyuuid>The Hively ID for "Hively Hospitality - AC Hotel" at Rue Gustave Charpentier 75017 Paris is 46【4:1†source】.</companyuuid>
+  <companyuuid>There are two possibilities in the search results:
+
+- AC Hôtel par Marriott Paris Porte Maillot, which has the ID 46
+- Hôtel Novotel Porte d'Asnières, which has the ID 19 
+
+Since the address provided is "Rue Gustave Charpentier 75017 Paris", it matches the address of "AC Hôtel par Marriott Paris Porte Maillot".
+
+The Hively ID for "Hively Hospitality - AC Hotel" located at Rue Gustave Charpentier 75017 Paris is **46**【4:0†source】.</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -311,7 +322,7 @@
 <job>
   <company>Hively Hospitality - Thalazur</company>
   <companydescription/>
-  <companyuuid>The ID Hively corresponding to "Hively Hospitality - Thalazur, Allée des Rochers 17200 Royan" is **4**【4:0†source】.</companyuuid>
+  <companyuuid>L'ID Hively de l'établissement "Thalazur Royan" situé à l'adresse Allée des Rochers 17200 Royan est 4【4:0†source】.</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -372,7 +383,7 @@
 <job>
   <company>Hively Hospitality - Renaissance</company>
   <companydescription/>
-  <companyuuid>11【4:0†Set Up Hively Hospitality x TalentPlug - Feuille 1 (1).pdf】</companyuuid>
+  <companyuuid>L'ID Hively de l'établissement "Hively Hospitality - Renaissance" situé Rue René Boulanger 75010 Paris est **11**【4:0†source】.</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -433,11 +444,7 @@
 <job>
   <company>Hively Hospitality - Thalazur</company>
   <companydescription/>
-  <companyuuid>L'ID Hively correspondant pour l'établissement "Hively Hospitality - Thalazur" situé à Avenue Charles de Gaulle 14390 Cabourg est:
-
-**7**
-
-【4:0†source】.</companyuuid>
+  <companyuuid>Le ID Hively pour **Hively Hospitality - Thalazur** à l'adresse **Avenue Charles de Gaulle 14390 Cabourg** est **7**【4:0†source】.</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -498,7 +505,7 @@
 <job>
   <company>Hively Hospitality - Thalazur</company>
   <companydescription/>
-  <companyuuid>The ID Hively for "Hively Hospitality - Thalazur" located at Avenue Charles de Gaulle 14390 Cabourg is **7**【4:0†source】.</companyuuid>
+  <companyuuid>7</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -559,7 +566,7 @@
 <job>
   <company>Hively Hospitality - Thalazur</company>
   <companydescription/>
-  <companyuuid>L'ID Hively correspondant pour Hively Hospitality - Thalazur, Avenue Charles de Gaulle 14390 Cabourg est **7**【4:0†source】.</companyuuid>
+  <companyuuid>7 </companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -620,7 +627,7 @@
 <job>
   <company>Hively Hospitality - Thalazur</company>
   <companydescription/>
-  <companyuuid>7【4:0†source】.</companyuuid>
+  <companyuuid>7</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -681,7 +688,7 @@
 <job>
   <company>Hively Hospitality - Mercure</company>
   <companydescription/>
-  <companyuuid>L'ID Hively correspondant à l'établissement "Hively Hospitality - Mercure" situé au 17000 La Rochelle est **47**【4:2†source】.</companyuuid>
+  <companyuuid>47</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -742,7 +749,7 @@
 <job>
   <company>Hively Hospitality - Ibis</company>
   <companydescription/>
-  <companyuuid>29【4:0†source】.</companyuuid>
+  <companyuuid>29</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -803,7 +810,7 @@
 <job>
   <company>Hively Hospitality - Thalazur</company>
   <companydescription/>
-  <companyuuid>L'ID Hively pour Hively Hospitality - Thalazur à 56340 Carnac est **48**【4:0†source】.</companyuuid>
+  <companyuuid>48</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
