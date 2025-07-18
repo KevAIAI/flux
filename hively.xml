@@ -1,7 +1,7 @@
 <source>
 <publisher>Cookorico</publisher>
 <publisherurl>https://www.cookorico.com</publisherurl>
-<lastupdatedat>2025-07-18 02:19</lastupdatedat>
+<lastupdatedat>2025-07-18 02:27</lastupdatedat>
 
 <job>
   <company>Hively Hospitality - Novotel</company>
@@ -66,7 +66,7 @@
 <job>
   <company>Hively Hospitality - Thalazur</company>
   <companydescription/>
-  <companyuuid>23895037078</companyuuid>
+  <companyuuid>10</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -126,7 +126,7 @@
 <job>
   <company>Hively Hospitality - Gina</company>
   <companydescription/>
-  <companyuuid>23919381676</companyuuid>
+  <companyuuid>12</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -426,7 +426,7 @@
 <job>
   <company>Hively Hospitality - Renaissance</company>
   <companydescription/>
-  <companyuuid>23895192881</companyuuid>
+  <companyuuid>11</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -486,7 +486,7 @@
 <job>
   <company>Hively Hospitality - Moxy</company>
   <companydescription/>
-  <companyuuid>23918006144</companyuuid>
+  <companyuuid>23</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -666,7 +666,7 @@
 <job>
   <company>Hively Hospitality - Mercure</company>
   <companydescription/>
-  <companyuuid>23904318259</companyuuid>
+  <companyuuid>26</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -1026,7 +1026,7 @@
 <job>
   <company>Hively Hospitality - Renaissance</company>
   <companydescription/>
-  <companyuuid>23895192881</companyuuid>
+  <companyuuid>11</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
