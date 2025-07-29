@@ -1,7 +1,7 @@
 <source>
 <publisher>Cookorico</publisher>
 <publisherurl>https://www.cookorico.com</publisherurl>
-<lastupdatedat>2025-07-28 03:04</lastupdatedat>
+<lastupdatedat>2025-07-29 09:04</lastupdatedat>
 
 <job>
   <company>Hively Hospitality - Thalazur</company>
@@ -216,7 +216,7 @@
   <locations>
     <location>
       <country>France</country>
-      <city></city>
+      <city>Beaune</city>
       <zip>21200</zip>
       <address> </address>
       <countrycode>FR</countrycode>
@@ -276,7 +276,7 @@
   <locations>
     <location>
       <country>France</country>
-      <city></city>
+      <city>Beaune</city>
       <zip>21200</zip>
       <address> </address>
       <countrycode>FR</countrycode>
@@ -486,7 +486,7 @@
 <job>
   <company>Hively Hospitality Holding</company>
   <companydescription/>
-  <companyuuid>76</companyuuid>
+  <companyuuid>pas de correspondance</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
