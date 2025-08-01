@@ -1,8 +1,68 @@
 <source>
 <publisher>Cookorico</publisher>
 <publisherurl>https://www.cookorico.com</publisherurl>
-<lastupdatedat>2025-08-01 09:04</lastupdatedat>
+<lastupdatedat>2025-08-01 03:04</lastupdatedat>
 
+<job>
+  <company>Hively Hospitality - Novotel</company>
+  <companydescription/>
+  <companyuuid>19</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>0fcj7l</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Réceptionniste H/F</title>
+<description><![CDATA[
+<p><strong>Notre hôtel : </strong>Novotel Paris 17, hôtel de 140 chambres, 7 salons, 1 restaurant et 1 bar</p><p>En tant que réceptionniste, vous vous comporterez et agirez de manière exemplaire et incarnerez l'état d'esprit de la marque à travers les valeurs de volonté, d'ouverture d'esprit et d'anticipation.</p><p>Vous intégrerez un établissement où le gout de la découverte, le partage et l’entraide animent l’ensemble de nos équipes.</p><p><br></p><p><strong>Votre mission</strong></p><p><strong>Accueillir nos clients avec le sourire! Au quotidien, il s’agira de réaliser :</strong></p><ul><li>Être garant de l’accueil et du suivi du relationnel client dans le respect des standards de qualité de l’établissement.</li><li>Assurer une prise en charge optimale et complète de la clientèle de l’hôtel</li><li>Gérer l’insatisfaction client en désamorçant les situations conflictuelles et en trouvant des solutions concrètes et recevables par le client.</li><li>Appliquer les standards d’accueil dans les moindres détails</li><li>Assurer l’accueil (physique et téléphonique) des clients et gérer la correspondance (mails) notamment pour les confirmations de réservation.</li><li>Assurer la promotion, le conseil et la vente des prestations et des différents produits pour développer le chiffre d'affaires de l’Hôtel.</li><li>Travailler en collaboration avec les autres services de l’hôtel (étages, pdj etc..)</li><li>Shift de matin et de soirée (maximum 21h30)</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire de 2000€/bruts par mois pour 39h par semaine avec 2 jours de repos consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture (170€/mois) et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li>Une prime de complet dès que nous vendons la totalité des chambres de l'hôtel !</li></ul><p><br></p> <p><strong>Votre profil :</strong></p><ul><li>Attentif.ve aux autres et à l’environnement qui vous entoure : vous contribuez à rendre le séjour de nos clients aussi irréprochable qu’inoubliable en apportant votre petite touche personnelle !</li><li>Très à l’aise en français et en anglais, la maitrise de l'italien est un gros plus</li><li>Poste ouvert aux débutants si la volonté, la rigueur et l'envie sont présentes</li></ul><p><br></p><p><strong>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</strong></p><p><br></p><p> </p>]]></description>
+  <startdate>2025-08-11</startdate>
+  <enddate></enddate>
+  <createddate>2025-08-01</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/0fcj7l?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/0fcj7l?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country></country>
+      <city>Paris</city>
+      <zip>75017</zip>
+      <address>34 Avenue de la Porte d'Asnières</address>
+      <countrycode></countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
 <job>
   <company>Hively Hospitality - GREET</company>
   <companydescription/>
@@ -844,66 +904,6 @@
   </salary>
 </job>
 <job>
-  <company>Hively Hospitality - Novotel</company>
-  <companydescription/>
-  <companyuuid>21 </companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>vj5ppa</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Assistant Maitre d'hôtel H/F</title>
-<description><![CDATA[
-<p><strong>Notre hôtel : NOVOTEL LA ROCHELLE</strong></p><p><br></p><p><strong>Votre mission</strong> <strong>:</strong></p><p>Prendre soin de nos clients au restaurant, bar, petit déjeuner<strong> .</strong></p><ul><li>Attentif aux autres et à l’environnement qui vous entoure : vous contribuez à rendre le séjour de nos clients aussi irréprochable qu’inoubliable en apportant votre petite touche personnelle !</li><li>Avec votre équipe, vous assurez un accueil et un service personnalisés et chaleureux, le bien-être des clients est toujours votre priorité.</li><li>Vous êtes garant de la fidélisation du client, ils reviendront sûrement un peu pour vous !&nbsp;</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire de 2370 €/bruts par mois pour 39h par semaine<strong> </strong>avec 2 jours de repos consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li>Parking privé et gratuit.</li><li>Horaires continue du soir. </li></ul><p><br></p><p><br></p> <p><strong>Votre profil : </strong></p><ul><li>Très à l’aise tant dans la relation client que l'exécution du dressage et du débarrassage des tables en salle. (Votre adresse naturelle est un atout !)&nbsp;&nbsp;</li><li>Et pour manager une équipe il faut savoir faire</li><li>Attentif(ve) au bien-être des clients et de votre équipe tout au long de votre service, vous savez vous montrer prévenant(e) et polyvalent(e).</li><li>Connaissance en bar clôture de caisse, sérieux, rigoureux. </li><li>ANGLAIS.</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p> </p>]]></description>
-  <startdate>2025-08-01</startdate>
-  <enddate></enddate>
-  <createddate>2025-07-21</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/vj5ppa?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/vj5ppa?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>La Rochelle</city>
-      <zip>17000</zip>
-      <address> </address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-<job>
   <company>Hively Hospitality - Thalazur</company>
   <companydescription/>
   <companyuuid>7</companyuuid>
@@ -1059,66 +1059,6 @@
       <city>Paris</city>
       <zip>75010</zip>
       <address>40 Rue René Boulanger</address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-<job>
-  <company>Hively Hospitality - Thalazur</company>
-  <companydescription/>
-  <companyuuid>5</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>8rqt3e</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Assistant(e) commercial(e)</title>
-<description><![CDATA[
-<p><strong>Notre site : THALAZUR Port Camargue</strong></p><p><br></p><p><strong>Dans le cadre d'un remplacement pour congés maternité, nous recrutons une ou un responsable commercial (e)</strong></p><p><br></p><p><strong>Votre mission :</strong></p><p>Organiser un séjour inoubliable à nos clients ! Au quotidien, il s’agira de :</p><ul><li>Commercialiser le site dans son intégralité&nbsp;: Hôtel, restaurant et centre de thalassothérapie</li><li>Porter l’image de l’établissement en suivant la stratégie commerciale et gérer la e-réputation</li><li>Gérer les demandes entrantes d'évènements ,séminaires</li><li>Contrôle matériel et état des salons</li><li>Assurer le suivi opérationnel des manifestations (séminaires, banquets…) en travaillant en direct avec les services annexes de l’établissement (cuisine, restaurant, réception, étages) , </li><li>Etablissement de devis , facturations des prestations</li><li>Développer et de fidéliser le portefeuille clients (présence sur le terrain, courts déplacements, visites de prospection, 1 a 2 salons dans l'année)</li><li>Organiser prospection téléphonique</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Temps de travail de 39h par semaine avec 2 jours de repos consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement par avance, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li>Réunion métier avec les commerciaux des 9 sites Thalazur et échanges régulier via visio conférence</li></ul> <p><strong>Votre profil :</strong></p><ul><li>Vous êtes diplômé d'une école hôtelière, de tourisme ou de commerce (Bac +2 ou Bac +3)</li><li>Vous avez validé une expérience similaire dans un établissement de même catégorie</li><li>Véritable développeur commercial, vous êtes tourné vers la satisfaction clients et les résultats</li><li>Vous êtes à l'aise avec les outils informatiques et logiciel</li><li>Vous êtes force de proposition, dynamique, rigoureux, organisé et autonome, vous avez un excellent relationnel</li><li>Vous avez une bonne maîtrise de l’anglais&nbsp;</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p> </p>]]></description>
-  <startdate>2025-09-15</startdate>
-  <enddate></enddate>
-  <createddate>2025-07-18</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/8rqt3e?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/8rqt3e?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Le Grau-du-Roi</city>
-      <zip>30240</zip>
-      <address>227 Route des Marines</address>
       <countrycode>FR</countrycode>
       <region/>
     </location>
