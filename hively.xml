@@ -1,12 +1,72 @@
 <source>
 <publisher>Cookorico</publisher>
 <publisherurl>https://www.cookorico.com</publisherurl>
-<lastupdatedat>2025-08-07 03:03</lastupdatedat>
+<lastupdatedat>2025-08-08 03:04</lastupdatedat>
 
+<job>
+  <company>Hively Hospitality - Thalazur</company>
+  <companydescription/>
+  <companyuuid>10</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>zlwpik</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Esthéticien(ne) H/F</title>
+<description><![CDATA[
+<p><strong>Notre site : </strong>Thalazur Antibes, Centre de Thalassothérapie et Spa</p><p><br></p><p><strong>Votre mission :</strong></p><p><strong>Prendre soin de nos clients !</strong></p><ul><li class="ql-align-justify">Dispenser des soins visages, des soins corporels, des rituels ainsi que tous les soins entrant dans ses champs de compétences</li><li class="ql-align-justify">Personnaliser les protocoles de soins en fonction du type de peau de son/sa client(e) et de ses besoins</li><li class="ql-align-justify">Conseiller les clients concernant les produits de beauté</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><p><br></p><ul><li>Un salaire de 1.862 €/bruts par mois pour 35 h par semaine avec 2 jours de repos (amplitude horaire de 8h30 à 18h, travail les week-ends et jours fériés par roulement).</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande</li><li>Un Plan d’Epargne Entreprise avec abondement</li><li>Des<span style="color: rgb(230, 0, 0);"> </span>tickets restaurants<span style="color: rgb(230, 0, 0);"> </span>et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus !</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance&nbsp;offrant des garanties et une couverture maximales&nbsp;</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li>Parking pour le personnel</li><li>Uniforme fourni et blanchissage inclus</li><li>Participation au titre de transport selon législation en vigueur</li></ul><p><br></p> <p><strong>Votre profil : </strong></p><ul><li>Expérience de 1an en thalasso et/ou spa, envie de rejoindre une équipe unie, énergique et professionnelle</li><li>Parfaite connaissance de la peau, des cosmétiques, des diverses techniques de soins (visage et corps)</li><li>BAC ou BTS Esthétique</li><li><br></li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p> </p>]]></description>
+  <startdate>2025-09-01</startdate>
+  <enddate></enddate>
+  <createddate>2025-08-07</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/zlwpik?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/zlwpik?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Antibes</city>
+      <zip>06600</zip>
+      <address>770 Chemin des Moyennes Bréguières</address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
 <job>
   <company>Hively Hospitality - Novotel suites</company>
   <companydescription/>
-  <companyuuid>17</companyuuid>
+  <companyuuid>17 </companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -726,7 +786,7 @@
 <job>
   <company>Hively Hospitality - Renaissance</company>
   <companydescription/>
-  <companyuuid>pas de correspondance</companyuuid>
+  <companyuuid>12</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -906,7 +966,7 @@
 <job>
   <company>Hively Hospitality - GREET</company>
   <companydescription/>
-  <companyuuid>33 </companyuuid>
+  <companyuuid>33</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -999,66 +1059,6 @@
       <city>Blois</city>
       <zip>41000</zip>
       <address>28 Quai Saint-Jean</address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-<job>
-  <company>Hively Hospitality - Mercure</company>
-  <companydescription/>
-  <companyuuid>47</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>531fab</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Commis de cuisine H/F CDI</title>
-<description><![CDATA[
-<p><strong>Notre hôtel : </strong></p><p>Un cadre unique, une cuisine bistronomique, une équipe passionnée. Entièrement rénové en 2023, l’hôtel Mercure La Rochelle Vieux-Port allie élégance contemporaine et une ambiance chaleureuse. Notre restaurant bistronomique, ouvert sur la mer, valorise les produits frais et locaux dans une cuisine inventive et engagée.</p><p><br></p><p><strong>Votre mission :</strong></p><p>Prendre soin des papilles de nos clients !</p><p> Rejoignez une brigade passionnée dans un établissement engagé, où la créativité culinaire se mêle au respect des produits et des saisons.</p><p> Sous la responsabilité du chef ou du second, vous participez activement à la réalisation de plats bistronomiques à base de produits frais, locaux et de saison.</p><ul><li>Vous assurez les préparations culinaires dans le respect des fiches techniques et des standards qualité de l’établissement.</li><li>Vous contribuez à l’envoi des plats lors des services.</li><li>Vous veillez à la propreté de votre poste de travail et à l'application rigoureuse des normes d’hygiène et de sécurité alimentaire (HACCP).</li><li>Vous participez à la mise en place des offres pour les séminaires et événements.</li><li>Vous êtes force de proposition et aimez apprendre dans un environnement stimulant et bienveillant.</li><li>Vous effectuez la mise en place nécessaire à la réalisation des plats et participez à l'envoi en salle des assiettes dressées.&nbsp;</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire de 2042 €/bruts par mois pour 39h par semaine<strong> </strong>en CDI avec 2 jours de repos consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Journée de travail en continue du matin ou du soir suivant le planning dans la mesure du possible</li><li>Le cas échéant : Valorisation de la coupure à partir de 3h d'interruption</li><li>Carte Heartist pour des offres privilégiés Accor</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximale</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li></ul><p><br></p><p><br></p><p><br></p><p><br></p> <p><strong>Votre profil : </strong></p><ul><li>Première expérience réussie en cuisine, envie de rejoindre une équipe unie, énergique et professionnelle</li><li>Vous maîtrisez les principales techniques culinaires et avez envie d'apprendre!</li><li>Capacité à travailler en équipe, sens de l’organisation et autonomie</li><li>Envie de s’impliquer dans un établissement en plein essor</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p> </p>]]></description>
-  <startdate>2025-08-04</startdate>
-  <enddate></enddate>
-  <createddate>2025-07-29</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/531fab?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/531fab?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>La Rochelle</city>
-      <zip>17000</zip>
-      <address> Quai Louis Prunier</address>
       <countrycode>FR</countrycode>
       <region/>
     </location>
