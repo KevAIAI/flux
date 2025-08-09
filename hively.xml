@@ -1,8 +1,68 @@
 <source>
 <publisher>Cookorico</publisher>
 <publisherurl>https://www.cookorico.com</publisherurl>
-<lastupdatedat>2025-08-08 03:04</lastupdatedat>
+<lastupdatedat>2025-08-09 09:03</lastupdatedat>
 
+<job>
+  <company>Hively Hospitality - Thalazur</company>
+  <companydescription/>
+  <companyuuid>7</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>8ykpph</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Employé(e) ménage vestiaire H/F</title>
+<description><![CDATA[
+<p><strong>Notre hôtel : </strong>Posé sur la dune, notre hôtel 4* de 165 chambres se fait pudique pour ne pas occulter le panorama et la mer que l’on voit danser depuis les fenêtres des chambres et des terrasses.</p><p>Le restaurant et le bar, ouvert 7 jours sur 7, offrent à nos clients une cuisine saine et gourmande, reflet d’une sensibilité et d’une harmonie autour de produits régionaux et de saison.</p><p>L’accès direct en peignoir depuis la chambre à l’institut de Thalassothérapie et au Spa invite nos clients à la détente et au bien-être.</p><p><br></p><p><strong>Votre mission :</strong></p><p><strong>Prendre soin de nos clients en les chouchoutant, eux et leurs espaces de vie lors de leur séjour.</strong></p><p class="ql-align-justify">Au quotidien, il s’agira :</p><ul><li class="ql-align-justify">d'effectuer le nettoyage des espaces communs (clients et personnel) de l'établissement</li><li class="ql-align-justify">de participer à des missions de nettoyages périodiques sur les lieux publics de l'hôtel</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire de 1 820€/bruts par mois pour 35h par semaine avec 2 jours de repos consécutifs.</li><li>Horaires : 5h00-13h45 // 14h45-22h30 en alternance, 45 minutes de pause par jour / 2 jours de repos consécutifs</li><li>Un 13ème mois (inclus dans le salaire annuel annoncé) dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture<span style="color: rgb(230, 0, 0);"> </span>et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li>Prime d'intéressement variable</li><li>Prise en charge à hauteur de 75 % des abonnements aux transports en communs</li></ul> <p><strong>Votre profil :</strong></p><ul><li><span style="color: rgb(230, 0, 0);">﻿</span>Attentif(ve) aux détails, vous aimez quand les choses sont bien faites et appréciez le contact client</li><li>Première expérience d'1 an minimum, qualités relationnelles, <strong>envie </strong>de rejoindre une équipe unie, énergique et professionnelle</li></ul><p><span style="color: rgb(230, 0, 0);">﻿</span></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p> </p>]]></description>
+  <startdate></startdate>
+  <enddate></enddate>
+  <createddate>2025-08-08</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/8ykpph?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/8ykpph?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Cabourg</city>
+      <zip>14390</zip>
+      <address>44 Avenue Charles de Gaulle</address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
 <job>
   <company>Hively Hospitality - Thalazur</company>
   <companydescription/>
@@ -66,7 +126,7 @@
 <job>
   <company>Hively Hospitality - Novotel suites</company>
   <companydescription/>
-  <companyuuid>17 </companyuuid>
+  <companyuuid>17</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -546,7 +606,7 @@
 <job>
   <company>Hively Hospitality - Thalazur</company>
   <companydescription/>
-  <companyuuid>48</companyuuid>
+  <companyuuid>48 </companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -999,66 +1059,6 @@
       <city>La Rochelle</city>
       <zip>17000</zip>
       <address> </address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-<job>
-  <company>Hively Hospitality - Mercure</company>
-  <companydescription/>
-  <companyuuid>26</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>2jjf8e</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Second de cuisine H/F</title>
-<description><![CDATA[
-<p><strong>Notre hôtel : Le Mercure Blois Centre dispose de 96 chambres, 9 salles de réunion, une salle fitness et un espace détente avec piscine intérieure chauffée, jacuzzi, sauna et hammam. Le bar Wine Not ? et le restaurant Le Quai vous plongent dans le décor d'un atelier d'artisan atypique et ravissent vos papilles avec une carte des vins et des produits locaux.</strong></p><p><strong>Votre mission :</strong></p><p><strong>Prendre soin des papilles de nos clients, avec votre équipe !</strong></p><ul><li>Aux côtés du Chef de cuisine, vous êtes responsable de l'ensemble de la production culinaire de notre restaurant "Le Quai", avec une cuisine authentique à base de produits frais et une carte renouvelée au fils des saisons<span style="color: rgb(230, 0, 0);"> </span></li><li>Vous êtes force de proposition sur la carte du restaurant tout en maîtrisant les coûts matières premières</li><li>Vous veillez à la bonne application des normes HACCP</li><li>Vous commandez vos produits, vous faites l'inventaire en fin de mois et gérez vos stocks</li><li>Vous gérez les plannings de votre équipe en accord avec le Chef de cuisine</li><li>Leader dans l'âme, vous savez fédérer votre équipe autour d'un objectif commun : la satisfaction de nos clients !</li></ul><p>&nbsp;</p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire de 2.500 €/bruts par mois pour 37h par semaine avec 2 jours de repos consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>La valorisation de la coupure à partir de 3h d'interruption</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li></ul> <p><strong>Votre profil : </strong></p><ul><li>Expérience de 5 ans réussie en cuisine, dont 2 en tant que Second(e) dans un établissement hôtelier, envie de rejoindre une équipe unie, énergique et professionnelle</li><li>Maîtrise des outils informatiques : E-pack Hygiène, Word, Excel, Outlook.</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p> </p>]]></description>
-  <startdate>2025-09-01</startdate>
-  <enddate></enddate>
-  <createddate>2025-07-29</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/2jjf8e?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/2jjf8e?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Blois</city>
-      <zip>41000</zip>
-      <address>28 Quai Saint-Jean</address>
       <countrycode>FR</countrycode>
       <region/>
     </location>
