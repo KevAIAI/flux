@@ -1,8 +1,68 @@
 <source>
 <publisher>Cookorico</publisher>
 <publisherurl>https://www.cookorico.com</publisherurl>
-<lastupdatedat>2025-08-18 03:04</lastupdatedat>
+<lastupdatedat>2025-08-19 09:04</lastupdatedat>
 
+<job>
+  <company>Hively Hospitality - Ibis</company>
+  <companydescription/>
+  <companyuuid>29</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>5se3zm</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Commis de cuisine H/F</title>
+<description><![CDATA[
+<p><strong>Notre hôtel : Ibis Arcachon La Teste / La Cambuse du bassin</strong></p><p><br></p><p><strong>Votre mission :</strong></p><p><strong>Régaler nos clients !</strong></p><ul><li>Vous réalisez les plats et des recettes de notre restaurant , nous travaillons des produits frais et de saisons avec une cuisson au feu de bois</li><li>Préparer les aliments en respectant les normes d'hygiène et de sécurité alimentaire</li><li>Collaborer avec le personnel de salle pour garantir un service fluide et efficace</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire à partir de 1596,40 €/bruts par mois pour 30h par semaine<strong> </strong>avec 2 jours de repos</li><li>Un 13ème mois dès 3 mois d'ancienneté des avantages nourriture et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Une prime de coupure</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li>Restaurant fermé le dimanche</li></ul><p><br></p> <p><strong>Votre profil : </strong></p><ul><li>Vous avez une expérience en préparation culinaire</li><li>Vous êtes capable de travailler sous pression tout en maintenant un haut niveau de qualité</li><li>Vous maîtrisez les techniques de manipulation des aliments et les normes d'hygiène</li></ul><p><br></p><p><br></p><p><strong>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</strong></p><p><br></p><p> </p>]]></description>
+  <startdate></startdate>
+  <enddate></enddate>
+  <createddate>2025-08-18</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/5se3zm?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/5se3zm?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>La Teste-de-Buch</city>
+      <zip>33260</zip>
+      <address>1 Impasse du Bosquet</address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
 <job>
   <company>Hively Hospitality - Thalazur</company>
   <companydescription/>
@@ -1119,66 +1179,6 @@
       <city>Ouistreham</city>
       <zip>14150</zip>
       <address> Avenue du Commandant Kieffer</address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-<job>
-  <company>Hively Hospitality - Thalazur</company>
-  <companydescription/>
-  <companyuuid>7</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>zfcvrn</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Equipier / Equipière polyvalent(e)</title>
-<description><![CDATA[
-<p><strong>Notre hôtel : </strong>Posé sur la dune, notre hôtel 4* de 165 chambres se fait pudique pour ne pas occulter le panorama et la mer que l’on voit danser depuis les fenêtres des chambres et des terrasses.</p><p>Le restaurant et le bar, ouvert 7 jours sur 7, offrent à nos clients une cuisine saine et gourmande, reflet d’une sensibilité et d’une harmonie autour de produits régionaux et de saison.</p><p>L’accès direct en peignoir depuis la chambre à l’institut de Thalassothérapie et au Spa invite nos clients à la détente et au bien-être.</p><p><br></p><p><strong>Votre mission :</strong></p><p><strong>Prendre soin de nos clients en les chouchoutant, eux et leurs espaces de vie lors de leur séjour.</strong></p><p class="ql-align-justify">Au quotidien, il s’agira :</p><ul><li class="ql-align-justify">d'effectuer le nettoyage des espaces communs (clients et personnel) de l'établissement</li><li class="ql-align-justify">de participer à des missions de nettoyages périodiques sur les lieux publics de l'hôtel</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire de 1 820€/bruts par mois pour 35h par semaine avec 2 jours de repos consécutifs.</li><li>Horaires : 5h00-13h45 // 14h45-22h30 en alternance, 45 minutes de pause par jour / 2 jours de repos consécutifs</li><li>Un 13ème mois (inclus dans le salaire annuel annoncé) dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture<span style="color: rgb(230, 0, 0);"> </span>et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li>Prime d'intéressement variable</li><li>Prise en charge à hauteur de 75 % des abonnements aux transports en communs</li></ul><p><br></p> <p><strong>Votre profil :</strong></p><ul><li><span style="color: rgb(230, 0, 0);">﻿</span>Attentif(ve) aux détails, vous aimez quand les choses sont bien faites et appréciez le contact client</li><li>Première expérience d'1 an minimum, qualités relationnelles, <strong>envie </strong>de rejoindre une équipe unie, énergique et professionnelle</li></ul><p><br></p><p><span style="color: rgb(230, 0, 0);">﻿</span></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p> </p>]]></description>
-  <startdate>2025-08-11</startdate>
-  <enddate></enddate>
-  <createddate>2025-08-05</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/zfcvrn?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/zfcvrn?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Cabourg</city>
-      <zip>14390</zip>
-      <address>44 Avenue Charles de Gaulle</address>
       <countrycode>FR</countrycode>
       <region/>
     </location>
