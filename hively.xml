@@ -1,8 +1,68 @@
 <source>
 <publisher>Cookorico</publisher>
 <publisherurl>https://www.cookorico.com</publisherurl>
-<lastupdatedat>2025-08-22 09:06</lastupdatedat>
+<lastupdatedat>2025-08-22 03:05</lastupdatedat>
 
+<job>
+  <company>Hively Hospitality - Ibis Budget</company>
+  <companydescription/>
+  <companyuuid>pas de correspondance</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>25dxd9</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Employé(e) Polyvalent(e)</title>
+<description><![CDATA[
+<p><strong>Notre hôtel combo : ibis budget et ibis styles La Rochelle Centre - 141 chambres</strong></p><p>Un établissement authentique aux valeurs écoresponsables</p><p>Un endroit chaleureux où il est bon de se réunir et de partager</p><p>&nbsp;</p><p><strong>Rejoins notre équipe et commence ta journée avec le sourire!</strong></p><p>Tu as l'envie de contribuer à la satisfaction des clients dès le matin? Nous recherchons<strong> </strong>un/une employé(e) polyvalente dynamique et souriant(e).</p><p><br></p><p><strong>Ta mission:</strong></p><p>·&nbsp;Accueillir chaleureusement nos clients pour leur offrir un moment agréable tout au long de leur séjour</p><p>· Préparer et servir des petits déjeuner et un snacking de qualité </p><p>·&nbsp;Veiller à la propreté et à la présentation de l'espace petit déjeuner, du bar et du lobby.</p><p>·&nbsp;préparer et servir des boissons au bar.</p><p>&nbsp;</p><p><strong>Nous vous proposons :</strong></p><p>Un poste au cœur de l'action, où ton sourire et ton sens du service feront toute la différence.</p><p>Une expérience enrichissante dans un cadre agréable bienveillant.</p><p><br></p><p>·&nbsp;&nbsp;Poste en CDI avec horaires du matin et parfois du soir à pourvoir à partir du 1er septembre 2025. </p><p>·&nbsp;&nbsp;Un salaire de 2042 €/bruts par mois pour 39h par semaine avec 2 jours de repos hebdomadaires</p><p>·&nbsp;&nbsp;Un 13ème mois à partir de 3 mois d'ancienneté</p><p>·&nbsp;&nbsp;2 indemnités repas par jour</p><p>·&nbsp;&nbsp;Mutuelle et Prévoyance offrant des garanties et une couverture maximales</p> <p><strong>Si tu es : </strong></p><p>Dynamique, autonome et ponctuel(le)</p><p>Attentif(ve) aux détails et soucieux(se) du bien-être des clients</p><p>En recherche d'un poste qui allie flexibilité et convivialité</p><p><br></p><p>Alors ce job est fait pour toi !</p><p><br></p><p>Postule dès maintenant et fais partie de notre belle aventure !</p><p><br></p><p><strong>Les prérequis :</strong></p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Langues : français impératif (anglais optionnel)</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Première expérience réussie en restauration, qualités relationnelles, envie de rejoindre une équipe énergique et professionnelle</p><p>&nbsp;</p><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p> </p>]]></description>
+  <startdate>2025-09-01</startdate>
+  <enddate></enddate>
+  <createddate>2025-08-22</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/25dxd9?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/25dxd9?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>La Rochelle</city>
+      <zip>17000</zip>
+      <address> </address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
 <job>
   <company>Hively Hospitality - Thalazur</company>
   <companydescription/>
@@ -606,7 +666,7 @@
 <job>
   <company>Hively Hospitality - Renaissance</company>
   <companydescription/>
-  <companyuuid>12</companyuuid>
+  <companyuuid>pas de correspondance</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -1119,66 +1179,6 @@
       <city>Carnac</city>
       <zip>56340</zip>
       <address>2 Avenue de l'Atlantique</address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-<job>
-  <company>Hively Hospitality Holding</company>
-  <companydescription/>
-  <companyuuid>1</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>07uf71</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Comptable H/F</title>
-<description><![CDATA[
-<p><strong>Hively Hospitality, acteur majeur dans l’hôtellerie, la restauration et le bien-être avec 80 établissements en Europe, recherche un(e) Comptable pour la France.&nbsp;</strong></p><p><br></p><p>Directement rattaché(e) à la direction comptable, vous rejoignez dès que possible notre équipe resserrée et dynamique du siège, constituée de 6 personnes au service comptable.</p><p><br></p><p><strong>En tant que Comptable, vous accompagnez 2 chefs comptables de l’équipe sur une dizaine de dossiers pour la tenue des écritures comptables et l’élaboration des reportings mensuels.</strong></p><p><br></p><p><strong>A l'aise sur la comptabilité multi sociétés</strong>, vous avez pour missions principales :&nbsp;</p><p><br></p><ul><li>le traitement, l’imputation analytique et la saisie des factures et règlements fournisseurs&nbsp;</li><li>la saisie du chiffre d’affaires, le suivi, le contrôle et le lettrage des encaissements clients&nbsp;</li><li>l’enregistrement des banques et des caisses au quotidien (par interfaces)</li><li>le suivi des encaissements et l’établissement des rapprochements bancaires&nbsp;</li><li>l’élaboration et l’envoi des déclarations CA3&nbsp;</li><li>l’enregistrement des immobilisations&nbsp;</li><li>la préparation des comptes d’exploitation mensuels</li><li>les préparations de la situation et de la clôture annuelles.</li></ul><p><br></p><p>Vos missions comptables se font sur le logiciel Sage 1000.</p><p><br></p><p>Vous échangerez régulièrement avec les directeurs d’hôtels qui seront vos principaux interlocuteurs.</p><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un CDI de 39h par semaine avec 2 jours de repos consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture (170€/mois)</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li>1 jour de télétravail par semaine</li></ul> <p><strong>Votre profil :</strong></p><p>De formation comptable (type BTS Comptabilité/DUT GEA), vous justifiez d’une expérience de 1 an à minima dans une fonction similaire.</p><p>Vous disposez d'un bon niveau technique, êtes rigoureux(se), organisé(e) et reconnu(e) pour vos qualités relationnelles.</p><p><br></p><p>Une pointe d’humour est un plus !</p><p><br></p><p>Vous avez envie d'apprendre au sein d'une équipe dynamique et bienveillante.</p><p>Vous souhaitez évoluer au sein d’une structure en développement qui vous fera confiance : postulez!</p><p><br></p><p>HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p> </p>]]></description>
-  <startdate></startdate>
-  <enddate></enddate>
-  <createddate>2025-08-11</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/07uf71?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/07uf71?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>La Rochelle</city>
-      <zip>17000</zip>
-      <address> Quai Louis Prunier</address>
       <countrycode>FR</countrycode>
       <region/>
     </location>
