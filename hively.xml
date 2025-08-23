@@ -1,12 +1,72 @@
 <source>
 <publisher>Cookorico</publisher>
 <publisherurl>https://www.cookorico.com</publisherurl>
-<lastupdatedat>2025-08-22 03:05</lastupdatedat>
+<lastupdatedat>2025-08-23 09:04</lastupdatedat>
 
+<job>
+  <company>Hively Hospitality - Moxy</company>
+  <companydescription/>
+  <companyuuid>55</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>de40pq</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>General Manager Hotel Moxy Lisbon</title>
+<description><![CDATA[
+<p><strong>Our Moxy Lisbon hotel has 136 rooms and 40 employees. </strong></p><p>Joining the Moxy Lisbon it is joining Hively Hospitality, leader in hospitality and wellness, with 80 establishments in Europe operated under Accor or Marriott franchises, and our own brands such as Thalazur and Urban Hive. </p><p>As a GM, you will report to one of our Hively Operations Director and work with the Hively support teams.</p><p><br></p><p><strong>Your mission as a General Manager : </strong></p><ul><li>You manage all daily operational aspects of the hotel and its different sales points, in accordance with the vision of Hively Hospitality, the requirements of the Moxy brand and Marriott requirements, and local regulations, and in collaboration with the operations management and support team.</li><li>You aim for (or exceed!) the qualitative and quantitative objectives set for this hotel</li><li>You are a driving force for the development strategy and overall performance of the entire hotel and F&amp;B activity</li></ul><p>&nbsp;</p><p><strong>We offer you :</strong></p><ul><li>Cartão de refeição - pagamos o valor máximo</li><li>Seguro de saúde – pago pela empresa</li><li>Cartão dentário- desconto</li><li>Subsídio de transporte</li><li>Tarifas preferenciais para funcionários na Marriott e na Hively Hospitality</li></ul> <p><strong>Your experience and profile : </strong></p><ul><li>Language: Portuguese, English, French is a plus</li><li>Minimum of 3 years experience in a GM position and ideally knowing Marriott scope</li><li>Strong background in hotel and F&amp;B management with achieved profitability goals, while maintaining integrity and professionalism in your role.</li><li>Strong experience in a lifestyle hotel and a great affinity with its codes.</li><li>As a good leader, you demonstrate your commitment to the company's objectives through work ethics, integrity and respect for our values</li><li>Leadership, strong ability to work independently, creative and entrepreneurial spirit</li></ul><p><br></p><p><br></p>]]></description>
+  <startdate>2025-09-29</startdate>
+  <enddate></enddate>
+  <createddate>2025-08-22</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/de40pq?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/de40pq?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>Portugal</country>
+      <city>Lisboa</city>
+      <zip>1050-090</zip>
+      <address>2 a Avenida Duque de Loulé</address>
+      <countrycode>PT</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
 <job>
   <company>Hively Hospitality - Ibis Budget</company>
   <companydescription/>
-  <companyuuid>pas de correspondance</companyuuid>
+  <companyuuid>33</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -666,7 +726,7 @@
 <job>
   <company>Hively Hospitality - Renaissance</company>
   <companydescription/>
-  <companyuuid>pas de correspondance</companyuuid>
+  <companyuuid>12</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -1119,66 +1179,6 @@
       <city>Cabourg</city>
       <zip>14390</zip>
       <address>44 Avenue Charles de Gaulle</address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-<job>
-  <company>Hively Hospitality - Thalazur</company>
-  <companydescription/>
-  <companyuuid>48</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>16mn25</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Adjoint(e)  Responsable Vestiaire / Ménage / Lingerie</title>
-<description><![CDATA[
-<p>Thalazur Carnac occupe une situation privilégiée entre l’océan, les plages et l’Île aux&nbsp;Oiseaux, véritable havre de paix d’une faune et flore d’une incroyable diversité.&nbsp;Entre Océan et patrimoine légendaire des mégalithes, la nature est au cœur de&nbsp;notre activité et a inspiré à la fois notre histoire et nos espaces.</p><p>&nbsp;</p><p>Situé à 100m de la grande plage de Carnac, station balnéaire réputée du Morbihan, l'établissement Hôtel et Thalasso - Thalazur Carnac propose dans le cadre de sa <strong><u>réouverture début novembre 2025 et après rénovation totale</u></strong>, 200 chambres d’Hôtel 4*, une Résidence de 34 logements 3*, Restaurants et espace de séminaire.</p><p>Centre de Thalasso avec 70 cabines de soins dont 18 cabines Esthétique et Spa, Spa Marin de 2500 m².</p><p><br></p><p><strong>Votre mission :</strong></p><p>Prendre soin de nos clients en les chouchoutant, eux et leurs espaces de vie lors de leur séjour.</p><p class="ql-align-justify">En lien direct avec la responsable du service , vous serez en charge de :</p><ul><li>Encadrer et coordonner l'équipe ménage , vestiaires et lingerie.</li><li>Planifier et contrôler les tâches quotidiennes pour assurer la propreté et l'hygiène des espaces ( cabines , vestiaires , zones communes … ).</li><li>Gérer la lingerie: suivi des stocks , organisation du linge propre et sale , relation avec les prestataires si nécessaire.</li><li>Contrôler la qualité du service et veiller au respect des normes d'hygiène et de sécurité.</li><li>Participer aux tâches.</li><li>Contribuer à l'amélioration continue du service et à la satisfaction du client.</li><li>Collaborer avec les autres services ( réception et spa ) pour garantir une expérience optimale.</li><li class="ql-align-justify">Remplacer la responsable lors de ses congés.</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un contrat de 35h par semaine<strong> </strong>avec 2 jours de repos hebdomadaires, par roulement.</li><li>Etablissement ouvert 7j/7j - Service ouvert entre 7h et 20h</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, des avantages tickets restaurant et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li>uniforme et blanchissage compris</li><li>parking privé pour le personnel</li></ul> <ul><li><strong>Votre profil :</strong></li><li>Expérience significative dans un poste similaire.</li><li>Compétence en management et esprit d'équipe.</li><li>Rigueur , sens du détail et excellent relationnel. </li><li>Connaissance des normes d'hygiène et de sécurité.</li><li>Maîtrise des outils de gestion simples ( planning , suivi des stocks ).</li><li>Flexibilité horaire ( week-ends et jours fériés selon planning ).</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p> </p>]]></description>
-  <startdate>2025-08-21</startdate>
-  <enddate></enddate>
-  <createddate>2025-08-11</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/16mn25?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/16mn25?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Carnac</city>
-      <zip>56340</zip>
-      <address>2 Avenue de l'Atlantique</address>
       <countrycode>FR</countrycode>
       <region/>
     </location>
