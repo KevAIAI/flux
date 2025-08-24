@@ -1,7 +1,7 @@
 <source>
 <publisher>Cookorico</publisher>
 <publisherurl>https://www.cookorico.com</publisherurl>
-<lastupdatedat>2025-08-24 09:04</lastupdatedat>
+<lastupdatedat>2025-08-24 03:03</lastupdatedat>
 
 <job>
   <company>Hively Hospitality - Thalazur</company>
@@ -66,7 +66,7 @@
 <job>
   <company>Hively Hospitality - Moxy</company>
   <companydescription/>
-  <companyuuid>55 </companyuuid>
+  <companyuuid>55</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -786,7 +786,7 @@
 <job>
   <company>Hively Hospitality - Renaissance</company>
   <companydescription/>
-  <companyuuid>pas de correspondance</companyuuid>
+  <companyuuid>12</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
