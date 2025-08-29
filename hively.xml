@@ -1,8 +1,68 @@
 <source>
 <publisher>Cookorico</publisher>
 <publisherurl>https://www.cookorico.com</publisherurl>
-<lastupdatedat>2025-08-28 03:04</lastupdatedat>
+<lastupdatedat>2025-08-29 09:04</lastupdatedat>
 
+<job>
+  <company>Hively Hospitality - Thalazur</company>
+  <companydescription/>
+  <companyuuid>5</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>kv69el</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Spa praticienne  H/F</title>
+<description><![CDATA[
+<p><strong>Notre hôtel : </strong>Thalazur Port Camargue</p><p><br></p><p><strong>Votre mission :</strong></p><p>Apporter du bien-être de nos clients en prodiguant des soins d'exception !</p><ul><li>Pratiquer les modelages de relaxation ainsi que les modelages du monde (Californien, Balinais, Polynésien...), dans le cadre de la marque Thalazur</li><li class="ql-align-justify">Prendre en charge le client du début à la fin du soin</li><li class="ql-align-justify">Favoriser la vente des produits Thalazur</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un contrat de 35h par semaine ou a temps partiel <strong> </strong>(possibilité de temps partiel) avec 2 jours de repos consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des tickets restaurants et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li></ul><p><br></p> <p><strong>Votre profil : </strong></p><ul><li>1 à 2 années d'expérience dans un autre centre de thalassothérapie ou Spa et envie de rejoindre une équipe unie, énergique et professionnelle</li><li>Passionné.e  par les massages , bonne connaissance des soins et des techniques de soins</li><li>Qualités relationnelles</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p> </p>]]></description>
+  <startdate>2025-09-01</startdate>
+  <enddate></enddate>
+  <createddate>2025-08-28</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/kv69el?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/kv69el?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Le Grau-du-Roi</city>
+      <zip>30240</zip>
+      <address>227 Route des Marines</address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
 <job>
   <company>Hively Hospitality - Mercure</company>
   <companydescription/>
@@ -1059,66 +1119,6 @@
       <city>Le Grau-du-Roi</city>
       <zip>30240</zip>
       <address>227 Route des Marines</address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-<job>
-  <company>Hively Hospitality - Renaissance</company>
-  <companydescription/>
-  <companyuuid>13</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>7uxdmm</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Stagiaire Front Office H/F</title>
-<description><![CDATA[
-<p><strong>Notre hôtel : </strong></p><p class="ql-align-justify">Le Renaissance Paris Arc de Triomphe est un hôtel lifestyle 5 étoiles au cœur de Paris, offrant à ses clients des expériences uniques et des découvertes locales authentiques. Chaque membre de notre équipe incarne nos valeurs clés : local, intriguant, et indépendant, en contribuant à créer des moments inoubliables pour nos clients.</p><p><br></p><p><strong>Votre mission :</strong></p><ul><li class="ql-align-justify">Procéder aux Check/In en respectant les standards Marriott (BSA).</li><li class="ql-align-justify">Offrir un accueil personnalisé, confirmer les avantages des membres <em>Marriott Bonvoy</em> et les remercier pour leur fidélité.</li><li class="ql-align-justify">S’assurer que la chambre assignée au client répond aux attentes et demandes spécifiques des clients.</li><li class="ql-align-justify">Créer régulièrement des « Magic Moments » basés sur les informations recueillies lors du Check/In ou des échanges avec les clients.</li><li class="ql-align-justify">Contrôler la facture des clients et effectuer le paiement selon la méthode souhaitée.</li><li class="ql-align-justify">S’assurer de la satisfaction des clients lors de leur départ et transmettre les informations pertinentes à l’équipe Guest Relation.</li><li class="ql-align-justify">Renseigner les notes de profil et le journal de service (Duty Log) en fonction des retours clients.</li><li class="ql-align-justify">Examiner les arrivées prévues dans les cinq jours à venir, vérifier la fusion des profils existants, et noter les spécificités dans les commentaires spéciaux.</li><li class="ql-align-justify">&nbsp;Répondre aux demandes reçues par e-mail, dans un délai de 24 heures.</li><li class="ql-align-justify">Reporter les informations du Mobile Check-In dans <em>Opéra</em>, informer les clients lorsque leur chambre est prête. </li><li class="ql-align-justify">Répondre aux demandes sur les extranets de <em>Booking</em> et <em>Expedia</em> en l'absence du DTS.</li><li class="ql-align-justify">Conseiller les clients sur les activités et restaurants à Paris et dans le quartier.</li><li class="ql-align-justify">Connaître et utiliser les recommandations du <em>Navigator Guide</em> du mois en cours.</li></ul><p><br></p><p class="ql-align-justify"><em style="color: rgb(14, 40, 65);">La liste de ces taches n’est pas exhaustive et peut être amenée à évoluer en fonction de l’organisation et des besoins de l’hôtel.</em></p><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li class="ql-align-justify">Des avantages nourriture (170€/mois)&nbsp;; </li><li class="ql-align-justify">L’accès à notre salle de Fitness&nbsp;; </li><li class="ql-align-justify">Un remboursement partiel des titres de transports.&nbsp;</li></ul><p><br></p> <p><strong>Votre profil :</strong></p><ul><li class="ql-align-justify">Vous êtes passionné par le milieu de l’hôtellerie et souhaitez intégrer un établissement à taille humaine ; </li><li class="ql-align-justify">Vous êtes issu d'une formation en Management Hôtelier&nbsp;et disposez d’une première expérience en Réception, ou de manière plus globale, en Hôtellerie&nbsp;; </li><li class="ql-align-justify">Vous maîtrisez parfaitement l’anglais. La maitrise d’une une troisième langue est un plus apprécié&nbsp;; </li><li class="ql-align-justify">Vous êtes à l’aise avec les logiciels hôteliers, notamment <em>Opéra</em>&nbsp;; </li><li class="ql-align-justify">Vous êtes proactif et attentif afin d’anticiper les besoins des clients pour leur offrir une expérience mémorable et personnalisée&nbsp;; </li><li class="ql-align-justify">Vous êtes reconnu pour votre sens de l'organisation, votre esprit d'initiative et votre sens du service. </li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p> </p>]]></description>
-  <startdate>2025-08-25</startdate>
-  <enddate></enddate>
-  <createddate>2025-08-19</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/7uxdmm?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/7uxdmm?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Paris</city>
-      <zip>75017</zip>
-      <address>39 Avenue de Wagram</address>
       <countrycode>FR</countrycode>
       <region/>
     </location>
