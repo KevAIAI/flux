@@ -1,8 +1,68 @@
 <source>
 <publisher>Cookorico</publisher>
 <publisherurl>https://www.cookorico.com</publisherurl>
-<lastupdatedat>2025-09-01 03:05</lastupdatedat>
+<lastupdatedat>2025-09-02 09:05</lastupdatedat>
 
+<job>
+  <company>Hively Hospitality - Thalazur</company>
+  <companydescription/>
+  <companyuuid>3</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>dd5dnl</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Spa praticien H/F Septembre à Novembre 2025</title>
+<description><![CDATA[
+<h3>🌊 <strong>Thalazur Saint-Jean-de-Luz recrute pour l'automne 2025 !</strong> 🌊</h3><p><br></p><p><strong>Rejoignez notre équipe et travaillez dans un cadre idyllique les pieds dans le sable</strong>, au cœur de la magnifique baie de Saint-Jean-de-Luz. Face à l’océan, notre établissement entièrement rénové allie <strong>élégance, modernité et atmosphère décontractée</strong> pour offrir une expérience unique à nos clients… et à notre équipe !</p><p><br></p><h3>✨ <strong>Votre mission</strong> ✨</h3><p>💆‍♂️ Offrir à chaque client une <strong>expérience bien-être d’exception</strong></p><p><strong>🌏 Réaliser une variété de massages</strong> relaxants et massages du monde (Californien, Balinais, Abhyanga, Pierres chaudes…)</p><p>🌿 Prodiguer des <strong>soins du visage, soins corporels et rituels</strong> avec expertise</p><p>🤝 Assurer une prise en charge attentionnée du client, en lui prodiguant <strong>des conseils personnalisés</strong> sur nos produits haut de gamme (Payot, Thalgo)</p><p><br></p><h3>💙 <strong>Ce que nous vous offrons</strong> 💙</h3><p>✅ <strong>Un salaire attractif</strong> : 2 138 € bruts/mois (35h/semaine) avec <strong>2 jours de repos hebdomadaires</strong> et <strong>avantages nourriture</strong></p><p><strong>✅ Un 13ᵉ mois</strong> dès 3 mois d'ancienneté (versé mensuellement sur demande)</p><p>✅ <strong>Un cadre de travail unique</strong> avec <strong>accès direct à la plage</strong> et vue imprenable sur l’océan</p><p>✅ <strong>Des avantages exclusifs</strong> :</p><ul><li>Plan d’épargne entreprise avec abondement</li><li>Compteur d’heures supplémentaires transformables en jours de repos</li><li>Tarifs préférentiels dans l’ensemble du réseau Thalazur</li><li>Mutuelle &amp; prévoyance avec <strong>une couverture optimale</strong></li><li><strong>Accès à une plateforme d’avantages (réductions sur le cinéma, parcs d’attractions, courses alimentaires, salles de sport…)</strong></li></ul><p>✨ <strong>Venez vivre une saison inoubliable au sein d’une équipe passionnée !</strong> ✨</p><ul><li><strong>Envie de nous rejoindre ?</strong> Postulez dès maintenant et offrez à nos clients une parenthèse de bien-être inégalée !</li><li><br></li></ul> <p><strong>Votre profil : </strong></p><ul><li>Diplôme CAP Esthétique ou CQP Spa praticien(ne) ou équivalent.</li><li>Expérience préalable dans un spa ou un établissement de thalassothérapie est un plus.</li><li>Excellentes compétences en communication et en relation client.</li><li>Capacité à travailler de manière autonome et en équipe.</li><li>Sensibilité aux besoins et au confort des clients.</li><li>Maîtrise des techniques de massage et des protocoles de soins esthétiques.</li><li>Connaissance des produits de soin et des ingrédients utilisés dans l'industrie des spas.</li><li>Engagement envers les normes d'hygiène et de sécurité.</li></ul><p><br></p><p><strong>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</strong></p><p><br></p><p> </p>]]></description>
+  <startdate>2025-09-15</startdate>
+  <enddate></enddate>
+  <createddate>2025-09-01</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/dd5dnl?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/dd5dnl?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Saint-Jean-de-Luz</city>
+      <zip>64500</zip>
+      <address> </address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
 <job>
   <company>Hively Hospitality - Mercure</company>
   <companydescription/>
@@ -1060,66 +1120,6 @@
       <zip>56340</zip>
       <address> </address>
       <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-<job>
-  <company>Hively Hospitality - Moxy</company>
-  <companydescription/>
-  <companyuuid>55</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>de40pq</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>General Manager Hotel Moxy Lisbon</title>
-<description><![CDATA[
-<p><strong>Our Moxy Lisbon hotel has 136 rooms and 40 employees. </strong></p><p>Joining the Moxy Lisbon it is joining Hively Hospitality, leader in hospitality and wellness, with 80 establishments in Europe operated under Accor or Marriott franchises, and our own brands such as Thalazur and Urban Hive. </p><p>As a GM, you will report to one of our Hively Operations Director and work with the Hively support teams.</p><p><br></p><p><strong>Your mission as a General Manager : </strong></p><ul><li>You manage all daily operational aspects of the hotel and its different sales points, in accordance with the vision of Hively Hospitality, the requirements of the Moxy brand and Marriott requirements, and local regulations, and in collaboration with the operations management and support team.</li><li>You aim for (or exceed!) the qualitative and quantitative objectives set for this hotel</li><li>You are a driving force for the development strategy and overall performance of the entire hotel and F&amp;B activity</li></ul><p>&nbsp;</p><p><strong>We offer you :</strong></p><ul><li>Cartão de refeição - pagamos o valor máximo</li><li>Seguro de saúde – pago pela empresa</li><li>Cartão dentário- desconto</li><li>Subsídio de transporte</li><li>Tarifas preferenciais para funcionários na Marriott e na Hively Hospitality</li></ul> <p><strong>Your experience and profile : </strong></p><ul><li>Language: Portuguese, English, French is a plus</li><li>Minimum of 3 years experience in a GM position and ideally knowing Marriott scope</li><li>Strong background in hotel and F&amp;B management with achieved profitability goals, while maintaining integrity and professionalism in your role.</li><li>Strong experience in a lifestyle hotel and a great affinity with its codes.</li><li>As a good leader, you demonstrate your commitment to the company's objectives through work ethics, integrity and respect for our values</li><li>Leadership, strong ability to work independently, creative and entrepreneurial spirit</li></ul><p><br></p><p><br></p>]]></description>
-  <startdate>2025-09-29</startdate>
-  <enddate></enddate>
-  <createddate>2025-08-22</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/de40pq?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/de40pq?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>Portugal</country>
-      <city>Lisboa</city>
-      <zip>1050-090</zip>
-      <address>2 a Avenida Duque de Loulé</address>
-      <countrycode>PT</countrycode>
       <region/>
     </location>
   </locations>
