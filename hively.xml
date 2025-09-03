@@ -1,8 +1,68 @@
 <source>
 <publisher>Cookorico</publisher>
 <publisherurl>https://www.cookorico.com</publisherurl>
-<lastupdatedat>2025-09-03 09:04</lastupdatedat>
+<lastupdatedat>2025-09-03 03:04</lastupdatedat>
 
+<job>
+  <company>Hively Hospitality - Thalazur</company>
+  <companydescription/>
+  <companyuuid>48</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>znpbem</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Esthéticien(ne) H/F</title>
+<description><![CDATA[
+<p>Thalazur Carnac occupe une situation privilégiée entre l’océan, les plages et l’Île aux&nbsp;Oiseaux, véritable havre de paix d’une faune et flore d’une incroyable diversité.&nbsp;Entre Océan et patrimoine légendaire des mégalithes, la nature est au cœur de&nbsp;notre activité et a inspiré à la fois notre histoire et nos espaces.</p><p>&nbsp;</p><p>Situé à 100m de la grande plage de Carnac, station balnéaire réputée du Morbihan, l'établissement Hôtel et Thalasso - Thalazur Carnac propose dans le cadre de sa réouverture début novembre 2025 et après rénovation totale, 200 chambres d’Hôtel 4*, une Résidence de 34 logements 3*, Restaurants et espace de séminaire.</p><p>Centre de Thalasso avec 70 cabines de soins dont 18 cabines Esthétique et Spa.</p><p>&nbsp;</p><p>Rattaché(e) à la Responsable Esthétique et Spa, vous<u> </u>aurez la chance de préparer, participer pleinement à cette réouverture très attendue et de vous épanouir dans un magnifique environnement.</p><p><br></p><p><strong>Votre mission :</strong></p><p>Prendre soin de nos clients !</p><ul><li class="ql-align-justify">Dispenser des soins visages, des soins corporels, des rituels ainsi que tous les soins entrant dans ses champs de compétences</li><li class="ql-align-justify">Personnaliser les protocoles de soins en fonction du type de peau de son/sa client(e) et de ses besoins</li><li class="ql-align-justify">Conseiller les clients concernant les produits de beauté</li><li class="ql-align-justify">Travail avec les produits Thalgo et Payot</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un contrat de 35h par semaine<strong> </strong>avec 2 jours de repos (centre ouvert à la clientèle 7j/7j)</li><li>Un 13ème mois dès 3 mois d'ancienneté payable mensuellement</li><li>tickets restaurants et chaque heure supplémentaire travaillée est comptabilisée (pointeuse)</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li>Parking privé pour le personnel</li><li>Uniforme fourni et service de blanchissage assuré</li></ul> <p><strong>Votre profil : </strong></p><ul><li>Expérience appréciée, envie de rejoindre une équipe unie, énergique et professionnelle</li><li>Parfaite connaissance de la peau, des cosmétiques, des diverses techniques de soins (visage et corps)</li><li>CAP/BP/BAC PRO ou BTS Esthétique</li><li>Motivée, organisée avec l'esprit d'équipe</li></ul><p><br></p><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p> </p>]]></description>
+  <startdate>2025-09-22</startdate>
+  <enddate></enddate>
+  <createddate>2025-09-03</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/znpbem?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/znpbem?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Carnac</city>
+      <zip>56340</zip>
+      <address>2 Avenue de l'Atlantique</address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
 <job>
   <company>Hively Hospitality - Thalazur</company>
   <companydescription/>
@@ -186,7 +246,7 @@
 <job>
   <company>Hively Hospitality - Thalazur</company>
   <companydescription/>
-  <companyuuid>3</companyuuid>
+  <companyuuid>3 </companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -664,66 +724,6 @@
   </salary>
 </job>
 <job>
-  <company>Hively Hospitality - Mercure</company>
-  <companydescription/>
-  <companyuuid>26</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>45cy0i</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Assistante Gouvernante H/F</title>
-<description><![CDATA[
-<p><strong>Notre hôtel : Le Mercure Blois Centre dispose de 96 chambres, 9 salles de réunion, une salle fitness et un espace détente avec piscine intérieure chauffée, jacuzzi, sauna et hammam. Le bar Wine Not ? et le restaurant Le Quai vous plongent dans le décor d'un atelier d'artisan atypique et ravissent vos papilles avec une carte des vins et des produits locaux.</strong></p><p>&nbsp;</p><p><strong>Votre mission : </strong></p><p>Prendre soin de nos clients en chouchoutant leurs espaces de vie ! Au quotidien, il s’agira de réaliser :</p><ul><li><span style="color: black;">Aux côtés de la Gouvernante, planifier, coordonner et contrôler l’activité de votre équipe.</span></li><li><span style="color: black;">Gérer les matériels, stocks et fournitures des produits d’accueil et d’entretien.</span></li><li><span style="color: black;">Assurer une hygiène parfaite dans les espaces réservés au séjour de la clientèle.</span></li><li>Effectuer le nettoyage des chambres et ponctuellement des parties communes.</li><li>Remplacer la Gouvernante lors de ces repos et congés payés.</li></ul><p>&nbsp;</p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire de 2.250 €/bruts par mois pour 37h par semaine<strong> </strong>avec 2 jours de repos consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li></ul> <p><strong>Votre profil :</strong></p><ul><li>Expérience de 5 ans réussie en hôtellerie, dont 2 ans en tant qu'Assistant(e) Gouvernant(e)</li><li>Qualités relationnelles</li><li>Maîtrise des outils informatiques : Word, Excel, Outlook, Extranets et Equalog serait un plus.</li><li>Envie de rejoindre une équipe unie, énergique et professionnelle</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p> </p>]]></description>
-  <startdate></startdate>
-  <enddate></enddate>
-  <createddate>2025-08-26</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/45cy0i?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/45cy0i?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Blois</city>
-      <zip>41000</zip>
-      <address>28 Quai Saint-Jean</address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-<job>
   <company>Hively Hospitality - Thalazur</company>
   <companydescription/>
   <companyuuid>5</companyuuid>
@@ -1059,66 +1059,6 @@
       <city>Levallois-Perret</city>
       <zip>92300</zip>
       <address> </address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-<job>
-  <company>Hively Hospitality - Moxy</company>
-  <companydescription/>
-  <companyuuid>23</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>vvklfb</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Adjoint de Direction H/F</title>
-<description><![CDATA[
-<p><strong>Notre hôtel : </strong>Situé entre le magnifique musée <strong>La Cité du Vin</strong> et le port emblématique des <strong>Bassins à flot</strong>, l’hôtel <strong>Moxy</strong> c’est une expérience locale et originale pour tous les voyageurs et locaux souhaitant découvrir Bordeaux autrement ! Son style s’inspire de l’univers industriel maritime, avec un lobby – bar – terrasse où <strong>« tout se passe »</strong>, et ses <strong>133 chambres</strong> (dont <strong>5 chambres exceptionnelles avec terrasses</strong> au dernier étage et vue imprenable sur les Bassins à flot), s’intègre parfaitement dans le quartier et apporte une touche vibrante aux quartiers Bacalan et Chartrons</p><p><br></p><p><strong>Votre mission</strong></p><ul><li class="ql-align-justify">Nous recherchons une personnalité dynamique et proactive, passionnée par l’hôtellerie lifestyle, capable de diriger une équipe afin d’offrir une <strong>expérience client exceptionnelle</strong> tout en comprenant et dépassant les objectifs du Moxy. En tant que leader vous êtes exigeant(e) envers vous-même et vous soutenez les membres de votre équipe dans un esprit «&nbsp;fun&nbsp;» . Vous maîtrisez toutes les opérations de l’établissement et votre réussite se reflète à travers celle de chaque membre de l’équipe que vous accompagnez.</li></ul><p><br></p><p class="ql-align-justify"><strong>Les bases du poste…</strong></p><p class="ql-align-justify"><strong>Assister l’équipe opérationnelle :</strong></p><p class="ql-align-justify">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;En collaboration avec le <strong>Captain (GM)</strong>, vous définissez l’ADN lifestyle de l’établissement à diffuser à toute l’équipe.</p><p class="ql-align-justify">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vous participez au <strong>recrutement de tous les membres de l’équipe</strong>.</p><p class="ql-align-justify">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vous coordonnez tous les objectifs (chambres, restauration, sécurité, etc.) et vous assurez leur bonne mise en œuvre.</p><p class="ql-align-justify">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vous contrôlez et appliquez, avec les experts de l’équipe, les systèmes Marriott : <strong>Opera PMS, Symphony, MARSHA, Medallia, applications mobiles, programme Bonvoy…</strong></p><p class="ql-align-justify">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vous développez les compétences cocktails, boissons et culinaires de l’équipe.</p><p class="ql-align-justify">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vous créez et suivez les <strong>fiches techniques F&amp;B</strong>, contrôlez les coûts et améliorez les performances.</p><p class="ql-align-justify">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vous élaborez tous les plats « prêts à cuire » et composez salades, poké bowls… selon les standards Moxy.</p><p class="ql-align-justify">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vous adoptez une <strong>attitude exemplaire</strong>, pleine d’énergie et d’esprit d’équipe.</p><p class="ql-align-justify">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vous identifiez les besoins des équipes et des clients, élaborez des stratégies avec le Captain (GM) pour répondre aux attentes et renforcer les points forts.</p><p class="ql-align-justify">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vous aidez l’équipe à comprendre et anticiper l’évolution des attentes clients.</p><p class="ql-align-justify"><br></p><p class="ql-align-justify"><strong>Soutien aux fonctions opérationnelles :</strong></p><p class="ql-align-justify">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Optimisation et adaptations des procédures opérationnelles F&amp;B et chambres avec l’équipe.</p><p class="ql-align-justify">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Communication des objectifs et résultats à l’ensemble de l’équipe.</p><p class="ql-align-justify">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Approche proactive des préoccupations des membres de l’équipe.</p><p class="ql-align-justify">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Participation aux tâches opérationnelles</p><p class="ql-align-justify">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Appliquer la vision stratégique</p><p class="ql-align-justify">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Respect des normes <strong>légales, sécurité incendie, hygiène</strong>.</p><p class="ql-align-justify">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Application des standards de marque dans les chambres et les espaces publics.</p><p class="ql-align-justify"><br></p><p class="ql-align-justify"><strong>Gestion du parcours client :</strong></p><p class="ql-align-justify">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mise en place d’un <strong>accueil original et personnalisé</strong> selon les standards Moxy.</p><p class="ql-align-justify">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Analyse constante des retours clients pour adapter la stratégie.</p><p class="ql-align-justify">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Valorisation de l’expérience client de manière <strong>fun et décalée</strong>.</p><p class="ql-align-justify">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Organisation hebdomadaire d’événements avec le Captain et le Directeur Commercial : <strong>musique, art, conférences, sport, gastronomie…</strong></p><p class="ql-align-justify"><strong>Gestion de la rentabilité :</strong></p><p class="ql-align-justify">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Connaissance approfondie des exigences de qualité Moxy et leur mise en œuvre parfaite.</p><p class="ql-align-justify">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Collaboration avec le GM, la Directrice Commercial et le Revenue Manager pour atteindre les <strong>objectifs financiers</strong>.</p><p class="ql-align-justify">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Analyse des états financiers, rapports de ventes et d’activité, mise en place de stratégies d’optimisation.</p><p class="ql-align-justify">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Challenge de l’équipe pour atteindre/dépasser les objectifs en hébergement et F&amp;B.</p><p class="ql-align-justify">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Réduction des coûts F&amp;B et bonne gestion des flux de trésorerie (hébergement et F&amp;B), avec transmission au service financier.</p><p class="ql-align-justify"><br></p><p class="ql-align-justify"><strong>Activité RH :</strong></p><p class="ql-align-justify">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fidéliser les membres de l’équipe avec le GM.</p><p class="ql-align-justify">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intégration complète des nouveaux collaborateurs.</p><p class="ql-align-justify">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gestion RH : objectifs, évaluations, plannings, congés…</p><p class="ql-align-justify">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Entretiens individuels régulier pour accompagner le développement personnel de chaque membre de l’équipe.</p><p class="ql-align-justify">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Leadership exemplaire et maintien d’un <strong>fort esprit d’équipe</strong> et d’une <strong>excellente ambiance de travail</strong>.</p><p class="ql-align-justify"><br></p><p><br></p><ul><li><strong>Nous vous proposons :</strong></li><li>Une prime sur objectifs pouvant aller jusqu'à 1 mois de salaire</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li>75% des frais de transport</li></ul> <p><strong>Votre profil : </strong></p><ul><li>Être autonome, polyvalent(e), disponible et proactif</li><li>Disposer d'un bon relationnel client</li><li>Maîtrise du français et de l'anglais - écrit et parlé</li><li>Facultatif : connaissance des logiciels Opera PMS et Symphony</li></ul><p><br></p><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p> </p>]]></description>
-  <startdate></startdate>
-  <enddate></enddate>
-  <createddate>2025-08-26</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/vvklfb?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/vvklfb?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Bordeaux</city>
-      <zip>33000</zip>
-      <address>25 Quai du Maroc</address>
       <countrycode>FR</countrycode>
       <region/>
     </location>
