@@ -1,8 +1,68 @@
 <source>
 <publisher>Cookorico</publisher>
 <publisherurl>https://www.cookorico.com</publisherurl>
-<lastupdatedat>2025-09-05 09:04</lastupdatedat>
+<lastupdatedat>2025-09-05 03:04</lastupdatedat>
 
+<job>
+  <company>Hively Hospitality - Thalazur</company>
+  <companydescription/>
+  <companyuuid>10</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>704f61</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Technicien de maintenance H/F</title>
+<description><![CDATA[
+<p><strong>Notre hôtel</strong> : Etablissement de Thalasso, hôtel, résidence, restaurant, séminaire</p><p><br></p><p><strong>Votre mission</strong></p><p>Contribuer à un séjour client joyeux et sans faux-pas ! Au quotidien, il s’agira de :</p><ul><li>Vous contribuez au fonctionnement technique de l’ensemble des équipements de l’hôtel et en assurez le suivi : mise en conformité des chambres et sécurité des espaces communs. Pour que le confort des clients soit toujours optimal !&nbsp;</li><li>Quotidiennement, vous vous attachez à la vérification des installations techniques (électricité, plomberie, …), aux réparations, à l’application des procédures en vigueur sur l’entretien du matériel et la gestion des consommables.&nbsp;</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un contrat de 39h par semaine avec 2 jours de repos consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li></ul><p><br></p> <p><strong>Votre profil :</strong></p><ul><li>Attentif aux autres et à l’environnement qui vous entoure : vous contribuez à rendre le séjour de nos clients aussi irréprochable qu’inoubliable en résolvant les couacs techniques au fur et à mesure</li><li>Rigoureux(se), autonome et organisé(e), vous êtes réactif(ve) quand une demande d’assistance est formulée.</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p> </p>]]></description>
+  <startdate>2025-09-15</startdate>
+  <enddate></enddate>
+  <createddate>2025-09-05</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/704f61?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/704f61?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Antibes</city>
+      <zip>06600</zip>
+      <address>770 Chemin des Moyennes Bréguières</address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
 <job>
   <company>Hively Hospitality - Renaissance</company>
   <companydescription/>
@@ -66,7 +126,7 @@
 <job>
   <company>Hively Hospitality - Novotel suites</company>
   <companydescription/>
-  <companyuuid>67</companyuuid>
+  <companyuuid>67 </companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -998,66 +1058,6 @@
       <country>France</country>
       <city>La Rochelle</city>
       <zip>17000</zip>
-      <address> </address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-<job>
-  <company>Hively Hospitality - Thalazur</company>
-  <companydescription/>
-  <companyuuid>48</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>xcn40m</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Agent de saisie service réservation H/F</title>
-<description><![CDATA[
-<p><strong>Notre marque </strong>: Thalazur,&nbsp;l'art de prendre soin de vous</p><p>&nbsp;</p><p><strong>Grâce à son expertise reconnue en thalassothérapie, hôtellerie et Spa</strong>, la marque&nbsp;<strong>Thalazur</strong>&nbsp;rayonne depuis plus de 20 ans sur 9 destinations en France. De la Normandie à la Méditerranée en passant par l'Atlantique, Thalazur offre son savoir faire à travers une large sélection de séjours&nbsp;<strong>bien-être</strong>&nbsp;(de 1 à 6 jours et plus).</p><p>&nbsp;</p><p><strong>Au quotidien, il s’agira d'assurer :</strong></p><ul><li>La saisie de l'ensemble des séjours sur les logiciels de réservation.</li></ul><p>&nbsp;</p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire de 2060 €/bruts par mois pour 39h par semaine<strong> </strong>avec 2 jours de repos consécutifs</li><li>Des avantages nourriture (170€/mois)</li><li>Chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus</li><li>Possibilité d'adhésion à une Mutuelle et Prévoyance offrant des garanties et une couverture maximale</li></ul> <p><strong>Votre profil :</strong></p><p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>Organisé(e), rigoureux(euse), vous avez un esprit d'équipe</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Connaissances bureautiques : Pack office, Outlook</p><p><strong>&nbsp;</strong></p><p><strong>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</strong></p><p><br></p><p> </p>]]></description>
-  <startdate>2025-09-08</startdate>
-  <enddate></enddate>
-  <createddate>2025-08-25</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/xcn40m?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/xcn40m?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Carnac</city>
-      <zip>56340</zip>
       <address> </address>
       <countrycode>FR</countrycode>
       <region/>
