@@ -1,8 +1,68 @@
 <source>
 <publisher>Cookorico</publisher>
 <publisherurl>https://www.cookorico.com</publisherurl>
-<lastupdatedat>2025-09-08 09:04</lastupdatedat>
+<lastupdatedat>2025-09-08 03:07</lastupdatedat>
 
+<job>
+  <company>Hively Hospitality - Thalazur</company>
+  <companydescription/>
+  <companyuuid>9</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>wl0q45</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Commis de cuisine H/F CDI Temps Plein (Non Logé)</title>
+<description><![CDATA[
+<p><strong>Notre hôtel :</strong><strong style="color: rgb(230, 0, 0);"> </strong>Thalazur Arcachon Hotel ****, Thalassothérapie et Résidence</p><p>&nbsp;</p><p><strong>Votre mission :</strong></p><p><strong>Prendre soin des papilles de nos clients :</strong></p><ul><li>Vous êtes sous la responsabilité du Chef de Cuisine et de son second de cuisine pour l’exécution des plats et des recettes de notre restaurant</li><li>Vous effectuez la mise en place nécessaire à la réalisation des plats et participez à l'envoi en salle des assiettes dressées.&nbsp;</li></ul><p>&nbsp;</p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire brut de 2041€ brut/mois avec un contrat de 39h par semaine<strong> </strong>avec 2 jours de repos consécutifs.</li></ul><p>A cela s'ajoute :</p><ul><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>L'Avantage en nature</li><li>Une prime de coupure à partir de 3h d’interruption&nbsp;</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li>Une participation aux bénéfices (quand il y en a)</li></ul><p><br></p> <p><strong>Votre profil : </strong></p><ul><li>Première expérience réussie en cuisine, envie de rejoindre une équipe unie, énergique et professionnelle</li><li>Vous maîtrisez les principales techniques culinaires et avez envie d'apprendre!</li></ul><p><br></p><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p> </p>]]></description>
+  <startdate></startdate>
+  <enddate></enddate>
+  <createddate>2025-09-08</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/wl0q45?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/wl0q45?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Arcachon</city>
+      <zip>33120</zip>
+      <address>9 Avenue du Parc</address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
 <job>
   <company>Hively Hospitality - Thalazur</company>
   <companydescription/>
@@ -846,7 +906,7 @@
 <job>
   <company>Hively Hospitality - Renaissance</company>
   <companydescription/>
-  <companyuuid>11</companyuuid>
+  <companyuuid>11 </companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
