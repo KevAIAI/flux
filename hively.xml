@@ -1,9 +1,72 @@
 <source>
   <publisher>Cookorico</publisher>
   <publisherurl>https://www.cookorico.com</publisherurl>
-  <lastupdatedat>2025-09-18 15:03</lastupdatedat>
+  <lastupdatedat>2025-09-19 09:03</lastupdatedat>
 
  <job>
+  <company>Hively Hospitality - Novotel</company>
+  <companydescription/>
+  <companyuuid>20</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>eilgl9</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Chef de rang H/F</title>
+  <description><![CDATA[
+ <p><strong>Notre hôtel : </strong>Le Novotel Paris Porte d’Orléans est un hôtel 4 étoiles, composé de 150 chambres, le restaurant «&nbsp;Doda&nbsp;», un bar et 4 salles de réunions.</p><p><strong>&nbsp;</strong></p><p><strong>Nous sommes à la recherche d’un(e) Chef(fe) de Rang pour compléter notre équipe ! </strong></p><p><strong>Si vous travaillez dans le domaine de la restauration et que vous êtes motivé(e), ce poste pourrait vous convenir.</strong></p><p><strong>&nbsp;</strong></p><p><strong>Vos missions :</strong></p><p><strong>Prendre soin de nos clients au restaurant, au bar et au petit déjeuner.</strong></p><p><br></p><ul><li>Être attentif.ve aux autres et à l’environnement qui vous entoure : vous contribuez à rendre le séjour de nos clients aussi irréprochable qu’inoubliable en apportant votre petite touche personnelle !</li><li>Vous assurez un accueil et un service personnalisés et chaleureux, le bien-être des clients est toujours votre priorité. Vous êtes garant de leur fidélisation.</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><p><br></p><ul><li>Un contrat de 39h par semaine avec 2 jours de repos consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande</li><li>Un Plan d’Epargne Entreprise avec abondement</li><li>Des avantages nourriture (170€/mois)</li><li>Chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus !</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et prévoyance offrant des garanties et une couverture maximale</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…)</li></ul><p><br></p>
+ <p><strong>Votre profil : </strong></p><p><br></p><ul><li><strong>Première expérience réussie en restauration</strong>, qualités relationnelles, <strong>envie </strong>de rejoindre une équipe unie, énergique et professionnelle</li><li>Très à l’aise tant dans la relation client que l'exécution du dressage et du débarrassage des tables en salle. (Votre adresse naturelle est un atout !)&nbsp;&nbsp;</li><li>Langues : Français, Anglais</li></ul><p><br></p><p><strong>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</strong></p><p><br></p><p></p>
+]]></description>
+  <startdate>2025-10-01</startdate>
+  <enddate></enddate>
+  <createddate>2025-09-18</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/eilgl9?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/eilgl9?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Paris</city>
+      <zip>75014</zip>
+      <address>21 Boulevard Romain Rolland</address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
+
+<job>
   <company>Hively Hospitality - Thalazur</company>
   <companydescription/>
   <companyuuid>3</companyuuid>
@@ -1175,69 +1238,6 @@
       <city>Carnac</city>
       <zip>56340</zip>
       <address>2 Avenue de l'Atlantique</address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-
-<job>
-  <company>Hively Hospitality - Thalazur</company>
-  <companydescription/>
-  <companyuuid>3</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>jblbqz</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Apprenti réceptionniste H/F</title>
-  <description><![CDATA[
- <p><strong>Notre hôtel :</strong><strong style="color: rgb(230, 0, 0);"> </strong>Idéalement situé sur la Côte Basque et en plein cœur historique de Saint Jean de Luz, l'établissement Thalazur a été entièrement rénové en 2020. L’hôtel Thalazur classé **** est composé de 106 chambres et suites, d’un restaurant, bar, salon de thé, spa et d’un centre de thalassothérapie ainsi que de 8 salles de séminaires. Nous recherchons un(e) apprenti(e) réceptionniste pour rejoindre notre équipe composée de 13 personnes.</p><p>&nbsp;</p><p><strong>Votre mission :</strong></p><p>Accueillir nos clients avec le sourire et être garant de leur bien être ! Au quotidien, il s’agira de réaliser :</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;Les check-in et check-out de nos clients</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;Coordonner le travail avec la gouvernante ou le service d’étages pour l’entretien des chambres.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;Gérer la facturation, l’encaissement et respecter les offres commerciales de la marque.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;Répondre aux différentes demandes des clients par téléphone, mail ou en direct.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;Effectuer des tâches de conciergerie (réservation de taxis et restaurants)</p><p>·&nbsp;&nbsp;&nbsp;Traiter les demandes de réservations par téléphone et mail.</p><p>·	Saisir les réservations effectuées en ligne sur notre site web ou via nos partenaires</p><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Deux jours de repos consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture (jusqu'à 170€/mois selon le nombre de jours travaillés)</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li>Forfait mobilité récompensant les mobilités douces à hauteur de 25€/mois (conditions applicables)</li><li>Prise en charge de 100% des abonnements mensuels de transports en commun sur le trajet domicile - travail sur les jours en entreprise</li></ul>
- <p><br></p><p><strong>Votre profil :</strong></p><ul><li><span style="color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);">Enjoué à l'idée de travailler en équipe.</span></li><li>Attentif aux autres et à l’environnement qui vous entoure : vous contribuez à rendre le séjour de nos clients aussi irréprochable qu’inoubliable en apportant votre petite touche personnelle !</li><li>Très à l’aise en français et en anglais, <span style="color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);">l'espagnol est un vrai plus car vous serez amené à accueillir une part importante de clients espagnols en raison de notre proximité avec la frontière.&nbsp;</span></li><li><span style="color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);">Nous recherchons une personne avant tout motivée, curieuse et à l'aise avec les clients .</span>La rigueur sera appréciée pour ce poste où se mêlent diverses tâches administratives.</li><li><strong><em>Possibilité d'un contrat d'alternance de 12, 24 ou 36 mois selon le diplôme préparé.</em></strong></li></ul><p><br></p><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
-]]></description>
-  <startdate>2025-09-22</startdate>
-  <enddate></enddate>
-  <createddate>2025-09-12</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/jblbqz?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/jblbqz?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Saint-Jean-de-Luz</city>
-      <zip>64500</zip>
-      <address></address>
       <countrycode>FR</countrycode>
       <region/>
     </location>
