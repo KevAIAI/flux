@@ -1,9 +1,72 @@
 <source>
   <publisher>Cookorico</publisher>
   <publisherurl>https://www.cookorico.com</publisherurl>
-  <lastupdatedat>2025-09-19 15:02</lastupdatedat>
+  <lastupdatedat>2025-09-20 09:02</lastupdatedat>
 
  <job>
+  <company>Hively Hospitality - Thalazur</company>
+  <companydescription/>
+  <companyuuid>5</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>7vjifr</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Réceptionniste H/F</title>
+  <description><![CDATA[
+ <p><strong>Notre hôtel : </strong>Thalazur PORT CAMARGUE - Hôtel 4* de 87 chambres relié à son centre de thalassothérapie ouvre ses portes à un nouveau collaborateur pour rejoindre l'équipe de réception afin d'y apporter son enthousiasme et sa bonne humeur.</p><p><br></p><p><br></p><p><strong>Votre mission :</strong></p><p><strong>Accueillir nos clients avec le sourire et être garant de leur bien être ! Au quotidien, il s’agira de réaliser :</strong></p><ul><li>Les check-in et check-out de nos clients</li><li>L'encaissement et la facturation</li><li>La préparation et la vérification des différentes réservations balnéaires, curistes ou séminaires ...</li><li>Principalement en poste sur les matins ou les soirs (pas de postes de coupure).</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>1 Contrat à 39h  .</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement.</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li></ul>
+ <p><strong>Votre profil :</strong></p><ul><li>Attentif aux autres et à l’environnement qui vous entoure : vous contribuez à rendre le séjour de nos clients aussi irréprochable qu’inoubliable en apportant votre petite touche personnelle !</li><li>Très à l’aise en français et en anglais</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
+]]></description>
+  <startdate>2025-09-25</startdate>
+  <enddate></enddate>
+  <createddate>2025-09-19</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/7vjifr?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/7vjifr?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Le Grau-du-Roi</city>
+      <zip>30240</zip>
+      <address>227 Route des Marines</address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
+
+<job>
   <company>Hively Hospitality - Thalazur</company>
   <companydescription/>
   <companyuuid>8</companyuuid>
@@ -1175,69 +1238,6 @@
       <city>Suresnes</city>
       <zip>92150</zip>
       <address>7 Rue du Port aux Vins</address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-
-<job>
-  <company>Hively Hospitality - Thalazur</company>
-  <companydescription/>
-  <companyuuid>7</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>0lx2yk</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Second de cuisine H/F</title>
-  <description><![CDATA[
- <p><strong>Notre hôtel : </strong>Thalazur Cabourg - Thalassothérapie - Hôtel **** , Restaurant &amp; Spa.</p><p>Dans un cadre naturel et sauvage l’institut de Thalassothérapie et le Spa invite nos clients à la détente et au bien-être.</p><p>&nbsp;</p><p>La philosophie de notre restauration, commune aux établissements Thalazur, est de proposer une restauration savoureuse et locale à base de produits de saison, pour une consommation responsable et saine.</p><p>C’est le concept des Cinq S, développé par nos chefs de cuisine : S comme des produits de Saison remplis de Saveurs, issus de Situations géographiques exceptionnelles, cuisinés Sainement avec Simplicité.</p><p><br></p><p><br></p><p><strong>Votre mission :</strong></p><p>Prendre soin des papilles de nos clients en leur proposant une cuisine saine et gourmande !</p><p>&nbsp;</p><ul><li>Binôme du 1er Second de cuisine, vous formez ainsi avec le Chef de cuisine un véritable Trio dans l'ensemble des missions</li><li>Vous êtes force de proposition sur les cartes du restaurant</li><li>Vous veillez à la bonne application des normes HACCP</li><li>Vous participez à la gestion des commandes et aux inventaires</li><li>Vous animez l'équipe en cuisine en véritable relais du Chef et formez au fur et à mesure pour faire progresser nos talents !</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Salaire selon expérience</li><li>Un contrat de 39h par semaine<strong> </strong>avec 2 jours de repos consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus, participation aux résultats.</li><li>Valorisation de la coupure à partir de 3h d'interruption</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…)</li><li>Prise en charge 75% transport en commun</li></ul>
- <p><strong>Votre profil : </strong></p><ul><li>Vous êtes passionné(e) de cuisine,</li><li>Rigoureux(se) et dynamique, vous avez le goût du contact et le sens du service</li><li>Vous avez une expérience confirmée sur un poste similaire où vous avez pu travailler&nbsp;votre sens de l'organisation et développer le souci du détail.</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
-]]></description>
-  <startdate>2025-10-20</startdate>
-  <enddate></enddate>
-  <createddate>2025-09-14</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/0lx2yk?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/0lx2yk?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Cabourg</city>
-      <zip>14390</zip>
-      <address>44 Avenue Charles de Gaulle</address>
       <countrycode>FR</countrycode>
       <region/>
     </location>
