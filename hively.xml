@@ -1,9 +1,72 @@
 <source>
   <publisher>Cookorico</publisher>
   <publisherurl>https://www.cookorico.com</publisherurl>
-  <lastupdatedat>2025-09-24 15:02</lastupdatedat>
+  <lastupdatedat>2025-09-25 09:02</lastupdatedat>
 
  <job>
+  <company>Hively Hospitality - Mercure</company>
+  <companydescription/>
+  <companyuuid>47</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>23mw0l</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Assistant Comptabilité et Ressources Humaines H/F</title>
+  <description><![CDATA[
+ <p><strong>Notre hôtel : </strong></p><p>Envie de rejoindre une équipe passionnée dans un hôtel 4* au cœur de La Rochelle, face au Vieux Port et aux Tours emblématiques de la ville ?</p><p>Le <strong>Mercure La Rochelle Vieux-Port Sud</strong> recherche un <strong>Assistant Comptabilité &amp; Ressources Humaines H/F</strong> en CDI pour compléter son équipe dynamique de 90 collaborateurs.</p><p><br></p><p><strong>Votre mission</strong></p><p>Au quotidien, il s’agira de :</p><ul><li>&nbsp;Réaliser la tenue des écritures comptables de l’hôtel, le traitement, l’imputation et la saisie des factures et règlements fournisseurs</li><li>&nbsp;Lettrage des comptes</li><li>&nbsp;Contrôle des caisses</li><li class="ql-align-justify">Participer aux arrêtés de comptes mensuels</li><li class="ql-align-justify">Gérer l’administratif RH (gestion du personnel, contrats, visites médicales, etc.)</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire de 2054 €/bruts par mois pour 35h par semaine avec 2 jours de repos consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture, une indemnité transport et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li></ul><p><br></p>
+ <p><strong>Votre profil :</strong></p><ul><li>Intérêt pour la comptabilité et les ressources humaines.</li><li>Formation BTS préférable</li><li>Capacité à travailler de manière organisée et rigoureuse.</li><li>Bonnes compétences en communication écrite et verbale.</li><li>Esprit d'équipe et capacité à collaborer efficacement.</li><li>&nbsp;Adaptabilité et désir d'apprendre.</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
+]]></description>
+  <startdate>2025-10-20</startdate>
+  <enddate></enddate>
+  <createddate>2025-09-24</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/23mw0l?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/23mw0l?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>La Rochelle</city>
+      <zip>17000</zip>
+      <address></address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
+
+<job>
   <company>Hively Hospitality - Thalazur</company>
   <companydescription/>
   <companyuuid>10</companyuuid>
@@ -1077,7 +1140,7 @@
 <job>
   <company>Hively Hospitality - Thalazur</company>
   <companydescription/>
-  <companyuuid>null</companyuuid>
+  <companyuuid>5</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -1175,69 +1238,6 @@
       <city>Beaune</city>
       <zip>21200</zip>
       <address></address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-
-<job>
-  <company>Hively Hospitality - Novotel</company>
-  <companydescription/>
-  <companyuuid>22</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>y3k67d</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Réceptionniste Tournant 3J / Commercial 2J H/F</title>
-  <description><![CDATA[
- <p><strong>Notre hôtel : </strong>Le Novotel Beaune est un hôtel 4 étoiles facilement accessible depuis l’A6 et à quelques minutes du vieux Beaune et de ses célèbres Hospices. L’hôtel dispose du wifi gratuit via la fibre, de chambres spacieuses, insonorisées et climatisées, d’un bar, d’un restaurant ‘le Wine Please!’, avec terrasse (à la belle saison), d’une salle de sport, des agrès extérieurs ainsi que d’un espace de jeux pour les enfants. Pour les rendez-vous professionnels, des salles de réunion modulables et équipées, s’adaptent à vos évènements. Un parking gratuit, sécurisé, disponible</p><p>et équipé de bornes pour véhicules électriques. </p><p><br></p><p><strong>Votre mission</strong></p><p>Accueillir nos clients avec le sourire! Au quotidien, il s’agira de réaliser :</p><ul><li>Les check-in et check-out de nos clients</li><li>L'encaissement et la facturation</li><li>Répondre aux demandes commerciales 2 jours par semaine sous la supervision de notre responsable commerciale</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire de 1990€/bruts par mois pour 39h par semaine avec 2 jours de repos consécutifs.</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture (170€/mois) et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Des tarifs préférentiels dans notre réseau d’établissements.</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales.</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li>Une prime de complet </li></ul>
- <p><strong>Votre profil :</strong></p><ul><li>Attentif.ve aux autres et à l’environnement qui vous entoure : vous contribuez à rendre le séjour de nos clients aussi irréprochable qu’inoubliable en apportant votre petite touche personnelle !</li><li>Très à l’aise en français et en anglais</li><li>Compétences en gestion de projet</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
-]]></description>
-  <startdate>2025-10-01</startdate>
-  <enddate></enddate>
-  <createddate>2025-09-16</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/y3k67d?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/y3k67d?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Beaune</city>
-      <zip>21200</zip>
-      <address>25 Avenue Charles de Gaulle</address>
       <countrycode>FR</countrycode>
       <region/>
     </location>
