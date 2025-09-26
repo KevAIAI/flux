@@ -1,9 +1,198 @@
 <source>
   <publisher>Cookorico</publisher>
   <publisherurl>https://www.cookorico.com</publisherurl>
-  <lastupdatedat>2025-09-26 09:02</lastupdatedat>
+  <lastupdatedat>2025-09-26 15:02</lastupdatedat>
 
  <job>
+  <company>Hively Hospitality - Novotel suites</company>
+  <companydescription/>
+  <companyuuid>16</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>bseamk</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Réceptionniste de nuit/Night Auditor H/F</title>
+  <description><![CDATA[
+ <p><strong>Notre hôtel : </strong></p><p><span style="color: rgb(62, 61, 72); background-color: white;">Situé au pied du métro ligne 13, station Porte de Vanves et de la station de tramway T3A, le Novotel Suites Paris Expo Porte de Versailles est à 5mn de la gare Montparnasse, à proximité de Montrouge et des grands sites touristiques parisiens. Les différentes lignes de transports en commun près de notre établissement permettent à notre clientèle locale et internationale d'accéder en 5 minutes au Parc des Expositions de Porte de Versailles, en 20 minutes à la tour Eiffel, aux Champs-Élysées et au Quartier latin.</span></p><p><strong>&nbsp;</strong></p><p><span style="color: rgb(62, 61, 72); background-color: white;">Vous évoluerez dans un établissement moderne labelisé Clef Verte, certifié HQE à la décoration épurée, offrant 99 suites de 30 m² toutes climatisées. Notre Clientèle a tout le loisir de se restaurer grâce à notre boutique gourmande et notre offre de snacking, et de se rafraîchir à notre bar ouvert jusqu'à minuit. Enfin, pour les plus courageux, une salle de sport est à disposition de 8h00 à 22h00.&nbsp;</span></p><p><br></p><p><strong>Votre mission : </strong></p><p><strong>Accueillir nos clients avec le sourire, même la nuit ! Au quotidien, il s’agira de :</strong></p><ul><li>Effectuer les check-in et check-out de nos clients et répondre à leurs demandes.</li><li>Réaliser la facturation et les encaissements, ainsi que les opérations de clôture de la journée.</li><li>Traiter les demandes de réservations.</li><li>Mettre en place le buffet petit-déjeuner pour une nouvelle journée qui démarre!</li><li>Veiller à la sécurité des clients et de l''hôtel.</li><li>Réceptionner les livraisons.</li><li>Garantir la propreté du lobby et de la réception.</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire de 825€/bruts par mois pour 16h par semaine pour 2 nuits de travail consécutifs, à savoir les nuits du vendredi et du samedi.</li><li>A cela, s'ajoute, un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture (8.44€/nuit travaillée) et chaque heure supplémentaire travaillée est rémunérée!</li><li>Chaque nuit travaillée est indemnisée à hauteur de 10€ bruts.</li><li>Une prise en charge du titre de transport à hauteur de 75%!</li><li>Des tarifs préférentiels dans notre réseau d’établissements en France et en Europe!</li><li>Mutuelle et prévoyance offrant des garanties et une couverture maximales.</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…).</li><li>Prime de complet.</li><li>Participation au Staff Event</li></ul>
+ <p><strong>Votre profil :</strong></p><ul><li>Idéalement 1 an d'expérience, première expérience également acceptée.</li><li>Langues anglais impératif et une seconde langue serait appréciée</li><li>PMS : FOLS - Formation à la prise en main du logiciel assurée en interne.</li></ul><p><br></p><p><strong>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</strong></p><p></p>
+]]></description>
+  <startdate>2025-10-10</startdate>
+  <enddate></enddate>
+  <createddate>2025-09-26</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/bseamk?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/bseamk?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Paris</city>
+      <zip>75014</zip>
+      <address>4 Boulevard Brune</address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
+
+<job>
+  <company>Hively Hospitality - Ibis Styles</company>
+  <companydescription/>
+  <companyuuid>28</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>8frsv1</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Equipier petit-déjeuner H/F - Temps partiel 28 H / Semaine</title>
+  <description><![CDATA[
+ <p><strong>Votre mission</strong></p><p>Permettre à nos clients de bien commencer leur journée ! Au quotidien, il s’agira d’assurer :</p><ul><li>La mise en place et le réassort du buffet</li><li>Le service en salle</li><li>La préparation des produits pour le service du lendemain</li></ul><p>&nbsp;</p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire de 1441 €/bruts par mois pour 28h par semaine avec 2 jours de repos consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture (170€/mois) et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li></ul>
+ <p><strong>Votre profil : </strong></p><ul><li>Langues : français impératif (anglais optionnel)</li><li>Première expérience réussie en restauration, qualités relationnelles, envie de rejoindre une équipe unie, énergique et professionnelle</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
+]]></description>
+  <startdate>2024-12-02</startdate>
+  <enddate></enddate>
+  <createddate>2025-09-26</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/8frsv1?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/8frsv1?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Nice</city>
+      <zip>06300</zip>
+      <address>127 Boulevard René Cassin</address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
+
+<job>
+  <company>Hively Hospitality - Thalazur</company>
+  <companydescription/>
+  <companyuuid>8</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>p312o4</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Commis de cuisine - Service petit déjeuner H/F</title>
+  <description><![CDATA[
+ <p><strong>Notre hôtel : </strong>Hôtel Ile Rousse ***** - Thalazur BANDOL (83)</p><p><br></p><p><strong>Votre mission : </strong></p><p>Prendre soin des papilles de nos clients :</p><ul><li>Vous êtes sous la responsabilité du Chef Exécutif Martin FERAGUS pour l’exécution du buffet et des recettes au service Petit déjeuner principalement. </li><li>Vous effectuez la mise en place nécessaire à la réalisation du buffet petit déjeuner et participez à l'envoi en salle des assiettes dressées (crêpes, œufs, gaufres, etc...)</li><li>Vous serez amené à travailler au minimum 2 jours par semaine au service petit déjeuner à partir de 5h30, puis éventuellement au restaurant Le Bistrot Lumière ou Les Oliviers le reste de la semaine. </li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un contrat de 39h par semaine<strong> </strong>à temps plein avec 2 jours de repos consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus ! </li><li>Le cas échéant : Valorisation de la coupure à partir de 3h d’interruption&nbsp;</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li>Prise en charge 75% transports en commun</li><li>Logement possible gratuitement. </li></ul>
+ <p><strong>Votre profil : </strong></p><ul><li>Première expérience réussie en cuisine, envie de rejoindre une équipe unie, énergique et professionnelle</li><li>Vous maîtrisez les principales techniques culinaires et avez envie d'apprendre!</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
+]]></description>
+  <startdate>2025-10-01</startdate>
+  <enddate></enddate>
+  <createddate>2025-09-26</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/p312o4?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/p312o4?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Bandol</city>
+      <zip></zip>
+      <address></address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
+
+<job>
   <company>Hively Hospitality - Thalazur</company>
   <companydescription/>
   <companyuuid>4</companyuuid>
@@ -1049,195 +1238,6 @@
       <city>Paris</city>
       <zip>75014</zip>
       <address>21 Boulevard Romain Rolland</address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-
-<job>
-  <company>Hively Hospitality - Thalazur</company>
-  <companydescription/>
-  <companyuuid>3</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>m3mq9h</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Educateur sportif et Maitre Nageur Sauveteur diplômé BPJEPS et BEESAN ou BNSSA H/F</title>
-  <description><![CDATA[
- <p><strong>Notre site </strong>: Thalazur Saint Jean-de-Luz</p><p>&nbsp;</p><p><strong>Votre mission :</strong></p><p><strong>Apporter du bien-être à nos clients, grâce au sport et à votre énergie ! Au quotidien il s'agira de :</strong></p><ul><li>Animer les activités physiques (Fitness &amp; Aqua-Fitness) proposées dans le cadre de la marque Thalazur;</li><li>Faire preuve de pédagogie et de conseils envers nos clients</li></ul><p>&nbsp;</p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire de 2155 €/bruts par mois ICN inclus pour 35h par semaine avec 2 jours de repos consécutifs (ICN inclus)</li><li>Un cadre de travail unique devant l'OCEAN.</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement,<span style="color: rgb(230, 0, 0);"> </span>et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximale</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li></ul>
- <p><strong>Votre profil :</strong></p><ul><li><strong><u>Obligatoire</u></strong> vous êtes titulaire du <strong><u>BEESAN</u></strong> ou <strong><u>BPJEPS Activités de la natation &amp; Métiers de la forme ou BPJEPS Activités de la Forme </u></strong></li><li><strong>Dynamique et autonome</strong></li></ul><p><br></p><p><strong>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</strong></p><p><br></p><p><br></p><p><br></p><p></p>
-]]></description>
-  <startdate>2025-10-20</startdate>
-  <enddate></enddate>
-  <createddate>2025-09-17</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/m3mq9h?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/m3mq9h?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Saint-Jean-de-Luz</city>
-      <zip>64500</zip>
-      <address>Place Maurice Ravel</address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-
-<job>
-  <company>Hively Hospitality - Thalazur</company>
-  <companydescription/>
-  <companyuuid>10</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>sespqe</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Second de cuisine H/F</title>
-  <description><![CDATA[
- <h3><strong>Notre lieu, notre engagement :</strong></h3><p>Bienvenue à <strong>Thalazur Antibes</strong>, un havre de bien-être en bord de mer, où la gastronomie rime avec respect de l’environnement, saisonnalité et créativité.</p><p> Notre <strong>nouveau concept de néo-brasserie</strong> mêle <strong>produits locaux</strong>, <strong>cuisine saine et raffinée</strong>, dans une atmosphère chaleureuse et contemporaine.</p><p> Rejoindre notre équipe, c’est s’inscrire dans un projet porteur de sens, entre mer, soleil et valeurs durables.</p><p><br></p><p><strong>Votre mission :</strong></p><p>Prendre soin des papilles de nos clients, avec votre équipe !</p><ul><li>Vous seconder le chef de cuisine dans l'ensemble de ses missions au sein de notre restaurant </li><li> Vous êtes force de proposition sur la carte du restaurant</li><li>Vous veillez à la bonne application des normes HACCP</li><li>Vous animez l'équipe en cuisine et formez au fur et à mesure pour faire progresser nos talents!</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un contrat de 39h par semaine avec 2 jours de repos consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture (170€/mois) et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Valorisation de la coupure à partir de 3h d'interruption</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li>Prise en charge 75% transports en commun</li></ul><p><br></p>
- <p><strong>Votre profil : </strong></p><ul><li>Expérience de 2 ans en cuisine, envie de rejoindre une équipe unie, énergique et professionnelle</li></ul><p><br></p><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
-]]></description>
-  <startdate>2025-09-22</startdate>
-  <enddate></enddate>
-  <createddate>2025-09-17</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/sespqe?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/sespqe?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Antibes</city>
-      <zip>06600</zip>
-      <address>770 Chemin des Moyennes Bréguières</address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-
-<job>
-  <company>Hively Hospitality - Novotel</company>
-  <companydescription/>
-  <companyuuid>22</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>vxyl95</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Assistant Maitre d'hôtel H/F</title>
-  <description><![CDATA[
- <p><strong>Notre hôtel : </strong>Novotel Beaune</p><p><br></p><p><strong>Votre mission</strong> <strong>:</strong></p><p>Prendre soin de nos clients au restaurant, bar, petit déjeuner</p><ul><li>Attentif aux autres et à l’environnement qui vous entoure : vous contribuez à rendre le séjour de nos clients aussi irréprochable qu’inoubliable en apportant votre petite touche personnelle !</li><li>Avec votre équipe, vous assurez un accueil et un service personnalisés et chaleureux, le bien-être des clients est toujours votre priorité.</li><li>Vous êtes garant de la fidélisation du client, ils reviendront sûrement un peu pour vous !&nbsp;</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire de 2500 €/bruts par mois pour 39h par semaine avec 2 jours de repos consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li></ul><p><br></p>
- <p><strong>Votre profil : </strong></p><ul><li>Très à l’aise tant dans la relation client que l'exécution du dressage et du débarrassage des tables en salle. (Votre adresse naturelle est un atout !)&nbsp;&nbsp;</li><li>Et pour manager une équipe il faut savoir faire</li><li>Attentif(ve) au bien-être des clients et de votre équipe tout au long de votre service, vous savez vous montrer prévenant(e) et polyvalent(e).</li><li>Expérience : 2 ans sur un poste similaire</li><li>Langues : Anglais</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
-]]></description>
-  <startdate>2025-10-01</startdate>
-  <enddate></enddate>
-  <createddate>2025-09-17</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/vxyl95?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/vxyl95?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Beaune</city>
-      <zip>21200</zip>
-      <address></address>
       <countrycode>FR</countrycode>
       <region/>
     </location>
