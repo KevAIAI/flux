@@ -1,9 +1,72 @@
 <source>
   <publisher>Cookorico</publisher>
   <publisherurl>https://www.cookorico.com</publisherurl>
-  <lastupdatedat>2025-09-27 09:02</lastupdatedat>
+  <lastupdatedat>2025-09-27 15:02</lastupdatedat>
 
  <job>
+  <company>Hively Hospitality - Ibis</company>
+  <companydescription/>
+  <companyuuid>29</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>e3n8gk</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Commis de cuisine H/F</title>
+  <description><![CDATA[
+ <p><strong>Notre hôtel : Ibis Arcachon La Teste / La Cambuse du bassin</strong></p><p><br></p><p><strong>Votre mission :</strong></p><p><strong>Régaler nos clients !</strong></p><ul><li>Vous réalisez les plats et des recettes de notre restaurant , nous travaillons des produits frais et de saisons avec une cuisson au feu de bois</li><li>Préparer les aliments en respectant les normes d'hygiène et de sécurité alimentaire</li><li>Collaborer avec le personnel de salle pour garantir un service fluide et efficace</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire à partir de 1330.33 €/bruts par mois pour 25h par semaine<strong> </strong>avec 2 jours de repos</li><li>Un 13ème mois dès 3 mois d'ancienneté des avantages nourriture et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Une prime de coupure</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li>Restaurant fermé le dimanche</li><li><br></li></ul>
+ <p><strong>Votre profil : </strong></p><ul><li>Vous avez une expérience en préparation culinaire</li><li>Vous êtes capable de travailler sous pression tout en maintenant un haut niveau de qualité</li><li>Vous maîtrisez les techniques de manipulation des aliments et les normes d'hygiène</li></ul><p><br></p><p><br></p><p><strong>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</strong></p><p><br></p><p></p>
+]]></description>
+  <startdate>2025-10-01</startdate>
+  <enddate></enddate>
+  <createddate>2025-09-27</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/e3n8gk?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/e3n8gk?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>La Teste-de-Buch</city>
+      <zip>33260</zip>
+      <address>1 Impasse du Bosquet</address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
+
+<job>
   <company>Hively Hospitality - Novotel suites</company>
   <companydescription/>
   <companyuuid>16</companyuuid>
@@ -1175,69 +1238,6 @@
       <city>Bandol</city>
       <zip>83150</zip>
       <address>25 Boulevard Louis Lumière</address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-
-<job>
-  <company>Hively Hospitality - Novotel</company>
-  <companydescription/>
-  <companyuuid>20</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>eilgl9</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Chef de rang H/F</title>
-  <description><![CDATA[
- <p><strong>Notre hôtel : </strong>Le Novotel Paris Porte d’Orléans est un hôtel 4 étoiles, composé de 150 chambres, le restaurant «&nbsp;Doda&nbsp;», un bar et 4 salles de réunions.</p><p><strong>&nbsp;</strong></p><p><strong>Nous sommes à la recherche d’un(e) Chef(fe) de Rang pour compléter notre équipe ! </strong></p><p><strong>Si vous travaillez dans le domaine de la restauration et que vous êtes motivé(e), ce poste pourrait vous convenir.</strong></p><p><strong>&nbsp;</strong></p><p><strong>Vos missions :</strong></p><p><strong>Prendre soin de nos clients au restaurant, au bar et au petit déjeuner.</strong></p><p><br></p><ul><li>Être attentif.ve aux autres et à l’environnement qui vous entoure : vous contribuez à rendre le séjour de nos clients aussi irréprochable qu’inoubliable en apportant votre petite touche personnelle !</li><li>Vous assurez un accueil et un service personnalisés et chaleureux, le bien-être des clients est toujours votre priorité. Vous êtes garant de leur fidélisation.</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><p><br></p><ul><li>Un contrat de 39h par semaine avec 2 jours de repos consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande</li><li>Un Plan d’Epargne Entreprise avec abondement</li><li>Des avantages nourriture (170€/mois)</li><li>Chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus !</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et prévoyance offrant des garanties et une couverture maximale</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…)</li></ul><p><br></p>
- <p><strong>Votre profil : </strong></p><p><br></p><ul><li><strong>Première expérience réussie en restauration</strong>, qualités relationnelles, <strong>envie </strong>de rejoindre une équipe unie, énergique et professionnelle</li><li>Très à l’aise tant dans la relation client que l'exécution du dressage et du débarrassage des tables en salle. (Votre adresse naturelle est un atout !)&nbsp;&nbsp;</li><li>Langues : Français, Anglais</li></ul><p><br></p><p><strong>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</strong></p><p><br></p><p></p>
-]]></description>
-  <startdate>2025-10-01</startdate>
-  <enddate></enddate>
-  <createddate>2025-09-18</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/eilgl9?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/eilgl9?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Paris</city>
-      <zip>75014</zip>
-      <address>21 Boulevard Romain Rolland</address>
       <countrycode>FR</countrycode>
       <region/>
     </location>
