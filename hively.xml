@@ -1,7 +1,7 @@
 <source>
   <publisher>Cookorico</publisher>
   <publisherurl>https://www.cookorico.com</publisherurl>
-  <lastupdatedat>2025-09-28 09:01</lastupdatedat>
+  <lastupdatedat>2025-09-28 15:02</lastupdatedat>
 
  <job>
   <company>Hively Hospitality - Ibis</company>
@@ -1140,7 +1140,7 @@
 <job>
   <company></company>
   <companydescription/>
-  <companyuuid>75017</companyuuid>
+  <companyuuid>null</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
