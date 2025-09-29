@@ -1,9 +1,72 @@
 <source>
   <publisher>Cookorico</publisher>
   <publisherurl>https://www.cookorico.com</publisherurl>
-  <lastupdatedat>2025-09-28 15:02</lastupdatedat>
+  <lastupdatedat>2025-09-29 09:02</lastupdatedat>
 
  <job>
+  <company>Hively Hospitality - Thalazur</company>
+  <companydescription/>
+  <companyuuid>8</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>132pxt</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Chargé(e) de mission RSE en hôtellerie, restauration et thalasso</title>
+  <description><![CDATA[
+ <p><strong>Notre site : </strong>Hôtel Ile Rousse 5* Thalazur BANDOL </p><p><br></p><p>Dans le cadre du développement de notre démarche Responsabilité Sociétale des Entreprises (RSE), nous recherchons un(e) stagiaire motivé(e) et passionné(e) par les enjeux du développement durable appliqués aux secteurs de l’hôtellerie, de la restauration et du bien-être/thalassothérapie.</p><p><br></p><p><strong>Votre mission :</strong></p><ul><li>Contribuer à la mise en œuvre et au suivi de la stratégie RSE de l’établissement.</li><li>Participer à des projets variés :</li><li class="ql-indent-1">Réduction du gaspillage alimentaire et optimisation énergétique en restauration.</li><li class="ql-indent-1">Gestion responsable des ressources (eau, énergie, déchets) dans les espaces hôteliers et thalasso.</li><li class="ql-indent-1">Sensibilisation des collaborateurs aux pratiques durables.</li><li class="ql-indent-1">Suivi des indicateurs RSE et élaboration de reportings.</li><li>Proposer de nouvelles initiatives pour renforcer l’impact positif sur l’environnement, la santé et le bien-être des clients.</li></ul><p><strong>Profil recherché :</strong></p><ul><li>Étudiant(e) en école de commerce, hôtellerie-tourisme, management, développement durable ou équivalent.</li><li>Intérêt marqué pour la RSE, l’économie circulaire, le tourisme durable ou la gestion hôtelière.</li><li>Autonomie, force de proposition et bon esprit d’équipe.</li><li>Bonne capacité de communication (oral/écrit).</li></ul><p><strong>Conditions :</strong></p><ul><li>Stage conventionné (1 à 6 mois).</li><li>Poste basé à BANDOL</li><li>Début : Novembre</li></ul><p><strong>Pourquoi nous rejoindre ? :</strong></p><p>Vous aurez l’opportunité de contribuer à une démarche RSE ambitieuse et concrète, au cœur d’un secteur en pleine transition vers un modèle plus durable et responsable. Vous participerez activement à des projets concrets, en contact avec des équipes engagées dans l’hôtellerie, la restauration et le bien-être.</p>
+ <p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
+]]></description>
+  <startdate>2025-11-01</startdate>
+  <enddate></enddate>
+  <createddate>2025-09-28</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/132pxt?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/132pxt?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Bandol</city>
+      <zip>83150</zip>
+      <address>25 Boulevard Louis Lumière</address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
+
+<job>
   <company>Hively Hospitality - Ibis</company>
   <companydescription/>
   <companyuuid>29</companyuuid>
@@ -1176,69 +1239,6 @@
       <zip></zip>
       <address></address>
       <countrycode></countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-
-<job>
-  <company>Hively Hospitality - Thalazur</company>
-  <companydescription/>
-  <companyuuid>8</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>uk94eq</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Réceptionniste H/F  Tournant CDI</title>
-  <description><![CDATA[
- <p><strong>Notre hôtel :</strong><strong style="color: rgb(230, 0, 0);"> </strong>Hôtel Île Rousse 5* - Thalazur Bandol (83)</p><p><br></p><p><span style="background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);">Véritable ambassadeur / ambassadrice de par votre attitude, comportement et excellente présentation, vous êtes naturellement souriant et portez les valeurs de notre établissement ; Luxe, discrétion et bien être . Vous participez également au développement du chiffre d'affaires de l'hôtel en adoptant une attitude commerciale.</span></p><p><br></p><p><strong>Votre mission :</strong></p><p><strong>Accueillir nos clients avec le sourire et être garant de leur bien être ! Au quotidien, il s’agira de réaliser :</strong></p><ul><li>Les check-in et check-out de nos clients</li><li>La gestion des réservations</li><li>L'encaissement et la facturation</li><li>Gestion de la clientèle de l'arrivée jusqu'au départ</li><li>Diverses tâches liées au bon fonctionnement du service</li><li>le suivi de la satisfaction du client durant tout son séjour.</li><li>Etre ambassadeur de nos valeurs et du luxe, dans votre posture, mots et faits</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire selon profil à partir de 2058 € /bruts par mois pour 39h par semaine<strong> </strong>avec 2 jours de repos consécutifs au plus souvent</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos compensateurs.</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance prise en charge à hauteur de 50%</li><li>Primes sur les ventes additionnelles (upselling)</li><li>Pourboires</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li></ul><p><br></p>
- <p><strong>Votre profil :</strong></p><ul><li>Attentif aux autres et à l’environnement qui vous entoure : vous contribuez à rendre le séjour de nos clients aussi irréprochable qu’inoubliable en apportant votre petite touche personnelle !</li><li>Bonne organisation et sens de l'initiative</li><li>Au moins deux ans d'expérience en réception, une première expérience dans le luxe (5*) serait un plus.</li><li>S'avoir s'adapter à une clientèle variable et exigeante</li><li>Précis et attentif aux détails</li><li>Savoir être à l'image du luxe.</li><li>Bon état d'esprit, goût pour le travail en équipe et capacité à se maîtriser</li><li>Maîtrise de l'anglais et une troisième langue serait un plus</li></ul><p><br></p><p><strong>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !</strong></p><p></p>
-]]></description>
-  <startdate></startdate>
-  <enddate></enddate>
-  <createddate>2025-09-19</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/uk94eq?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/uk94eq?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Bandol</city>
-      <zip>83150</zip>
-      <address>25 Boulevard Louis Lumière</address>
-      <countrycode>FR</countrycode>
       <region/>
     </location>
   </locations>
