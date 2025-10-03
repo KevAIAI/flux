@@ -1,9 +1,72 @@
 <source>
   <publisher>Cookorico</publisher>
   <publisherurl>https://www.cookorico.com</publisherurl>
-  <lastupdatedat>2025-10-03 09:02</lastupdatedat>
+  <lastupdatedat>2025-10-03 15:02</lastupdatedat>
 
  <job>
+  <company>Hively Hospitality - Moxy</company>
+  <companydescription/>
+  <companyuuid>23</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>98ww13</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Crew supervisor H/F</title>
+  <description><![CDATA[
+ <p><strong>Notre hôtel : </strong></p><p><strong>A quelques encablures de la Cité du vin et au cœur du port emblématique des Bassins à flot, le Moxy offre une saveur ludique et locale pour tous les voyageurs et les Bordelais qui cherchent à vivre Bordeaux autrement ! Son style d'inspiration industrielle marine dans une ambiance à la fois américaine et locale, ses 133 chambres s'intègrent parfaitement à ses environs et est devenu un lieu de rendez-vous animé pour les quartiers de Bacalan et des Chartrons grâce à ses nombreux événements, son bar et sa terrasse jungle au pied des silos</strong></p><p><br></p><p><strong>Votre mission : </strong></p><p><strong>Contribuer à un séjour client inoubliable! Au quotidien, il s’agira de :</strong></p><ul><li>Assurer un service de qualité (accueil, réservation, petits déjeuners, service restauration, bar et cuisine)</li><li>Appliquer et respecter les règles d'hygiène et de sécurité</li><li>Accompagner et former le crew pour qu'il s'approprie et crée une expérience Moxy unique et fun</li><li>Participer et créer avec les équipes les offres de notre cuisine et bar – en les personnalisant à votre image.</li><li>Gestion de l'occupation et mise en vente de l'hôtel en collaboration avec le revenu manager, encadrer le suivi clientèle et leur fidélisation, superviser les encaissements et facturation, coordination de toutes les procédures d’exploitation de la réception et restauration.</li><li>Suivi des indicateurs réception et restauration, maximisation du chiffre d'affaire...</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire de 2 562 €/bruts par mois pour 39h par semaine avec 2 jours de repos consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande</li><li>Plan d’Epargne Entreprise avec abondement</li><li>Chaque heure supplémentaire travaillée est comptabilisée</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li>Indemnité nourriture</li><li>Participation aux transports</li></ul><p><br></p>
+ <p><strong>Votre profil : </strong></p><ul><li>Être autonome, polyvalent(e), disponible et proactif</li><li>Disposer d'un bon relationnel client</li><li>Maîtrise du français et de l'anglais - écrit et parlé</li><li>Facultatif : connaissance des logiciels Opera PMS, Symphony, Micros</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
+]]></description>
+  <startdate>2025-11-01</startdate>
+  <enddate></enddate>
+  <createddate>2025-10-03</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/98ww13?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/98ww13?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Bordeaux</city>
+      <zip>33000</zip>
+      <address>25 Quai du Maroc</address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
+
+<job>
   <company>Hively Hospitality - Novotel</company>
   <companydescription/>
   <companyuuid>22</companyuuid>
@@ -278,7 +341,7 @@
 ]]></description>
   <startdate>2025-11-01</startdate>
   <enddate></enddate>
-  <createddate>2025-10-02</createddate>
+  <createddate>2025-10-03</createddate>
   <remotestatus></remotestatus>
   <employmenttype></employmenttype>
   <employmentlevel></employmentlevel>
@@ -1176,69 +1239,6 @@
       <zip>64500</zip>
       <address>Place Maurice Ravel</address>
       <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-
-<job>
-  <company>Hively Hospitality - Moxy</company>
-  <companydescription/>
-  <companyuuid>55</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>54dewq</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Responsável de Manutenção M/F</title>
-  <description><![CDATA[
- <p><strong>O nosso hotel </strong>: <span style="color: red;">Moxy Lisbon City</span></p><p><br></p><p><strong>A sua missão&nbsp;&nbsp;:</strong></p><p><br></p><p><strong style="color: black;">Garantir que o hóspede tenha uma experiência suave e feliz! Numa base diária, isto envolverá:</strong></p><ul><li><span style="color: black;">Gerir as reparações técnicas e a manutenção de todo o equipamento técnico do hotel.</span></li><li><span style="color: black;">Assegurar o cumprimento das normas de segurança (plano de manutenção preventiva, dossier técnico, exercícios de incêndio, etc.) e a aplicação de procedimentos.</span></li><li><span style="color: black;">Gestão da sua equipa de 2</span><span style="color: red;"> </span><span style="color: black;">técnico(s) de manutenção&nbsp;</span></li><li>Contatar fornecedores e verificar preços mais competitivos</li></ul><p><br></p><p><strong>Nós oferecemos : </strong></p><ul><li>Um salário de xxxx euros brutos por mês por 40h/semanais </li><li>Cartão de refeição- pagamos valor maximo isento de impostos</li><li>Seguro de saúde – pago pela empresa – ( seguro de saude para familiares ao mesmo valor de funcionário)</li><li>Cartão dentário- desconto</li><li>Sub de transporte</li><li>Eventos com a equipa</li><li>Tarifas preferenciais para funcionários na nossa rede hoteleira</li></ul><p><br></p>
- <p><strong>O seu perfil : </strong></p><ul><li><span style="color: black;">Dominar os aspectos técnicos de um edifício hoteleiro</span></li><li><span style="color: black;">Atento aos outros e ao ambiente: contribui para tornar a estadia dos nossos hóspedes impecável e inesquecível, resolvendo quaisquer problemas técnicos que possam surgir</span></li><li><span style="color: black;">Rigoroso, autónomo e organizado, é reactivo aos pedidos de assistência.</span></li><li>Comunicação ativa com os restantes departamentos</li></ul><p><br></p><p>Fazemos parte da HIVELY HOSPITALITY. Com cerca de quinze marcas conhecidas, 80 estabelecimentos em França e na Europa e 60 profissões nos sectores da hotelaria, restauração e wellness, a HIVELY HOSPITALITY oferece uma variedade de oportunidades e desenvolvimentos a todos aqueles que procuram auto-realização. Há apenas uma condição prévia: vontade!</p><p><br></p><p></p>
-]]></description>
-  <startdate>2025-10-06</startdate>
-  <enddate></enddate>
-  <createddate>2025-09-23</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/54dewq?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/54dewq?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>Portugal</country>
-      <city>Lisbon</city>
-      <zip></zip>
-      <address></address>
-      <countrycode>PT</countrycode>
       <region/>
     </location>
   </locations>
