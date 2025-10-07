@@ -1,9 +1,72 @@
 <source>
   <publisher>Cookorico</publisher>
   <publisherurl>https://www.cookorico.com</publisherurl>
-  <lastupdatedat>2025-10-06 15:03</lastupdatedat>
+  <lastupdatedat>2025-10-07 09:02</lastupdatedat>
 
  <job>
+  <company>Hively Hospitality - Thalazur</company>
+  <companydescription/>
+  <companyuuid>7</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>8tzp2m</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Comptable H/F</title>
+  <description><![CDATA[
+ <p><strong>Notre hôtel</strong> : Thalazur Cabourg - Thalassothérapie - Hôtel **** &amp; Spa.</p><p><br></p><p>Posé sur la dune, Thalazur Cabourg **** se fait pudique pour ne pas occulter le panorama et la mer que l’on voit danser depuis les fenêtres des chambres, des terrasses et de notre spa marin.</p><p>Dans un cadre naturel et sauvage l’institut de Thalassothérapie et le Spa invite nos clients à la détente et au bien-être.</p><p><br></p><p><br></p><p><strong>Votre mission : </strong></p><p><br></p><ul><li>Réaliser la tenue des écritures comptables de l’hôtel, le traitement, l’imputation et la saisie des factures et règlements fournisseurs</li><li>Effectuer le suivi des comptes clients </li><li class="ql-align-justify">Participer aux arrêtés de comptes mensuels et à la préparation du bilan</li><li class="ql-align-justify">Etablir les rapprochements bancaires</li><li class="ql-align-justify">Préparer les déclarations de TVA</li><li class="ql-align-justify">Participer à des missions RH </li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un contrat de 39h par semaine<strong> </strong>avec 2 jours de repos consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture (170€/mois), une participation aux résultats et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li>Prise en charge 75% transports en commun</li></ul><p><br></p>
+ <p><strong>Votre profil :</strong></p><p><br></p><ul><li class="ql-align-justify">De formation type BAC+2 en comptabilité/gestion</li><li class="ql-align-justify">Minimum 5 ans d’expérience réussie dans un poste similaire</li><li class="ql-align-justify">La connaissance des logiciels utilisés dans l’établissement est un plus (SAGE 1000, Moovapps, Pack office, HRU)</li><li class="ql-align-justify">Vous êtes organisé/e, faites preuve de rigueur,  vous aimez le travail en équipe et savez gérer les priorités</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
+]]></description>
+  <startdate>2025-12-01</startdate>
+  <enddate></enddate>
+  <createddate>2025-10-06</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/8tzp2m?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/8tzp2m?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Cabourg</city>
+      <zip>14390</zip>
+      <address>44 Avenue Charles de Gaulle</address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
+
+<job>
   <company>Hively Hospitality - URBAN HIVE</company>
   <companydescription/>
   <companyuuid>null</companyuuid>
@@ -1166,69 +1229,6 @@
   <employmentlevel></employmentlevel>
   <url>https://hively-hospitality.talentview.io/jobs/s7wsib?source=cookorico</url>
   <applyurl>https://hively-hospitality.talentview.io/jobs/s7wsib?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Carnac</city>
-      <zip>56340</zip>
-      <address>2 Avenue de l'Atlantique</address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-
-<job>
-  <company>Hively Hospitality - Thalazur</company>
-  <companydescription/>
-  <companyuuid>48</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>acajt1</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Agent(e) Polyvalent(e) de nettoyage - Temps partiel</title>
-  <description><![CDATA[
- <p>Thalazur Carnac occupe une situation privilégiée entre l’océan, les plages et l’Île aux&nbsp;Oiseaux, véritable havre de paix d’une faune et flore d’une incroyable diversité.&nbsp;Entre Océan et patrimoine légendaire des mégalithes, la nature est au cœur de&nbsp;notre activité et a inspiré à la fois notre histoire et nos espaces.</p><p>&nbsp;</p><p>Situé à 100m de la grande plage de Carnac, station balnéaire réputée du Morbihan, l'établissement Hôtel et Thalasso - Thalazur Carnac propose dans le cadre de sa <strong><u>réouverture début novembre 2025 et après rénovation totale</u></strong>, 200 chambres d’Hôtel 4*, une Résidence de 34 logements 3*, Restaurants et espace de séminaire.</p><p>Centre de Thalasso avec 70 cabines de soins dont 18 cabines Esthétique et Spa.</p><p><br></p><p><strong>Votre mission :</strong></p><p>Prendre soin de nos clients en les chouchoutant, eux et leurs espaces de vie lors de leur séjour.</p><p class="ql-align-justify">Au quotidien, il s’agira de :</p><ul><li class="ql-align-justify">effectuer le nettoyage de la thalassothérapie&nbsp;: zones sèches et zones humides.</li></ul><p><strong>Nous vous proposons :</strong></p><ul><li>Un contrat de 20h par semaine<strong> </strong>avec 2 jours de repos hebdomadaires, par roulement (établissement ouvert 7j/7</li><li>Horaires de 18h à 22h</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, des avantages tickets restaurant et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li>uniforme et blanchissage compris</li><li>parking privé pour le personnel</li></ul><p><br></p>
- <p><strong>Votre profil :</strong></p><p><strong>Votre profil :</strong></p><ul><li><span style="color: rgb(230, 0, 0);">﻿</span>Attentif(ve) aux détails, vous aimez quand les choses sont bien faites et appréciez le contact client</li><li>Première expérience souhaitée, qualités relationnelles, <strong>envie </strong>de rejoindre une équipe unie, énergique et professionnelle.</li><li>Rigueur , organisation et esprit d'équipe.</li><li>Présentation soignée et attitude professionnelle.</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
-]]></description>
-  <startdate>2025-10-06</startdate>
-  <enddate></enddate>
-  <createddate>2025-09-25</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/acajt1?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/acajt1?source=cookorico</applyurl>
   <coverimageurl></coverimageurl>
   <pitch></pitch>
   <applybuttontext/>
