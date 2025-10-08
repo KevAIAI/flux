@@ -1,12 +1,12 @@
 <source>
   <publisher>Cookorico</publisher>
   <publisherurl>https://www.cookorico.com</publisherurl>
-  <lastupdatedat>2025-10-07 15:03</lastupdatedat>
+  <lastupdatedat>2025-10-08 09:42</lastupdatedat>
 
  <job>
   <company>Hively Hospitality - URBAN HIVE</company>
   <companydescription/>
-  <companyuuid>56</companyuuid>
+  <companyuuid>null</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -384,7 +384,7 @@
 <job>
   <company>Hively Hospitality Holding</company>
   <companydescription/>
-  <companyuuid>1</companyuuid>
+  <companyuuid>76</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
