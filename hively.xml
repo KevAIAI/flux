@@ -1,9 +1,72 @@
 <source>
   <publisher>Cookorico</publisher>
   <publisherurl>https://www.cookorico.com</publisherurl>
-  <lastupdatedat>2025-10-10 09:02</lastupdatedat>
+  <lastupdatedat>2025-10-10 15:02</lastupdatedat>
 
  <job>
+  <company>Hively Hospitality Holding</company>
+  <companydescription/>
+  <companyuuid>null</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>a3lufz</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Assistant(e) Achats – Département Achats FFetE et OSetE (H/F)</title>
+  <description><![CDATA[
+ <p class="ql-align-justify"><strong>Hively Hospitality</strong>, acteur majeur dans l’hôtellerie, la restauration et le bien-être avec 80 établissements en Europe et 450M€ de CA, recherche une personne à fort potentiel pour le poste d'<strong>Assistant(e) Achats H/F.</strong></p><p class="ql-align-justify"><br></p><p class="ql-align-justify">Sous la responsabilité de notre Directrice Achats &amp; Design et de la Responsable des Achats, et en relation avec les autres départements, vous aurez comme missions de :</p><p class="ql-align-justify"><br></p><p>• Soutenir l’équipe Achats dans le suivi des projets FF&amp;E et OS&amp;E</p><p>• Participer à la consultation et à la sélection des fournisseurs</p><p>• Analyser et comparer des offres commerciales</p><p>• Suivre des commandes et de la logistique</p><p>• Mettre à jour et gérer la base de données fournisseurs</p><p>• Participer à la coordination avec les équipes Design et Travaux</p><p class="ql-align-justify"><br></p><p class="ql-align-justify">Des déplacements sur les chantiers sont possibles.&nbsp;</p><p><br></p><p><strong>Nous vous proposons : </strong></p><ul><li>Une immersion dans le fonctionnement d’un groupe hôtelier multi‑marques</li><li>Une expérience concrète et responsabilisante</li><li>Un accompagnement par des professionnels expérimentés</li><li>Une participation active à des projets stratégiques pour le Réseau Hively Hospitality</li></ul>
+ <p><strong>Votre profil :</strong></p><ul><li>Étudiant(e) en école de commerce, hôtellerie, achat ou gestion (bac+4/5)</li><li>Vous démontrez un intérêt marqué pour le secteur hôtelier </li><li>Bonne maîtrise des outils bureautiques (Excel, PowerPoint)</li><li>Capacité d’analyse, rigueur et sens du détail</li><li>Aisance relationnelle et goût pour le travail en équipe</li><li>Maîtrise de l’anglais professionnel.&nbsp;</li></ul><p><br></p><p>Vous souhaitez rejoindre une entreprise à taille humaine, au développement passionnant, et qui vous permettra de grandir dans un environnement multiculturel, alors oui, ce poste est taillé pour vous !</p><p class="ql-align-justify"><br></p><p></p>
+]]></description>
+  <startdate>2026-01-01</startdate>
+  <enddate></enddate>
+  <createddate>2025-10-10</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/a3lufz?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/a3lufz?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Paris</city>
+      <zip>75017</zip>
+      <address>15 Rue Cardinet</address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
+
+<job>
   <company>Hively Hospitality - Thalazur</company>
   <companydescription/>
   <companyuuid>7</companyuuid>
@@ -1175,69 +1238,6 @@
       <city>La Rochelle</city>
       <zip>17000</zip>
       <address>Avenue Porte Neuve</address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-
-<job>
-  <company>Hively Hospitality - Thalazur</company>
-  <companydescription/>
-  <companyuuid>8</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>90jqqx</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Réceptionniste H/F  Tournant CDI</title>
-  <description><![CDATA[
- <p><strong>Notre hôtel :</strong><strong style="color: rgb(230, 0, 0);"> </strong>Hôtel Île Rousse 5* - Thalazur Bandol (83)</p><p><br></p><p><span style="background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);">Véritable ambassadeur / ambassadrice de par votre attitude, comportement et excellente présentation, vous êtes naturellement souriant et portez les valeurs de notre établissement ; Luxe, discrétion et bien être . Vous participez également au développement du chiffre d'affaires de l'hôtel en adoptant une attitude commerciale.</span></p><p><br></p><p><strong>Votre mission :</strong></p><p><strong>Accueillir nos clients avec le sourire et être garant de leur bien être ! Au quotidien, il s’agira de réaliser :</strong></p><ul><li>Les check-in et check-out de nos clients</li><li>La gestion des réservations</li><li>L'encaissement et la facturation</li><li>Gestion de la clientèle de l'arrivée jusqu'au départ</li><li>Diverses tâches liées au bon fonctionnement du service</li><li>le suivi de la satisfaction du client durant tout son séjour.</li><li>Etre ambassadeur de nos valeurs et du luxe, dans votre posture, mots et faits</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire selon profil à partir de 2058 € /bruts par mois pour 39h par semaine<strong> </strong>avec 2 jours de repos consécutifs au plus souvent</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos compensateurs.</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance prise en charge à hauteur de 50%</li><li>Primes sur les ventes additionnelles (upselling)</li><li>Pourboires</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li><br></li></ul>
- <p><strong>Votre profil :</strong></p><ul><li>Attentif aux autres et à l’environnement qui vous entoure : vous contribuez à rendre le séjour de nos clients aussi irréprochable qu’inoubliable en apportant votre petite touche personnelle !</li><li>Bonne organisation et sens de l'initiative</li><li>Au moins deux ans d'expérience en réception, une première expérience dans le luxe (5*) serait un plus.</li><li>S'avoir s'adapter à une clientèle variable et exigeante</li><li>Précis et attentif aux détails</li><li>Savoir être à l'image du luxe.</li><li>Bon état d'esprit, goût pour le travail en équipe et capacité à se maîtriser</li><li>Maîtrise de l'anglais et une troisième langue serait un plus</li></ul><p><br></p><p><strong>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !</strong></p><p><br></p><p></p>
-]]></description>
-  <startdate>2025-10-13</startdate>
-  <enddate></enddate>
-  <createddate>2025-10-01</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/90jqqx?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/90jqqx?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Bandol</city>
-      <zip>83150</zip>
-      <address>25 Boulevard Louis Lumière</address>
       <countrycode>FR</countrycode>
       <region/>
     </location>
