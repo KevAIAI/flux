@@ -1,9 +1,72 @@
 <source>
   <publisher>Cookorico</publisher>
   <publisherurl>https://www.cookorico.com</publisherurl>
-  <lastupdatedat>2025-10-11 15:02</lastupdatedat>
+  <lastupdatedat>2025-10-12 09:02</lastupdatedat>
 
  <job>
+  <company>Hively Hospitality - Renaissance</company>
+  <companydescription/>
+  <companyuuid>11</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>7vdfx1</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Réceptionniste H/F</title>
+  <description><![CDATA[
+ <p><strong>Notre hôtel : </strong></p><p><strong>Le Renaissance Paris République</strong> est un hôtel 5 étoiles situé au cœur du 10ème&nbsp;arrondissement de Paris&nbsp;: proche du Canal Saint-Martin, du quartier du Marais et des Grands Boulevards. Notre établissement dispose de 121 chambres, dont 10 suites réparties sur 9 étages. L’hôtel offre une vue imprenable sur les toits de la capitale et un service de qualité avec son Restaurant Martin, son Bar, ainsi que son espace sensoriel.</p><p>L'hôtel a été élu Meilleur Hôtel Franchise Marriott de la région Europe-Afrique-Moyen-Orient pour l'année 2022 !</p><p>Aujourd’hui, l’hôtel Renaissance Paris République est à la recherche d’un(e) réceptionniste prêt(e) à vivre une expérience WILD, ELEGANT and VIBRANT en hôtellerie de luxe.</p><p><br></p><p><strong>Votre mission</strong></p><p><strong>Accueillir nos clients avec le sourire! Au quotidien, il s’agira de réaliser :</strong></p><ul><li>Le suivi du bon déroulement du séjour de chaque client dans notre établissement</li><li>Les check-in et check-out de nos clients</li><li>Une bonne présentation des différents services de notre hôtel (bar, restaurant, spa, room-service, etc...)</li><li>Une expérience personnalisée et mémorable lors de chaque interaction</li><li>La vérification des futures réservations</li><li>Une communication et une collaboration étroite avec les autres services de l'hôtel : conciergerie, housekeeping, sales, etc...</li><li>La mise en œuvre des standards de qualité de l'hôtel</li><li>La gestion des appels téléphoniques et des mails</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire de 2226€/bruts par mois pour 39h par semaine (2 ou 3 jours de repos par semaine en fonction du rythme que vous choisirez)</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li>Primes : upsells et complet</li><li>Remboursement de votre carte Navigo à hauteur de 75%</li></ul>
+ <p><strong>Votre profil :</strong></p><ul><li>Attentif.ve aux autres et à l’environnement qui vous entoure : vous contribuez à rendre le séjour de nos clients aussi irréprochable qu’inoubliable en apportant votre petite touche personnelle !</li><li>Ayant une première expérience en hôtellerie</li><li>Très à l’aise en français et en anglais, pratiquant une troisième langue (chinois ou russe)</li><li>Si possible connaître et maîtriser le PMS Opera et le pack Office</li><li>Curieux.se et ayant envie d'apprendre</li></ul><p></p>
+]]></description>
+  <startdate></startdate>
+  <enddate></enddate>
+  <createddate>2025-10-11</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/7vdfx1?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/7vdfx1?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Paris</city>
+      <zip>75010</zip>
+      <address>40 Rue René Boulanger</address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
+
+<job>
   <company>Hively Hospitality - Thalazur</company>
   <companydescription/>
   <companyuuid>8</companyuuid>
@@ -573,7 +636,7 @@
 <job>
   <company>Hively Hospitality Holding</company>
   <companydescription/>
-  <companyuuid>76</companyuuid>
+  <companyuuid>1</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -762,7 +825,7 @@
 <job>
   <company>Hively Hospitality - URBAN HIVE</company>
   <companydescription/>
-  <companyuuid>56</companyuuid>
+  <companyuuid>null</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -1140,7 +1203,7 @@
 <job>
   <company>Hively Hospitality Holding</company>
   <companydescription/>
-  <companyuuid>76</companyuuid>
+  <companyuuid>1</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -1175,69 +1238,6 @@
       <city></city>
       <zip></zip>
       <address></address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-
-<job>
-  <company>Hively Hospitality - Moxy</company>
-  <companydescription/>
-  <companyuuid>23</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>98ww13</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Crew supervisor H/F</title>
-  <description><![CDATA[
- <p><strong>Notre hôtel : </strong></p><p><strong>A quelques encablures de la Cité du vin et au cœur du port emblématique des Bassins à flot, le Moxy offre une saveur ludique et locale pour tous les voyageurs et les Bordelais qui cherchent à vivre Bordeaux autrement ! Son style d'inspiration industrielle marine dans une ambiance à la fois américaine et locale, ses 133 chambres s'intègrent parfaitement à ses environs et est devenu un lieu de rendez-vous animé pour les quartiers de Bacalan et des Chartrons grâce à ses nombreux événements, son bar et sa terrasse jungle au pied des silos</strong></p><p><br></p><p><strong>Votre mission : </strong></p><p><strong>Contribuer à un séjour client inoubliable (hebergement et en restauration) ! Au quotidien, il s’agira de :</strong></p><ul><li>Assurer un service de qualité (accueil, réservation, petits déjeuners, service restauration, bar et cuisine)</li><li>Appliquer et respecter les règles d'hygiène et de sécurité alimentaire</li><li>Accompagner et former le crew pour qu'il s'approprie et crée une expérience Moxy unique et fun</li><li>Participer et créer avec les équipes les offres de notre cuisine et bar – en les personnalisant à votre image.</li><li>Gestion de l'occupation et mise en vente de l'hôtel en collaboration avec le revenu manager, encadrer le suivi clientèle et leur fidélisation, superviser les encaissements et facturation, coordination de toutes les procédures d’exploitation de la réception et restauration.</li><li>Suivi des indicateurs réception et restauration, maximisation du chiffre d'affaire...</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire de 2 562 €/bruts par mois pour 39h par semaine avec 2 jours de repos consécutifs</li><li><span style="color: rgb(38, 40, 42);">Horaires du poste : planning tournant : 7h15 - 15h45 // 14h45 - 23h15. Travail le weekend</span></li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande</li><li>Plan d’Epargne Entreprise avec abondement</li><li>Chaque heure supplémentaire travaillée est comptabilisée</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li>Indemnité nourriture</li><li>Participation aux transports</li></ul>
- <p><strong>Votre profil : </strong></p><ul><li>Être autonome, polyvalent(e), disponible et proactif</li><li>Disposer d'un bon relationnel client</li><li>Maîtrise du français et de l'anglais - écrit et parlé</li><li>Facultatif : connaissance des logiciels Opera PMS, Symphony, Micros</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
-]]></description>
-  <startdate>2025-11-01</startdate>
-  <enddate></enddate>
-  <createddate>2025-10-03</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/98ww13?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/98ww13?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Bordeaux</city>
-      <zip>33000</zip>
-      <address>25 Quai du Maroc</address>
       <countrycode>FR</countrycode>
       <region/>
     </location>
