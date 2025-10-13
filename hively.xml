@@ -1,7 +1,7 @@
 <source>
   <publisher>Cookorico</publisher>
   <publisherurl>https://www.cookorico.com</publisherurl>
-  <lastupdatedat>2025-10-13 09:02</lastupdatedat>
+  <lastupdatedat>2025-10-13 15:02</lastupdatedat>
 
  <job>
   <company>Hively Hospitality - Renaissance</company>
@@ -636,7 +636,7 @@
 <job>
   <company>Hively Hospitality Holding</company>
   <companydescription/>
-  <companyuuid>76</companyuuid>
+  <companyuuid>1</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -1077,7 +1077,7 @@
 <job>
   <company>Hively Hospitality - URBAN HIVE</company>
   <companydescription/>
-  <companyuuid>56</companyuuid>
+  <companyuuid>null</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
