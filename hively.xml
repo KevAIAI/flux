@@ -1,7 +1,7 @@
 <source>
   <publisher>Cookorico</publisher>
   <publisherurl>https://www.cookorico.com</publisherurl>
-  <lastupdatedat>2025-10-14 09:02</lastupdatedat>
+  <lastupdatedat>2025-10-14 15:02</lastupdatedat>
 
  <job>
   <company>Hively Hospitality - Thalazur</company>
@@ -1140,7 +1140,7 @@
 <job>
   <company>Hively Hospitality - URBAN HIVE</company>
   <companydescription/>
-  <companyuuid>56</companyuuid>
+  <companyuuid>58</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -1203,7 +1203,7 @@
 <job>
   <company>Hively Hospitality - URBAN HIVE</company>
   <companydescription/>
-  <companyuuid>null</companyuuid>
+  <companyuuid>56</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
