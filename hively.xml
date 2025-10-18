@@ -1,9 +1,72 @@
 <source>
   <publisher>Cookorico</publisher>
   <publisherurl>https://www.cookorico.com</publisherurl>
-  <lastupdatedat>2025-10-17 15:02</lastupdatedat>
+  <lastupdatedat>2025-10-18 09:02</lastupdatedat>
 
  <job>
+  <company>Hively Hospitality - Novotel</company>
+  <companydescription/>
+  <companyuuid>15</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>bnmxc5</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Serveur(se) - CDI</title>
+  <description><![CDATA[
+ <p>Le restaurant JOLIA recherche un-e serveur-se pour intégrer son équipe. JOLIA est le restaurant du Novotel Paris Suresnes Longchamp. Restaurant d'hôtel, avec une activité variée sur plusieurs pôles de restauration : les petits déjeuners, le restaurant et les banquets.</p><p><br></p><p><strong>Votre mission :</strong></p><p>Prendre soin de nos clients au restaurant, bar, petit déjeuner<strong> </strong>et séminaires</p><ul><li>Attentif.ve aux autres et à l’environnement qui vous entoure : vous contribuez à rendre le séjour de nos clients aussi irréprochable qu’inoubliable en apportant votre petite touche personnelle !</li><li>Vous assurez un accueil et un service personnalisés et chaleureux, le bien-être des clients est toujours votre priorité.</li><li>Vous êtes garant.e de la fidélisation du client, ils reviendront sûrement un peu pour vous !&nbsp;</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Salaire selon expérience, pour 39h par semaine</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li></ul>
+ <p><strong>Votre profil : </strong></p><ul><li>Débutants acceptés, qualités relationnelles, envie de rejoindre une équipe unie, énergique et professionnelle</li><li>Très à l’aise tant dans la relation client que l'exécution du dressage et du débarrassage des tables en salle. (Votre adresse naturelle est un atout !)&nbsp;&nbsp;</li><li>Langues : français et anglais</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
+]]></description>
+  <startdate></startdate>
+  <enddate></enddate>
+  <createddate>2025-10-17</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/bnmxc5?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/bnmxc5?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Suresnes</city>
+      <zip>92150</zip>
+      <address>7 Rue du Port aux Vins</address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
+
+<job>
   <company>Hively Hospitality - Thalazur</company>
   <companydescription/>
   <companyuuid>6</companyuuid>
@@ -1014,7 +1077,7 @@
 <job>
   <company>Hively Hospitality Holding</company>
   <companydescription/>
-  <companyuuid>1</companyuuid>
+  <companyuuid>76</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -1176,69 +1239,6 @@
       <zip>75017</zip>
       <address>6 Rue Gustave Charpentier</address>
       <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-
-<job>
-  <company>Hively Hospitality - URBAN HIVE</company>
-  <companydescription/>
-  <companyuuid>null</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>z3q0vc</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Sales et Marketing Manager</title>
-  <description><![CDATA[
- <p><strong>URBAN HIVE MADRID</strong></p><p><strong>&nbsp;</strong></p><p><strong>Urban Hive Madrid abrirá sus puertas a principios de 2026, en el corazón de la ciudad, a pocos pasos del Palacio Real, la Plaza de España y el Teatro Real.</strong></p><p>El hotel contará con 144 habitaciones, 4 salas de reuniones, gimnasio, restaurante, lobby bar y un espectacular rooftop con piscina y sky bar, con vistas inmejorables sobre Madrid.</p><p>Será el segundo hotel de la marca Urban Hive, tras el éxito de Urban Hive Milano, y ocupará un edificio histórico cuidadosamente transformado.</p><p>El proyecto da vida a un nuevo concepto de hospitalidad vibrante, creativa, moderna y con identidad propia, donde la conexión, la autenticidad y la cultura local son el eje de cada experiencia.</p><p>&nbsp;</p><p><strong>TU MISION:</strong></p><p>Como Sales &amp; Marketing Manager, serás responsable de diseñar, liderar e implementar la estrategia comercial y de posicionamiento del hotel desde la preapertura hasta su consolidación en el mercado. Tu papel será clave para alcanzar resultados sostenibles y rentables, al tiempo que das vida a la identidad Urban Hive en cada canal, relación comercial y punto de contacto con el cliente.</p><p><strong>&nbsp;</strong></p><p><strong>QUE OFRECEMOS:</strong></p><ul><li>Un rol estratégico de liderazgo con impacto directo en el éxito global de la apertura..</li><li>La oportunidad de crear y liderar el departamento comercial desde cero, definiendo su estructura, estrategia y posicionamiento.</li><li>Participar en una apertura única en Madrid, dentro de un grupo internacional en expansión (<strong>Hively Hospitality</strong>), con más de 80 hoteles en Europa operados bajo diferentes marcas internacionales<em> </em>y dos marcas propias: Thalazur y Urban Hive</li><li>Un paquete retributivo competitivo e incentivos ligados a resultados.</li><li>Un entorno de trabajo moderno, colaborativo y cercano, basado en valores de creatividad, autenticidad, colaboración y calidad.</li><li>Incorporación inmediata para participar activamente en la fase de preapertura.</li></ul>
- <p><strong>TU PERFIL:</strong></p><p>Buscamos a un/a líder comercial con visión estratégica, mentalidad emprendedora y fuerte orientación a resultados, capaz de combinar creatividad con enfoque analítico y&nbsp;apasionado/a por las marcas con identidad propia</p><p><br></p><p><strong>Requisitos:</strong></p><ul><li>Experiencia demostrable liderando equipos de Ventas y Marketing en hoteles upper-upscale o lifestyle.</li><li>Conocimiento profundo del mercado español, con capacidad para construir cartera desde cero y activar cuentas clave.</li><li>Experiencia en la gestión de mercados internacionales y desarrollo de negocio.</li><li>Dominio de distribución, CRM, marketing digital y estrategias multicanal.</li><li>Nivel alto de inglés; francés valorado.</li><li>Enfoque práctico, analítico y resolutivo, con capacidad para trabajar en entornos dinámicos y cambiantes propios de una apertura.</li></ul><p><br></p><p><strong>Si buscas un proyecto estratégico donde combinar visión comercial, creatividad y liderazgo, en una compañía que apuesta por la frescura, la autenticidad, la colaboración y la calidad, URBAN HIVE MADRID es para ti. </strong></p><p><strong>¡Estamos deseando conocerte!</strong></p><p><strong>&nbsp;</strong></p><p><em>Formamos parte del grupo HIVELY HOSPITALITY, líder en la industria hotelera y wellness con más de 80 establecimientos en Europa operados bajo diferentes marcas internacionales y sus 2 marcas propias: Thalazur y Urban Hive.</em></p><p><br></p><p></p>
-]]></description>
-  <startdate></startdate>
-  <enddate></enddate>
-  <createddate>2025-10-07</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/z3q0vc?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/z3q0vc?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>España</country>
-      <city>Madrid</city>
-      <zip>28013</zip>
-      <address>2 Calle de Fomento</address>
-      <countrycode>ES</countrycode>
       <region/>
     </location>
   </locations>
