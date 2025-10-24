@@ -1,9 +1,72 @@
 <source>
   <publisher>Cookorico</publisher>
   <publisherurl>https://www.cookorico.com</publisherurl>
-  <lastupdatedat>2025-10-23 09:02</lastupdatedat>
+  <lastupdatedat>2025-10-24 09:02</lastupdatedat>
 
  <job>
+  <company>Hively Hospitality Holding</company>
+  <companydescription/>
+  <companyuuid>null</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>ufoqab</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Revenue Manager Confirmé H/F</title>
+  <description><![CDATA[
+ <p><strong>Hively Hospitality</strong>, acteur majeur dans l’hôtellerie, la restauration et le bien-être avec 80 établissements en Europe, recherche un Revenue Manager Confirmé H/F.</p><p><strong>&nbsp;</strong></p><p><strong>Directement rattaché.e au Responsable Revenue Manager, vous rejoignez l'équipe RM à Levallois-Perret.</strong></p><p><strong>&nbsp;</strong></p><p><strong>Votre mission : </strong></p><p><strong>Au quotidien, il s’agira de :</strong></p><ul><li>Suivre les montées en charge quotidiennes de votre portefeuille d’hôtels, alerter le GM des opportunités de revenu ou risques liés au chiffre d’affaires, proposer les actions à mettre en place</li><li>Analyser la pertinence des recommandations du RMS et faire les ajustements nécessaires</li><li>Surveiller le marché et les concurrents en termes de positionnement et analyser notre performance de market share</li><li>Apporter votre savoir-faire et expertise afin d’être force de proposition dans la stratégie à mener</li></ul><p>&nbsp;</p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire selon profil avec statut cadre au forfait et RTT (217 jours travaillés)</li><li>Une prime sur objectifs pouvant aller jusqu'à 1 mois de salaire</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture (170€/mois)</li><li>Remboursement du pass Navigo à hauteur de 75%</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li></ul>
+ <p><strong>Votre profil :</strong></p><ul><li>Formation : Bac + 4/5 (école d’ingénieur, école de commerce, université ou école hôtelière)</li><li>Expérience professionnelle : 2 ans minimum dans le revenue management en hôtellerie</li><li>Maîtrise des fonctions avancées d’Excel (formules et tableaux croisés dynamiques), des systèmes RM tels que IDeaS ou OneYield ainsi que des PMS (Opéra, Fols…)</li><li>Aisance dans la manipulation des bases de données ET capacité à jongler entre différents outils RM</li><li>Vous êtes très autonome et disposez d’une excellente capacité d’analyse des chiffres et de compréhension de l’environnement concurrentiel.</li><li>Idéalement vous parlez anglais</li><li>Des déplacements ponctuels sont à prévoir sur les hôtels.</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p></p>
+]]></description>
+  <startdate>2026-01-05</startdate>
+  <enddate></enddate>
+  <createddate>2025-10-23</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/ufoqab?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/ufoqab?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Levallois-Perret</city>
+      <zip>92300</zip>
+      <address></address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
+
+<job>
   <company>Hively Hospitality - Thalazur</company>
   <companydescription/>
   <companyuuid>10</companyuuid>
@@ -888,7 +951,7 @@
 <job>
   <company>Hively Hospitality Holding</company>
   <companydescription/>
-  <companyuuid>null</companyuuid>
+  <companyuuid>8</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -1176,69 +1239,6 @@
       <zip>1050-090</zip>
       <address></address>
       <countrycode>PT</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-
-<job>
-  <company>Hively Hospitality - Thalazur</company>
-  <companydescription/>
-  <companyuuid>4</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>5f4605</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Réceptionniste de nuit/Night Auditor H/F</title>
-  <description><![CDATA[
- <p><strong>Notre hôtel :THALAZUR ROYAN</strong></p><p><br></p><p><strong>Votre mission : </strong></p><p>Accueillir nos clients avec le sourire, même la nuit ! Au quotidien, il s’agira de réaliser :</p><ul><li>les check-in et check-out de nos clients et répondre à leurs demandes</li><li>l'encaissement et la facturation, ainsi que les opérations de clôture de la journée</li><li>le ramassage des fiches PDJ, le ménage de la réception</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Chaque nuit travaillée est indemnisée à hauteur de 10€ bruts</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…)</li></ul>
- <p><strong>Votre profil :</strong></p><ul><li><span style="color: rgb(230, 0, 0);">Première expérience possible</span></li><li><span style="color: rgb(230, 0, 0);">Connaissance informatique</span></li><li><span style="color: rgb(230, 0, 0);">Langues anglaise demandée</span></li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
-]]></description>
-  <startdate>2025-11-01</startdate>
-  <enddate></enddate>
-  <createddate>2025-10-09</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/5f4605?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/5f4605?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Royan</city>
-      <zip>17200</zip>
-      <address></address>
-      <countrycode>FR</countrycode>
       <region/>
     </location>
   </locations>
