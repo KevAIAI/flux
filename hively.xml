@@ -1,9 +1,72 @@
 <source>
   <publisher>Cookorico</publisher>
   <publisherurl>https://www.cookorico.com</publisherurl>
-  <lastupdatedat>2025-10-25 15:02</lastupdatedat>
+  <lastupdatedat>2025-10-26 09:02</lastupdatedat>
 
  <job>
+  <company>Hively Hospitality - Renaissance</company>
+  <companydescription/>
+  <companyuuid>11</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>ypa0i6</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Réceptionniste H/F - Chinese speaking</title>
+  <description><![CDATA[
+ <p><strong>Notre hôtel :</strong></p><p class="ql-align-justify">Le Renaissance Paris République est un hôtel 5 étoiles situé au cœur du 10ème&nbsp;arrondissement de Paris&nbsp;: proche du Canal Saint-Martin, du quartier du Marais et des Grands Boulevards. Notre établissement dispose de 121 chambres, dont 10 suites réparties sur 9 étages. L’hôtel offre une vue imprenable sur les toits de la capitale et un service de qualité avec son Restaurant Martin, son Bar, ainsi que son espace sensoriel.</p><p class="ql-align-justify"><span style="color: rgb(51, 51, 51); background-color: white;">L'hôtel a été élu Meilleur Hôtel Franchise Marriott de la région Europe-Afrique-Moyen-Orient pour l'année 2022 !</span></p><p class="ql-align-justify"><strong>Aujourd’hui, l’hôtel Renaissance Paris République est à la recherche d’un(e) réceptionniste prêt(e) à vivre une expérience WILD, ELEGANT and VIBRANT en hôtellerie de luxe. </strong></p><p>&nbsp;</p><p><strong>Votre mission</strong></p><p><strong>Accueillir nos clients avec le sourire ! Au quotidien, il s’agira de réaliser :</strong></p><ul><li>Le suivi du bon déroulement du séjour de chaque client dans notre établissement</li><li>Les check-ins et les modalités administratives du séjour</li><li>Les check-outs en s’assurant du bon règlement des factures</li><li>La vérification et la préparation des arrivées de notre clientèle</li><li>Le suivi des demandes tout au long du séjour</li><li>Le suivi des réclamations tout au long du séjour</li><li>L’enrôlement de nouveaux clients Marriott en proposant la carte de fidélité BonVoy</li><li>La commercialisation de prestations annexes (upsell chambre et petit-déjeuner, spa, restaurant…)</li><li>Être le référent privilégié de notre clientèle chinoise</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire de 2226€/bruts par mois pour 39h par semaine avec 3 jours de repos consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande,</li><li>Un Plan d’Epargne Entreprise avec abondement</li><li>Avantages nourriture</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…)</li><li>Une prime de complet et une prime sur les upsells</li><li>Le remboursement de 50% du passe Navigo et l'accès gratuit au parking</li><li>L'accès à discrétion de l'espace fitness de l'hôtel</li></ul>
+ <p><strong>Votre profil :</strong></p><ul><li>Attentif.ve aux autres et à l’environnement qui vous entoure : vous contribuez à rendre le séjour de nos clients aussi irréprochable qu’inoubliable en apportant votre petite touche personnelle !</li><li>Ayant une première expérience en hôtellerie</li><li>Très à l’aise en français, en anglais, et en chinois</li><li>Si possible connaître et maîtriser le PMS Opera et le pack Office</li><li>Curieux.se et ayant envie d'apprendre</li></ul><p>&nbsp;</p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
+]]></description>
+  <startdate></startdate>
+  <enddate></enddate>
+  <createddate>2025-10-25</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/ypa0i6?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/ypa0i6?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Paris</city>
+      <zip>75010</zip>
+      <address>40 Rue René Boulanger</address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
+
+<job>
   <company>Hively Hospitality - Ibis Styles</company>
   <companydescription/>
   <companyuuid>null</companyuuid>
@@ -886,9 +949,9 @@
 </job>
 
 <job>
-  <company>Hively Hospitality - Renaissance</company>
+  <company></company>
   <companydescription/>
-  <companyuuid>11</companyuuid>
+  <companyuuid>null</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -901,14 +964,14 @@
   </headquarters>
   <referencenumber>7vdfx1</referencenumber>
   <jobboardid>cookorico</jobboardid>
-  <title>Réceptionniste H/F</title>
+  <title></title>
   <description><![CDATA[
- <p><strong>Notre hôtel : </strong></p><p><strong>Le Renaissance Paris République</strong> est un hôtel 5 étoiles situé au cœur du 10ème&nbsp;arrondissement de Paris&nbsp;: proche du Canal Saint-Martin, du quartier du Marais et des Grands Boulevards. Notre établissement dispose de 121 chambres, dont 10 suites réparties sur 9 étages. L’hôtel offre une vue imprenable sur les toits de la capitale et un service de qualité avec son Restaurant Martin, son Bar, ainsi que son espace sensoriel.</p><p>L'hôtel a été élu Meilleur Hôtel Franchise Marriott de la région Europe-Afrique-Moyen-Orient pour l'année 2022 !</p><p>Aujourd’hui, l’hôtel Renaissance Paris République est à la recherche d’un(e) réceptionniste prêt(e) à vivre une expérience WILD, ELEGANT and VIBRANT en hôtellerie de luxe.</p><p><br></p><p><strong>Votre mission</strong></p><p><strong>Accueillir nos clients avec le sourire! Au quotidien, il s’agira de réaliser :</strong></p><ul><li>Le suivi du bon déroulement du séjour de chaque client dans notre établissement</li><li>Les check-in et check-out de nos clients</li><li>Une bonne présentation des différents services de notre hôtel (bar, restaurant, spa, room-service, etc...)</li><li>Une expérience personnalisée et mémorable lors de chaque interaction</li><li>La vérification des futures réservations</li><li>Une communication et une collaboration étroite avec les autres services de l'hôtel : conciergerie, housekeeping, sales, etc...</li><li>La mise en œuvre des standards de qualité de l'hôtel</li><li>La gestion des appels téléphoniques et des mails</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire de 2226€/bruts par mois pour 39h par semaine (2 ou 3 jours de repos par semaine en fonction du rythme que vous choisirez)</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li>Primes : upsells et complet</li><li>Remboursement de votre carte Navigo à hauteur de 75%</li></ul>
- <p><strong>Votre profil :</strong></p><ul><li>Attentif.ve aux autres et à l’environnement qui vous entoure : vous contribuez à rendre le séjour de nos clients aussi irréprochable qu’inoubliable en apportant votre petite touche personnelle !</li><li>Ayant une première expérience en hôtellerie</li><li>Très à l’aise en français et en anglais, pratiquant une troisième langue (chinois ou russe)</li><li>Si possible connaître et maîtriser le PMS Opera et le pack Office</li><li>Curieux.se et ayant envie d'apprendre</li></ul><p></p>
+ 
+ 
 ]]></description>
   <startdate></startdate>
   <enddate></enddate>
-  <createddate>2025-10-11</createddate>
+  <createddate></createddate>
   <remotestatus></remotestatus>
   <employmenttype></employmenttype>
   <employmentlevel></employmentlevel>
@@ -919,11 +982,11 @@
   <applybuttontext/>
   <locations>
     <location>
-      <country>France</country>
-      <city>Paris</city>
-      <zip>75010</zip>
-      <address>40 Rue René Boulanger</address>
-      <countrycode>FR</countrycode>
+      <country></country>
+      <city></city>
+      <zip></zip>
+      <address></address>
+      <countrycode></countrycode>
       <region/>
     </location>
   </locations>
@@ -1175,69 +1238,6 @@
       <city>Cabourg</city>
       <zip>14390</zip>
       <address></address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-
-<job>
-  <company>Hively Hospitality - Thalazur</company>
-  <companydescription/>
-  <companyuuid>4</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>bb2sas</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Hydrothérapeute H/F</title>
-  <description><![CDATA[
- <p><strong>Notre hôtel :</strong><strong style="color: rgb(230, 0, 0);"> </strong>Hôtel Cordouan Thalazur Royan, notre établissement comprend 83 chambres classées 4*, un restaurant de 90 places un centre de thalassothérapie et il a été entièrement rénové ! Il ouvrira ces portes le 6 Avril 2023</p><p><br></p><p><strong>Votre mission :</strong></p><p>Apporter du bien-être à nos clients grâce à vos talents !</p><ul><li class="ql-align-justify">Prodiguer des soins d’hydrothérapie et les modelages dans le respect de la marque Thalazur</li><li class="ql-align-justify">Prendre le client en charge du début à la fin du soin</li><li class="ql-align-justify">Favoriser la vente des produits Thalazur</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire compris entre 1709 et 1760 €/bruts par mois pour 35h par semaine avec 2 jours de repos</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages tickets restaurants<span style="color: rgb(230, 0, 0);"> </span>et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li></ul>
- <p><strong>Votre profil : </strong></p><ul><li>Expérience dans un autre centre de thalassothérapie ou Spa hôtelier</li><li>Envie de rejoindre une équipe unie, énergique et professionnelle</li><li>Formation : CQP Praticien SPA et/ou CAP Esthétique minimum.</li><li>La connaissance de différents modelages serait un plus, ainsi que des bases en anglais.</li></ul><p><br></p><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
-]]></description>
-  <startdate>2023-06-19</startdate>
-  <enddate></enddate>
-  <createddate>2025-10-09</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/bb2sas?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/bb2sas?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Royan</city>
-      <zip>17200</zip>
-      <address>6 Allée des Rochers</address>
       <countrycode>FR</countrycode>
       <region/>
     </location>
