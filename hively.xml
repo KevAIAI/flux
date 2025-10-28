@@ -1,9 +1,72 @@
 <source>
   <publisher>Cookorico</publisher>
   <publisherurl>https://www.cookorico.com</publisherurl>
-  <lastupdatedat>2025-10-28 09:02</lastupdatedat>
+  <lastupdatedat>2025-10-28 15:02</lastupdatedat>
 
  <job>
+  <company>Hively Hospitality - Thalazur</company>
+  <companydescription/>
+  <companyuuid>5</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>tjrwir</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Plongeur H/F</title>
+  <description><![CDATA[
+ <p><strong>Notre hôtel : Thalazur- </strong>Port-Camargue</p><p><br></p><p><strong>Votre mission :</strong></p><p>Plongez au sein d’une équipe chaleureuse et dynamique, aucune formation n’est exigée !&nbsp;</p><ul><li>Vous assurez le nettoyage de la vaisselle et de tous les ustensiles de cuisine, voire du gros matériel et des locaux, et vous prenez soin de ranger les éléments à leur place.</li><li>Une cuisine propre pour un service de qualité !&nbsp;</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un contrat de 39h par semaine avec 2 jours de repos consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li></ul>
+ <p><strong>Votre profil : </strong></p><ul><li>Habitué(e) à travailler efficacement en équipe, vous êtes organisé(e) et dynamique.</li><li>Attentif(ve) à l’hygiène, aux détails, et à la satisfaction de nos clients.</li><li>Votre connaissance des normes HACCP est un plus.&nbsp;</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
+]]></description>
+  <startdate>2025-11-01</startdate>
+  <enddate></enddate>
+  <createddate>2025-10-28</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/tjrwir?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/tjrwir?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Le Grau-du-Roi</city>
+      <zip></zip>
+      <address></address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
+
+<job>
   <company>Hively Hospitality - Thalazur</company>
   <companydescription/>
   <companyuuid>48</companyuuid>
@@ -1176,69 +1239,6 @@
       <zip></zip>
       <address></address>
       <countrycode></countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-
-<job>
-  <company>Hively Hospitality - Novotel suites</company>
-  <companydescription/>
-  <companyuuid>null</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>usjxz5</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Responsable Technique H/F</title>
-  <description><![CDATA[
- <p><strong>Notre hôtel</strong> : NOVOTEL Suites et IBIS Styles Nice Airport</p><p>&nbsp;</p><p><strong>Votre mission : </strong></p><p><strong>Contribuer à un séjour client joyeux et sans faux-pas ! Au quotidien, il s’agira de :</strong></p><p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gérer les réparations techniques et la maintenance de l'ensemble des équipements techniques de l'hôtel</strong></p><p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gérer l'entretien de la piscine</strong></p><p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Veiller au respect des normes de sécurité (plan de maintenance préventive, classeur technique, carnet sanitaire, registre de sécurité, exercices d'évacuation incendie, commission de sécurité...) et à l'application des procédures</strong></p><p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Manager votre technicien de maintenance et travaillerez étroitement avec l'équipe de nettoyage</strong></p><p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d'avoir une gestion écoresponsable du bâtiment puisque notre établissement en cours de labellisation CLEF VERTE tout en étant en phase avec le plan de sobriété énergétique de l'état</strong></p><p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Responsable de la gestion du patrimoine</strong></p><p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Entretien de bonnes relations avec les entreprises contractées et bureaux de contrôles</strong></p><p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Très bonne maitrise des outils informatiques</strong></p><p><strong>&nbsp;</strong></p><p><strong>Nous vous proposons :</strong></p><p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;39h par semaine avec 2 jours de repos consécutifs – Statut d’Agent de Maitrise</strong></p><p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Une prime sur objectifs pouvant aller jusqu'à 1 mois de salaire</strong></p><p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture (170€/mois) et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</strong></p><p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Des tarifs préférentiels dans notre réseau d’établissements</strong></p><p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mutuelle et Prévoyance offrant des garanties et une couverture maximale</strong></p><p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</strong></p>
- <p><strong>Votre profil :</strong></p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vous maîtrisez les enjeux techniques d'un bâtiment hôtelier</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Attentif aux autres et à l’environnement qui vous entoure : vous contribuez à rendre le séjour de nos clients aussi irréprochable qu’inoubliable en résolvant les</p><p>couacs techniques au fur et à mesure</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rigoureux(se), autonome et organisé(e), vous êtes réactif(ve) quand une demande d’assistance est formulée.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Forte autonomie demandée</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Expérience de 2 à 3 années confirmées dans le domaine souhaité</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Compétences <u>électrotechniques indispensables et plomberie</u></p><p><br></p><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
-]]></description>
-  <startdate>2025-12-08</startdate>
-  <enddate></enddate>
-  <createddate>2025-10-10</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/usjxz5?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/usjxz5?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Nice</city>
-      <zip>06200</zip>
-      <address>125 Boulevard René Cassin</address>
-      <countrycode>FR</countrycode>
       <region/>
     </location>
   </locations>
