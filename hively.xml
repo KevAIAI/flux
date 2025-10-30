@@ -1,7 +1,7 @@
 <source>
   <publisher>Cookorico</publisher>
   <publisherurl>https://www.cookorico.com</publisherurl>
-  <lastupdatedat>2025-10-30 09:02</lastupdatedat>
+  <lastupdatedat>2025-10-30 15:02</lastupdatedat>
 
  <job>
   <company>Hively Hospitality - Novotel</company>
@@ -886,9 +886,9 @@
 </job>
 
 <job>
-  <company>Hively Hospitality - Ibis Styles</company>
+  <company></company>
   <companydescription/>
-  <companyuuid>31</companyuuid>
+  <companyuuid>null</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -901,14 +901,14 @@
   </headquarters>
   <referencenumber>3prqoh</referencenumber>
   <jobboardid>cookorico</jobboardid>
-  <title>Réceptionniste de nuit/ Night Auditor H/F</title>
+  <title></title>
   <description><![CDATA[
- <p><strong>Notre hôtel : Etablissement de 140 chambres mixant les marques IBIS BUDGET &amp; IBIS STYLES et recevant une clientèle aussi bien d'affaires que touristique et sportive.</strong></p><p><br></p><p><strong>Votre mission : </strong></p><p>Accueillir nos clients avec le sourire, même la nuit ! Au quotidien, il s’agira de réaliser :</p><ul><li>Les check-in et check-out de nos clients et répondre à leurs demandes</li><li>L'encaissement et la facturation, ainsi que les opérations de clôture de la journée</li><li>Veiller à la sécurité de l'établissement et de la clientèle.</li><li>Mettre en place le petit-déjeuner(préparation viennoiseries et buffet) pour une nouvelle journée qui démarre</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire de 852€/bruts par mois pour 16h par semaine.</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture (80€/mois)</li><li>Chaque nuit travaillée est indemnisée à hauteur de 10€ bruts supplémentaires.</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…)</li></ul><p>		primes possible (hotel complet...)</p>
- <p><strong>Votre profil :</strong></p><ul><li>Première expérience du travail de nuit serait un plus.</li><li>Langues étrangères (anglais nécessaire) pour clientèle internationale</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
+ 
+ 
 ]]></description>
-  <startdate>2025-11-03</startdate>
+  <startdate></startdate>
   <enddate></enddate>
-  <createddate>2025-10-21</createddate>
+  <createddate></createddate>
   <remotestatus></remotestatus>
   <employmenttype></employmenttype>
   <employmentlevel></employmentlevel>
@@ -919,11 +919,11 @@
   <applybuttontext/>
   <locations>
     <location>
-      <country>France</country>
-      <city>Rouen</city>
-      <zip>76000</zip>
-      <address>55 Avenue de la Libération</address>
-      <countrycode>FR</countrycode>
+      <country></country>
+      <city></city>
+      <zip></zip>
+      <address></address>
+      <countrycode></countrycode>
       <region/>
     </location>
   </locations>
