@@ -1,7 +1,7 @@
 <source>
   <publisher>Cookorico</publisher>
   <publisherurl>https://www.cookorico.com</publisherurl>
-  <lastupdatedat>2025-11-04 09:02</lastupdatedat>
+  <lastupdatedat>2025-11-04 15:04</lastupdatedat>
 
  <job>
   <company>Hively Hospitality Holding</company>
@@ -69,7 +69,7 @@
 <job>
   <company>Hively Hospitality Holding</company>
   <companydescription/>
-  <companyuuid>1</companyuuid>
+  <companyuuid>76</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -825,7 +825,7 @@
 <job>
   <company>Hively Hospitality Holding</company>
   <companydescription/>
-  <companyuuid>76</companyuuid>
+  <companyuuid>null</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
