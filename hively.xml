@@ -1,9 +1,72 @@
 <source>
   <publisher>Cookorico</publisher>
   <publisherurl>https://www.cookorico.com</publisherurl>
-  <lastupdatedat>2025-11-03 15:02</lastupdatedat>
+  <lastupdatedat>2025-11-04 09:02</lastupdatedat>
 
  <job>
+  <company>Hively Hospitality Holding</company>
+  <companydescription/>
+  <companyuuid>1</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>f1gk1b</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Directeur(rice) des opérations - Hôtellerie H/F</title>
+  <description><![CDATA[
+ <p>Opérateur reconnu dans l’univers hôtelier, <strong>Hively Hospitality</strong> exploite plus de 80 établissements en Europe, en franchise, avec Accor et Marriott, ou à travers des marques propres comme Thalazur et Urban Hive.</p><p>&nbsp;</p><p>Rattaché(e) à la Direction Générale et membre d’une équipe de 5 Directeurs des Opérations, vous êtes responsable d’un périmètre défini d’hôtels multi-marques.&nbsp;</p><p>Ce poste implique des déplacements fréquents, afin d’être au plus proche des équipes.</p><p>&nbsp;</p><p><strong>Vos principales missions seront l’accompagnement des équipes opérationnelles, le suivi et l’amélioration de la performance des établissements, et la bonne diffusion et application des process &amp; projets du réseau Hively Hospitality</strong>. Elles se détaillent comme suit :</p><ul><li>Accompagner et superviser les Directeurs(trices) d’hôtels dans une logique d’amélioration continue de la performance (commercialisation, qualité, satisfaction client, gestion financière, RH).</li><li>Animer la communauté managériale de votre périmètre via des points réguliers, réunions, séminaires et échanges de bonnes pratiques.</li><li>Garantir le respect et le déploiement des standards de marques.</li><li>Participer activement à l’évolution, à l’optimisation et à l’application des process internes au réseau Hively.</li><li>Être un(e) partenaire stratégique et de proximité pour vos équipes : soutien au quotidien, relais entre les établissements et les fonctions siège (finance, RH, RM, distribution, technique, maintenance…).</li><li>Veiller à la conformité réglementaire des établissements de votre périmètre (sécurité, hygiène, droit du travail…).</li><li>Être force de proposition dans l’implémentation de projets de transformation/rénovation, de montée en gamme ou de performance durable.</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un 13ème mois, une prime sur objectifs, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture, un véhicule de fonction&nbsp;</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture optimales</li></ul><p><br></p>
+ <p><strong>Profil recherché:</strong></p><p>Vous justifiez d’une expérience professionnelle significative, dont au moins 5 ans dans des fonctions de direction d’hôtel. Une expérience de différentes marques et chaines hôtelières est attendue.&nbsp;</p><p>Manager aguerri(e), vous savez accompagner des profils expérimentés, instaurer une culture de l’excellence et impulser une dynamique collective.</p><p>Structuré(e), à l’écoute, proche du terrain, vous alliez leadership et capacité d’analyse stratégique.</p><p>Vous maîtrisez les fondamentaux de l’exploitation hôtelière (RH, pilotage budgétaire, qualité, procédures opérationnelles...).</p><p>La maîtrise de l’anglais est impérative</p><p><br></p><p><strong>Pourquoi nous rejoindre ?</strong></p><p>Hively Hospitality est un réseau à taille humaine, adossé à de grandes marques, offrant agilité et ambition.</p><p>Un rôle clé au sein de la direction opérationnelle, avec une réelle marge de manœuvre.</p><p>Un environnement où l'humain, la performance et la passion du métier sont au cœur de notre projet.</p><p class="ql-align-justify"><br></p>
+]]></description>
+  <startdate>2026-03-16</startdate>
+  <enddate></enddate>
+  <createddate>2025-10-29</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/f1gk1b?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/f1gk1b?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city></city>
+      <zip></zip>
+      <address></address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
+
+<job>
   <company>Hively Hospitality Holding</company>
   <companydescription/>
   <companyuuid>1</companyuuid>
@@ -762,7 +825,7 @@
 <job>
   <company>Hively Hospitality Holding</company>
   <companydescription/>
-  <companyuuid>null</companyuuid>
+  <companyuuid>76</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -1175,69 +1238,6 @@
       <city>Ouistreham</city>
       <zip>14150</zip>
       <address>Boulevard Commandant Kieffer</address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-
-<job>
-  <company>Hively Hospitality - Thalazur</company>
-  <companydescription/>
-  <companyuuid>48</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>ul3jm0</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Spa Praticien(ne) H/F</title>
-  <description><![CDATA[
- <p>Thalazur Carnac occupe une situation privilégiée entre l’océan, les plages et l’Île aux&nbsp;Oiseaux, véritable havre de paix d’une faune et flore d’une incroyable diversité.&nbsp;Entre Océan et patrimoine légendaire des mégalithes, la nature est au cœur de&nbsp;notre activité et a inspiré à la fois notre histoire et nos espaces.</p><p>&nbsp;</p><p>Situé à 100m de la grande plage de Carnac, station balnéaire réputée du Morbihan, l'établissement Hôtel et Thalasso - Thalazur Carnac propose dans le cadre de sa réouverture dès novembre 2025 et après rénovation totale, 200 chambres d’Hôtel 4*, une Résidence de 34 logements 3*, Restaurants et espace de séminaire.</p><p>Centre de Thalasso avec 70 cabines de soins dont 18 cabines Esthétique et Spa.</p><p>&nbsp;</p><p>Rattaché(e) à la Responsable Esthétique et Spa, vous<u> </u>aurez la chance de préparer, participer pleinement à cette réouverture très attendue et de vous épanouir dans un magnifique environnement.</p><p><br></p><p>Programme de formation interne prévu.</p><p><br></p><p><br></p><p><strong>Votre mission :</strong></p><p><strong>Prendre soin de nos clients !</strong></p><ul><li class="ql-align-justify">Dispenser des massages, des soins corporels, des rituels ainsi que tous les soins entrant dans ses champs de compétences</li><li class="ql-align-justify">Personnaliser les protocoles de soins en fonction du type de peau de son/sa client(e) et de ses besoins</li></ul><p class="ql-align-justify"><br></p><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un contrat de 35h par semaine<strong> </strong>avec 2 jours de repos (centre ouvert à la clientèle 7j/7j)</li><li>Prime de fin d'année, équivalent à un 13ème mois de salaire</li><li>Plan d’Epargne Entreprise avec abondement, des tickets restaurants et chaque heure supplémentaire travaillée est comptabilisée (pointeuse)</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li>Parking privé pour le personnel</li><li>Uniforme fourni et service de blanchissage assuré</li></ul>
- <p><strong>Votre profil : </strong></p><ul><li>Expérience appréciée, envie de rejoindre une équipe unie, énergique et professionnelle</li><li>Parfaite connaissance des techniques des soins corporels et des massages</li><li>BP/BAC PRO/BTS Esthétique ou CQP SPA Praticien</li><li>Motivée, organisée avec l'esprit d'équipe</li></ul><p><br></p><p><strong>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</strong></p><p><br></p><p></p>
-]]></description>
-  <startdate>2025-10-27</startdate>
-  <enddate></enddate>
-  <createddate>2025-10-15</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/ul3jm0?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/ul3jm0?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Carnac</city>
-      <zip>56340</zip>
-      <address>2 Avenue de l'Atlantique</address>
       <countrycode>FR</countrycode>
       <region/>
     </location>
