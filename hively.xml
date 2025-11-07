@@ -1,9 +1,135 @@
 <source>
   <publisher>Cookorico</publisher>
   <publisherurl>https://www.cookorico.com</publisherurl>
-  <lastupdatedat>2025-11-07 09:02</lastupdatedat>
+  <lastupdatedat>2025-11-07 15:02</lastupdatedat>
 
  <job>
+  <company>Hively Hospitality - Thalazur</company>
+  <companydescription/>
+  <companyuuid>48</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>o23jou</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Serveur/se CDI 39h</title>
+  <description><![CDATA[
+ <p><strong>Notre site :&nbsp;</strong>Thalazur Carnac - Hôtel 4 étoiles 200 chambres - espace séminaire 700m² - Restaurant 180 places - 75 000 couverts à l'année -75 000 Petits déjeuners - Equipe de 20 à 30 personnes</p><p>Situé au bord des Salines de Carnac, notre établissement a été entièrement rénové et vous propose un cadre très agréable de travail.</p><p><br></p><p><strong>Votre mission principale : prendre soin de nos clients au restaurant, bar, petits déjeuners &amp; espaces de séminaires </strong></p><ul><li>Attentif aux autres et à l’environnement qui vous entoure : vous contribuez à rendre le séjour de nos clients aussi irréprochable qu’inoubliable en apportant votre petite touche personnelle !</li><li>Vous assurez un accueil et un service personnalisés et chaleureux, le bien-être des clients est toujours votre priorité.</li><li>Vous êtes garant de la fidélisation du client, ils reviendront sûrement un peu pour vous !&nbsp;</li></ul><p><br></p><p><strong><u>Missions générales</u></strong></p><ul><li class="ql-align-justify">Accueillir le client, l’installer à table et prendre la commande des apéritifs.</li><li class="ql-align-justify">Offrir un service attentionné et adapté aux attentes des clients.</li><li class="ql-align-justify">Servir les plats et débarrasser les assiettes, verres, plats et couverts.</li><li class="ql-align-justify">Mise en place et service du petit-déjeuner</li><li class="ql-align-justify">Procéder aux opérations de mise en place pour l’arrivée des clients suivants.</li><li class="ql-align-justify">Participer au rangement et au nettoyage des points de restauration.</li></ul><p><br></p><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un contrat de 39h par semaine avec 2 jours de repos consécutifs</li><li>Des avantages nourriture et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximale</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li>Valorisation de la coupure à partir de 3h d'interruption</li><li>Uniforme et chaussures fournis</li></ul>
+ <p><strong>Votre profil : </strong></p><ul><li>Vous êtes&nbsp;<strong>dynamique, motivé(e)</strong>,</li><li>Vous possédez une première expérience réussie en restauration (1 an), des&nbsp;<strong>qualités relationnelles</strong>&nbsp;et une envie de rejoindre une équipe&nbsp;<strong>unie</strong>,&nbsp;<strong>énergique&nbsp;</strong>et&nbsp;<strong>professionnelle</strong></li><li>Très à l’aise tant dans la relation client que l'exécution du dressage et du débarrassage des tables en salle. (Votre adresse naturelle est un atout !)&nbsp;&nbsp;</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p></p>
+]]></description>
+  <startdate></startdate>
+  <enddate></enddate>
+  <createddate>2025-11-07</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/o23jou?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/o23jou?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Carnac</city>
+      <zip>56340</zip>
+      <address></address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
+
+<job>
+  <company>Hively Hospitality - Renaissance</company>
+  <companydescription/>
+  <companyuuid>13</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>w9tgdg</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Gouvernante général H/F</title>
+  <description><![CDATA[
+ <p><strong>Notre hôtel : </strong>Le Renaissance Paris Arc de Triomphe est un hôtel Lifestyle 5*au cœur de l'effervescence parisienne, proposant des découvertes locales &amp; des expériences uniques à ses clients. Nos trois valeurs sont les suivantes : local, intriguant, indépendant. Notre ambition est de créer des souvenirs à nos clients en les surprenant, et en leur faisant vivre un voyage des sens stimulant et hors du commun. Ce sont les passions et intérêts des personnalités de notre équipe qui créent cette relation si particulière avec notre clientèle et notre différence.&nbsp;</p><p><br></p><p><strong>Votre mission : </strong></p><p>Prendre soin de nos clients en chouchoutant leurs espaces de vie ! Au quotidien, il s’agira de réaliser :</p><ul><li>Vous supervisez l’ensemble des opérations Housekeeping afin de garantir des chambres et espaces publics impeccables, selon les standards 5 étoiles.</li><li>Vous pilotez au quotidien avec la société de sous-traitance (organisation, contrôles qualité, suivi de la performance) et veillez à l’accueil et à la satisfaction de nos clients.</li><li>Vous coordonnez les actions avec la Réception et la Maintenance, et assurez la gestion des stocks, des produits d’accueil et du linge.</li><li>Votre objectif : offrir une expérience client irréprochable, élégante et personnalisée.<span style="color: black;">&nbsp;</span></li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire Agent de maitrise selon expérience pour 39h par semaine avec 2 jours de repos consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li></ul>
+ <p><strong>Votre profil :</strong></p><ul><li>CDI à temps plein 169h/mois au sein de</li><li>Première expérience d'1 an minimum, qualités relationnelles, envie<strong> </strong>de rejoindre une équipe unie, énergique et professionnelle</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
+]]></description>
+  <startdate>2026-01-05</startdate>
+  <enddate></enddate>
+  <createddate>2025-11-07</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/w9tgdg?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/w9tgdg?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Paris</city>
+      <zip>75017</zip>
+      <address>39 Avenue de Wagram</address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
+
+<job>
   <company>Hively Hospitality - Moxy</company>
   <companydescription/>
   <companyuuid>55</companyuuid>
@@ -258,7 +384,7 @@
 <job>
   <company>Hively Hospitality Holding</company>
   <companydescription/>
-  <companyuuid>1</companyuuid>
+  <companyuuid>76</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -1014,7 +1140,7 @@
 <job>
   <company>Hively Hospitality Holding</company>
   <companydescription/>
-  <companyuuid>null</companyuuid>
+  <companyuuid>1</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -1113,132 +1239,6 @@
       <zip>06600</zip>
       <address>770 Chemin des Moyennes Bréguières</address>
       <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-
-<job>
-  <company>Hively Hospitality - Thalazur</company>
-  <companydescription/>
-  <companyuuid>8</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>gzsclb</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Chef de partie pâtisserie H/F</title>
-  <description><![CDATA[
- <p><strong>Notre hôtel : </strong>Hôtel Ile Rousse 5* - Thalazur BANDOL (83) - Restaurant gastronomique Les Oliviers</p><p>Rejoignez l’aventure gourmande du restaurant gastronomique <strong>Les Oliviers</strong>, où créativité, exigence et passion guident chacune de nos assiettes.</p><p>Aux côtés de la talentueuse <strong>Fleur Feragus</strong>, cheffe pâtissière reconnue pour son univers raffiné et audacieux, nous recherchons notre futur(e) <strong>Chef de partie Pâtisserie</strong></p><p><br></p><p><strong>Votre mission :</strong></p><p>Régaler nos clients !</p><ul><li>Assister la Cheffe Pâtissière dans la réalisation des desserts à l’assiette.</li><li>Encadrer et former les commis et apprentis.</li><li>Garantir la qualité, la régularité et l’esthétique des créations servies.</li><li>Veiller au respect des normes d’hygiène et de sécurité en cuisine.</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire attractif pour 39h par semaine avec 2 jours de repos consécutifs</li><li>Plannings principalement du soir</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande</li><li>Un Plan d’Epargne Entreprise avec abondement</li><li>Des avantages nourriture compensées en indemnités journalière</li><li>Heure supplémentaire travaillée est comptabilisée.</li><li>Valorisation de la coupure à partir de 3h d'interruption</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…)</li></ul>
- <p><strong>Votre profil : </strong></p><ul><li>Expérience de 5 ans réussie en cuisine</li><li>Envie de rejoindre une équipe unie, énergique et professionnelle</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
-]]></description>
-  <startdate>2025-11-01</startdate>
-  <enddate></enddate>
-  <createddate>2025-10-22</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/gzsclb?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/gzsclb?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Bandol</city>
-      <zip>83150</zip>
-      <address></address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-
-<job>
-  <company></company>
-  <companydescription/>
-  <companyuuid>null</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>3prqoh</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title></title>
-  <description><![CDATA[
- 
- 
-]]></description>
-  <startdate></startdate>
-  <enddate></enddate>
-  <createddate></createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/3prqoh?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/3prqoh?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country></country>
-      <city></city>
-      <zip></zip>
-      <address></address>
-      <countrycode></countrycode>
       <region/>
     </location>
   </locations>
