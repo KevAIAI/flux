@@ -1,9 +1,72 @@
 <source>
   <publisher>Cookorico</publisher>
   <publisherurl>https://www.cookorico.com</publisherurl>
-  <lastupdatedat>2025-11-08 09:02</lastupdatedat>
+  <lastupdatedat>2025-11-08 15:02</lastupdatedat>
 
  <job>
+  <company>Hively Hospitality - Thalazur</company>
+  <companydescription/>
+  <companyuuid>5</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>z9ow15</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Commis de cuisine H/F</title>
+  <description><![CDATA[
+ <p><strong>Notre hôtel : </strong>Le Grau du roi - Thalazur</p><p><br></p><p><strong>Votre mission :</strong></p><p>Prendre soin des papilles de nos clients :</p><ul><li>Vous êtes sous la responsabilité du second de cuisine pour l’exécution des plats et des recettes de notre restaurant (parler rapidement du concept de restauration - exemple : de notre restaurant d'inspiration méditerranéenne)</li><li>Vous effectuez la mise en place nécessaire à la réalisation des plats et participez à l'envoi en salle des assiettes dressées.&nbsp;</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un contrat de 39h par semaine<strong> </strong>(à adapter si temps partiel) avec 2 jours de repos consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Le cas échéant : Valorisation de la coupure à partir de 3h d’interruption&nbsp;</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li>Prise en charge 75% transports en commun</li></ul><p><br></p>
+ <p><strong>Votre profil : </strong></p><ul><li>Première expérience réussie en cuisine, envie de rejoindre une équipe unie, énergique et professionnelle</li><li>Vous maîtrisez les principales techniques culinaires et avez envie d'apprendre!</li></ul><p><br></p><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
+]]></description>
+  <startdate></startdate>
+  <enddate></enddate>
+  <createddate>2025-11-08</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/z9ow15?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/z9ow15?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Le Grau-du-Roi</city>
+      <zip></zip>
+      <address></address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
+
+<job>
   <company>Hively Hospitality - Thalazur</company>
   <companydescription/>
   <companyuuid>8</companyuuid>
@@ -447,7 +510,7 @@
 <job>
   <company>Hively Hospitality Holding</company>
   <companydescription/>
-  <companyuuid>1</companyuuid>
+  <companyuuid>76</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -1175,69 +1238,6 @@
       <city>Ouistreham</city>
       <zip>14150</zip>
       <address>Boulevard Commandant Kieffer</address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-
-<job>
-  <company>Hively Hospitality Holding</company>
-  <companydescription/>
-  <companyuuid>null</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>ufoqab</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Revenue Manager Confirmé H/F</title>
-  <description><![CDATA[
- <p><strong>Hively Hospitality</strong>, acteur majeur dans l’hôtellerie, la restauration et le bien-être avec 80 établissements en Europe, recherche un Revenue Manager Confirmé H/F.</p><p><strong>&nbsp;</strong></p><p><strong>Directement rattaché.e au Responsable Revenue Manager, vous rejoignez l'équipe RM à Levallois-Perret.</strong></p><p><strong>&nbsp;</strong></p><p><strong>Votre mission : </strong></p><p><strong>Au quotidien, il s’agira de :</strong></p><ul><li>Suivre les montées en charge quotidiennes de votre portefeuille d’hôtels, alerter le GM des opportunités de revenu ou risques liés au chiffre d’affaires, proposer les actions à mettre en place</li><li>Analyser la pertinence des recommandations du RMS et faire les ajustements nécessaires</li><li>Surveiller le marché et les concurrents en termes de positionnement et analyser notre performance de market share</li><li>Apporter votre savoir-faire et expertise afin d’être force de proposition dans la stratégie à mener</li></ul><p>&nbsp;</p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire selon profil avec statut cadre au forfait et RTT (217 jours travaillés)</li><li>Une prime sur objectifs pouvant aller jusqu'à 1 mois de salaire</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture (170€/mois)</li><li>1 jour de télétravail par semaine</li><li>Remboursement du pass Navigo à hauteur de 75%</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li></ul>
- <p><strong>Votre profil :</strong></p><ul><li>Formation : Bac + 4/5 (école d’ingénieur, école de commerce, université ou école hôtelière)</li><li>Expérience professionnelle : 2 ans minimum dans le revenue management en hôtellerie</li><li>Maîtrise des fonctions avancées d’Excel (formules et tableaux croisés dynamiques), des systèmes RM tels que IDeaS ou OneYield ainsi que des PMS (Opéra, Fols…)</li><li>Aisance dans la manipulation des bases de données ET capacité à jongler entre différents outils RM</li><li>Vous êtes très autonome et disposez d’une excellente capacité d’analyse des chiffres et de compréhension de l’environnement concurrentiel.</li><li>Idéalement vous parlez anglais</li><li>Des déplacements ponctuels sont à prévoir sur les hôtels.</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p></p>
-]]></description>
-  <startdate>2026-01-05</startdate>
-  <enddate></enddate>
-  <createddate>2025-10-23</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/ufoqab?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/ufoqab?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Levallois-Perret</city>
-      <zip>92300</zip>
-      <address></address>
       <countrycode>FR</countrycode>
       <region/>
     </location>
