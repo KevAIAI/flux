@@ -1,9 +1,72 @@
 <source>
   <publisher>Cookorico</publisher>
   <publisherurl>https://www.cookorico.com</publisherurl>
-  <lastupdatedat>2025-11-15 15:02</lastupdatedat>
+  <lastupdatedat>2025-11-16 15:02</lastupdatedat>
 
  <job>
+  <company>Hively Hospitality - Thalazur</company>
+  <companydescription/>
+  <companyuuid>4</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>ws0o0h</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Réceptionniste H/F</title>
+  <description><![CDATA[
+ <p><strong>Notre hôtel :</strong><strong style="color: rgb(230, 0, 0);"> </strong>Thalazur Royan. Un face à face avec l'Océan, entièrement rénové!</p><p><br></p><p><strong>Votre mission :</strong></p><p>Accueillir nos clients avec le sourire et être garant de leur bien être ! Au quotidien, il s’agira de réaliser :</p><ul><li>Les check-in et check-out de nos clients à l'hôtel et à la Thalassothérapie</li><li>L'encaissement et la facturation</li><li>Etablir le planning de soins et des rendez vous pour la durée de leur cure</li><li>Répondre aux différentes demandes clients durant le séjour</li><li>Coordonner le travail avec la Gouvernante et le service des étages pour l'entretien des chambres</li><li>Possibilité de faire des shifts de nuit pour remplacement vacances. Equipe de nuit en place.</li></ul><p><br></p><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire de 2011 à 2241€/bruts par mois pour 39h par semaine<strong> </strong>avec 2 jours de repos consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture (170€/mois) et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li></ul><p><br></p>
+ <p><strong>Votre profil :</strong></p><ul><li>Attentif aux autres et à l’environnement qui vous entoure : vous contribuez à rendre le séjour de nos clients aussi irréprochable qu’inoubliable en apportant votre petite touche personnelle !</li><li>Très à l’aise en français et en anglais</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
+]]></description>
+  <startdate>2025-12-01</startdate>
+  <enddate></enddate>
+  <createddate>2025-11-15</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/ws0o0h?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/ws0o0h?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Royan</city>
+      <zip>17200</zip>
+      <address>6 Allée des Rochers</address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
+
+<job>
   <company>Hively Hospitality - Thalazur</company>
   <companydescription/>
   <companyuuid>48</companyuuid>
@@ -951,7 +1014,7 @@
 <job>
   <company>Hively Hospitality Holding</company>
   <companydescription/>
-  <companyuuid>1</companyuuid>
+  <companyuuid>76</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -1175,69 +1238,6 @@
       <city>Antibes</city>
       <zip>06600</zip>
       <address>770 Chemin des Moyennes Bréguières</address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-
-<job>
-  <company>Hively Hospitality - Thalazur</company>
-  <companydescription/>
-  <companyuuid>4</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>j0prlu</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Réceptionniste H/F</title>
-  <description><![CDATA[
- <p><strong>Notre hôtel :</strong><strong style="color: rgb(230, 0, 0);"> </strong>Thalazur Royan. Un face à face avec l'Océan, entièrement rénové!</p><p><br></p><p><strong>Votre mission :</strong></p><p>Accueillir nos clients avec le sourire et être garant de leur bien être ! Au quotidien, il s’agira de réaliser :</p><ul><li>Les check-in et check-out de nos clients à l'hôtel et à la Thalassothérapie</li><li>L'encaissement et la facturation</li><li>Etablir le planning de soins et des rendez vous pour la durée de leur cure</li><li>Répondre aux différentes demandes clients durant le séjour</li><li>Coordonner le travail avec la Gouvernante et le service des étages pour l'entretien des chambres</li><li>Possibilité de faire des shifts de nuit pour remplacement vacances. Equipe de nuit en place.</li></ul><p><br></p><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire de 2011 à 2241€/bruts par mois pour 39h par semaine<strong> </strong>avec 2 jours de repos consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture (170€/mois) et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li></ul><p><br></p>
- <p><strong>Votre profil :</strong></p><ul><li>Attentif aux autres et à l’environnement qui vous entoure : vous contribuez à rendre le séjour de nos clients aussi irréprochable qu’inoubliable en apportant votre petite touche personnelle !</li><li>Très à l’aise en français et en anglais</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
-]]></description>
-  <startdate>2025-12-01</startdate>
-  <enddate></enddate>
-  <createddate>2025-10-28</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/j0prlu?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/j0prlu?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Royan</city>
-      <zip>17200</zip>
-      <address>6 Allée des Rochers</address>
       <countrycode>FR</countrycode>
       <region/>
     </location>
