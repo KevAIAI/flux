@@ -1,9 +1,72 @@
 <source>
   <publisher>Cookorico</publisher>
   <publisherurl>https://www.cookorico.com</publisherurl>
-  <lastupdatedat>2025-11-16 15:02</lastupdatedat>
+  <lastupdatedat>2025-11-17 09:02</lastupdatedat>
 
  <job>
+  <company>Hively Hospitality - Thalazur</company>
+  <companydescription/>
+  <companyuuid>8</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>ybh8z6</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Spa Praticien(ne) H/F</title>
+  <description><![CDATA[
+ <p><strong>Notre site : </strong>Thalassothérapie &amp; Spa Thalazur Bandol</p><p><br></p><p><strong>Votre mission :</strong></p><p>Prendre soin de nos clients !</p><ul><li class="ql-align-justify">Dispenser des soins corporels, des rituels, des soins d'hydrothérapie ainsi que tous les soins entrant dans ces champs de compétences</li><li class="ql-align-justify">Personnaliser les protocoles de soins en fonction des besoins de son/sa client(e)</li><li class="ql-align-justify">Conseiller les clients à la suite de leurs soins</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un contrat durant les vacances de noël du 22/12/2025 au 03/01/2025</li><li>39h par semaine avec 2 jours de repos</li><li>Une possibilité de logement</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des<span style="color: rgb(230, 0, 0);"> </span>avantages nourriture et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance&nbsp;offrant des garanties et une couverture maximales&nbsp;</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li></ul>
+ <p><strong>Votre profil : </strong></p><ul><li>Expérience de 1 an en thalasso et/ou spa, envie de rejoindre une équipe unie, énergique et professionnelle</li><li>Parfaite connaissance de la peau, des cosmétiques, des diverses techniques de soins (visage et corps)</li><li>BP / BAC PRO / BTS Esthétique - Intervenant Spa praticien</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
+]]></description>
+  <startdate>2025-12-22</startdate>
+  <enddate></enddate>
+  <createddate>2025-11-16</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/ybh8z6?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/ybh8z6?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Bandol</city>
+      <zip>83150</zip>
+      <address>66 Boulevard Louis Lumière</address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
+
+<job>
   <company>Hively Hospitality - Thalazur</company>
   <companydescription/>
   <companyuuid>4</companyuuid>
@@ -258,7 +321,7 @@
 <job>
   <company>Hively Hospitality - Novotel</company>
   <companydescription/>
-  <companyuuid>20</companyuuid>
+  <companyuuid>null</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -1014,7 +1077,7 @@
 <job>
   <company>Hively Hospitality Holding</company>
   <companydescription/>
-  <companyuuid>76</companyuuid>
+  <companyuuid>1</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -1175,69 +1238,6 @@
       <city>Ouistreham</city>
       <zip>14150</zip>
       <address>Boulevard Commandant Kieffer</address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-
-<job>
-  <company>Hively Hospitality - Thalazur</company>
-  <companydescription/>
-  <companyuuid>10</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>4n49ek</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Commis pâtissier H/F</title>
-  <description><![CDATA[
- <p><strong>Notre hôtel Thalazur Antibes</strong></p><p><br></p><p><strong>Votre mission :</strong></p><p>Prendre soin des papilles de nos clients :</p><ul><li>Vous êtes sous la responsabilité de notre chef pâtissière</li><li>Vous effectuez la mise en place nécessaire à la réalisation des desserts et participez à l'envoi en salle des assiettes dressées.&nbsp;</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un contrat de 39h par semaine<strong> </strong>avec 2 jours de repos consécutifs</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li></ul><p><br></p>
- <p><strong>Votre profil : </strong></p><ul><li>Première expérience réussie en cuisine, envie de rejoindre une équipe unie, énergique et professionnelle</li><li>Vous maîtrisez les principales techniques culinaires et avez envie d'apprendre!</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
-]]></description>
-  <startdate>2025-10-13</startdate>
-  <enddate></enddate>
-  <createddate>2025-10-29</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/4n49ek?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/4n49ek?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Antibes</city>
-      <zip>06600</zip>
-      <address>770 Chemin des Moyennes Bréguières</address>
       <countrycode>FR</countrycode>
       <region/>
     </location>
