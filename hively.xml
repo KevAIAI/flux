@@ -1,9 +1,72 @@
 <source>
   <publisher>Cookorico</publisher>
   <publisherurl>https://www.cookorico.com</publisherurl>
-  <lastupdatedat>2025-11-18 15:02</lastupdatedat>
+  <lastupdatedat>2025-11-19 09:02</lastupdatedat>
 
  <job>
+  <company>Hively Hospitality - Thalazur</company>
+  <companydescription/>
+  <companyuuid>6</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>htcbcl</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Plongeur H/F</title>
+  <description><![CDATA[
+ <p><strong>Notre hôtel - Thalazur Ouistreham - Restaurant Le Riva Bella</strong></p><p><br></p><p><strong>Votre mission :</strong></p><p><strong>Plongez au sein d’une équipe chaleureuse et dynamique, aucune formation n’est exigée !&nbsp;</strong></p><ul><li>Vous assurez le nettoyage de la vaisselle et de tous les ustensiles de cuisine, voire du gros matériel et des locaux, et vous prenez soin de ranger les éléments à leur place.</li><li>Une cuisine propre pour un service de qualité !&nbsp;</li></ul><p>&nbsp;</p><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un CDD jusqu'au 31 Aout 2026</li><li>Un salaire de 2028 €/bruts par mois pour 39h par semaine avec 2 jours de repos consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture (170 € / mois) et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Valorisation de la coupure à partir de 3h d'interruption</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li><br></li></ul>
+ <p><strong>Votre profil : </strong></p><ul><li>Habitué(e) à travailler efficacement en équipe, vous êtes organisé(e) et dynamique.</li><li>Attentif(ve) à l’hygiène, aux détails, et à la satisfaction de nos clients.</li><li>Votre connaissance des normes HACCP est un plus.&nbsp;</li><li><br></li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
+]]></description>
+  <startdate>2025-12-17</startdate>
+  <enddate></enddate>
+  <createddate>2025-11-18</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/htcbcl?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/htcbcl?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Ouistreham</city>
+      <zip>14150</zip>
+      <address>Avenue du Commandant Kieffer</address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
+
+<job>
   <company>Hively Hospitality - Renaissance</company>
   <companydescription/>
   <companyuuid>13</companyuuid>
@@ -1175,69 +1238,6 @@
       <city>Cabourg</city>
       <zip>14390</zip>
       <address>44 Avenue Charles de Gaulle</address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-
-<job>
-  <company>Hively Hospitality - Mercure</company>
-  <companydescription/>
-  <companyuuid>47</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>74gel1</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Chef de Partie Patisserie/Dessert H/F CDI 39H</title>
-  <description><![CDATA[
- <p><strong>Notre hôtel : </strong>Envie de rejoindre une équipe passionnée dans un hôtel 4* au cœur de La Rochelle, face au Vieux Port et aux Tours emblématiques de la ville ?</p><p>Le <strong>Mercure La Rochelle Vieux-Port Sud</strong> et son restaurant <strong>Gaée</strong> recherchent un <strong>Chef de Partie Pâtisserie/Dessert (H/F)</strong> en CDI pour compléter sa brigade dynamique.</p><p><br></p><p><strong>Votre mission :</strong></p><p>Régaler nos clients !</p><ul><li>Réaliser et dresser les desserts de la carte et des banquets en respectant les standards de qualité et de créativité de la maison.</li><li>Participer à l’élaboration des cartes saisonnières en collaboration avec le Chef de Cuisine.</li><li>Assurer la mise en place, l’organisation du poste et le respect des normes d’hygiène (HACCP).</li><li>Contribuer à la satisfaction et à l’expérience client dans un esprit bistronomique et gourmand.</li></ul><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire de 2400€/bruts par mois pour 39h par semaine<strong> </strong> avec 2 jours de repos majoritairement consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande</li><li>Un Plan d’Epargne Entreprise avec abondement</li><li>Des avantages nourriture (170€/mois)</li><li>Chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Des horaires majoritairement en continue</li><li>Valorisation de la coupure à partir de 3h d'interruption</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li></ul>
- <p><strong>Votre profil : </strong></p><ul><li>Expérience solide (2 à 3 ans) sur un poste similaire en pâtisserie de restaurant, hôtellerie 4* ou bistronomique</li><li>Créativité, sens du détail et goût pour le travail en équipe</li><li>Excellente organisation et capacité à gérer le stress</li><li>Rigueur et passion pour les produits frais et de saison</li><li>Esprit d’équipe et envie de s’impliquer dans un projet culinaire ambitieux</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
-]]></description>
-  <startdate>2025-11-17</startdate>
-  <enddate></enddate>
-  <createddate>2025-11-05</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/74gel1?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/74gel1?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>La Rochelle</city>
-      <zip>17000</zip>
-      <address></address>
       <countrycode>FR</countrycode>
       <region/>
     </location>
