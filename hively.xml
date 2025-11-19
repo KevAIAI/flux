@@ -1,9 +1,72 @@
 <source>
   <publisher>Cookorico</publisher>
   <publisherurl>https://www.cookorico.com</publisherurl>
-  <lastupdatedat>2025-11-19 09:02</lastupdatedat>
+  <lastupdatedat>2025-11-19 15:02</lastupdatedat>
 
  <job>
+  <company>Hively Hospitality - Thalazur</company>
+  <companydescription/>
+  <companyuuid>4</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>9tk1ft</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Chef de cuisine H/F</title>
+  <description><![CDATA[
+ <p><strong>Notre site : Thalazur Royan, un face à face avec l'Océan. Entièrement rénové en 2023</strong></p><p><br></p><p><strong>Votre mission :</strong></p><p><strong>Sous la responsabilité de la directrice de site, vous managez une équipe de 13 personnes</strong></p><p><strong>(cuisine, pâtisserie, plonge)</strong></p><p><br></p><p>Prendre soin des papilles de nos clients, avec votre équipe !</p><ul><li>Vous êtes responsable de l'ensemble de la production culinaire de notre restaurant en travaillant avec notre concept de restauration : 5S à savoir une cuisine Saine, de Saison, Simplicité, Saveurs, Situation Géographique</li><li>appétence pour la cuisine végétale</li><li>Vous êtes force de proposition sur la carte du restaurant</li><li>proposition très régulière de suggestions </li><li>changement tous les jours des menus (3 entrées, 3 plats et 2 désserts)</li><li>Vous veillez à la bonne application des normes HACCP</li><li>Vous commandez vos produits, vous faites l'inventaire en fin de mois et gérez vos stocks</li><li>Leader dans l'âme, vous savez fédérer votre équipe autour d'un objectif commun</li><li>Manager de proximité, créatif, exemplaire,</li></ul><p><br></p><p><strong><u>3 piliers :</u></strong></p><ul><li><strong>Qualité </strong>: vous garantissez la qualité des produits et des assiettes sortant de votre cuisine, application et respect des règles concernant l'hygiène, et veiller à la satisfaction des clients.</li><li><strong>Management</strong> :&nbsp;vous recrutez, formez et managez les équipes par un management de proximité et orienté Clients.</li><li><strong>Economique </strong>: vous maintenez la progression du chiffre d’affaires du département, maitrisez les marges et différents ratios , participez à la gestion du service, à l’élaboration du budget et assurez des reportings auprès de la direction.</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li><span style="color: rgb(230, 0, 0);">﻿</span>Statut : Cadre au forfait jours</li><li>2 jours de repos consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement par avance, un Plan d’Epargne Entreprise avec abondement, des tickets restaurant</li><li>Une prime sur objectifs pouvant aller jusqu'à 1 mois de salaire.</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximale</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li></ul>
+ <p><strong>Votre profil : </strong></p><ul><li>Expérience confirmée indispensable en cuisine à un poste de mangement</li><li>Attentif aux autres et à l’environnement qui vous entoure : vous contribuez à rendre le séjour de nos clients aussi irréprochable qu’inoubliable en apportant votre petite touche personnelle !</li><li>Envie de rejoindre une équipe unie, énergique et professionnelle</li></ul><p><span style="color: rgb(230, 0, 0);">﻿</span></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
+]]></description>
+  <startdate>2026-01-12</startdate>
+  <enddate></enddate>
+  <createddate>2025-11-19</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/9tk1ft?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/9tk1ft?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Royan</city>
+      <zip>17200</zip>
+      <address></address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
+
+<job>
   <company>Hively Hospitality - Thalazur</company>
   <companydescription/>
   <companyuuid>6</companyuuid>
@@ -636,7 +699,7 @@
 <job>
   <company>Hively Hospitality - Novotel</company>
   <companydescription/>
-  <companyuuid>20</companyuuid>
+  <companyuuid>null</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -1176,69 +1239,6 @@
       <zip>1050-090</zip>
       <address></address>
       <countrycode>PT</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-
-<job>
-  <company>Hively Hospitality - Thalazur</company>
-  <companydescription/>
-  <companyuuid>7</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>lnnaw6</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Commis de cuisine H/F</title>
-  <description><![CDATA[
- <p><strong>Notre hôtel :&nbsp;</strong></p><p><strong>&nbsp;</strong></p><p><strong>Posé sur la dune, Thalazur Cabourg **** se fait pudique pour ne pas occulter le panorama et la mer que l’on voit danser depuis les fenêtres des chambres, des terrasses et de notre spa marin.Dans un cadre naturel et sauvage l’institut de Thalassothérapie et le Spa invite nos clients à la détente et au bien-être.La philosophie de notre restauration, commune aux établissements Thalazur, est de proposer une restauration savoureuse et locale à base de produits de saison, pour une consommation responsable et saine.C’est le concept des Cinq S, développé par nos chefs de cuisine : S comme des produits de Saison remplis de Saveurs, issus de Situations géographiques exceptionnelles, cuisinés Sainement avec Simplicité.</strong></p><p><strong>&nbsp;</strong></p><p><strong>Votre mission :</strong></p><p><strong>Régaler nos clients !</strong></p><ul><li>Vous êtes sous la responsabilité du chef de cuisine pour la réalisation des plats et des recettes de notre restaurant ; nous proposons une cuisine originale et créative à base de produits frais et locaux</li><li>Vous effectuez la mise en place nécessaire à la réalisation des plats et participez à l'envoi en salle des assiettes dressées.</li></ul><p>&nbsp;</p><p>&nbsp;</p><p><strong>Nous vous proposons :</strong></p><ul><li>Un contrat de 39h par semaine<strong>&nbsp;</strong>avec 2 jours de repos consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!&nbsp;</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li>Participation aux bénéfices</li><li>Prise en charge 75% transport en commun</li><li><br></li></ul>
- <p><strong>Votre profil :&nbsp;</strong></p><p><strong>&nbsp;</strong></p><ul><li>Habitué(e) à travailler efficacement en équipe, vous êtes organisé(e) et dynamique.</li><li>Attentif(ve) à l’hygiène, aux détails, et à la satisfaction de nos clients.</li><li>Votre connaissance des normes HACCP est un plus.&nbsp;</li></ul><p>&nbsp;</p><p>&nbsp;</p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p>&nbsp;</p><p></p>
-]]></description>
-  <startdate></startdate>
-  <enddate></enddate>
-  <createddate>2025-10-13</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/lnnaw6?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/lnnaw6?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Cabourg</city>
-      <zip>14390</zip>
-      <address>44 Avenue Charles de Gaulle</address>
-      <countrycode>FR</countrycode>
       <region/>
     </location>
   </locations>
