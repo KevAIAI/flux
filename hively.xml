@@ -1,9 +1,72 @@
 <source>
   <publisher>Cookorico</publisher>
   <publisherurl>https://www.cookorico.com</publisherurl>
-  <lastupdatedat>2025-11-19 15:02</lastupdatedat>
+  <lastupdatedat>2025-11-20 09:02</lastupdatedat>
 
  <job>
+  <company>Hively Hospitality - Ibis Budget</company>
+  <companydescription/>
+  <companyuuid>36</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>3navod</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Réceptionniste H/F</title>
+  <description><![CDATA[
+ <p><strong>Notre hôtel : </strong></p><p><br></p><p><strong>Votre mission</strong></p><p>Accueillir nos clients avec le sourire! Au quotidien, il s’agira de réaliser :</p><ul><li>les check-in et check-out de nos clients</li><li>l'encaissement et la facturation appliquer et respecter les règles d'hygiène et de sécurité·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li>L'encaissement et la facturation</li><li>La prise de réservations</li></ul><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><p>Poste polyvalent à la réception horaires et jours de repos variables selon les semaines</p><p>(Shift de Matin, Soir, Journée et possibilité de quelques nuits)</p><p>      </p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire de 2075€/bruts par mois pour 39h par semaine avec 2 jours de repos consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture (170€/mois) et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li>Prime de complet</li><li>Remboursement 75% de la Carte Navigo</li></ul>
+ <p><strong>Votre profil :</strong></p><ul><li>Attentif.ve aux autres et à l’environnement qui vous entoure : vous contribuez à rendre le séjour de nos clients aussi irréprochable qu’inoubliable en apportant votre petite touche personnelle !</li><li>Très à l’aise en français et en anglais</li><li>Esprit d'équipe</li></ul><p><br></p><p><br></p><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p>&nbsp;</p><p></p>
+]]></description>
+  <startdate>2025-12-01</startdate>
+  <enddate></enddate>
+  <createddate>2025-11-19</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/3navod?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/3navod?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Saint-Maurice</city>
+      <zip>94410</zip>
+      <address>252 Rue du Maréchal Leclerc</address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
+
+<job>
   <company>Hively Hospitality - Thalazur</company>
   <companydescription/>
   <companyuuid>4</companyuuid>
@@ -530,7 +593,7 @@
 ]]></description>
   <startdate>2025-12-01</startdate>
   <enddate></enddate>
-  <createddate>2025-11-13</createddate>
+  <createddate>2025-11-19</createddate>
   <remotestatus></remotestatus>
   <employmenttype></employmenttype>
   <employmentlevel></employmentlevel>
@@ -699,7 +762,7 @@
 <job>
   <company>Hively Hospitality - Novotel</company>
   <companydescription/>
-  <companyuuid>null</companyuuid>
+  <companyuuid>20</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -1176,69 +1239,6 @@
       <zip>75017</zip>
       <address>39 Avenue de Wagram</address>
       <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-
-<job>
-  <company>Hively Hospitality - Moxy</company>
-  <companydescription/>
-  <companyuuid>55</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>8bejoi</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Crew member FetB</title>
-  <description><![CDATA[
- <p><strong>O nosso hotel </strong>: Moxy Lisbon City, 136 quartos, home of the fun hunters!</p><p>&nbsp;</p><p><strong>A sua</strong></p><p><strong>missão&nbsp;&nbsp;:</strong></p><p><span style="color: rgb(60, 60, 60); background-color: white;">-Realizar atendimento personalizado ao cliente;</span></p><p><span style="color: rgb(60, 60, 60); background-color: white;">-Registar os pedidos do cliente, prepará-los, empratá-los e/ou comunicá-los à</span></p><p><span style="color: rgb(60, 60, 60); background-color: white;">cozinha;</span></p><p><span style="color: rgb(60, 60, 60); background-color: white;">-Informar e sugerir bebidas ao cliente;</span></p><p><span style="color: rgb(60, 60, 60); background-color: white;">-Realizar a produção de bebidas/cocktails de acordo com as respetivas fichas</span></p><p><span style="color: rgb(60, 60, 60); background-color: white;">técnicas;</span></p><p><span style="color: rgb(60, 60, 60); background-color: white;">-Preparar o bar/cozinha para os vários tipos de serviço</span></p><p><span style="color: rgb(60, 60, 60); background-color: white;">-Receção e conferência de mercadoria;</span></p><p><span style="color: rgb(60, 60, 60); background-color: white;">-Emitir contas e realização da respetiva cobrança.</span></p><p>&nbsp;</p><p><strong>Nós oferecemos : </strong></p><p><span style="color: rgb(60, 60, 60); background-color: white;">-Remuneração de acordo com experiência profissional comprovada;</span></p><p><span style="color: rgb(60, 60, 60); background-color: white;">-Seguro de saúde e plano de desconto dentário;</span></p><p><span style="color: rgb(60, 60, 60); background-color: white;">-Subsídio de alimentação pago no valor máximo em cartão refeição;</span></p><p><span style="color: rgb(60, 60, 60); background-color: white;">-Subsídio de transporte;</span></p><p><span style="color: rgb(60, 60, 60); background-color: white;">-Possibilidade de progressão na carreira profissional;</span></p><p><span style="color: rgb(60, 60, 60); background-color: white;">-Horários rotativos: 07h00 às 15h30 e 15h00 às 23h30;</span></p><p><span style="color: rgb(60, 60, 60); background-color: white;">-2 folgas por semanais, semanas de 40hrs;</span></p><p><span style="color: rgb(60, 60, 60); background-color: white;">-Descontos em estadias e restaurantes em hoteis e restaurantes da rede. </span></p>
- <p><strong>O seu perfil : </strong></p><p><span style="background-color: white; color: rgb(60, 60, 60);">-Experiência na função de mesa e bar;</span></p><p><span style="background-color: white; color: rgb(60, 60, 60);">-Domínio das línguas portuguesa e inglesa;</span></p><p><span style="background-color: white; color: rgb(60, 60, 60);">-Disponibilidade para trabalhar por turnos e fins de semana;</span></p><p><span style="background-color: white; color: rgb(60, 60, 60);">-Bons conhecimentos de normas de HACCP;</span></p><p><span style="background-color: white; color: rgb(60, 60, 60);">-Comunicação assertiva, simpatia, empatia e gosto pelo contacto com o cliente;</span></p><p><span style="background-color: white; color: rgb(60, 60, 60);">-Auto motivação, criação de bom ambiente com cliente e colegas de equipa;</span></p><p><span style="background-color: white; color: rgb(60, 60, 60);">-Escuta ativa;</span></p><p><span style="background-color: white; color: rgb(60, 60, 60);">-Vontade de superar a expectativa do cliente com serviço de excelência;</span></p><p><span style="background-color: white; color: rgb(60, 60, 60);">-Autoconfiança, foco no cliente, diplomacia e atenção ao detalhe.</span></p><p>&nbsp;</p><p>Fazemos parte da HIVELY HOSPITALITY. Com cerca de quinze marcas</p><p>conhecidas, 80 estabelecimentos em França e na Europa e 60 profissões nos</p><p>sectores da hotelaria, restauração e wellness, a HIVELY HOSPITALITY oferece uma</p><p>variedade de oportunidades e desenvolvimentos a todos aqueles que procuram</p><p>auto-realização. Há apenas uma condição prévia: vontade!</p><p><br></p><p></p>
-]]></description>
-  <startdate>2025-06-06</startdate>
-  <enddate></enddate>
-  <createddate>2025-11-06</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/8bejoi?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/8bejoi?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>Portugal</country>
-      <city>Lisbon</city>
-      <zip>1050-090</zip>
-      <address></address>
-      <countrycode>PT</countrycode>
       <region/>
     </location>
   </locations>
