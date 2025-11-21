@@ -1,9 +1,261 @@
 <source>
   <publisher>Cookorico</publisher>
   <publisherurl>https://www.cookorico.com</publisherurl>
-  <lastupdatedat>2025-11-20 15:02</lastupdatedat>
+  <lastupdatedat>2025-11-21 09:02</lastupdatedat>
 
  <job>
+  <company>Hively Hospitality - Mercure</company>
+  <companydescription/>
+  <companyuuid>26</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>sn3e3e</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Chef de cuisine H/F</title>
+  <description><![CDATA[
+ <p><strong>Notre hôtel : Le Mercure Blois Centre dispose de 96 chambres, 9 salles de réunion, une salle fitness et un espace détente avec piscine intérieure chauffée, jacuzzi, sauna et hammam. Le bar Wine Not ? et le restaurant Le Quai vous plongent dans le décor d'un atelier d'artisan atypique et ravissent vos papilles avec une carte des vins et des produits locaux.</strong></p><p><strong>Votre mission :</strong></p><p><strong>Prendre soin des papilles de nos clients, avec votre équipe !</strong></p><ul><li>Vous êtes responsable de l'ensemble de la production culinaire de notre restaurant "Le Quai", avec une cuisine authentique à base de produits frais et une carte renouvelée au fils des saisons<span style="color: rgb(230, 0, 0);"> </span></li><li>Vous êtes force de proposition sur la carte du restaurant tout en maîtrisant les coûts matières premières</li><li>Vous veillez à la bonne application des normes HACCP</li><li>Vous commandez vos produits, vous faites l'inventaire en fin de mois et gérez vos stocks</li><li>Vous gérez les plannings de votre équipe, les réunions et les entretiens annuels</li><li>Leader dans l'âme, vous savez fédérer votre équipe autour d'un objectif commun : la satisfaction de nos clients !</li></ul><p>&nbsp;</p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire de 3.200 €/bruts par mois pour 37h par semaine avec 2 jours de repos consécutifs</li><li>Une prime sur objectifs pouvant aller jusqu'à 1 mois de salaire</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>La valorisation de la coupure à partir de 3h d'interruption</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li></ul><p><br></p>
+ <p><strong>Votre profil : </strong></p><ul><li>Expérience de 5 ans réussie en cuisine, dont 2 ans en tant que Chef de cuisine dans un établissement hôtelier, envie de rejoindre une équipe unie, énergique et professionnelle</li><li>Maîtrise des outils informatiques : E-pack Hygiène, Word, Excel, Outlook.</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
+]]></description>
+  <startdate></startdate>
+  <enddate></enddate>
+  <createddate>2025-11-20</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/sn3e3e?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/sn3e3e?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Blois</city>
+      <zip>41000</zip>
+      <address>28 Quai Saint-Jean</address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
+
+<job>
+  <company>Hively Hospitality - Thalazur</company>
+  <companydescription/>
+  <companyuuid>10</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>vuoz2p</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Réceptionniste H/F</title>
+  <description><![CDATA[
+ <p><strong>Notre site : </strong>Thalazur Antibes, Centre de Thalassothérapie et Spa</p><p>&nbsp;</p><p><strong>Votre mission : </strong></p><p><span style="background-color: rgb(250, 250, 250); color: rgb(18, 18, 18);">Accueillir nos clients avec le sourire et être garant de leur bien être ! Au quotidien, il s’agira de réaliser :</span></p><ul><li>Arrivées des clients</li><li>Participer au bon déroulement du séjour du client</li><li>Garantir l’efficacité des conseils et de la prise de rendez-vous, en effectuant la vente de produits cosmétiques et le conseil commercial sur l’ensemble des prestations Thalazur</li><li>L'encaissement et la facturation</li><li>Etablir le planning de soins et des rendez vous pour la durée de leur séjour</li><li>Prise de réservations par téléphone</li><li>Emailing</li></ul><p>&nbsp;</p><p><strong>Nous vous proposons :</strong></p><ul><li>25h par semaine sur 3 jours (amplitude horaire de 8h à 19h, travail les week-ends et jours fériés)</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande</li><li>Un Plan d’Epargne Entreprise avec abondement</li><li>Des avantages nourriture</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li>Parking pour le personnel</li><li>Uniforme fourni et blanchissage inclus</li><li>Poste non logé</li></ul>
+ <p><strong>Votre profil :</strong></p><ul><li>Attentif aux autres et à l’environnement qui vous entoure : vous contribuez à rendre le séjour de nos clients aussi irréprochable qu’inoubliable en apportant votre petite touche personnelle !</li><li>Très à l’aise en français et en anglais</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
+]]></description>
+  <startdate>2026-01-01</startdate>
+  <enddate></enddate>
+  <createddate>2025-11-20</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/vuoz2p?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/vuoz2p?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Antibes</city>
+      <zip>06600</zip>
+      <address>770 Chemin des Moyennes Bréguières</address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
+
+<job>
+  <company>Hively Hospitality - Thalazur</company>
+  <companydescription/>
+  <companyuuid>10</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>x7h0n9</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Hydrothérapeute H/F</title>
+  <description><![CDATA[
+ <p><strong>Notre hôtel : Thalazur Antibes, Centre de Thalassothérapie et Spa</strong></p><p><br></p><p><strong>Votre mission :</strong></p><p>Apporter du bien-être à nos clients grâce à vos talents !</p><ul><li class="ql-align-justify">Prodiguer des soins d’hydrothérapie et les modelages dans le respect de la marque Thalazur</li><li class="ql-align-justify">Prendre le client en charge du début à la fin du soin</li><li class="ql-align-justify">Favoriser la vente des produits Thalazur</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un contrat de 35h par semaine<strong> </strong>avec 2 jours de repos.</li><li>Un Plan d’Epargne Entreprise avec abondement, des tickets restaurants et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li>Parking collaborateurs</li><li>Blanchisserie</li><li>Tenue fournie</li></ul>
+ <p><strong>Votre profil : </strong></p><ul><li>Expérience dans un autre centre de thalassothérapie ou Spa hôtelier et envie de rejoindre une équipe unie, énergique et professionnelle</li><li>Formation : CQP hydrothérapeute</li><li>La connaissance de différents modelages serait un plus, ainsi que des bases en anglais.</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
+]]></description>
+  <startdate>2026-01-01</startdate>
+  <enddate></enddate>
+  <createddate>2025-11-20</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/x7h0n9?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/x7h0n9?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Antibes</city>
+      <zip>06600</zip>
+      <address>770 Chemin des Moyennes Bréguières</address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
+
+<job>
+  <company>Hively Hospitality - Thalazur</company>
+  <companydescription/>
+  <companyuuid>10</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>nsx694</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Spa praticien(ne) H/F</title>
+  <description><![CDATA[
+ <p><strong>Notre hôtel : Thalazur Antibes, Centre de Thalassothérapie et Spa</strong></p><p><br></p><p><strong>Votre mission :</strong></p><p><strong>Apporter du bien-être de nos clients en prodiguant des soins d'exception !</strong></p><ul><li>Pratiquer les modelages de relaxation ainsi que les modelages du monde (Californien, Balinais, Ayurvédique...), dans le cadre de la marque Thalazur</li><li class="ql-align-justify">Prodiguer des soins corps tels que des gommages...</li><li class="ql-align-justify">Prendre en charge le client du début à la fin du soin</li><li class="ql-align-justify">Favoriser la vente des produits Thalazur</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un contrat de 35h par semaine<strong> </strong>avec 2 jours de repos.</li><li>Un Plan d’Epargne Entreprise avec abondement, des tickets restaurants et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li>Parking collaborateurs</li><li>Blanchisserie</li><li>Tenue fournie</li></ul>
+ <p><strong>Votre profil : </strong></p><ul><li>2 années d'expérience dans un autre centre de thalassothérapie ou Spa et envie de rejoindre une équipe unie, énergique et professionnelle</li><li>CQP spa praticien(ne) ou formation massage</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
+]]></description>
+  <startdate>2025-12-15</startdate>
+  <enddate></enddate>
+  <createddate>2025-11-20</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/nsx694?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/nsx694?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Antibes</city>
+      <zip>06600</zip>
+      <address>770 Chemin des Moyennes Bréguières</address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
+
+<job>
   <company>Hively Hospitality - Renaissance</company>
   <companydescription/>
   <companyuuid>13</companyuuid>
@@ -636,7 +888,7 @@
 <job>
   <company>Hively Hospitality - Thalazur</company>
   <companydescription/>
-  <companyuuid>48</companyuuid>
+  <companyuuid>null</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -762,7 +1014,7 @@
 <job>
   <company>Hively Hospitality - Thalazur</company>
   <companydescription/>
-  <companyuuid>5</companyuuid>
+  <companyuuid>null</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -888,7 +1140,7 @@
 <job>
   <company>Hively Hospitality - Thalazur</company>
   <companydescription/>
-  <companyuuid>3</companyuuid>
+  <companyuuid>null</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -951,7 +1203,7 @@
 <job>
   <company>Hively Hospitality - Thalazur</company>
   <companydescription/>
-  <companyuuid>5</companyuuid>
+  <companyuuid>null</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -985,258 +1237,6 @@
       <country>France</country>
       <city>Le Grau-du-Roi</city>
       <zip></zip>
-      <address></address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-
-<job>
-  <company>Hively Hospitality - Ibis</company>
-  <companydescription/>
-  <companyuuid>32</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>rixtb7</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Réceptionniste H/F</title>
-  <description><![CDATA[
- <p><strong>Notre hôtel : Ibis et Ibis Budget Val d'Europe</strong></p><p><strong>&nbsp;</strong></p><p><strong>Votre mission : </strong></p><p>Contribuer à un séjour client inoubliable! Au quotidien, il s’agira de :</p><ul><li>assurer un service de qualité (accueil, réservation, petits déjeuners, chambres, entretien)</li><li>appliquer et respecter les règles d'hygiène et de sécurité</li></ul><p>&nbsp;</p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire de 1904 €/bruts par mois pour 35h par semaine Temps Plein avec 2 jours de repos consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture (170€/mois) et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport</li><li>Prime de Complet</li><li>Remboursement 75% de la Carte Navigo</li></ul>
- <p><strong>Votre profil : </strong></p><ul><li>Sens du service avec une grande polyvalence</li><li>Attentif(ve) aux détails, vous aimez quand les choses sont bien faites</li><li>Première expérience d'1 an minimum, qualités relationnelles, <strong>envie </strong>de rejoindre une équipe unie, énergique et professionnelle</li><li><br></li></ul><p><strong><u>Missions Générales </u></strong></p><ul><li>Enregistre les réservations clients</li><li>&nbsp;Accueille et prend en charge le client depuis son arrivée jusqu'à son départ</li><li>&nbsp;Contribue à sa satisfaction permanente en assurant une prestation de qualité tout au long de son séjour</li><li>Contribue à la réalisation des objectifs quantitatifs de son service par son action de vente Principales responsabilités</li></ul><p><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;<strong><u>Relation client</u></strong></p><ul><li>&nbsp;Accueille le client&nbsp;dès son arrivée avec prévenance et attention.</li><li>&nbsp;Contribue, par une relation chaleureuse et personnalisée, à sa fidélisation.</li><li>Veille à ce que les procédures administratives ne prennent jamais le pas sur la relation avec le client</li><li>Prend en compte et anticipe les besoins du client</li><li>Gère les objections et/ou remarques éventuelles du client ; veille à apporter une réponse dans le meilleur délai possible&nbsp;et dans le respect du Contrat 15 minutes Ibis</li><li>&nbsp;Véhicule, par son attitude irréprochable, l’image de sa marque et de son hôtel <img src="https://:0/" alt="puceSStitre" height="19" width="99"></li></ul><p>&nbsp;&nbsp;&nbsp;&nbsp;<strong><u>&nbsp;Technique métier / production </u></strong></p><ul><li>&nbsp;Assure les opérations liées à l'accueil et au départ du client dans le respect des procédures internes</li><li>Renseigne le client sur les conditions de séjour, les formalités et les services proposés par l'hôtel</li><li>Gère les appels téléphoniques</li><li>Transmet les informations nécessaires aux autres services (étages, technique,...) et aux autres membres de son service</li><li>S’assure de la disponibilité et de l’actualité des documents, produits et fournitures nécessaires au <strong><u>service et/ou au client. </u></strong></li><li>Effectue les prises de réservation</li><li>&nbsp;Prépare et sert un en-cas ou un petit déjeuner en dehors des heures d'ouverture du restaurant.</li><li>Gestion Otas et RPS.</li><li>Maintenir la propreté de l'établissement</li></ul><p><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong><u>&nbsp;&nbsp;Commercial / Vente </u></strong></p><ul><li>&nbsp;&nbsp;Valorise les différentes prestations de l’hôtel pour optimiser les ventes</li><li>&nbsp;Applique et argumente la politique tarifaire de l’hôtel afin d'optimiser le Revpar</li><li>&nbsp;Valorise le programme de fidélité de la marque et/ou du Groupe et adapte ses argumentaires en fonction des besoins du client</li><li>&nbsp;Contribue à la synergie de place par la dynamisation du renvoi inter-hôtels (RIH).</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
-]]></description>
-  <startdate>2025-11-24</startdate>
-  <enddate></enddate>
-  <createddate>2025-11-10</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/rixtb7?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/rixtb7?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Montévrain</city>
-      <zip>77144</zip>
-      <address>2 Place Jean-Monnet</address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-
-<job>
-  <company>Hively Hospitality - Thalazur</company>
-  <companydescription/>
-  <companyuuid>5</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>z9ow15</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Commis de cuisine H/F</title>
-  <description><![CDATA[
- <p><strong>Notre hôtel : </strong>Le Grau du roi - Thalazur</p><p><br></p><p><strong>Votre mission :</strong></p><p>Prendre soin des papilles de nos clients :</p><ul><li>Vous êtes sous la responsabilité du second de cuisine pour l’exécution des plats et des recettes de notre restaurant (parler rapidement du concept de restauration - exemple : de notre restaurant d'inspiration méditerranéenne)</li><li>Vous effectuez la mise en place nécessaire à la réalisation des plats et participez à l'envoi en salle des assiettes dressées.&nbsp;</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un contrat de 39h par semaine<strong> </strong>(à adapter si temps partiel) avec 2 jours de repos consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Le cas échéant : Valorisation de la coupure à partir de 3h d’interruption&nbsp;</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li>Prise en charge 75% transports en commun</li></ul><p><br></p>
- <p><strong>Votre profil : </strong></p><ul><li>Première expérience réussie en cuisine, envie de rejoindre une équipe unie, énergique et professionnelle</li><li>Vous maîtrisez les principales techniques culinaires et avez envie d'apprendre!</li></ul><p><br></p><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
-]]></description>
-  <startdate></startdate>
-  <enddate></enddate>
-  <createddate>2025-11-08</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/z9ow15?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/z9ow15?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Le Grau-du-Roi</city>
-      <zip></zip>
-      <address></address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-
-<job>
-  <company>Hively Hospitality - Thalazur</company>
-  <companydescription/>
-  <companyuuid>8</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>59bfu3</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Barman / Barmaid</title>
-  <description><![CDATA[
- <p class="ql-align-justify"><strong style="background-color: white; color: black;"><u>Notre site </u>:</strong></p><p class="ql-align-justify"><strong style="background-color: white; color: black;">Hôtel en bord de mer de 67 chambres avec plusieurs points de vente&nbsp;:</strong></p><ul><li class="ql-align-justify"><span style="background-color: white;">Restaurant gastronomique Les Oliviers référencé au Guide Michelin (ouvert tous les soirs)</span></li><li class="ql-align-justify"><span style="background-color: white;">Restaurant de plage La Goélette d’avril à fin septembre</span></li><li class="ql-align-justify"><span style="background-color: white;">Bistrot Lumière</span></li><li class="ql-align-justify"><span style="background-color: white;">Chef exécutif Martin Féragus - candidat Top Chef 2020</span></li></ul><p><br></p><p><strong>Votre mission :</strong></p><p><strong>Prendre soin de nos clients au BAR, au shaker ou à la cuillère !</strong></p><p><strong>Chargé(e) de la préparation et du service des boissons chaudes, froides et des cocktails :</strong></p><ul><li>Vous contribuez à rendre le séjour de nos clients aussi irréprochable qu’inoubliable en apportant votre touche personnelle !</li><li>Vous assurez un accueil et un service personnalisés et chaleureux, le bien-être des clients est toujours votre priorité.</li><li>Vous êtes garant.e de la fidélisation du client, ils reviendront sûrement un peu pour vous et vos breuvages délicieux..</li></ul><p class="ql-align-justify"><br></p><p class="ql-align-justify"><br></p><p class="ql-align-justify"><strong style="color: black; background-color: white;"><u>Votre mission :</u></strong></p><p class="ql-align-justify"><br></p><p class="ql-align-justify"><strong style="color: black; background-color: white;">Une expérience en restauration étoilée est souhaitable ou en hôtellerie de luxe.</strong></p><p class="ql-align-justify"><br></p><ul><li class="ql-align-justify"><span style="background-color: white;">Prendre soin de nos clients au restaurant, bar, autour de la piscine et autres services.</span></li><li class="ql-align-justify"><span style="background-color: white;">Attentif aux autres et à l’environnement qui vous entoure, vous contribuez à rendre le séjour de nos clients aussi irréprochable qu’inoubliable en apportant votre touche personnelle !</span></li><li class="ql-align-justify"><span style="background-color: white;">Vous assurez un accueil et un service personnalisés et chaleureux, le bien-être des clients est toujours votre priorité.</span></li><li class="ql-align-justify"><span style="background-color: white;">Vous êtes en charge du service et d'une excellente relation client en salle.</span></li><li class="ql-align-justify"><span style="background-color: white;">Vous aimez accueillir, recevoir nos clients, et vous assurez de leur satisfaction.</span></li></ul><p class="ql-align-justify"><br></p><p class="ql-align-justify"><br></p><p class="ql-align-justify"><strong style="color: black; background-color: white;"><u>Nous vous proposons :</u></strong></p><p class="ql-align-justify"><br></p><ul><li class="ql-align-justify"><span style="background-color: white;">Un salaire à partir de 2200€ brut mensuel </span></li><li class="ql-align-justify"><span style="background-color: white;">Contrat de 39h par semaine avec 2 jours de repos consécutifs.</span></li></ul><p class="ql-align-justify"><br></p><p class="ql-align-justify">Au delà de 3 mois de contrat : </p><ul><li class="ql-align-justify"><span style="background-color: white;">Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande. (ou au prorata du contrat CDD)</span></li><li class="ql-align-justify"><span style="background-color: white;">Un Plan d’Epargne Entreprise avec abondement.</span></li><li class="ql-align-justify"><span style="background-color: white;">Des avantages nourriture et chaque heure supplémentaire travaillée est comptabilisée.</span></li><li class="ql-align-justify"><span style="background-color: white;">Valorisation de la coupure à partir de 3h d'interruption.</span></li><li><span style="background-color: white;">Prime de cooptation pour CDD et CDI.</span></li><li class="ql-align-justify"><span style="background-color: white;">Des tarifs préférentiels dans notre réseau d’établissements.</span></li><li class="ql-align-justify"><span style="background-color: white;">Mutuelle et prévoyance offrant des garanties et une couverture maximale.</span></li><li class="ql-align-justify"><span style="background-color: white;">Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</span></li></ul><p><br></p>
- <p><strong>Votre profil : </strong></p><ul><li>Passionné(e) par la mixologie, vous savez reproduire ou créer des cocktails tenant compte des saisons, des événements, des goûts et des tendances.&nbsp;</li><li>Curieux(se) et courtois(e), vous aimez vous intéresser au client pour lui proposer votre expertise dans la réalisation de LA boisson qu’il lui faut.</li><li>La connaissance des normes HACCP est importante&nbsp;</li></ul><p><br></p><p><strong>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</strong></p><p><br></p><p></p>
-]]></description>
-  <startdate>2025-12-01</startdate>
-  <enddate></enddate>
-  <createddate>2025-11-07</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/59bfu3?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/59bfu3?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Bandol</city>
-      <zip>83150</zip>
-      <address>25 Boulevard Louis Lumière</address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-
-<job>
-  <company>Hively Hospitality - Thalazur</company>
-  <companydescription/>
-  <companyuuid>48</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>o23jou</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Serveur/se CDI 39h</title>
-  <description><![CDATA[
- <p><strong>Notre site :&nbsp;</strong>Thalazur Carnac - Hôtel 4 étoiles 200 chambres - espace séminaire 700m² - Restaurant 180 places - 75 000 couverts à l'année -75 000 Petits déjeuners - Equipe de 20 à 30 personnes</p><p>Situé au bord des Salines de Carnac, notre établissement a été entièrement rénové et vous propose un cadre très agréable de travail.</p><p><br></p><p><strong>Votre mission principale : prendre soin de nos clients au restaurant, bar, petits déjeuners &amp; espaces de séminaires </strong></p><ul><li>Attentif aux autres et à l’environnement qui vous entoure : vous contribuez à rendre le séjour de nos clients aussi irréprochable qu’inoubliable en apportant votre petite touche personnelle !</li><li>Vous assurez un accueil et un service personnalisés et chaleureux, le bien-être des clients est toujours votre priorité.</li><li>Vous êtes garant de la fidélisation du client, ils reviendront sûrement un peu pour vous !&nbsp;</li></ul><p><br></p><p><strong><u>Missions générales</u></strong></p><ul><li class="ql-align-justify">Accueillir le client, l’installer à table et prendre la commande des apéritifs.</li><li class="ql-align-justify">Offrir un service attentionné et adapté aux attentes des clients.</li><li class="ql-align-justify">Servir les plats et débarrasser les assiettes, verres, plats et couverts.</li><li class="ql-align-justify">Mise en place et service du petit-déjeuner</li><li class="ql-align-justify">Procéder aux opérations de mise en place pour l’arrivée des clients suivants.</li><li class="ql-align-justify">Participer au rangement et au nettoyage des points de restauration.</li></ul><p><br></p><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un contrat de 39h par semaine avec 2 jours de repos consécutifs</li><li>Des avantages nourriture et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximale</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li>Valorisation de la coupure à partir de 3h d'interruption</li><li>Uniforme et chaussures fournis</li></ul>
- <p><strong>Votre profil : </strong></p><ul><li>Vous êtes&nbsp;<strong>dynamique, motivé(e)</strong>,</li><li>Vous possédez une première expérience réussie en restauration (1 an), des&nbsp;<strong>qualités relationnelles</strong>&nbsp;et une envie de rejoindre une équipe&nbsp;<strong>unie</strong>,&nbsp;<strong>énergique&nbsp;</strong>et&nbsp;<strong>professionnelle</strong></li><li>Très à l’aise tant dans la relation client que l'exécution du dressage et du débarrassage des tables en salle. (Votre adresse naturelle est un atout !)&nbsp;&nbsp;</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p></p>
-]]></description>
-  <startdate></startdate>
-  <enddate></enddate>
-  <createddate>2025-11-07</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/o23jou?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/o23jou?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Carnac</city>
-      <zip>56340</zip>
       <address></address>
       <countrycode>FR</countrycode>
       <region/>
