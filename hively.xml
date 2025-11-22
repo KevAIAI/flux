@@ -1,9 +1,72 @@
 <source>
   <publisher>Cookorico</publisher>
   <publisherurl>https://www.cookorico.com</publisherurl>
-  <lastupdatedat>2025-11-22 09:02</lastupdatedat>
+  <lastupdatedat>2025-11-22 15:02</lastupdatedat>
 
  <job>
+  <company>Hively Hospitality - Ibis Budget</company>
+  <companydescription/>
+  <companyuuid>33</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>pa0d4f</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>ASSITANTE GOUVERNANTE</title>
+  <description><![CDATA[
+ <p><strong>Notre hôtel : Nous sommes un combo de deux hôtel Hôtel IBIS BUDET ET IBIS STYLES. En tous nous avons 141 chambres.</strong></p><p><br></p><p><strong>Votre mission :</strong></p><p><strong>Assister la gouvernante dans la gestion de l'équipe des étages.</strong></p><p><strong>Coordonner et superviser le travail de l'équipe des étages.</strong></p><p><strong>Contrôler la propreté, la préparation et l'état des chambres.</strong></p><p><strong>Nettoyage des parties communes et s'occuper du réapprovisionnement du linge.</strong></p><p><strong>Assurer le nettoyage des chambres.</strong></p><p><strong> </strong></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire de établi selon les compétences pour 39h par semaine avec 2 jours de repos consécutifs. Horaire de 8 h / 16 h30</li><li>Un week-end par mois.</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture (170€/mois) et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li><br></li></ul>
+ <p><strong>Votre profil : </strong></p><ul><li>Attentif(ve) aux détails, vous aimez quand les choses sont bien faites et qu’elles répondent aux normes qualité et hygiène auxquelles vous avez été formé(e)</li><li>Première expérience d'1 an minimum, qualités relationnelles, <strong>envie </strong>de rejoindre une équipe unie, énergique et professionnelle</li><li><span style="color: rgb(230, 0, 0);">Compléter selon vos besoins</span></li></ul><p><span style="color: rgb(230, 0, 0);">﻿</span></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
+]]></description>
+  <startdate>2025-12-01</startdate>
+  <enddate></enddate>
+  <createddate>2025-11-22</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/pa0d4f?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/pa0d4f?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>La Rochelle</city>
+      <zip>17000</zip>
+      <address></address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
+
+<job>
   <company>Hively Hospitality - Moxy</company>
   <companydescription/>
   <companyuuid>55</companyuuid>
@@ -1175,69 +1238,6 @@
       <city>Carnac</city>
       <zip>56340</zip>
       <address></address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-
-<job>
-  <company>Hively Hospitality - Renaissance</company>
-  <companydescription/>
-  <companyuuid>11</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>n1disy</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Chef de brigade F/H/A</title>
-  <description><![CDATA[
- <p><strong>Notre hôtel :</strong></p><p><strong>Le Renaissance Paris République</strong> est un hôtel 5 étoiles situé au cœur du 10ème&nbsp;arrondissement de Paris&nbsp;: proche du Canal Saint-Martin, du quartier du Marais et des Grands Boulevards. Notre établissement dispose de 121 chambres, dont 10 suites réparties sur 9 étages. L’hôtel offre une vue imprenable sur les toits de la capitale et un service de qualité avec son Restaurant Martin, son Bar, ainsi que son espace sensoriel.</p><p>L'hôtel a été élu Meilleur Hôtel Franchise Marriott de la région Europe-Afrique-Moyen-Orient pour l'année 2022 !</p><p>Aujourd’hui, l’hôtel Renaissance Paris République est à la recherche d’un(e) Chef de brigade prêt(e) à vivre une expérience WILD, ELEGANT and VIBRANT en hôtellerie de luxe.</p><p><br></p><p><strong>Votre mission</strong></p><p><strong>Accueillir nos clients avec le sourire! Au quotidien, il s’agira de réaliser :</strong></p><ul><li>Le suivi du bon déroulement du séjour de chaque client dans notre établissement</li><li>Les check-in et check-out de nos clients</li><li>La vérification des encaissements et des facturations</li><li>Le management des réceptionnistes pour offrir un travail de qualité</li><li>Une bonne présentation des différents services de notre hôtel (bar, restaurant, spa, room-service, etc...)</li><li>Une expérience personnalisée et mémorable lors de chaque interaction</li><li>La vérification des futures réservations</li><li>Une communication et une collaboration étroite avec les autres services de l'hôtel : conciergerie, housekeeping, sales, etc...</li><li>La mise en œuvre des standards de qualité de l'hôtel</li><li>La gestion des appels téléphoniques et des mails</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire de 2530€/bruts par mois pour 39h par semaine avec 3 jours de repos consécutifs (rythme avec 2 jours de repos possible également)</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande,</li><li>Un Plan d’Epargne Entreprise avec abondement</li><li>Avantages nourriture</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et prévoyance offrant des garanties et une couverture maximale</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…)</li><li>Une prime de complet et une prime sur les upsells</li><li>Le remboursement de 75% du passe Navigo et l'accès gratuit au parking</li><li>L'accès à discrétion de l'espace fitness de l'hôtel</li></ul>
- <p><strong>Votre profil :</strong></p><ul><li>Attentif(ve) aux autres et à l’environnement qui vous entoure : vous contribuez à rendre le séjour de nos clients aussi irréprochable qu’inoubliable en apportant votre petite touche personnelle !</li><li>Très à l’aise en français et en anglais, pratiquant une troisième langue (chinois ou russe privilégiée)</li><li>Connaître et maîtriser le PMS Opera et le pack Office</li><li>Une expérience en tant que Chef de Brigade souhaitée</li><li>Curieux.se et ayant envie d'apprendre</li></ul><p><br></p><p><strong>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</strong></p><p></p>
-]]></description>
-  <startdate></startdate>
-  <enddate></enddate>
-  <createddate>2025-11-13</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/n1disy?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/n1disy?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Paris</city>
-      <zip>75010</zip>
-      <address>40 Rue René Boulanger</address>
       <countrycode>FR</countrycode>
       <region/>
     </location>
