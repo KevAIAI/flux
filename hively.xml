@@ -1,9 +1,72 @@
 <source>
   <publisher>Cookorico</publisher>
   <publisherurl>https://www.cookorico.com</publisherurl>
-  <lastupdatedat>2025-11-24 09:02</lastupdatedat>
+  <lastupdatedat>2025-11-24 15:02</lastupdatedat>
 
  <job>
+  <company>Hively Hospitality - Ibis Styles</company>
+  <companydescription/>
+  <companyuuid>33</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>9b9c9m</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Réceptionniste H/F</title>
+  <description><![CDATA[
+ <p><strong>Notre hôtel : Ibis Styles &amp; Budget La Rochelle Centre Gare</strong></p><p><br></p><p><strong>Votre mission : </strong></p><p>Accueillir nos clients avec le sourire! Au quotidien, il s’agira de réaliser :</p><ul><li>Les check-in et check-out de nos clients</li><li>Participer au bon déroulement du séjour du client</li><li>Prise de réservations par téléphone</li><li>Emailing</li><li>L'encaissement et la facturation</li><li>Répondre aux différentes demandes clients</li><li>Coordonner le travail avec la Gouvernante et le service des étages pour l'entretien des chambres</li></ul><p><br></p><p>Poste polyvalent avec horaires et jours de repos variables selon les semaines.</p><ul><li> Travail possible en shift du matin, du soir, en journée, ainsi qu’en remplacement ponctuel sur les shifts de nuit durant les périodes de congés</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire de 2041.52 €/bruts par mois pour 39h par semaine avec 2 jours de repos hebdomadaire</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture (170€/mois) et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…)</li></ul><p><br></p>
+ <p><strong>Votre profil :</strong></p><ul><li>Attentif.ve aux autres et à l’environnement qui vous entoure : vous contribuez à rendre le séjour de nos clients aussi irréprochable qu’inoubliable en apportant votre petite touche personnelle !</li><li>Très à l’aise en français et en anglais</li><li>Sens du service avec une grande polyvalence</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
+]]></description>
+  <startdate></startdate>
+  <enddate></enddate>
+  <createddate>2025-11-24</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/9b9c9m?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/9b9c9m?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>La Rochelle</city>
+      <zip>17000</zip>
+      <address>Rue Flora Tristan</address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
+
+<job>
   <company>Hively Hospitality - Ibis Budget</company>
   <companydescription/>
   <companyuuid>33</companyuuid>
@@ -278,7 +341,7 @@
 ]]></description>
   <startdate>2026-01-05</startdate>
   <enddate></enddate>
-  <createddate>2025-11-21</createddate>
+  <createddate>2025-11-24</createddate>
   <remotestatus></remotestatus>
   <employmenttype></employmenttype>
   <employmentlevel></employmentlevel>
@@ -1175,69 +1238,6 @@
       <city>Royan</city>
       <zip>17200</zip>
       <address>6 Allée des Rochers</address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-
-<job>
-  <company>Hively Hospitality - Thalazur</company>
-  <companydescription/>
-  <companyuuid>48</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>39umen</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Hôtesse d'accueil H/F</title>
-  <description><![CDATA[
- <p>Thalazur Carnac occupe une situation privilégiée entre l’océan, les plages et l’Île aux&nbsp;Oiseaux, véritable havre de paix d’une faune et flore d’une incroyable diversité.&nbsp;Entre Océan et patrimoine légendaire des mégalithes, la nature est au cœur de&nbsp;notre activité et a inspiré à la fois notre histoire et nos espaces.</p><p>&nbsp;</p><p>Situé à 100m de la grande plage de Carnac, station balnéaire réputée du Morbihan, l'établissement Hôtel et Thalasso - Thalazur Carnac propose dans le cadre de sa réouverture début novembre 2025 et après rénovation totale, 200 chambres d’Hôtel 4*, une Résidence de 34 logements 3*, Restaurants et espace de séminaire.</p><p>Centre de Thalasso avec 70 cabines de soins, pour une capacité journalière de 180 curistes.</p><p><br></p><p><strong>Votre mission</strong></p><p>Accueillir nos clients avec le sourire! Au quotidien, il s’agira de :</p><ul><li>Participer au bon déroulement du séjour du client dans l’espace Bien être / Thalassothérapie</li><li><span style="color: rgb(18, 18, 18); background-color: rgb(250, 250, 250);">D'effectuer le suivi client de la réservation jusqu'à la fin du séjour </span></li><li>Assurer l’accueil physique et téléphonique de la clientèle</li><li>Assurer le suivi et le traitement des mails destinés à l'accueil de la thalassothérapie</li><li>Gérer et optimiser la planification des programmes de soins</li><li>Garantir l’efficacité des conseils lors de la prise de rendez-vous et le conseil commercial sur l’ensemble des prestations Thalazur</li><li><span style="color: rgb(18, 18, 18); background-color: rgb(250, 250, 250);">Suivre la facturation et l'encaissement des prestations</span></li><li>Contribuer à la satisfaction de la clientèle avec suivi personnalisé, anticipation des besoins, ...</li><li>Procéder à la prise de réservations des soins à la carte et forfaits et établir la planification&nbsp;des séjours Cures</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un contrat de 35h par semaine<strong> </strong>avec 2 jours de repos par roulement (établissement ouvert 7j/7j)</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande,<strong> des</strong><strong style="color: rgb(230, 0, 0);">&nbsp;</strong><strong>tickets restaurants</strong><strong style="color: rgb(230, 0, 0);">&nbsp;</strong>et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li>Parking privé pour le personnel</li><li>Uniforme fourni et indemnité de nettoyage</li></ul>
- <p><strong>Votre profil :</strong></p><ul><li>Attentif.ve aux autres et à l’environnement qui vous entoure : vous contribuez à rendre le séjour de nos clients aussi irréprochable qu’inoubliable en apportant votre petite touche personnelle !</li><li>Très à l’aise en français et en anglais</li><li>Formation : BTS Tourisme ou Mention complémentaire Accueil</li><li>Sens de l’écoute et du relationnel&nbsp;</li><li>Esprit d’équipe, réactivité et prise d’initiatives.</li><li><span style="background-color: rgb(250, 250, 250); color: rgb(18, 18, 18);">Bonne maîtrise de soi et résistance au stress (capable de gérer plusieurs tâches simultanément&nbsp;: accueillir, répondre au téléphone, facturer…)</span></li><li>Présentation personnelle soignée, discrétion et sourire dans la cadre de la «&nbsp;luxury attitude&nbsp;».</li><li>La connaissance d'outils informatiques serait un plus</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p><br></p><p></p>
-]]></description>
-  <startdate>2025-12-01</startdate>
-  <enddate></enddate>
-  <createddate>2025-11-19</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/39umen?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/39umen?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Carnac</city>
-      <zip>56340</zip>
-      <address></address>
       <countrycode>FR</countrycode>
       <region/>
     </location>
