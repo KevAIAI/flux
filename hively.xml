@@ -1,9 +1,135 @@
 <source>
   <publisher>Cookorico</publisher>
   <publisherurl>https://www.cookorico.com</publisherurl>
-  <lastupdatedat>2025-11-28 15:02</lastupdatedat>
+  <lastupdatedat>2025-11-29 09:02</lastupdatedat>
 
  <job>
+  <company>Hively Hospitality - Novotel</company>
+  <companydescription/>
+  <companyuuid>20</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>9ga1yj</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Assistant Maître d'Hôtel H/F</title>
+  <description><![CDATA[
+ <p><strong>Notre hôtel : </strong>Novotel Paris 14 Porte D'Orléans, hôtel de 150 chambres, un Restaurant «&nbsp;Doda&nbsp;», un bar, 4 salles de réunion.&nbsp;</p><p><strong>&nbsp;</strong></p><p><strong>L'assistant Maitre d’Hotel assure le bon fonctionnement du services sur le terrain sur les différents points de vente (petit-déjeuner, restaurant midi/soir, bar et banquets/séminaires) en respectant les procédures, dans un souci de satisfaction optimale et en accord avec les standards de l’hôtel.</strong></p><p><strong>Il participe à&nbsp;l’organisation du travail, encadre et forme l’équipe. Il travaille en collaboration avec le Responsable Restauration et son adjointe.</strong></p><p><strong>&nbsp;</strong></p><p><strong>&nbsp;</strong></p><p><strong>Vos missions<em> </em>:</strong></p><p><strong>&nbsp;</strong></p><p>·&nbsp;Il/elle orchestre le travail des commis et des chefs de rang afin de garantir le bon déroulement des services.</p><p>·&nbsp;Il/elle est garant de la qualité des prestations et veille à la satisfaction de notre clientèle.</p><p>·&nbsp;Il/elle créé une ambiance de travail bienveillante et coordonne le travail dans un souci permanent de qualité et de fluidité du service.</p><p>·&nbsp;<span style="background-color: white;">Il/elle a le soucis du détail et prends plaisir à faire plaisir</span>&nbsp;</p><p><strong>&nbsp;</strong></p><p><strong>Nous vous proposons :</strong></p><p><strong>&nbsp;</strong></p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Un contrat de 39h par semaine avec 2 jours de repos consécutifs.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salaire 2350€ de base sur 13 mois + primes.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong><u>Pas de coupure</u></strong></p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture (170€/mois) et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus (badgeuse).</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Des tarifs préférentiels dans notre réseau d’établissement.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mutuelle et prévoyance offrant des garanties et une couverture maximale.</p><ul><li>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…).</li></ul>
+ <p><strong>Votre profil : </strong></p><ul><li>Minimum 3 ans d'expérience réussie en restauration traditionnelle, qualités relationnelles, <strong>envie </strong>de rejoindre une équipe énergique et professionnelle.</li><li>Très à l’aise tant dans la relation client que dans la relation avec son équipe. (Votre communication naturelle est un atout !)&nbsp;&nbsp;</li><li>Langues : Anglais impératif</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
+]]></description>
+  <startdate></startdate>
+  <enddate></enddate>
+  <createddate>2025-11-28</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/9ga1yj?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/9ga1yj?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Paris</city>
+      <zip>75014</zip>
+      <address>21 Boulevard Romain Rolland</address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
+
+<job>
+  <company>Hively Hospitality - Gina</company>
+  <companydescription/>
+  <companyuuid>12</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>ktb5gn</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Chef de partie H/F</title>
+  <description><![CDATA[
+ <p><strong>Notre restaurant :&nbsp;</strong></p><p><strong>C’est un point de vue inédit sur Bordeaux : restaurant &amp; bar en rooftop, face à la Cité du Vin. Ajoutez à ça les saveurs italiennes du concept Gina et c’est la Dolce Vita qui flirte avec la Garonne. Au menu de (très) bons produits sans chichi : bar à mozza, plateaux d’antipasti, pizzas et autres classiques des meilleures trattorias. La cuisine du chef Franco Recce est ouverte. L’ambiance y est chic et décontractée.</strong></p><p><strong>&nbsp;</strong></p><p><strong>Votre mission :</strong></p><p><strong>Placé(e) sous les ordres du Chef, dans un respect total des règles d’hygiène et de sécurité, vos missions consistent à :</strong></p><ul><li>Aider à la mise en place des plats de la carte</li><li>Assurer de façon autonome, la production des plats conformément aux fiches techniques,</li><li>Participer au service midi et/ou soir</li><li>S’assurer de la bonne tenue du poste</li><li>Manager et former les commis et demi-chefs de partie</li></ul><p>&nbsp;</p><p><strong>Nous vous proposons :</strong></p><ul><li>Un CDI 39h par semaine<strong> </strong>avec 2 jours de repos consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande</li><li>Un Plan d’Epargne Entreprise avec abondement,</li><li>Des avantages nourriture et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Valorisation de la coupure à partir de 3h d’interruption&nbsp;</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li>Nuit découverte à l'issue de la période d'essai : 1 diner + 1 nuit pour deux personnes</li></ul>
+ <p><strong>Votre profil : </strong></p><p><br></p><ul><li>Expérience de 1 an réussie en cuisine, envie de rejoindre une équipe unie, énergique et professionnelle</li><li>Diplôme en hôtellerie restauration exigé</li></ul><p><br></p><p><strong>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</strong></p><p><br></p><p></p>
+]]></description>
+  <startdate></startdate>
+  <enddate></enddate>
+  <createddate>2025-11-28</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/ktb5gn?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/ktb5gn?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Bordeaux</city>
+      <zip>33300</zip>
+      <address>Place des millésimes</address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
+
+<job>
   <company>Hively Hospitality - Novotel</company>
   <companydescription/>
   <companyuuid>20</companyuuid>
@@ -1112,132 +1238,6 @@
       <city>Paris</city>
       <zip>75017</zip>
       <address>39 Avenue de Wagram</address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-
-<job>
-  <company>Hively Hospitality - Ibis Budget</company>
-  <companydescription/>
-  <companyuuid>36</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>3navod</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Réceptionniste H/F</title>
-  <description><![CDATA[
- <p><strong>Notre hôtel : </strong></p><p><br></p><p><strong>Votre mission</strong></p><p>Accueillir nos clients avec le sourire! Au quotidien, il s’agira de réaliser :</p><ul><li>les check-in et check-out de nos clients</li><li>l'encaissement et la facturation appliquer et respecter les règles d'hygiène et de sécurité·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li>L'encaissement et la facturation</li><li>La prise de réservations</li></ul><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><p>Poste polyvalent à la réception horaires et jours de repos variables selon les semaines</p><p>(Shift de Matin, Soir, Journée et possibilité de quelques nuits)</p><p>      </p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire de 2075€/bruts par mois pour 39h par semaine avec 2 jours de repos consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture (170€/mois) et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li>Prime de complet</li><li>Remboursement 75% de la Carte Navigo</li></ul>
- <p><strong>Votre profil :</strong></p><ul><li>Attentif.ve aux autres et à l’environnement qui vous entoure : vous contribuez à rendre le séjour de nos clients aussi irréprochable qu’inoubliable en apportant votre petite touche personnelle !</li><li>Très à l’aise en français et en anglais</li><li>Esprit d'équipe</li></ul><p><br></p><p><br></p><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p>&nbsp;</p><p></p>
-]]></description>
-  <startdate>2025-12-01</startdate>
-  <enddate></enddate>
-  <createddate>2025-11-19</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/3navod?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/3navod?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Saint-Maurice</city>
-      <zip>94410</zip>
-      <address>252 Rue du Maréchal Leclerc</address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-
-<job>
-  <company>Hively Hospitality - Thalazur</company>
-  <companydescription/>
-  <companyuuid>4</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>9tk1ft</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Chef de cuisine H/F</title>
-  <description><![CDATA[
- <p><strong>Notre site : Thalazur Royan, un face à face avec l'Océan. Entièrement rénové en 2023</strong></p><p><br></p><p><strong>Votre mission :</strong></p><p><strong>Sous la responsabilité de la directrice de site, vous managez une équipe de 13 personnes</strong></p><p><strong>(cuisine, pâtisserie, plonge)</strong></p><p><br></p><p>Prendre soin des papilles de nos clients, avec votre équipe !</p><ul><li>Vous êtes responsable de l'ensemble de la production culinaire de notre restaurant en travaillant avec notre concept de restauration : 5S à savoir une cuisine Saine, de Saison, Simplicité, Saveurs, Situation Géographique</li><li>appétence pour la cuisine végétale</li><li>Vous êtes force de proposition sur la carte du restaurant</li><li>proposition très régulière de suggestions </li><li>changement tous les jours des menus (3 entrées, 3 plats et 2 désserts)</li><li>Vous veillez à la bonne application des normes HACCP</li><li>Vous commandez vos produits, vous faites l'inventaire en fin de mois et gérez vos stocks</li><li>Leader dans l'âme, vous savez fédérer votre équipe autour d'un objectif commun</li><li>Manager de proximité, créatif, exemplaire,</li></ul><p><br></p><p><strong><u>3 piliers :</u></strong></p><ul><li><strong>Qualité </strong>: vous garantissez la qualité des produits et des assiettes sortant de votre cuisine, application et respect des règles concernant l'hygiène, et veiller à la satisfaction des clients.</li><li><strong>Management</strong> :&nbsp;vous recrutez, formez et managez les équipes par un management de proximité et orienté Clients.</li><li><strong>Economique </strong>: vous maintenez la progression du chiffre d’affaires du département, maitrisez les marges et différents ratios , participez à la gestion du service, à l’élaboration du budget et assurez des reportings auprès de la direction.</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li><span style="color: rgb(230, 0, 0);">﻿</span>Statut : Cadre au forfait jours</li><li>2 jours de repos consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement par avance, un Plan d’Epargne Entreprise avec abondement, des tickets restaurant</li><li>Une prime sur objectifs pouvant aller jusqu'à 1 mois de salaire.</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximale</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li></ul>
- <p><strong>Votre profil : </strong></p><ul><li>Expérience confirmée indispensable en cuisine à un poste de mangement</li><li>Attentif aux autres et à l’environnement qui vous entoure : vous contribuez à rendre le séjour de nos clients aussi irréprochable qu’inoubliable en apportant votre petite touche personnelle !</li><li>Envie de rejoindre une équipe unie, énergique et professionnelle</li></ul><p><span style="color: rgb(230, 0, 0);">﻿</span></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
-]]></description>
-  <startdate>2026-01-12</startdate>
-  <enddate></enddate>
-  <createddate>2025-11-19</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/9tk1ft?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/9tk1ft?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Royan</city>
-      <zip>17200</zip>
-      <address></address>
       <countrycode>FR</countrycode>
       <region/>
     </location>
