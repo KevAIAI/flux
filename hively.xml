@@ -1,9 +1,135 @@
 <source>
   <publisher>Cookorico</publisher>
   <publisherurl>https://www.cookorico.com</publisherurl>
-  <lastupdatedat>2025-12-02 15:02</lastupdatedat>
+  <lastupdatedat>2025-12-03 09:02</lastupdatedat>
 
  <job>
+  <company>Hively Hospitality - Ibis Budget</company>
+  <companydescription/>
+  <companyuuid>42</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>ws1e6v</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Employé(e) Polyvalent(e)</title>
+  <description><![CDATA[
+ <p><strong>Notre hôtel :</strong></p><p> L'ibis budget Meudon Paris Ouest est un hôtel économique de 86 chambres récemment rénové, aux portes de Paris.</p><p><strong>Votre mission :</strong></p><p> Contribuer à un séjour client inoubliable ! Au quotidien, il s’agira de :</p><ul><li>Assurer un service de qualité à l’accueil et à la réception (check-in/check-out, réservation, informations clients).</li><li>Participer ponctuellement au service du petit-déjeuner : mise en place, réassort, service et vaisselle.</li><li>Appliquer et respecter les règles d'hygiène et de sécurité.</li></ul><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire de 2 060 € bruts par mois pour 39h par semaine avec 2 jours de repos consécutifs.</li><li>Un 13ᵉ mois dès 3 mois d'ancienneté, payable mensuellement sur demande, un Plan d’Épargne Entreprise avec abondement, des avantages nourriture (170 €/mois) et des repos supplémentaires pour chaque heure supplémentaire travaillée.</li><li>Des tarifs préférentiels dans notre réseau d’établissements.</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales.</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…).</li><li>Prime de complet</li></ul><p><br></p><p><br></p>
+ <p><strong>Votre profil :</strong></p><ul><li>Attentif·ve aux autres et à votre environnement, vous contribuez à rendre le séjour de nos clients irréprochable et inoubliable, en apportant votre petite touche personnelle.</li><li>Dynamique, polyvalent·e et organisé·e, vous savez vous adapter aux différentes missions (accueil, réception, service petit-déjeuner ponctuel).</li><li>Très à l’aise en français et en anglais, vous communiquez facilement avec une clientèle internationale.</li><li>Une première expérience dans un poste similaire est souhaitable pour assurer une intégration rapide, mais votre motivation et votre sens du service peuvent compenser.</li><li>Rigoureux·se, vous respectez les règles d’hygiène et de sécurité et participez activement au maintien d’un environnement propre et agréable.</li><li>Doté·e d’un excellent relationnel, vous savez travailler en équipe tout en gardant une autonomie dans vos missions.</li></ul><p><br></p><p><span style="color: rgb(230, 0, 0);">﻿</span></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
+]]></description>
+  <startdate>2025-12-08</startdate>
+  <enddate></enddate>
+  <createddate>2025-12-02</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/ws1e6v?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/ws1e6v?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Meudon</city>
+      <zip>92190</zip>
+      <address>3 Bis Rue de Paris</address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
+
+<job>
+  <company>Hively Hospitality - Ibis Budget</company>
+  <companydescription/>
+  <companyuuid>42</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>ipbka6</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Equipier petit-déjeuner H/F</title>
+  <description><![CDATA[
+ <p><strong>Notre hôtel : </strong><span style="background-color: rgb(255, 255, 255); color: rgb(62, 61, 72);">L'ibis budget Meudon Paris Ouest est un hôtel économique de 86 chambres récemment rénové, aux portes de Paris. </span></p><p><br></p><p><strong>Votre mission: </strong></p><p>Permettre à nos clients de bien commencer leur journée ! Au quotidien, il s’agira d’assurer :</p><ul><li>Préparer et mettre en place le buffet.</li><li>Réassortir les produits et veiller à la propreté du buffet et de la salle.</li><li>Servir les clients et les accueillir avec le sourire.</li><li>Préparer les produits pour le service du lendemain.</li><li>Assurer la vaisselle et le nettoyage des équipements.</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire de 1583 €/bruts par mois pour 30h par semaine avec 2 jours de repos consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture (170€/mois) et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li></ul><p><br></p>
+ <p><strong>Votre profil : </strong></p><p><br></p><ul><li><strong>Langues</strong> : français impératif anglais optionnel</li><li><strong>Dynamique et motivé</strong> : Capable de travailler tôt le matin et de maintenir le rythme.</li><li><strong>Sens du service client</strong> : Accueillir les clients avec le sourire et répondre à leurs besoins.</li><li><strong>Rigoureux et organisé</strong> : Respect des normes d’hygiène et de sécurité, gestion du buffet et des stocks.</li><li><strong>Esprit d’équipe</strong> : Capable de collaborer avec les autres membres du personnel.</li><li><strong>Polyvalent</strong> : Savoir mettre en place le buffet, servir, faire la vaisselle et préparer le service du lendemain.</li></ul><p><strong>Atouts supplémentaires :</strong></p><ul><li>Expérience en restauration ou en hôtellerie.</li></ul><p><br></p><p><br></p><p><strong>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</strong></p><p><br></p><p></p>
+]]></description>
+  <startdate>2025-12-08</startdate>
+  <enddate></enddate>
+  <createddate>2025-12-02</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/ipbka6?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/ipbka6?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Meudon</city>
+      <zip>92190</zip>
+      <address>3 Bis Rue de Paris</address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
+
+<job>
   <company>Hively Hospitality - Thalazur</company>
   <companydescription/>
   <companyuuid>7</companyuuid>
@@ -1103,132 +1229,6 @@
   <employmentlevel></employmentlevel>
   <url>https://hively-hospitality.talentview.io/jobs/vuoz2p?source=cookorico</url>
   <applyurl>https://hively-hospitality.talentview.io/jobs/vuoz2p?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Antibes</city>
-      <zip>06600</zip>
-      <address>770 Chemin des Moyennes Bréguières</address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-
-<job>
-  <company>Hively Hospitality - Thalazur</company>
-  <companydescription/>
-  <companyuuid>10</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>x7h0n9</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Hydrothérapeute H/F</title>
-  <description><![CDATA[
- <p><strong>Notre hôtel : Thalazur Antibes, Centre de Thalassothérapie et Spa</strong></p><p><br></p><p><strong>Votre mission :</strong></p><p>Apporter du bien-être à nos clients grâce à vos talents !</p><ul><li class="ql-align-justify">Prodiguer des soins d’hydrothérapie et les modelages dans le respect de la marque Thalazur</li><li class="ql-align-justify">Prendre le client en charge du début à la fin du soin</li><li class="ql-align-justify">Favoriser la vente des produits Thalazur</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un contrat de 35h par semaine<strong> </strong>avec 2 jours de repos.</li><li>Un Plan d’Epargne Entreprise avec abondement, des tickets restaurants et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li>Parking collaborateurs</li><li>Blanchisserie</li><li>Tenue fournie</li></ul>
- <p><strong>Votre profil : </strong></p><ul><li>Expérience dans un autre centre de thalassothérapie ou Spa hôtelier et envie de rejoindre une équipe unie, énergique et professionnelle</li><li>Formation : CQP hydrothérapeute</li><li>La connaissance de différents modelages serait un plus, ainsi que des bases en anglais.</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
-]]></description>
-  <startdate>2026-01-01</startdate>
-  <enddate></enddate>
-  <createddate>2025-11-20</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/x7h0n9?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/x7h0n9?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Antibes</city>
-      <zip>06600</zip>
-      <address>770 Chemin des Moyennes Bréguières</address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-
-<job>
-  <company>Hively Hospitality - Thalazur</company>
-  <companydescription/>
-  <companyuuid>10</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>nsx694</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Spa praticien(ne) H/F</title>
-  <description><![CDATA[
- <p><strong>Notre hôtel : Thalazur Antibes, Centre de Thalassothérapie et Spa</strong></p><p><br></p><p><strong>Votre mission :</strong></p><p><strong>Apporter du bien-être de nos clients en prodiguant des soins d'exception !</strong></p><ul><li>Pratiquer les modelages de relaxation ainsi que les modelages du monde (Californien, Balinais, Ayurvédique...), dans le cadre de la marque Thalazur</li><li class="ql-align-justify">Prodiguer des soins corps tels que des gommages...</li><li class="ql-align-justify">Prendre en charge le client du début à la fin du soin</li><li class="ql-align-justify">Favoriser la vente des produits Thalazur</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un contrat de 35h par semaine<strong> </strong>avec 2 jours de repos.</li><li>Un Plan d’Epargne Entreprise avec abondement, des tickets restaurants et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li>Parking collaborateurs</li><li>Blanchisserie</li><li>Tenue fournie</li></ul>
- <p><strong>Votre profil : </strong></p><ul><li>2 années d'expérience dans un autre centre de thalassothérapie ou Spa et envie de rejoindre une équipe unie, énergique et professionnelle</li><li>CQP spa praticien(ne) ou formation massage</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
-]]></description>
-  <startdate>2025-12-15</startdate>
-  <enddate></enddate>
-  <createddate>2025-11-20</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/nsx694?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/nsx694?source=cookorico</applyurl>
   <coverimageurl></coverimageurl>
   <pitch></pitch>
   <applybuttontext/>
