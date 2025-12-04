@@ -1,9 +1,72 @@
 <source>
   <publisher>Cookorico</publisher>
   <publisherurl>https://www.cookorico.com</publisherurl>
-  <lastupdatedat>2025-12-03 15:02</lastupdatedat>
+  <lastupdatedat>2025-12-04 09:02</lastupdatedat>
 
  <job>
+  <company>Hively Hospitality - Novotel</company>
+  <companydescription/>
+  <companyuuid>21</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>0835cy</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Chef de partie H/F</title>
+  <description><![CDATA[
+ <p><strong>Notre hôtel : Le Novotel de La Rochelle.</strong></p><p><br></p><p><strong>Votre mission :</strong></p><p>Régaler nos clients !</p><ul><li>Vous réalisez de manière autonome les plats et les recettes de notre restaurant, Nous proposons une carte de saison élaborée à partir de produits locaux. Nous tenons à cœur de respecter nos engagements écologiques, certifiés par notre label Clé Verte.</li><li>Suite à un départ pour congé de naissance, nous recherchons un(e) Chef de Partie cuisine confirmé(e) afin de soutenir l’équipe et d’enchaîner sur la saison estivale 2026 dans notre établissement.</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire de  2120€/bruts par mois pour 39h par semaine avec 2 jours de repos consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture (170€/mois) et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li><span style="color: rgb(230, 0, 0);">Le cas échéant : Valorisation de la coupure à partir de 3h d'interruption</span></li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li>Des places de parking gratuites sont disponibles juste devant l’hôtel.</li><li>Des horaires continus, du matin ou soir, sont proposés autant que possible.&nbsp;</li></ul>
+ <p><strong>Votre profil : </strong></p><ul><li>Expérience de 4<span style="color: rgb(230, 0, 0);"> a</span>ns réussie en cuisine, envie de rejoindre une équipe unie, énergique et professionnelle</li><li>Nous recherchons quelqu’un de calme, organisé, et prêt à travailler dans une ambiance jeune et dynamique.</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
+]]></description>
+  <startdate>2026-01-12</startdate>
+  <enddate></enddate>
+  <createddate>2025-12-03</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/0835cy?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/0835cy?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>La Rochelle</city>
+      <zip>17000</zip>
+      <address>Avenue Porte Neuve</address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
+
+<job>
   <company>Hively Hospitality - Ibis Budget</company>
   <companydescription/>
   <companyuuid>42</companyuuid>
@@ -1175,69 +1238,6 @@
       <city>Blois</city>
       <zip>41000</zip>
       <address>28 Quai Saint-Jean</address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-
-<job>
-  <company>Hively Hospitality - Thalazur</company>
-  <companydescription/>
-  <companyuuid>10</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>vuoz2p</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Réceptionniste thalassothérapie H/F</title>
-  <description><![CDATA[
- <p><strong>Notre site : </strong>Thalazur Antibes, Centre de Thalassothérapie et Spa</p><p>&nbsp;</p><p><strong>Votre mission : </strong></p><p><span style="background-color: rgb(250, 250, 250); color: rgb(18, 18, 18);">Accueillir nos clients avec le sourire et être garant de leur bien être ! Au quotidien, il s’agira de réaliser :</span></p><ul><li>Arrivées des clients</li><li>Participer au bon déroulement du séjour du client</li><li>Garantir l’efficacité des conseils et de la prise de rendez-vous, en effectuant la vente de produits cosmétiques et le conseil commercial sur l’ensemble des prestations Thalazur</li><li>L'encaissement et la facturation</li><li>Etablir le planning de soins et des rendez vous pour la durée de leur séjour</li><li>Prise de réservations par téléphone</li><li>Emailing</li></ul><p>&nbsp;</p><p><strong>Nous vous proposons :</strong></p><ul><li>25h par semaine sur 3 jours (amplitude horaire de 8h à 19h, travail les week-ends et jours fériés)</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande</li><li>Un Plan d’Epargne Entreprise avec abondement</li><li>Des avantages nourriture</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li>Parking pour le personnel</li><li>Uniforme fourni et blanchissage inclus</li><li>Poste non logé</li></ul>
- <p><strong>Votre profil :</strong></p><ul><li>Attentif aux autres et à l’environnement qui vous entoure : vous contribuez à rendre le séjour de nos clients aussi irréprochable qu’inoubliable en apportant votre petite touche personnelle !</li><li>Très à l’aise en français et en anglais</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
-]]></description>
-  <startdate>2026-01-01</startdate>
-  <enddate></enddate>
-  <createddate>2025-11-27</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/vuoz2p?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/vuoz2p?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Antibes</city>
-      <zip>06600</zip>
-      <address>770 Chemin des Moyennes Bréguières</address>
       <countrycode>FR</countrycode>
       <region/>
     </location>
