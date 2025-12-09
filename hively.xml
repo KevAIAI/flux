@@ -1,7 +1,7 @@
 <source>
   <publisher>Cookorico</publisher>
   <publisherurl>https://www.cookorico.com</publisherurl>
-  <lastupdatedat>2025-12-09 09:02</lastupdatedat>
+  <lastupdatedat>2025-12-09 15:02</lastupdatedat>
 
  <job>
   <company>Hively Hospitality - Renaissance</company>
@@ -949,9 +949,9 @@
 </job>
 
 <job>
-  <company>Hively Hospitality - Thalazur</company>
+  <company></company>
   <companydescription/>
-  <companyuuid>48</companyuuid>
+  <companyuuid>15</companyuuid>
   <logotype></logotype>
   <headquarters>
     <country></country>
@@ -964,14 +964,14 @@
   </headquarters>
   <referencenumber>9f2oso</referencenumber>
   <jobboardid>cookorico</jobboardid>
-  <title>Femme de chambre / Valet de chambre</title>
+  <title></title>
   <description><![CDATA[
- <p><strong>Notre hôtel : </strong><span style="color: rgb(230, 0, 0);">[rapide description, nb chambres etc.]</span></p><p><br></p><p><strong>Votre mission</strong></p><p>Prendre soin de nos clients en chouchoutant ses espaces de vie.</p><p>Au quotidien, il s’agira de nettoyer les chambres en respectant les normes d'hygiène.</p><p>Vous assurez la mise en état quotidienne des chambres, des salles de bain et des lieux communs : aucun détail ne vous échappe !</p><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un contrat de 39h par semaine<strong> </strong><span style="color: rgb(230, 0, 0);">(à adapter si temps partiel)</span> avec 2 jours de repos consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture (170€/mois) et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li><span style="color: rgb(230, 0, 0);">A compléter si autres avantages différenciants</span></li></ul>
- <p><strong>Votre profil : </strong></p><ul><li>Attentif(ve) aux détails, vous aimez quand les choses sont bien faites et qu’elles répondent aux normes qualité et hygiène auxquelles vous avez été formé(e)</li><li>Première expérience d'1 an minimum, qualités relationnelles, <strong>envie </strong>de rejoindre une équipe unie, énergique et professionnelle</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
+ 
+ 
 ]]></description>
   <startdate></startdate>
   <enddate></enddate>
-  <createddate>2025-11-27</createddate>
+  <createddate></createddate>
   <remotestatus></remotestatus>
   <employmenttype></employmenttype>
   <employmentlevel></employmentlevel>
@@ -982,11 +982,11 @@
   <applybuttontext/>
   <locations>
     <location>
-      <country>France</country>
-      <city>Carnac</city>
-      <zip>56340</zip>
+      <country></country>
+      <city></city>
+      <zip></zip>
       <address></address>
-      <countrycode>FR</countrycode>
+      <countrycode></countrycode>
       <region/>
     </location>
   </locations>
