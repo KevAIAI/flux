@@ -1,9 +1,261 @@
 <source>
   <publisher>Cookorico</publisher>
   <publisherurl>https://www.cookorico.com</publisherurl>
-  <lastupdatedat>2025-12-08 09:02</lastupdatedat>
+  <lastupdatedat>2025-12-09 09:02</lastupdatedat>
 
  <job>
+  <company>Hively Hospitality - Renaissance</company>
+  <companydescription/>
+  <companyuuid>13</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>y5xuj8</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Coordinateur Réception H/F</title>
+  <description><![CDATA[
+ <p><strong>Notre hôtel : </strong>Passionné(e) par votre quartier, à l’affut d’expériences insolites et de lieux en dehors des sentier battus ? Rejoins l’équipe du Renaissance Paris Arc de Triomphe ! Parce que Renaissance n’est pas qu’un simple lieu où dormir mais un lieu à découvrir et un style propre à chaque établissement.</p><p><strong>&nbsp;</strong></p><p><strong>Votre mission : </strong></p><p>Contribuer à un séjour client inoubliable! Au quotidien, il s’agira de :</p><p><br></p><p><strong>Communication clients</strong></p><ul><li>Accueil téléphonique et gestion des emails clients sous 24h.</li><li>Suivi du Mobile Check-in, envoi des mobile keys et mise à jour dans Opéra.</li><li>Gestion des demandes via GXP, extranet (Booking, Expedia…), Webapp BOWO et Zenchef.</li><li>Mise à jour du cahier de consigne et outils internes.</li><li>Pré-arrivées et courtesy calls.</li></ul><p><strong>Réservations</strong></p><ul><li>Vérification et traitement des réservations (profils, VIP, facturation).</li><li>Maîtrise des différents canaux (OTA, Marriott Points, Staycation, Day Use…).</li><li>Contrôle des arrivées (GXP, OTA) et traitement des Q Marsha/Resapp.</li><li>Préparation des groupes.</li></ul><p><strong>Guest Voice</strong></p><ul><li>Réponse aux commentaires positifs.</li><li>Mise à jour des profils clients suite aux retours GSS.</li></ul><p><strong>Navigator</strong></p><ul><li>Conseils activités et restaurants.</li><li>Traitement des demandes conciergerie par email.</li></ul><p><strong>Support Front Office</strong></p><ul><li>Renfort au desk pour les check-in / check-out et gestion des flux.</li></ul><p><strong>Comptabilité</strong></p><ul><li>Pré-paiements, liens de paiement, encaissements et change.</li><li>Suivi des débiteurs et vérification des factures groupes.</li><li>Gestion des envois d’objets oubliés.</li></ul><p><br></p><p>&nbsp;</p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire de 2290€/bruts par mois pour 39h par semaine avec 2 jours de repos consécutifs</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture (170€/mois) et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…)</li></ul>
+ <p><strong>Votre profil : </strong></p><ul><li>Sens du service avec une grande polyvalence</li><li>Attentif(ve) aux détails, vous aimez quand les choses sont bien faites</li><li>Première expérience d'1 an minimum, qualités relationnelles, <strong>envie </strong>de rejoindre une équipe unie, énergique et professionnelle</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
+]]></description>
+  <startdate>2026-01-02</startdate>
+  <enddate></enddate>
+  <createddate>2025-12-08</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/y5xuj8?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/y5xuj8?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Paris</city>
+      <zip>75017</zip>
+      <address>39 Avenue de Wagram</address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
+
+<job>
+  <company>Hively Hospitality - Thalazur</company>
+  <companydescription/>
+  <companyuuid>6</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>okt00f</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Femme de chambre / Valet de chambre WE et vacances scolaires</title>
+  <description><![CDATA[
+ <p><strong>Notre hôtel :</strong><strong style="color: rgb(230, 0, 0);"> </strong>Thalazur Ouistreham - Thalassothérapie - Hôtel **** &amp; Spa</p><p>Etablissement de 89 chambres au cadre intimiste, niché au pied des dunes de la grande plage de Ouistreham</p><p><br></p><p><strong>Votre mission</strong></p><p><strong>Prendre soin de nos clients en chouchoutant ses espaces de vie.</strong></p><p><strong>Au quotidien, il s’agira de nettoyer les chambres en respectant les normes d'hygiène.</strong></p><p><strong>Vous assurez la mise en état quotidienne des chambres, des salles de bain et des lieux communs : aucun détail ne vous échappe !</strong></p><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li><strong>Idéal étudiants !! WE et vacances scolaires.</strong> Un contrat de <strong>16h par semaine les samedis et dimanches. 12.00€ brut de l'heure.</strong></li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture (jusqu'à 170€/mois) et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li></ul><p><br></p>
+ <p><strong>Votre profil : </strong></p><ul><li>Attentif(ve) aux détails, vous aimez quand les choses sont bien faites et qu’elles répondent aux normes qualité et hygiène auxquelles vous avez été formé(e)</li><li>Première expérience d'1 an minimum, qualités relationnelles, <strong>envie </strong>de rejoindre une équipe unie, énergique et professionnelle</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
+]]></description>
+  <startdate>2025-12-17</startdate>
+  <enddate></enddate>
+  <createddate>2025-12-08</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/okt00f?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/okt00f?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Ouistreham</city>
+      <zip>14150</zip>
+      <address>Boulevard Commandant Kieffer</address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
+
+<job>
+  <company>Hively Hospitality - Thalazur</company>
+  <companydescription/>
+  <companyuuid>6</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>ltfd6a</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Femme de chambre / Valet de chambre</title>
+  <description><![CDATA[
+ <p><strong>Notre hôtel :</strong><strong style="color: rgb(230, 0, 0);"> </strong>Thalazur Ouistreham - Thalassothérapie - Hôtel **** &amp; Spa</p><p>Etablissement de 89 chambres au cadre intimiste, niché au pied des dunes de la grande plage de Ouistreham</p><p><br></p><p><strong>Votre mission</strong></p><p><strong>Prendre soin de nos clients en chouchoutant ses espaces de vie.</strong></p><p><strong>Au quotidien, il s’agira de nettoyer les chambres en respectant les normes d'hygiène.</strong></p><p><strong>Vous assurez la mise en état quotidienne des chambres, des salles de bain et des lieux communs : aucun détail ne vous échappe !</strong></p><p><br></p><p><strong>Contrat de remplacement de salarié absent pour maladie à termes imprécis.</strong></p><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un contrat de 35h par semaine<strong> </strong>avec 2 jours de repos consécutifs (1 WE par mois en roulement d'équipe); 1820.04€ brut/mois pour 151.67 heures mensuelles.</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture (jusqu'à 170€/mois) et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li></ul><p><br></p>
+ <p><strong>Votre profil : </strong></p><ul><li>Attentif(ve) aux détails, vous aimez quand les choses sont bien faites et qu’elles répondent aux normes qualité et hygiène auxquelles vous avez été formé(e)</li><li>Première expérience d'1 an minimum, qualités relationnelles, <strong>envie </strong>de rejoindre une équipe unie, énergique et professionnelle</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
+]]></description>
+  <startdate>2025-12-17</startdate>
+  <enddate></enddate>
+  <createddate>2025-12-08</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/ltfd6a?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/ltfd6a?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Ouistreham</city>
+      <zip>14150</zip>
+      <address>Boulevard Commandant Kieffer</address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
+
+<job>
+  <company>Hively Hospitality - Mercure</company>
+  <companydescription/>
+  <companyuuid>26</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>cks0bf</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Chef de cuisine H/F</title>
+  <description><![CDATA[
+ <p><strong>Notre hôtel : Le Mercure Blois Centre dispose de 96 chambres, 9 salles de réunion, une salle fitness et un espace détente avec piscine intérieure chauffée, jacuzzi, sauna et hammam. Le bar Wine Not ? et le restaurant Le Quai vous plongent dans le décor d'un atelier d'artisan atypique et ravissent vos papilles avec une carte des vins et des produits locaux.</strong></p><p><strong>Votre mission :</strong></p><p><strong>Prendre soin des papilles de nos clients, avec votre équipe !</strong></p><ul><li>Vous êtes responsable de l'ensemble de la production culinaire de notre restaurant "Le Quai", avec une cuisine authentique à base de produits frais et une carte renouvelée au fils des saisons<span style="color: rgb(230, 0, 0);"> </span></li><li>Vous êtes force de proposition sur la carte du restaurant tout en maîtrisant les coûts matières premières</li><li>Vous veillez à la bonne application des normes HACCP</li><li>Vous commandez vos produits, vous faites l'inventaire en fin de mois et gérez vos stocks</li><li>Vous gérez les plannings de votre équipe, les réunions et les entretiens annuels</li><li>Leader dans l'âme, vous savez fédérer votre équipe autour d'un objectif commun : la satisfaction de nos clients !</li></ul><p>&nbsp;</p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire de 3.200 €/bruts par mois pour 37h par semaine avec 2 jours de repos consécutifs</li><li>Une prime sur objectifs pouvant aller jusqu'à 1 mois de salaire</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>La valorisation de la coupure à partir de 3h d'interruption</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li></ul><p><br></p>
+ <p><strong>Votre profil : </strong></p><ul><li>Expérience de 5 ans réussie en cuisine, dont 2 ans en tant que Chef de cuisine dans un établissement hôtelier, envie de rejoindre une équipe unie, énergique et professionnelle</li><li>Maîtrise des outils informatiques : E-pack Hygiène, Word, Excel, Outlook.</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
+]]></description>
+  <startdate></startdate>
+  <enddate></enddate>
+  <createddate>2025-12-08</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://hively-hospitality.talentview.io/jobs/cks0bf?source=cookorico</url>
+  <applyurl>https://hively-hospitality.talentview.io/jobs/cks0bf?source=cookorico</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Blois</city>
+      <zip>41000</zip>
+      <address>28 Quai Saint-Jean</address>
+      <countrycode>FR</countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
+
+<job>
   <company>Hively Hospitality - Ibis Budget</company>
   <companydescription/>
   <companyuuid>44</companyuuid>
@@ -987,258 +1239,6 @@
       <zip>75014</zip>
       <address>21 Boulevard Romain Rolland</address>
       <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-
-<job>
-  <company>Hively Hospitality - Thalazur</company>
-  <companydescription/>
-  <companyuuid>3</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>c6i63n</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Hydro modeleur H/F</title>
-  <description><![CDATA[
- <h3>🌊 <strong>Thalazur Saint-Jean-de-Luz recrute pour Janvier 2026 !</strong> 🌊</h3><p><br></p><p><strong>Rejoignez notre équipe et travaillez dans un cadre idyllique les pieds dans le sable</strong>, au cœur de la magnifique baie de Saint-Jean-de-Luz. Face à l’océan, notre établissement entièrement rénové allie <strong>élégance, modernité et atmosphère décontractée</strong> pour offrir une expérience unique à nos clients… et à notre équipe !</p><p><br></p><p>✨ <strong>Votre mission</strong> ✨</p><p><br></p><p>Sublimez l’expérience de nos clients grâce à vos talents !</p><ul><li>Réaliser <strong>2h de massage par demi-journée</strong> et des soins d’hydrothérapie dans le respect des protocoles Thalazur</li><li>Prendre soin de chaque client du début à la fin de son parcours bien-être</li></ul><p><br></p><p><strong>💙 Ce que nous vous offrons</strong> 💙</p><p><br></p><p>✅ <strong>Un salaire attractif</strong> : 2 050 € bruts/mois (35h/semaine) avec <strong>2 jours de repos consécutifs</strong></p><p><strong>✅ Un 13ᵉ mois</strong> dès 3 mois d'ancienneté (versé mensuellement sur demande)</p><p>✅ <strong>Des avantages exclusifs</strong> :</p><ul><li>Plan d’épargne entreprise avec abondement</li><li>Compteur d’heures supplémentaires donnant droit à des jours de repos supplémentaires</li><li>Tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle &amp; prévoyance avec une couverture optimale</li><li>Accès à une plateforme web avec des réductions sur le cinéma, les parcs d’attractions, les courses alimentaires, les salles de sport…</li></ul><p><br></p><ul><li><strong>Envie de faire partie de cette aventure ?</strong> Rejoignez nous et vivez pleinement votre passion pour le bien-être !</li><li><br></li></ul>
- <p><strong>Votre profil : </strong></p><ul><li>Expérience dans un autre centre de thalassothérapie ou thermalisme et envie de rejoindre une équipe unie, énergique et professionnelle.</li><li>Formation : CQP Praticien SPA et/ou CAP Esthétique minimum.</li><li>La connaissance de différents massages serait un plus, ainsi que des bases en espagnol ou en anglais.</li></ul><p><br></p><p><strong>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</strong></p><p><br></p><p></p>
-]]></description>
-  <startdate>2026-01-05</startdate>
-  <enddate></enddate>
-  <createddate>2025-11-24</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/c6i63n?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/c6i63n?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Saint-Jean-de-Luz</city>
-      <zip>64500</zip>
-      <address></address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-
-<job>
-  <company>Hively Hospitality - Ibis Styles</company>
-  <companydescription/>
-  <companyuuid>33</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>9b9c9m</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Réceptionniste H/F</title>
-  <description><![CDATA[
- <p><strong>Notre hôtel : Ibis Styles &amp; Budget La Rochelle Centre Gare</strong></p><p><br></p><p><strong>Votre mission : </strong></p><p>Accueillir nos clients avec le sourire! Au quotidien, il s’agira de réaliser :</p><ul><li>Les check-in et check-out de nos clients</li><li>Participer au bon déroulement du séjour du client</li><li>Prise de réservations par téléphone</li><li>Emailing</li><li>L'encaissement et la facturation</li><li>Répondre aux différentes demandes clients</li><li>Coordonner le travail avec la Gouvernante et le service des étages pour l'entretien des chambres</li></ul><p><br></p><p>Poste polyvalent avec horaires et jours de repos variables selon les semaines.</p><ul><li> Travail possible en shift du matin, du soir, en journée, ainsi qu’en remplacement ponctuel sur les shifts de nuit durant les périodes de congés</li></ul><p><br></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire de 2041.52 €/bruts par mois pour 39h par semaine avec 2 jours de repos hebdomadaire</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture (170€/mois) et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…)</li></ul><p><br></p>
- <p><strong>Votre profil :</strong></p><ul><li>Attentif.ve aux autres et à l’environnement qui vous entoure : vous contribuez à rendre le séjour de nos clients aussi irréprochable qu’inoubliable en apportant votre petite touche personnelle !</li><li>Très à l’aise en français et en anglais</li><li>Sens du service avec une grande polyvalence</li></ul><p><br></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
-]]></description>
-  <startdate></startdate>
-  <enddate></enddate>
-  <createddate>2025-11-24</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/9b9c9m?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/9b9c9m?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>La Rochelle</city>
-      <zip>17000</zip>
-      <address>Rue Flora Tristan</address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-
-<job>
-  <company>Hively Hospitality - Ibis Budget</company>
-  <companydescription/>
-  <companyuuid>33</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>pa0d4f</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>ASSITANTE GOUVERNANTE</title>
-  <description><![CDATA[
- <p><strong>Notre hôtel : Nous sommes un combo de deux hôtel Hôtel IBIS BUDET ET IBIS STYLE . En tous nous avons 141 chambres.</strong></p><p><br></p><p><strong>Votre mission :</strong></p><p><strong>Assister la gouvernante dans la gestion de l'équipe des étages.</strong></p><p><strong>Coordonner et superviser le travail de l'équipe des étages.</strong></p><p><strong>Contrôler la propreté, la préparation et l'état des chambres.</strong></p><p><strong>Nettoyage des parties communes et s'occuper du réapprovisionnement du linge.</strong></p><p><strong>Assurer le nettoyage des chambres.</strong></p><p><strong> </strong></p><p><strong>Nous vous proposons :</strong></p><ul><li>Un salaire de établi selon les compétences pour 39h par semaine avec 2 jours de repos consécutifs. Horaire de 8 h / 16 h30</li><li>Un week-end par mois.</li><li>Un 13ème mois dès 3 mois d'ancienneté et payable mensuellement sur demande, un Plan d’Epargne Entreprise avec abondement, des avantages nourriture (170€/mois) et chaque heure supplémentaire travaillée est comptabilisée en donnant droit à des repos en plus!</li><li>Des tarifs préférentiels dans notre réseau d’établissements</li><li>Mutuelle et Prévoyance offrant des garanties et une couverture maximales</li><li>Adhésion à une plateforme web avec réductions sur des produits du quotidien (cinéma, parcs d’attraction, courses alimentaires, salles de sport…</li><li><br></li></ul>
- <p><strong>Votre profil : </strong></p><ul><li>Attentif(ve) aux détails, vous aimez quand les choses sont bien faites et qu’elles répondent aux normes qualité et hygiène auxquelles vous avez été formé(e)</li><li>Première expérience d'1 an minimum, qualités relationnelles, <strong>envie </strong>de rejoindre une équipe unie, énergique et professionnelle</li><li><span style="color: rgb(230, 0, 0);">Compléter selon vos besoins</span></li></ul><p><span style="color: rgb(230, 0, 0);">﻿</span></p><p>Nous faisons partie de HIVELY HOSPITALITY. Avec une quinzaine de marques à forte notoriété, 80 établissements en France et en Europe, et 60 métiers dans l’hôtellerie, la restauration et le bien-être, HIVELY HOSPITALITY offre une diversité d’opportunités et d’évolutions à toutes celles et ceux qui sont en quête de réalisation de soi. Un seul prérequis de départ : l’envie !&nbsp;</p><p><br></p><p></p>
-]]></description>
-  <startdate>2025-12-01</startdate>
-  <enddate></enddate>
-  <createddate>2025-11-22</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/pa0d4f?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/pa0d4f?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>La Rochelle</city>
-      <zip>17000</zip>
-      <address></address>
-      <countrycode>FR</countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-
-<job>
-  <company>Hively Hospitality - Moxy</company>
-  <companydescription/>
-  <companyuuid>55</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>igd6r3</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Recepcionista M/F</title>
-  <description><![CDATA[
- <p>Olá :)&nbsp;</p><p><br></p><p>Procuramos alguém que tenha paixão por pessoas e diferentes culturas.&nbsp;</p><p><br></p><p>Funções:</p><p>	Estar preparado para assumir um trabalho versátil e polivalente. Aqui somos todos UMA equipa e o trabalho em conjunto;&nbsp;</p><p>	Receber todos os hóspedes e visitantes sempre com simpatia e cordialidade.&nbsp;</p><p>	Fazer check-in e check-out, com foco e atenção em todos detalhes importantes de cada um dos processos, principalmente documentação e pagamento.&nbsp;</p><p> É tua responsabilidade efetuar o pagamento de todas as contas dos hóspedes, assegurando que a conta dos mesmos está, devidamente fechada e fatura enviada;</p><p>	Manter o controlo das entradas e saídas de pessoas do hotel;</p><p>	Prestar todas informações e explicações necessárias relativamente ao hotel: horários de funcionamento do pequeno almoço e piscina, explicação do funcionamento dos elevadores, hora do check-out e horário de funcionamento do bar. Prestar também informações aos hóspedes relativamente a Lisboa e funcionamento dos transportes, bem como ajudá-los a marcar jantares, tours, etc.;</p><p>	Ajudar a equipa do F&amp;B no bar;&nbsp;</p><p>	Fazer o acompanhamento de todos os hóspedes com o devido interesse nas suas questões e problemas e tentar resolver os mesmos;</p><p>	Operar o sistema de telefone, recebendo e estabelecendo chamadas internas e externas. O atendimento destas chamadas e a comunicação, sejam elas internas ou externas, deverá ser feito de forma adequada e profissional;&nbsp;</p><p>	Responder aos e-mails da receção;&nbsp;</p><p>	Atender todas as solicitações dos hóspedes e anotar todas as informações importantes.</p><p>	Fazer reservas, sejam estas walk ins ou reservas futuras;&nbsp;</p><p>	Seguir as normas internas de segurança do hotel.&nbsp;</p><p>	Registar o máximo de clientes no programa Marriott Bonvoy e explicar os seus benefícios aos hóspedes.&nbsp;</p><p><br></p><p><br></p><p>Subsídio de alimentação em cartão refeição&nbsp;</p><p>Seguro de saúde e dentário</p><p>Subsídio de transporte</p><p>Subsídio de línguas</p><p>Subsídio de caixa&nbsp;</p><p><br></p><p>Enviar cv para fo@moxylisboncity.com (Beatriz - Front Office Manager)</p>
- <p><strong>O seu perfil : </strong></p><ul><li>Português e Ingês</li></ul><p><br></p><p>Fazemos parte da HIVELY HOSPITALITY. Com cerca de quinze marcas conhecidas, 80 estabelecimentos em França e na Europa e 60 profissões nos sectores da hotelaria, restauração e wellness, a HIVELY HOSPITALITY oferece uma variedade de oportunidades e desenvolvimentos a todos aqueles que procuram auto-realização. Há apenas uma condição prévia: vontade!</p><p><br></p><p></p>
-]]></description>
-  <startdate>2025-12-09</startdate>
-  <enddate></enddate>
-  <createddate>2025-11-21</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://hively-hospitality.talentview.io/jobs/igd6r3?source=cookorico</url>
-  <applyurl>https://hively-hospitality.talentview.io/jobs/igd6r3?source=cookorico</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>Portugal</country>
-      <city>Lisboa</city>
-      <zip></zip>
-      <address>Avenida Duque de Loulé</address>
-      <countrycode>PT</countrycode>
       <region/>
     </location>
   </locations>
