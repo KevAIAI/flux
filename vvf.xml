@@ -1,7 +1,7 @@
 <source>
 <publisher>Cookorico</publisher>
 <publisherurl>https://www.cookorico.com</publisherurl>
-<lastupdatedat>2026-03-23 11:07</lastupdatedat>
+<lastupdatedat>2026-03-24 09:00</lastupdatedat>
 
 <job>
   <company>VVF</company>
@@ -1238,7 +1238,7 @@ Autonomie indispensable, un bon esprit d’équipe sera fortement apprécié.</p
 ]]></description>
   <startdate></startdate>
   <enddate></enddate>
-  <createddate>2026-03-10</createddate>
+  <createddate>2026-03-23</createddate>
   <remotestatus></remotestatus>
   <employmenttype></employmenttype>
   <employmentlevel></employmentlevel>
@@ -1347,7 +1347,7 @@ Autonomie indispensable, un bon esprit d’équipe sera fortement apprécié.</p
 ]]></description>
   <startdate></startdate>
   <enddate></enddate>
-  <createddate>2026-03-11</createddate>
+  <createddate>2026-03-23</createddate>
   <remotestatus></remotestatus>
   <employmenttype></employmenttype>
   <employmentlevel></employmentlevel>
@@ -3467,7 +3467,7 @@ Autonomie indispensable, un bon esprit d’équipe sera fortement apprécié.</p
 ]]></description>
   <startdate></startdate>
   <enddate></enddate>
-  <createddate>2026-03-10</createddate>
+  <createddate>2026-03-23</createddate>
   <remotestatus></remotestatus>
   <employmenttype></employmenttype>
   <employmentlevel></employmentlevel>
@@ -3776,7 +3776,7 @@ Autonomie indispensable, un bon esprit d’équipe sera fortement apprécié.</p
 ]]></description>
   <startdate></startdate>
   <enddate></enddate>
-  <createddate>2026-03-10</createddate>
+  <createddate>2026-03-23</createddate>
   <remotestatus></remotestatus>
   <employmenttype></employmenttype>
   <employmentlevel></employmentlevel>
@@ -4214,7 +4214,7 @@ Autonomie indispensable, un bon esprit d’équipe sera fortement apprécié.</p
 ]]></description>
   <startdate></startdate>
   <enddate></enddate>
-  <createddate>2026-03-11</createddate>
+  <createddate>2026-03-23</createddate>
   <remotestatus></remotestatus>
   <employmenttype></employmenttype>
   <employmentlevel></employmentlevel>
@@ -5360,7 +5360,7 @@ Autonomie indispensable, un bon esprit d’équipe sera fortement apprécié.</p
 ]]></description>
   <startdate></startdate>
   <enddate></enddate>
-  <createddate>2026-03-09</createddate>
+  <createddate>2026-03-23</createddate>
   <remotestatus></remotestatus>
   <employmenttype></employmenttype>
   <employmentlevel></employmentlevel>
@@ -11987,7 +11987,7 @@ Autonomie indispensable, un bon esprit d’équipe sera fortement apprécié.</p
 ]]></description>
   <startdate></startdate>
   <enddate></enddate>
-  <createddate></createddate>
+  <createddate>2026-03-23</createddate>
   <remotestatus></remotestatus>
   <employmenttype></employmenttype>
   <employmentlevel></employmentlevel>
@@ -12408,7 +12408,7 @@ Autonomie indispensable, un bon esprit d’équipe sera fortement apprécié.</p
 ]]></description>
   <startdate></startdate>
   <enddate></enddate>
-  <createddate></createddate>
+  <createddate>2026-03-23</createddate>
   <remotestatus></remotestatus>
   <employmenttype></employmenttype>
   <employmentlevel></employmentlevel>
@@ -14746,6 +14746,111 @@ Autonomie indispensable, un bon esprit d’équipe sera fortement apprécié.</p
     <location>
       <country>France</country>
       <city>Soulac-sur-Mer</city>
+      <zip></zip>
+      <address></address>
+      <countrycode></countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job><job>
+  <company>VVF</company>
+  <companydescription></companydescription>
+  <companyuuid></companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>15897826</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Cuisinier (H/F) </title>
+<description><![CDATA[<p>VVF depuis plus de 60 ans, est le premier opérateur touristique familial solidaire et durable en France. Groupe associatif dont les missions contribuent au développement économique et social des territoires en proposant des séjours, des vacances et des loisirs accessibles à tous.</p>
+<p>VVF propose plus de 100 destinations sport, culture et nature, en montagne, moyenne montagne, campagne et littoral dans plus de 60 départements. L’association accueille 450 000 vacanciers par an.</p>
+<p>Elle propose des activités pour les parents et les enfants dans des villages vacances, des gîtes, des campings et des résidences de tourisme.</p>
+<p>VVF c’est aussi 450 salariés permanents et 3000 saisonniers en haute saison.</p>
+<p>Rejoignez-nous !</p>
+<p><strong>Informations générales du poste :</strong></p>
+<ul>
+<li>Dates contrats : du 30 mars au 31 octobre 2026</li>
+<li>CDD saisonnier</li>
+<li>Rémunération : 1837,30 euros brut mensuel</li>
+<li>Logement possible sur place</li>
+<li>35 heures hebdomadaire</li>
+<li>2 jours de congés par semaine</li>
+<li>Remboursement des frais de transport possible</li>
+<li>Site : <a href="https://www.vvf.fr/destination/ete/lege-cap-ferret">https://www.vvf.fr/destination/ete/lege-cap-ferret</a></li>
+</ul>
+<p><strong>Sous la responsabilité du ou de la responsable de restauration, le ou la cuisinière est le ou la garante de la satisfaction client concernant l’alimentation. Vous pourrez être également amener à coordonner le ou les commis.</strong></p>
+<p><strong>Les missions sont les suivantes :</strong></p>
+<ul>
+<li>Elaboration entrées, desserts, plats chauds et dressage</li>
+<li>Suivi du rangement de l’environnement de travail et nettoyage de celui-ci</li>
+<li>Appliquer les normes d’hygiène et de sécurité HACCP</li>
+<li>Respect des fiches techniques et du cadre VVF</li>
+<li>Entretien des locaux et du matériel fourni</li>
+<li>Surveillance températures des chambres froides et des aliments lors des livraisons</li>
+</ul>
+<p><strong>Vos missions nécessitent des qualités humaines certaines et une attitude exemplaire auprès de l’équipe et des vacanciers.</strong></p>
+<p><strong>Vous êtes issu d’une formation en cuisine type CAP ou BEP.</strong></p>
+<p><strong>Vous possédez la connaissance des normes HACCP pour gérer au mieux les obligations liées à l'hygiène.</strong></p>
+<p><strong>Vous avez déjà effectué l’ensemble des missions dans un cadre similaire.</strong></p>
+<p><strong>Votre habileté et votre sens de l'autonomie seront des atouts indispensables lors des périodes soutenues.</strong></p>
+<p><strong>Les « plus » qui peuvent faire la différence :</strong></p>
+<ul>
+<li>Tickets restaurants</li>
+<li>Mutuelle familiale</li>
+<li>Réductions sur vos séjours dans nos villages (dès 8 mois d’ancienneté)</li>
+<li>Des accords sur la parentalité pour accompagner les familles dans leurs projets</li>
+<li>Des accords sur l’équilibre pro/perso et le bien-être au travail</li>
+<li>Des parcours de formation ou de spécialisation accessibles à toutes et tous</li>
+<li>Une association solidaire et engagée</li>
+<li>Beaucoup de projets porteurs de sens qui n’attendent que vous</li>
+</ul>
+<p><strong>Le processus de recrutement :</strong></p>
+<p>Un entretien est prévu avec la directrice du site. Prévoyez 1h.</p>
+<p><strong>Et si vous êtes sensibles aux valeurs de VVF, n’hésitez plus et rejoignez notre équipe !</strong></p>
+<p><strong><em>« À compétences égales, une attention particulière sera apportée aux personnes en situation de handicap</em></strong> <em>»</em></p>
+
+]]></description>
+  <startdate></startdate>
+  <enddate></enddate>
+  <createddate></createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://vvfrecrute.factorial.fr/apply/cuisinier-h-f-292666?utm_source=cookorico.com</url>
+  <applyurl>https://vvfrecrute.factorial.fr/apply/cuisinier-h-f-292666?utm_source=cookorico.com</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Lège-Cap-Ferret</city>
       <zip></zip>
       <address></address>
       <countrycode></countrycode>
