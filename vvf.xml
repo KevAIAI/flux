@@ -1,7 +1,7 @@
 <source>
 <publisher>Cookorico</publisher>
 <publisherurl>https://www.cookorico.com</publisherurl>
-<lastupdatedat>2026-04-07 09:01</lastupdatedat>
+<lastupdatedat>2026-04-07 03:00</lastupdatedat>
 
 <job>
   <company>VVF</company>
@@ -2471,7 +2471,7 @@ Des déplacements réguliers entre les deux sites étant nécessaires, la déten
 ]]></description>
   <startdate></startdate>
   <enddate></enddate>
-  <createddate>2026-03-23</createddate>
+  <createddate>2026-04-07</createddate>
   <remotestatus></remotestatus>
   <employmenttype></employmenttype>
   <employmentlevel></employmentlevel>
@@ -2677,7 +2677,7 @@ Des déplacements réguliers entre les deux sites étant nécessaires, la déten
 ]]></description>
   <startdate></startdate>
   <enddate></enddate>
-  <createddate>2026-03-24</createddate>
+  <createddate>2026-04-07</createddate>
   <remotestatus></remotestatus>
   <employmenttype></employmenttype>
   <employmentlevel></employmentlevel>
@@ -3837,7 +3837,7 @@ Autonomie indispensable, un bon esprit d’équipe sera fortement apprécié.</p
 ]]></description>
   <startdate></startdate>
   <enddate></enddate>
-  <createddate>2026-03-24</createddate>
+  <createddate>2026-04-07</createddate>
   <remotestatus></remotestatus>
   <employmenttype></employmenttype>
   <employmentlevel></employmentlevel>
@@ -7386,7 +7386,7 @@ Autonomie indispensable, un bon esprit d’équipe sera fortement apprécié.</p
 ]]></description>
   <startdate></startdate>
   <enddate></enddate>
-  <createddate>2026-03-24</createddate>
+  <createddate>2026-04-07</createddate>
   <remotestatus></remotestatus>
   <employmenttype></employmenttype>
   <employmentlevel></employmentlevel>
@@ -7492,7 +7492,7 @@ Autonomie indispensable, un bon esprit d’équipe sera fortement apprécié.</p
 ]]></description>
   <startdate></startdate>
   <enddate></enddate>
-  <createddate>2026-03-23</createddate>
+  <createddate>2026-04-07</createddate>
   <remotestatus></remotestatus>
   <employmenttype></employmenttype>
   <employmentlevel></employmentlevel>
@@ -9589,7 +9589,7 @@ Autonomie indispensable, un bon esprit d’équipe sera fortement apprécié.</p
 ]]></description>
   <startdate></startdate>
   <enddate></enddate>
-  <createddate></createddate>
+  <createddate>2026-04-07</createddate>
   <remotestatus></remotestatus>
   <employmenttype></employmenttype>
   <employmentlevel></employmentlevel>
@@ -12771,6 +12771,121 @@ Autonomie indispensable, un bon esprit d’équipe sera fortement apprécié.</p
     <location>
       <country>France</country>
       <city>Lège-Cap-Ferret</city>
+      <zip></zip>
+      <address></address>
+      <countrycode></countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job><job>
+  <company>VVF</company>
+  <companydescription></companydescription>
+  <companyuuid></companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>15969919</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Responsable d'hébergement (H/F)</title>
+<description><![CDATA[<p>VVF depuis plus de 60 ans, est le premier opérateur touristique familial solidaire et durable en France. Groupe associatif dont les missions contribuent au développement économique et social des territoires en proposant des séjours, des vacances et des loisirs accessibles à tous.</p>
+<p>VVF propose plus de 100 destinations sport, culture et nature, en montagne, moyenne montagne, campagne et littoral dans plus de 60 départements. L’association accueille 450 000 vacanciers par an.</p>
+<p>Elle propose des activités pour les parents et les enfants dans des villages vacances, des gîtes, des campings et des résidences de tourisme.</p>
+<p>VVF c’est aussi 450 salariés permanents et 3000 saisonniers en haute saison.</p>
+<p>Rejoignez-nous !</p>
+<p><strong>Informations générales du poste :</strong></p>
+<ul>
+<li>Dates contrats : Dès que possible jusqu’au 31/10/26</li>
+<li>CDD saisonnier</li>
+<li>Rémunération : 2000€ Brut Mensuel</li>
+<li>Logement possible sur place</li>
+<li>35 heures hebdomadaire</li>
+<li>2 jours de congés par semaine</li>
+<li>Site : <a href="https://www.vvf.fr/destination/ete/najac?startDate=&#x26;endDate=&#x26;adult=2&#x26;children=0&#x26;baby=0&#x26;animal=0">https://www.vvf.fr/destination/ete/najac?startDate=&#x26;endDate=&#x26;adult=2&#x26;children=0&#x26;baby=0&#x26;animal=0</a></li>
+</ul>
+<p><strong>Sous la responsabilité du ou de la directrice de village, vous assurerez la gestion et la coordination des missions d’accueil et d’hébergement. La qualité des prestations proposées aux vacanciers dépend de votre accompagnement et suivi des équipes.</strong></p>
+<p><strong>Votre polyvalence et vos qualités relationnelles vous aideront dans vos missions. Les missions liées à l’accueil sont les suivantes :</strong></p>
+<ul>
+<li>Assurer l’accueil physique et téléphonique mais aussi l’affichage global du village</li>
+<li>Coordonner les arrivées et départ des vacanciers</li>
+<li>Gérer les encaissements et la tenue des caisses</li>
+<li>Gérer les inscriptions aux prestations et le suivi des prêts de matériel</li>
+<li>Effectuer les réunions d’accueil et garantir le bon déroulement des séjours</li>
+<li>Assurer le lien entre les différents services et équipes (restauration, animation…) notamment les inscriptions et modifications</li>
+<li>Suivre les dysfonctionnements et réclamations en vue de la résolution</li>
+<li>Assurer le suivi et la gestion des stocks</li>
+<li>Développer les produits liés aux thématiques du village (partenariat, prestation)</li>
+</ul>
+<p><strong>Les missions d’hébergement sont à prévoir et solliciteront vos qualités de rigueur et d’organisation :</strong></p>
+<ul>
+<li>Garantir l’attribution des hébergements</li>
+<li>Suivre les dossiers et veiller au bon état des hébergements : patrimoine, propreté…</li>
+<li>Coordonner les équipes ménages</li>
+<li>Suivre et organiser les états de lieux</li>
+<li>Effectuer le suivi de la blanchisserie et des nettoyages literie</li>
+</ul>
+<p><strong>Des missions liées au suivi clients (soldes, attestations, ventes) nécessiteront une formation, à notre logiciel interne, effectuée par le ou la directrice du site.</strong></p>
+<p><strong>Vous effectuerez également le suivi de la boutique et la promotion des activités liées.</strong></p>
+<p><strong>Issu(e) d’une formation dans le tourisme (hospitality, RET...), vous avez déjà pratiqué ces missions avec succès. Votre expérience vous permettra d’être pleinement opérationnel(le) et force de proposition.</strong></p>
+<p><strong>Une grande agilité et de l’initiative seront des atouts importants dans vos missions afin d'être autonome auprès des différents publics accompagnés.</strong></p>
+<p><strong>Votre exemplarité et votre esprit d'équipe seront également attendu afin de véhiculer les valeurs de VVF.</strong></p>
+<p><strong>Les « plus » qui peuvent faire la différence :</strong></p>
+<ul>
+<li>Tickets restaurants</li>
+<li>Mutuelle familiale</li>
+<li>Réductions sur vos séjours dans nos villages (dès 8 mois d’ancienneté)</li>
+<li>Des accords sur la parentalité pour accompagner les familles dans leurs projets</li>
+<li>Des accords sur l’équilibre pro/perso et le bien-être au travail</li>
+<li>Des parcours de formation ou de spécialisation accessibles à toutes et tous</li>
+<li>Une association solidaire et engagée</li>
+<li>Beaucoup de projets porteurs de sens qui n’attendent que vous</li>
+</ul>
+<p><strong>Le processus de recrutement :</strong></p>
+<p>Un entretien est prévu avec le ou la directrice du site. Prévoyez 1h.</p>
+<p><strong>Et si vous êtes sensibles aux valeurs de VVF, n’hésitez plus et rejoignez notre équipe !</strong></p>
+<p><strong><em>« À compétences égales, une attention particulière sera apportée aux personnes en situation de handicap</em></strong> <em>»</em></p>
+
+]]></description>
+  <startdate></startdate>
+  <enddate></enddate>
+  <createddate></createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://vvfrecrute.factorial.fr/apply/responsable-d-hebergement-h-f-295018?utm_source=cookorico.com</url>
+  <applyurl>https://vvfrecrute.factorial.fr/apply/responsable-d-hebergement-h-f-295018?utm_source=cookorico.com</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Najac</city>
       <zip></zip>
       <address></address>
       <countrycode></countrycode>
