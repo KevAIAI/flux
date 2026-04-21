@@ -1,7 +1,7 @@
 <source>
 <publisher>Cookorico</publisher>
 <publisherurl>https://www.cookorico.com</publisherurl>
-<lastupdatedat>2026-04-21 09:01</lastupdatedat>
+<lastupdatedat>2026-04-21 03:01</lastupdatedat>
 
 <job>
   <company>VVF</company>
@@ -170,7 +170,7 @@ Des déplacements réguliers entre les deux sites étant nécessaires, la déten
 ]]></description>
   <startdate></startdate>
   <enddate></enddate>
-  <createddate>2026-04-09</createddate>
+  <createddate>2026-04-21</createddate>
   <remotestatus></remotestatus>
   <employmenttype></employmenttype>
   <employmentlevel></employmentlevel>
@@ -479,7 +479,7 @@ Des déplacements réguliers entre les deux sites étant nécessaires, la déten
 ]]></description>
   <startdate></startdate>
   <enddate></enddate>
-  <createddate>2026-04-06</createddate>
+  <createddate>2026-04-21</createddate>
   <remotestatus></remotestatus>
   <employmenttype></employmenttype>
   <employmentlevel></employmentlevel>
@@ -588,7 +588,7 @@ Des déplacements réguliers entre les deux sites étant nécessaires, la déten
 ]]></description>
   <startdate></startdate>
   <enddate></enddate>
-  <createddate>2026-04-07</createddate>
+  <createddate>2026-04-21</createddate>
   <remotestatus></remotestatus>
   <employmenttype></employmenttype>
   <employmentlevel></employmentlevel>
@@ -1120,7 +1120,7 @@ Des déplacements réguliers entre les deux sites étant nécessaires, la déten
 ]]></description>
   <startdate></startdate>
   <enddate></enddate>
-  <createddate>2026-04-08</createddate>
+  <createddate>2026-04-21</createddate>
   <remotestatus></remotestatus>
   <employmenttype></employmenttype>
   <employmentlevel></employmentlevel>
@@ -2151,7 +2151,7 @@ Des déplacements réguliers entre les deux sites étant nécessaires, la déten
 ]]></description>
   <startdate></startdate>
   <enddate></enddate>
-  <createddate>2026-04-07</createddate>
+  <createddate>2026-04-21</createddate>
   <remotestatus></remotestatus>
   <employmenttype></employmenttype>
   <employmentlevel></employmentlevel>
@@ -9065,7 +9065,7 @@ Autonomie indispensable, un bon esprit d’équipe sera fortement apprécié.</p
 ]]></description>
   <startdate></startdate>
   <enddate></enddate>
-  <createddate></createddate>
+  <createddate>2026-04-21</createddate>
   <remotestatus></remotestatus>
   <employmenttype></employmenttype>
   <employmentlevel></employmentlevel>
@@ -9570,7 +9570,7 @@ Autonomie indispensable, un bon esprit d’équipe sera fortement apprécié.</p
 ]]></description>
   <startdate></startdate>
   <enddate></enddate>
-  <createddate></createddate>
+  <createddate>2026-04-21</createddate>
   <remotestatus></remotestatus>
   <employmenttype></employmenttype>
   <employmentlevel></employmentlevel>
@@ -12902,7 +12902,6 @@ Autonomie indispensable, un bon esprit d’équipe sera fortement apprécié.</p
 <li>35 heures par semaine</li>
 <li>2 jours de congés par semaine</li>
 <li>Logement possible sur place</li>
-<li>Possibilité de remboursement des frais de transport A/R en fin de contrat</li>
 <li>Site : <a href="https://www.vvf.fr/destination/ete/eygurande?startDate=&#x26;endDate=&#x26;adult=2&#x26;children=0&#x26;baby=0&#x26;animal=0">https://www.vvf.fr/destination/ete/eygurande?startDate=&#x26;endDate=&#x26;adult=2&#x26;children=0&#x26;baby=0&#x26;animal=0</a></li>
 </ul>
 <p><strong>Sous la responsabilité du directeur du site et au sein d’une équipe dédiée à l’encadrement des vacanciers, vous accompagnerez les vacanciers et mettrez en place les activités et animations selon le planning prévu.</strong></p>
@@ -12952,6 +12951,443 @@ Autonomie indispensable, un bon esprit d’équipe sera fortement apprécié.</p
     <location>
       <country>France</country>
       <city>Eygurande</city>
+      <zip></zip>
+      <address></address>
+      <countrycode></countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job><job>
+  <company>VVF</company>
+  <companydescription></companydescription>
+  <companyuuid></companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>16040696</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Animateur 15 / 17 ans (H/F)</title>
+<description><![CDATA[<p>VVF depuis plus de 60 ans, est le premier opérateur touristique familial solidaire et durable en France. Groupe associatif dont les missions contribuent au développement économique et social des territoires en proposant des séjours, des vacances et des loisirs accessibles à tous.</p>
+<p>VVF propose plus de 100 destinations sport, culture et nature, en montagne, moyenne montagne, campagne et littoral dans plus de 60 départements. L’association accueille 450 000 vacanciers par an.</p>
+<p>Elle propose des activités pour les parents et les enfants dans des villages vacances, des gîtes, des campings et des résidences de tourisme.</p>
+<p>VVF c’est aussi 450 salariés permanents et 3000 saisonniers en haute saison.</p>
+<p>Rejoignez-nous !</p>
+<p><strong>Informations générales du poste :</strong></p>
+<ul>
+<li>Dates : du 04 juillet 2026 au 31 aout 2026</li>
+<li>Rémunération : 1841.03 € Brut Mensuel</li>
+<li>35 heures par semaine</li>
+<li>2 jours de congés par semaine</li>
+<li>Logement possible sur place</li>
+<li>Site : <a href="https://www.vvf.fr/villages-vacances/vacances-premanon-vvf-villages.html">https://www.vvf.fr/villages-vacances/vacances-premanon-vvf-villages.html</a></li>
+</ul>
+<p><strong>Sous la responsabilité du responsable d’animation et au sein d’une équipe dédiée à l’encadrement de groupes d'enfants, vous accompagnerez un groupe et mettrez en place les activités et animations selon le planning prévu. Les clubs enfants sont découpés par tranches d’âges spécifique, vous aurez la charge de la tranche d’âge 15/17 ans.</strong></p>
+<p><strong>Votre esprit d’équipe et votre relationnel seront des atouts essentiels dans les missions suivantes :</strong></p>
+<ul>
+<li>Préparer l’espace d’accueil selon le public accueilli (disposition, affichage, rangement)</li>
+<li>Elaborer et proposer un programme d’activités variées et adapté à l’âge des enfants</li>
+<li>Animer les activités proposées</li>
+<li>Prendre en charge les repas/pique-niques lors des journées continues</li>
+<li>Participer aux réunions de préparation et d’accueil des vacanciers</li>
+</ul>
+<p><strong>Vous serez le lien privilégié entre les parents et les enfants. A ce titre, votre exemplarité sur le village est indispensable. Vous communiquez l’image de VVF au travers de vos missions.</strong></p>
+<p><strong>Muni du BAFA/BPJEPS ou tout autre diplôme lié à l'animation, votre envie et votre dynamisme sont des qualités essentielles pour faire passer de belles vacances aux enfants.</strong></p>
+<p><strong>Les "plus" qui peuvent faire la différence :</strong></p>
+<ul>
+<li>Hébergement et alimentation sur place selon les sites (selon barème)</li>
+<li>Mutuelle familiale</li>
+<li>CSE (dès 8 mois d’ancienneté sur une ou deux saisons consécutives)</li>
+<li>13ème mois (dès 8 mois d’ancienneté sur une ou deux saisons consécutives)</li>
+<li>Des accords sur la parentalité pour accompagner les parents dans leurs projets</li>
+<li>Des parcours de formation accessibles à toutes et tous</li>
+<li>Un état d’esprit solidaire et engagé</li>
+<li>Beaucoup de projets porteurs de sens qui n’attendent que vous</li>
+</ul>
+<p><strong>Le processus de recrutement :</strong></p>
+<ul>
+<li>Un entretien est prévu avec le responsable animation du site. Prévoyez 1h.</li>
+</ul>
+<p><strong>Et si vous êtes sensibles aux valeurs de VVF, n’hésitez plus et rejoignez notre équipe !</strong></p>
+<p><strong><em>« À compétences égales, une attention particulière sera apportée aux personnes en situation de handicap</em></strong> <em>»</em></p>
+
+]]></description>
+  <startdate></startdate>
+  <enddate></enddate>
+  <createddate></createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://vvfrecrute.factorial.fr/apply/animateur-15-17-ans-h-f-297645?utm_source=cookorico.com</url>
+  <applyurl>https://vvfrecrute.factorial.fr/apply/animateur-15-17-ans-h-f-297645?utm_source=cookorico.com</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Prémanon</city>
+      <zip></zip>
+      <address></address>
+      <countrycode></countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job><job>
+  <company>VVF</company>
+  <companydescription></companydescription>
+  <companyuuid></companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>16040739</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Animateur adulte (H/F) </title>
+<description><![CDATA[<p>VVF depuis plus de 60 ans, est le premier opérateur touristique familial solidaire et durable en France. Groupe associatif dont les missions contribuent au développement économique et social des territoires en proposant des séjours, des vacances et des loisirs accessibles à tous.</p>
+<p>VVF propose plus de 100 destinations sport, culture et nature, en montagne, moyenne montagne, campagne et littoral dans plus de 60 départements. L’association accueille 450 000 vacanciers par an.</p>
+<p>Elle propose des activités pour les parents et les enfants dans des villages vacances, des gîtes, des campings et des résidences de tourisme.</p>
+<p>VVF c’est aussi 450 salariés permanents et 3000 saisonniers en haute saison.</p>
+<p>Rejoignez-nous !</p>
+<p><strong>Informations générales du poste :</strong></p>
+<ul>
+<li>Dates : du 30 Avril au 20 Septembre 2026</li>
+<li>Rémunération : 1841.03€ brut mensuel</li>
+<li>35 heures par semaine</li>
+<li>Logement possible sur place</li>
+<li>2 jours de congés par semaine</li>
+<li>Site : <a href="https://www.vvf.fr/destination/ete/premanon?startDate=&#x26;endDate=&#x26;adult=2&#x26;children=0&#x26;baby=0&#x26;animal=0">https://www.vvf.fr/destination/ete/premanon?startDate=&#x26;endDate=&#x26;adult=2&#x26;children=0&#x26;baby=0&#x26;animal=0</a></li>
+</ul>
+<p><strong>Sous la responsabilité du directeur du site et au sein d’une équipe dédiée à l’encadrement des vacanciers, vous accompagnerez les vacanciers et mettrez en place les activités et animations selon le planning prévu.</strong></p>
+<p><strong>Vous participerez également à l'animation de fin de journée et de soirées avec l'équipe d'animation.</strong></p>
+<p><strong>Votre esprit d’équipe et votre relationnel seront des atouts essentiels dans les missions suivantes :</strong></p>
+<ul>
+<li>Préparer l’espace d’accueil selon le public accueilli (disposition, affichage, rangement)</li>
+<li>Elaborer et proposer un programme d’activités variées et adapté selon la clientèle enfants ou adultes</li>
+<li>Animer les activités proposées</li>
+<li>Participer aux réunions de préparation et d’accueil des vacanciers</li>
+<li>Faire preuve de créativité et d'adaptabilité</li>
+<li>Avoir un très bon contact client</li>
+</ul>
+<p><strong>Vous serez le lien privilégié entre les parents et les enfants. A ce titre, votre exemplarité sur le village est indispensable. Vous communiquez l’image de VVF au travers de vos missions.</strong></p>
+<p><strong>Muni du BAFA/BPJEPS/ALT ou tout autre diplôme lié à l'animation, votre envie et votre dynamisme sont des qualités essentielles pour faire passer de belles vacances aux enfants.</strong></p>
+<p><strong>Vous pourrez également intervenir au bar selon les besoins, pour assurer le service et l’accueil des vacanciers.</strong></p>
+<p><strong>Animé (e) par le sens du service, vos missions seront les suivantes :</strong></p>
+<ul>
+<li>Créer de nouveaux cocktails</li>
+<li>Proposer et créer des thématiques de soirée en collaboration avec le service animation</li>
+<li>Nettoyer et préparer la salle et les tables</li>
+<li>Assurer la plonge</li>
+<li>Définir le cocktail du jour en adéquation avec le thème ou l’animation</li>
+<li>Appliquer les règles HACCP</li>
+</ul>
+<p><strong>Les « plus » qui peuvent faire la différence :</strong></p>
+<ul>
+<li>Tickets restaurants</li>
+<li>Mutuelle familiale</li>
+<li>Réductions sur vos séjours dans nos villages (dès 8 mois d’ancienneté)</li>
+<li>Des accords sur la parentalité pour accompagner les familles dans leurs projets</li>
+<li>Des accords sur l’équilibre pro/perso et le bien-être au travail</li>
+<li>Des parcours de formation ou de spécialisation accessibles à toutes et tous</li>
+<li>Une association solidaire et engagée</li>
+<li>Beaucoup de projets porteurs de sens qui n’attendent que vous</li>
+</ul>
+<p><strong>Le processus de recrutement :</strong></p>
+<ul>
+<li>Un entretien est prévu avec le ou la directrice du site. Prévoyez 1h.</li>
+</ul>
+<p><strong>Et si vous êtes sensibles aux valeurs de VVF, n’hésitez plus et rejoignez notre équipe !</strong></p>
+<p><strong><em>« À compétences égales, une attention particulière sera apportée aux personnes en situation de handicap</em></strong> <em>»</em></p>
+
+]]></description>
+  <startdate></startdate>
+  <enddate></enddate>
+  <createddate></createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://vvfrecrute.factorial.fr/apply/animateur-adulte-h-f-297648?utm_source=cookorico.com</url>
+  <applyurl>https://vvfrecrute.factorial.fr/apply/animateur-adulte-h-f-297648?utm_source=cookorico.com</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Prémanon</city>
+      <zip></zip>
+      <address></address>
+      <countrycode></countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job><job>
+  <company>VVF</company>
+  <companydescription></companydescription>
+  <companyuuid></companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>16041348</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Coordinateur des clubs enfants (H/F)</title>
+<description><![CDATA[<p>VVF depuis plus de 60 ans, est le premier opérateur touristique familial solidaire et durable en France. Groupe associatif dont les missions contribuent au développement économique et social des territoires en proposant des séjours, des vacances et des loisirs accessibles à tous.</p>
+<p>VVF propose plus de 100 destinations sport, culture et nature, en montagne, moyenne montagne, campagne et littoral dans plus de 60 départements. L’association accueille 450 000 vacanciers par an.</p>
+<p>Elle propose des activités pour les parents et les enfants dans des villages vacances, des gîtes, des campings et des résidences de tourisme.</p>
+<p>VVF c’est aussi 450 salariés permanents et 3000 saisonniers en haute saison.</p>
+<p>Rejoignez-nous !</p>
+<p><strong>Informations générales du poste :</strong></p>
+<ul>
+<li>Dates : du 29 juin 2026 au 30 aout 2026</li>
+<li>Rémunération : 1869.26€ Brut Mensuel</li>
+<li>35 heures par semaine</li>
+<li>2 jours de congés par semaine</li>
+<li>Logement possible sur place</li>
+<li>Site : <a href="https://www.vvf.fr/villages-vacances/vacances-obernai-vvf-villages.html?startDate=&#x26;endDate=&#x26;adult=2&#x26;children=0&#x26;baby=0&#x26;animal=0">https://www.vvf.fr/villages-vacances/vacances-obernai-vvf-villages.html?startDate=&#x26;endDate=&#x26;adult=2&#x26;children=0&#x26;baby=0&#x26;animal=0</a></li>
+</ul>
+<p><strong>Sous la responsabilité du responsable d’animation vous coordonnez les équipes d’animation enfants 3/10 ans ou 11/17 ans , vous accompagnerez un groupe et mettrez en place les activités et animations. Les clubs enfants sont découpés par tranches d’âges spécifique (3/6 ans, 7/10 ans, 11/14 ans, 15/17 ans) selon les effectifs inscrits.</strong></p>
+<p><strong>Votre esprit d’équipe et votre relationnel seront des atouts essentiels dans les missions suivantes :</strong></p>
+<ul>
+<li>
+<p>Manager les équipes d’animation enfants au quotidien</p>
+</li>
+<li>
+<p>Elaborer et suivre les plannings d’animation et des équipes</p>
+</li>
+<li>
+<p>Garantir le bon entretien du matériel, le réassort si besoin mais aussi les inventaires</p>
+</li>
+<li>
+<p>Organiser et assurer la communication des activités proposées</p>
+</li>
+<li>
+<p>Préparer l’espace d’accueil selon le public accueilli (disposition, affichage, rangement)</p>
+</li>
+<li>
+<p>Elaborer et proposer un programme d’activités variées et adapté à l’âge des enfants</p>
+</li>
+<li>
+<p>Animer les activités proposées</p>
+</li>
+<li>
+<p>Prendre en charge les repas/pique-niques lors des journées continues</p>
+</li>
+<li>
+<p>Participer aux réunions de préparation et d’accueil des vacanciers</p>
+</li>
+</ul>
+<p><strong>Vous serez le lien privilégié entre les parents et les enfants. A ce titre, votre exemplarité sur le village est indispensable. Vous communiquez l’image de VVF au travers de vos missions.</strong></p>
+<p><strong>Muni du BAFA/BPJEPS/ALT ou tout autre diplôme lié à l'animation, votre envie et votre dynamisme sont des qualités essentielles pour faire passer de belles vacances aux enfants.</strong></p>
+<p><strong>Les "plus" qui peuvent faire la différence :</strong></p>
+<ul>
+<li>Hébergement et alimentation sur place selon les sites (selon barème)</li>
+<li>Mutuelle familiale</li>
+<li>CSE (dès 8 mois d’ancienneté sur une ou deux saisons consécutives)</li>
+<li>13ème mois (dès 8 mois d’ancienneté sur une ou deux saisons consécutives)</li>
+<li>Des accords sur la parentalité pour accompagner les parents dans leurs projets</li>
+<li>Des parcours de formation accessibles à toutes et tous</li>
+<li>Un état d’esprit solidaire et engagé</li>
+<li>Beaucoup de projets porteurs de sens qui n’attendent que vous</li>
+</ul>
+<p><strong>Le processus de recrutement :</strong></p>
+<ul>
+<li>Un entretien est prévu avec le responsable animation du site. Prévoyez 1h.</li>
+</ul>
+<p><strong>Et si vous êtes sensibles aux valeurs de VVF, n’hésitez plus et rejoignez notre équipe !</strong></p>
+<p><strong><em>« À compétences égales, une attention particulière sera apportée aux personnes en situation de handicap</em></strong> <em>»</em></p>
+
+]]></description>
+  <startdate></startdate>
+  <enddate></enddate>
+  <createddate></createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://vvfrecrute.factorial.fr/apply/coordinateur-des-clubs-enfants-h-f-297684?utm_source=cookorico.com</url>
+  <applyurl>https://vvfrecrute.factorial.fr/apply/coordinateur-des-clubs-enfants-h-f-297684?utm_source=cookorico.com</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Obernai</city>
+      <zip></zip>
+      <address></address>
+      <countrycode></countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job><job>
+  <company>VVF</company>
+  <companydescription></companydescription>
+  <companyuuid></companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>16041610</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Animateur enfants (H/F)</title>
+<description><![CDATA[<p>VVF depuis plus de 60 ans, est le premier opérateur touristique familial solidaire et durable en France. Groupe associatif dont les missions contribuent au développement économique et social des territoires en proposant des séjours, des vacances et des loisirs accessibles à tous.</p>
+<p>VVF propose plus de 100 destinations sport, culture et nature, en montagne, moyenne montagne, campagne et littoral dans plus de 60 départements. L’association accueille 450 000 vacanciers par an.</p>
+<p>Elle propose des activités pour les parents et les enfants dans des villages vacances, des gîtes, des campings et des résidences de tourisme.</p>
+<p>VVF c’est aussi 450 salariés permanents et 3000 saisonniers en haute saison.</p>
+<p>Rejoignez-nous !</p>
+<p><strong>Informations générales du poste :</strong></p>
+<ul>
+<li>Dates : 30 juin 2026 au 30 aout 2026</li>
+<li>Rémunération : 1823.03 € Brut Mensuel</li>
+<li>35 heures par semaine</li>
+<li>2 jours de congés par semaine</li>
+<li>Site : <a href="https://www.vvf.fr/destination/ete/obernai?startDate=&#x26;endDate=&#x26;adult=2&#x26;children=0&#x26;baby=0&#x26;animal=0">https://www.vvf.fr/destination/ete/obernai?startDate=&#x26;endDate=&#x26;adult=2&#x26;children=0&#x26;baby=0&#x26;animal=0</a></li>
+</ul>
+<p><strong>Sous la responsabilité du responsable d’animation et au sein d’une équipe dédiée à l’encadrement de groupes d'enfants, vous accompagnerez un groupe et mettrez en place les activités et animations selon le planning prévu. Les clubs enfants sont découpés par tranches d’âges spécifique (3/6 ans, 7/10 ans, 11/14 ans, 15/17 ans) selon les effectifs inscrits.</strong></p>
+<p><strong>Votre esprit d’équipe et votre relationnel seront des atouts essentiels dans les missions suivantes :</strong></p>
+<ul>
+<li>Préparer l’espace d’accueil selon le public accueilli (disposition, affichage, rangement)</li>
+<li>Elaborer et proposer un programme d’activités variées et adapté à l’âge des enfants</li>
+<li>Animer les activités proposées</li>
+<li>Prendre en charge les repas/pique-niques lors des journées continues</li>
+<li>Participer aux réunions de préparation et d’accueil des vacanciers</li>
+</ul>
+<p><strong>Vous serez le lien privilégié entre les parents et les enfants. A ce titre, votre exemplarité sur le village est indispensable. Vous communiquez l’image de VVF au travers de vos missions.</strong></p>
+<p><strong>Muni du BAFA/BPJEPS/ALT ou tout autre diplôme lié à l'animation, votre envie et votre dynamisme sont des qualités essentielles pour faire passer de belles vacances aux enfants.</strong></p>
+<p><strong>Les "plus" qui peuvent faire la différence :</strong></p>
+<ul>
+<li>Hébergement et alimentation sur place selon les sites (selon barème)</li>
+<li>Mutuelle familiale</li>
+<li>CSE (dès 8 mois d’ancienneté sur une ou deux saisons consécutives)</li>
+<li>13ème mois (dès 8 mois d’ancienneté sur une ou deux saisons consécutives)</li>
+<li>Des accords sur la parentalité pour accompagner les parents dans leurs projets</li>
+<li>Des parcours de formation accessibles à toutes et tous</li>
+<li>Un état d’esprit solidaire et engagé</li>
+<li>Beaucoup de projets porteurs de sens qui n’attendent que vous</li>
+</ul>
+<p><strong>Le processus de recrutement :</strong></p>
+<ul>
+<li>Un entretien est prévu avec le responsable animation du site. Prévoyez 1h.</li>
+</ul>
+<p><strong>Et si vous êtes sensibles aux valeurs de VVF, n’hésitez plus et rejoignez notre équipe !</strong></p>
+<p><strong><em>« À compétences égales, une attention particulière sera apportée aux personnes en situation de handicap</em></strong> <em>»</em></p>
+
+]]></description>
+  <startdate></startdate>
+  <enddate></enddate>
+  <createddate></createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://vvfrecrute.factorial.fr/apply/animateur-enfants-h-f-296812?utm_source=cookorico.com</url>
+  <applyurl>https://vvfrecrute.factorial.fr/apply/animateur-enfants-h-f-296812?utm_source=cookorico.com</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Obernai</city>
       <zip></zip>
       <address></address>
       <countrycode></countrycode>
