@@ -1,107 +1,9 @@
 <source>
 <publisher>Cookorico</publisher>
 <publisherurl>https://www.cookorico.com</publisherurl>
-<lastupdatedat>2026-04-21 03:01</lastupdatedat>
+<lastupdatedat>2026-04-22 03:50</lastupdatedat>
 
 <job>
-  <company>VVF</company>
-  <companydescription></companydescription>
-  <companyuuid></companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>15532963</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Employé de ménage (H/F) </title>
-<description><![CDATA[<p>VVF depuis plus de 60 ans, est le premier opérateur touristique familial solidaire et durable en France. Groupe associatif dont les missions contribuent au développement économique et social des territoires en proposant des séjours, des vacances et des loisirs accessibles à tous.</p>
-<p>VVF propose plus de 100 destinations sport, culture et nature, en montagne, moyenne montagne, campagne et littoral dans plus de 60 départements. L’association accueille 450 000 vacanciers par an.</p>
-<p>Elle propose des activités pour les parents et les enfants dans des villages vacances, des gîtes, des campings et des résidences de tourisme.</p>
-<p>VVF c’est aussi 450 salariés permanents et 3000 saisonniers en haute saison.</p>
-<p>Rejoignez-nous !</p>
-<p><strong>Informations générales du poste :</strong></p>
-<ul>
-<li>Dates contrats : 09 mars au 08 novembre</li>
-<li>CDD saisonnier</li>
-<li>Rémunération : SMIC mensuel brut</li>
-<li>Logement possible sur place</li>
-<li>35 heures hebdomadaire</li>
-<li>2 jours de congés par semaine</li>
-<li>Site : <a href="https://www.vvf.fr/villages-vacances/vacances-lege-cap-ferret-vvf-villages.html?startDate=&#x26;endDate=&#x26;adult=2&#x26;children=0&#x26;baby=0&#x26;animal=0">https://www.vvf.fr/villages-vacances/vacances-lege-cap-ferret-vvf-villages.html?startDate=&#x26;endDate=&#x26;adult=2&#x26;children=0&#x26;baby=0&#x26;animal=0</a></li>
-</ul>
-<p><strong>Sous la responsabilité du directeur ou de la directrice du VVF, ou du responsable d’hébergement, vous assurerez la prestation ménage :</strong></p>
-<ul>
-<li>Effectuer la désinfection, le nettoyage et le rangement des logements, chambres et/ou lieux communs ;</li>
-<li>Préparer les logements et les chambres à l'arrivée des nouveaux clients (en fonction des prestations définies) ;</li>
-<li>Retirer le linge des logements et le préparer pour la prise en charge par la blanchisserie ;</li>
-<li>Nettoyer certains linges et écarter les linges abîmés, tâchés ou non conformes ;</li>
-</ul>
-<p><strong>Dans le respect du référentiel métier et des normes de sécurités et d'hygiène, vous êtes un rouage essentiel de la satisfaction des vacanciers.</strong></p>
-<p><strong>Votre réactivité, votre autonomie et votre sens du service seront sollicités au quotidien.</strong></p>
-<p><strong>Les « plus » qui peuvent faire la différence :</strong></p>
-<ul>
-<li>Tickets restaurants</li>
-<li>Mutuelle familiale</li>
-<li>Réductions sur vos séjours dans nos villages (dès 8 mois d’ancienneté)</li>
-<li>Des accords sur la parentalité pour accompagner les familles dans leurs projets</li>
-<li>Des accords sur l’équilibre pro/perso et le bien-être au travail</li>
-<li>Des parcours de formation ou de spécialisation accessibles à toutes et tous</li>
-<li>Une association solidaire et engagée</li>
-<li>Beaucoup de projets porteurs de sens qui n’attendent que vous</li>
-</ul>
-<p><strong>Le processus de recrutement :</strong></p>
-<p>Un entretien est prévu avec le ou la directrice du site. Prévoyez 1h.</p>
-<p><strong>Et si vous êtes sensibles aux valeurs de VVF, n’hésitez plus et rejoignez notre équipe !</strong></p>
-<p><strong><em>À compétences égales, une attention particulière sera apportée aux personnes en situation de handicap</em></strong> <em>»</em></p>
-
-]]></description>
-  <startdate></startdate>
-  <enddate></enddate>
-  <createddate>2026-04-17</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://vvfrecrute.factorial.fr/apply/employe-de-menage-h-f-280088?utm_source=cookorico.com</url>
-  <applyurl>https://vvfrecrute.factorial.fr/apply/employe-de-menage-h-f-280088?utm_source=cookorico.com</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Lège-Cap-Ferret</city>
-      <zip></zip>
-      <address></address>
-      <countrycode></countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job><job>
   <company>VVF</company>
   <companydescription></companydescription>
   <companyuuid></companyuuid>
@@ -373,7 +275,7 @@ Des déplacements réguliers entre les deux sites étant nécessaires, la déten
 ]]></description>
   <startdate></startdate>
   <enddate></enddate>
-  <createddate>2026-04-07</createddate>
+  <createddate>2026-04-22</createddate>
   <remotestatus></remotestatus>
   <employmenttype></employmenttype>
   <employmentlevel></employmentlevel>
@@ -2261,7 +2163,7 @@ Des déplacements réguliers entre les deux sites étant nécessaires, la déten
 ]]></description>
   <startdate></startdate>
   <enddate></enddate>
-  <createddate>2026-04-07</createddate>
+  <createddate>2026-04-21</createddate>
   <remotestatus></remotestatus>
   <employmenttype></employmenttype>
   <employmentlevel></employmentlevel>
@@ -3504,7 +3406,7 @@ Autonomie indispensable, un bon esprit d’équipe sera fortement apprécié.</p
 ]]></description>
   <startdate></startdate>
   <enddate></enddate>
-  <createddate>2026-04-10</createddate>
+  <createddate>2026-04-22</createddate>
   <remotestatus></remotestatus>
   <employmenttype></employmenttype>
   <employmentlevel></employmentlevel>
@@ -5594,7 +5496,7 @@ Autonomie indispensable, un bon esprit d’équipe sera fortement apprécié.</p
 ]]></description>
   <startdate></startdate>
   <enddate></enddate>
-  <createddate>2026-04-07</createddate>
+  <createddate>2026-04-21</createddate>
   <remotestatus></remotestatus>
   <employmenttype></employmenttype>
   <employmentlevel></employmentlevel>
@@ -6017,7 +5919,7 @@ Autonomie indispensable, un bon esprit d’équipe sera fortement apprécié.</p
 ]]></description>
   <startdate></startdate>
   <enddate></enddate>
-  <createddate>2026-04-07</createddate>
+  <createddate>2026-04-22</createddate>
   <remotestatus></remotestatus>
   <employmenttype></employmenttype>
   <employmentlevel></employmentlevel>
@@ -7372,7 +7274,7 @@ Autonomie indispensable, un bon esprit d’équipe sera fortement apprécié.</p
 ]]></description>
   <startdate></startdate>
   <enddate></enddate>
-  <createddate>2026-04-09</createddate>
+  <createddate>2026-04-21</createddate>
   <remotestatus></remotestatus>
   <employmenttype></employmenttype>
   <employmentlevel></employmentlevel>
@@ -7591,7 +7493,7 @@ Autonomie indispensable, un bon esprit d’équipe sera fortement apprécié.</p
 ]]></description>
   <startdate></startdate>
   <enddate></enddate>
-  <createddate>2026-04-09</createddate>
+  <createddate>2026-04-22</createddate>
   <remotestatus></remotestatus>
   <employmenttype></employmenttype>
   <employmentlevel></employmentlevel>
@@ -8586,111 +8488,6 @@ Autonomie indispensable, un bon esprit d’équipe sera fortement apprécié.</p
     <countrycode></countrycode>
     <region/>
   </headquarters>
-  <referencenumber>15953582</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title>Réceptionniste (H/F)  </title>
-<description><![CDATA[<p>VVF depuis plus de 60 ans, est le premier opérateur touristique familial solidaire et durable en France. Groupe associatif dont les missions contribuent au développement économique et social des territoires en proposant des séjours, des vacances et des loisirs accessibles à tous.</p>
-<p>VVF propose plus de 100 destinations sport, culture et nature, en montagne, moyenne montagne, campagne et littoral dans plus de 60 départements. L’association accueille 450 000 vacanciers par an.</p>
-<p>Elle propose des activités pour les parents et les enfants dans des villages vacances, des gîtes, des campings et des résidences de tourisme.</p>
-<p>VVF c’est aussi 450 salariés permanents et 3000 saisonniers en haute saison.</p>
-<p>Rejoignez-nous !</p>
-<p><strong>Informations générales du poste :</strong></p>
-<ul>
-<li>Dates contrats : Du 2 mai au 31 octobre 2026</li>
-<li>CDD saisonnier</li>
-<li>Rémunération : SMIC mensuel brut</li>
-<li>Logement possible sur place</li>
-<li>35 heures hebdomadaire</li>
-<li>Remboursement des frais de transport</li>
-<li>2 jours de congés par semaine</li>
-<li>Site : <a href="https://www.vvf.fr/villages-vacances/vacances-lege-cap-ferret-vvf-villages.html">https://www.vvf.fr/villages-vacances/vacances-lege-cap-ferret-vvf-villages.html</a></li>
-</ul>
-<p><strong>Sous la responsabilité du ou de la directrice du site (ou du ou de la responsable d'hébergement, selon l'organisation), vous aurez la charge de l'accueil des vacanciers mais aussi du suivi de leur séjour.</strong></p>
-<p><strong>Un rôle clef mêlant relationnel et service client.</strong></p>
-<p><strong>Votre diplomatie et votre sens du relationnel seront des atouts indispensables pour vos missions quotidiennes :</strong></p>
-<ul>
-<li>Assurer l'accueil physique et téléphonique du site</li>
-<li>Gérer les départs et arrivées des vacanciers et assurer le lien entre les services</li>
-<li>Assurer la gestion de la boutique et des prêts de matériel</li>
-<li>Effectuer les encaissements et les clôtures de caisses quotidiennes</li>
-<li>Recevoir et traiter les demandes et réclamations des vacanciers.</li>
-<li>Transmettre les demandes des vacanciers aux services concernées et suivre le bon traitement</li>
-<li>Participer au suivi et accueil des dossiers groupes</li>
-</ul>
-<p><strong>Lien privilégié avec les vacanciers, vous serez garant(e) de leur satisfaction et du suivi de leurs séjours.</strong></p>
-<p><strong>Issu(e) d'une formation dans le tourisme, une première expérience dans ces missions serait un plus pour votre intégration et votre autonomie sur le poste.</strong></p>
-<p><strong>Votre dynamisme et votre esprit d'équipe seront également indispensables pour véhiculer les valeurs de VVF.</strong></p>
-<p><strong>Les « plus » qui peuvent faire la différence :</strong></p>
-<ul>
-<li>Tickets restaurants</li>
-<li>Mutuelle familiale</li>
-<li>Réductions sur vos séjours dans nos villages (dès 8 mois d’ancienneté)</li>
-<li>Des accords sur la parentalité pour accompagner les familles dans leurs projets</li>
-<li>Des accords sur l’équilibre pro/perso et le bien-être au travail</li>
-<li>Des parcours de formation ou de spécialisation accessibles à toutes et tous</li>
-<li>Une association solidaire et engagée</li>
-<li>Beaucoup de projets porteurs de sens qui n’attendent que vous</li>
-</ul>
-<p><strong>Le processus de recrutement :</strong></p>
-<p>Un entretien est prévu avec le ou la directrice du site. Prévoyez 1h.</p>
-<p><strong>Et si vous êtes sensibles aux valeurs de VVF, n’hésitez plus et rejoignez notre équipe !</strong></p>
-<p><strong><em>« À compétences égales, une attention particulière sera apportée aux personnes en situation de handicap</em></strong> <em>»</em></p>
-
-]]></description>
-  <startdate></startdate>
-  <enddate></enddate>
-  <createddate>2026-04-15</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype></employmenttype>
-  <employmentlevel></employmentlevel>
-  <url>https://vvfrecrute.factorial.fr/apply/receptionniste-h-f-294847?utm_source=cookorico.com</url>
-  <applyurl>https://vvfrecrute.factorial.fr/apply/receptionniste-h-f-294847?utm_source=cookorico.com</applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city>Lège-Cap-Ferret</city>
-      <zip></zip>
-      <address></address>
-      <countrycode></countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min></min>
-    <max></max>
-    <currency></currency>
-    <timeunit></timeunit>
-  </salary>
-</job><job>
-  <company>VVF</company>
-  <companydescription></companydescription>
-  <companyuuid></companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
   <referencenumber>15969919</referencenumber>
   <jobboardid>cookorico</jobboardid>
   <title>Responsable d'hébergement (H/F)</title>
@@ -8754,7 +8551,7 @@ Autonomie indispensable, un bon esprit d’équipe sera fortement apprécié.</p
 ]]></description>
   <startdate></startdate>
   <enddate></enddate>
-  <createddate></createddate>
+  <createddate>2026-04-21</createddate>
   <remotestatus></remotestatus>
   <employmenttype></employmenttype>
   <employmentlevel></employmentlevel>
@@ -8960,7 +8757,7 @@ Autonomie indispensable, un bon esprit d’équipe sera fortement apprécié.</p
 ]]></description>
   <startdate></startdate>
   <enddate></enddate>
-  <createddate></createddate>
+  <createddate>2026-04-21</createddate>
   <remotestatus></remotestatus>
   <employmenttype></employmenttype>
   <employmentlevel></employmentlevel>
@@ -10091,7 +9888,7 @@ Autonomie indispensable, un bon esprit d’équipe sera fortement apprécié.</p
 ]]></description>
   <startdate></startdate>
   <enddate></enddate>
-  <createddate></createddate>
+  <createddate>2026-04-21</createddate>
   <remotestatus></remotestatus>
   <employmenttype></employmenttype>
   <employmentlevel></employmentlevel>
@@ -13388,6 +13185,1070 @@ Autonomie indispensable, un bon esprit d’équipe sera fortement apprécié.</p
     <location>
       <country>France</country>
       <city>Obernai</city>
+      <zip></zip>
+      <address></address>
+      <countrycode></countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job><job>
+  <company>VVF</company>
+  <companydescription></companydescription>
+  <companyuuid></companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>16046358</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Animateur adulte (H/F)  </title>
+<description><![CDATA[<p>VVF depuis plus de 60 ans, est le premier opérateur touristique familial solidaire et durable en France. Groupe associatif dont les missions contribuent au développement économique et social des territoires en proposant des séjours, des vacances et des loisirs accessibles à tous.</p>
+<p>VVF propose plus de 100 destinations sport, culture et nature, en montagne, moyenne montagne, campagne et littoral dans plus de 60 départements. L’association accueille 450 000 vacanciers par an.</p>
+<p>Elle propose des activités pour les parents et les enfants dans des villages vacances, des gîtes, des campings et des résidences de tourisme.</p>
+<p>VVF c’est aussi 450 salariés permanents et 3000 saisonniers en haute saison.</p>
+<p>Rejoignez-nous !</p>
+<p><strong>Informations générales du poste :</strong></p>
+<ul>
+<li>Dates : du 01/07/2026 au 29/08/2026</li>
+<li>Rémunération : 1823.03€ brut mensuel</li>
+<li>35 heures par semaine</li>
+<li>Logement possible sur place</li>
+<li>2 jours de congés par semaine</li>
+<li>Site : <a href="https://www.vvf.fr/destination/hiver/piau-engaly?startDate=&#x26;endDate=&#x26;adult=2&#x26;children=0&#x26;baby=0&#x26;animal=0">https://www.vvf.fr/destination/hiver/piau-engaly?startDate=&#x26;endDate=&#x26;adult=2&#x26;children=0&#x26;baby=0&#x26;animal=0</a></li>
+</ul>
+<p><strong>Sous la responsabilité du directeur du site et au sein d’une équipe dédiée à l’encadrement des vacanciers, vous accompagnerez les vacanciers et mettrez en place les activités et animations selon le planning prévu.</strong></p>
+<p><strong>Vous participerez également à l'animation de fin de journée et de soirées avec l'équipe d'animation.</strong></p>
+<p><strong>Votre esprit d’équipe et votre relationnel seront des atouts essentiels dans les missions suivantes :</strong></p>
+<ul>
+<li>Préparer l’espace d’accueil selon le public accueilli (disposition, affichage, rangement)</li>
+<li>Elaborer et proposer un programme d’activités variées et adapté selon la clientèle enfants ou adultes</li>
+<li>Animer les activités proposées</li>
+<li>Participer aux réunions de préparation et d’accueil des vacanciers</li>
+<li>Faire preuve de créativité ,d'adaptabilité et d’autonomie</li>
+<li>Avoir un très bon contact client</li>
+</ul>
+<p><strong>Vous serez le lien privilégié entre les parents et les enfants. A ce titre, votre exemplarité sur le village est indispensable. Vous communiquez l’image de VVF au travers de vos missions.</strong></p>
+<p><strong>Muni du BAFA/BPJEPS/ALT ou tout autre diplôme lié à l'animation, votre envie et votre dynamisme sont des qualités essentielles pour faire passer de belles vacances aux enfants.</strong></p>
+<p><strong>Vous pourrez également intervenir au bar selon les besoins, pour assurer le service et l’accueil des vacanciers.</strong></p>
+<p><strong>Animé (e) par le sens du service, vos missions seront les suivantes :</strong></p>
+<ul>
+<li>Créer de nouveaux cocktails</li>
+<li>Proposer et créer des thématiques de soirée en collaboration avec le service animation</li>
+<li>Nettoyer et préparer la salle et les tables</li>
+<li>Assurer la plonge</li>
+<li>Définir le cocktail du jour en adéquation avec le thème ou l’animation</li>
+<li>Appliquer les règles HACCP</li>
+</ul>
+<p><strong>Les « plus » qui peuvent faire la différence :</strong></p>
+<ul>
+<li>Tickets restaurants</li>
+<li>Mutuelle familiale</li>
+<li>Réductions sur vos séjours dans nos villages (dès 8 mois d’ancienneté)</li>
+<li>Des accords sur la parentalité pour accompagner les familles dans leurs projets</li>
+<li>Des accords sur l’équilibre pro/perso et le bien-être au travail</li>
+<li>Des parcours de formation ou de spécialisation accessibles à toutes et tous</li>
+<li>Une association solidaire et engagée</li>
+<li>Beaucoup de projets porteurs de sens qui n’attendent que vous</li>
+</ul>
+<p><strong>Le processus de recrutement :</strong></p>
+<ul>
+<li>Un entretien est prévu avec le ou la directrice du site. Prévoyez 1h.</li>
+</ul>
+<p><strong>Et si vous êtes sensibles aux valeurs de VVF, n’hésitez plus et rejoignez notre équipe !</strong></p>
+<p><strong><em>« À compétences égales, une attention particulière sera apportée aux personnes en situation de handicap</em></strong> <em>»</em></p>
+
+]]></description>
+  <startdate></startdate>
+  <enddate></enddate>
+  <createddate></createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://vvfrecrute.factorial.fr/apply/animateur-adulte-h-f-297891?utm_source=cookorico.com</url>
+  <applyurl>https://vvfrecrute.factorial.fr/apply/animateur-adulte-h-f-297891?utm_source=cookorico.com</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Aragnouet</city>
+      <zip></zip>
+      <address></address>
+      <countrycode></countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job><job>
+  <company>VVF</company>
+  <companydescription></companydescription>
+  <companyuuid></companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>16046362</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Animateur enfants (H/F) </title>
+<description><![CDATA[<p>VVF depuis plus de 60 ans, est le premier opérateur touristique familial solidaire et durable en France. Groupe associatif dont les missions contribuent au développement économique et social des territoires en proposant des séjours, des vacances et des loisirs accessibles à tous.</p>
+<p>VVF propose plus de 100 destinations sport, culture et nature, en montagne, moyenne montagne, campagne et littoral dans plus de 60 départements. L’association accueille 450 000 vacanciers par an.</p>
+<p>Elle propose des activités pour les parents et les enfants dans des villages vacances, des gîtes, des campings et des résidences de tourisme.</p>
+<p>VVF c’est aussi 450 salariés permanents et 3000 saisonniers en haute saison.</p>
+<p>Rejoignez-nous !</p>
+<p><strong>Informations générales du poste :</strong></p>
+<ul>
+<li>Dates : 01/07/2026 au 29/08/2026</li>
+<li>Rémunération : 1823.03€ Brut Mensuel</li>
+<li>35 heures par semaine</li>
+<li>2 jours de congés par semaine</li>
+<li>Site : <a href="https://www.vvf.fr/destination/hiver/piau-engaly?startDate=&#x26;endDate=&#x26;adult=2&#x26;children=0&#x26;baby=0&#x26;animal=0">https://www.vvf.fr/destination/hiver/piau-engaly?startDate=&#x26;endDate=&#x26;adult=2&#x26;children=0&#x26;baby=0&#x26;animal=0</a></li>
+</ul>
+<p><strong>Sous la responsabilité du responsable d’animation et au sein d’une équipe dédiée à l’encadrement de groupes d'enfants, vous accompagnerez un groupe et mettrez en place les activités et animations selon le planning prévu. Les clubs enfants sont découpés par tranches d’âges spécifique (3/6 ans, 7/10 ans, 11/14 ans, 15/17 ans) selon les effectifs inscrits.</strong></p>
+<p><strong>Votre esprit d’équipe et votre relationnel seront des atouts essentiels dans les missions suivantes :</strong></p>
+<ul>
+<li>Préparer l’espace d’accueil selon le public accueilli (disposition, affichage, rangement)</li>
+<li>Elaborer et proposer un programme d’activités variées et adapté à l’âge des enfants</li>
+<li>Animer les activités proposées</li>
+<li>Prendre en charge les repas/pique-niques lors des journées continues</li>
+<li>Participer aux réunions de préparation et d’accueil des vacanciers</li>
+</ul>
+<p><strong>Vous serez le lien privilégié entre les parents et les enfants. A ce titre, votre exemplarité sur le village est indispensable. Vous communiquez l’image de VVF au travers de vos missions.</strong></p>
+<p><strong>Muni du BAFA/BPJEPS/ALT ou tout autre diplôme lié à l'animation, votre envie et votre dynamisme sont des qualités essentielles pour faire passer de belles vacances aux enfants.</strong></p>
+<p><strong>Les "plus" qui peuvent faire la différence :</strong></p>
+<ul>
+<li>Hébergement et alimentation sur place selon les sites (selon barème)</li>
+<li>Mutuelle familiale</li>
+<li>CSE (dès 8 mois d’ancienneté sur une ou deux saisons consécutives)</li>
+<li>13ème mois (dès 8 mois d’ancienneté sur une ou deux saisons consécutives)</li>
+<li>Des accords sur la parentalité pour accompagner les parents dans leurs projets</li>
+<li>Des parcours de formation accessibles à toutes et tous</li>
+<li>Un état d’esprit solidaire et engagé</li>
+<li>Beaucoup de projets porteurs de sens qui n’attendent que vous</li>
+</ul>
+<p><strong>Le processus de recrutement :</strong></p>
+<ul>
+<li>Un entretien est prévu avec le responsable animation du site. Prévoyez 1h.</li>
+</ul>
+<p><strong>Et si vous êtes sensibles aux valeurs de VVF, n’hésitez plus et rejoignez notre équipe !</strong></p>
+<p><strong><em>« À compétences égales, une attention particulière sera apportée aux personnes en situation de handicap</em></strong> <em>»</em></p>
+
+]]></description>
+  <startdate></startdate>
+  <enddate></enddate>
+  <createddate></createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://vvfrecrute.factorial.fr/apply/animateur-enfants-h-f-297896?utm_source=cookorico.com</url>
+  <applyurl>https://vvfrecrute.factorial.fr/apply/animateur-enfants-h-f-297896?utm_source=cookorico.com</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Aragnouet</city>
+      <zip></zip>
+      <address></address>
+      <countrycode></countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job><job>
+  <company>VVF</company>
+  <companydescription></companydescription>
+  <companyuuid></companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>16046368</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Responsable d'hébergement (H/F)</title>
+<description><![CDATA[<p>VVF depuis plus de 60 ans, est le premier opérateur touristique familial solidaire et durable en France. Groupe associatif dont les missions contribuent au développement économique et social des territoires en proposant des séjours, des vacances et des loisirs accessibles à tous.</p>
+<p>VVF propose plus de 100 destinations sport, culture et nature, en montagne, moyenne montagne, campagne et littoral dans plus de 60 départements. L’association accueille 450 000 vacanciers par an.</p>
+<p>Elle propose des activités pour les parents et les enfants dans des villages vacances, des gîtes, des campings et des résidences de tourisme.</p>
+<p>VVF c’est aussi 450 salariés permanents et 3000 saisonniers en haute saison.</p>
+<p>Rejoignez-nous !</p>
+<p><strong>Informations générales du poste :</strong></p>
+<ul>
+<li>Dates contrats : 24/06/2026 au 29/08/2026</li>
+<li>CDD saisonnier</li>
+<li>Rémunération : 1973.08 € Brut Mensuel</li>
+<li>Logement possible sur place</li>
+<li>35 heures hebdomadaire</li>
+<li>2 jours de congés par semaine</li>
+<li>Site : <a href="https://www.vvf.fr/destination/hiver/piau-engaly?startDate=&#x26;endDate=&#x26;adult=2&#x26;children=0&#x26;baby=0&#x26;animal=0">https://www.vvf.fr/destination/hiver/piau-engaly?startDate=&#x26;endDate=&#x26;adult=2&#x26;children=0&#x26;baby=0&#x26;animal=0</a></li>
+</ul>
+<p><strong>Sous la responsabilité du ou de la directrice de village, vous assurerez la gestion et la coordination des missions d’accueil et d’hébergement. La qualité des prestations proposées aux vacanciers dépend de votre accompagnement et suivi des équipes.</strong></p>
+<p><strong>Votre polyvalence et vos qualités relationnelles vous aideront dans vos missions. Les missions liées à l’accueil sont les suivantes :</strong></p>
+<ul>
+<li>Assurer l’accueil physique et téléphonique mais aussi l’affichage global du village</li>
+<li>Coordonner les arrivées et départ des vacanciers</li>
+<li>Gérer les encaissements et la tenue des caisses</li>
+<li>Gérer les inscriptions aux prestations et le suivi des prêts de matériel</li>
+<li>Effectuer les réunions d’accueil et garantir le bon déroulement des séjours</li>
+<li>Assurer le lien entre les différents services et équipes (restauration, animation…) notamment les inscriptions et modifications</li>
+<li>Suivre les dysfonctionnements et réclamations en vue de la résolution</li>
+<li>Assurer le suivi et la gestion des stocks</li>
+<li>Développer les produits liés aux thématiques du village (partenariat, prestation)</li>
+</ul>
+<p><strong>Les missions d’hébergement sont à prévoir et solliciteront vos qualités de rigueur et d’organisation :</strong></p>
+<ul>
+<li>Garantir l’attribution des hébergements</li>
+<li>Suivre les dossiers et veiller au bon état des hébergements : patrimoine, propreté…</li>
+<li>Coordonner les équipes ménages</li>
+<li>Suivre et organiser les états de lieux</li>
+<li>Effectuer le suivi de la blanchisserie et des nettoyages literie</li>
+</ul>
+<p><strong>Des missions liées au suivi clients (soldes, attestations, ventes) nécessiteront une formation, à notre logiciel interne, effectuée par le ou la directrice du site.</strong></p>
+<p><strong>Vous effectuerez également le suivi de la boutique et la promotion des activités liées.</strong></p>
+<p><strong>Issu(e) d’une formation dans le tourisme (hospitality, RET...), vous avez déjà pratiqué ces missions avec succès. Votre expérience vous permettra d’être pleinement opérationnel(le) et force de proposition.</strong></p>
+<p><strong>Une grande agilité et de l’initiative seront des atouts importants dans vos missions afin d'être autonome auprès des différents publics accompagnés.</strong></p>
+<p><strong>Votre exemplarité et votre esprit d'équipe seront également attendu afin de véhiculer les valeurs de VVF.</strong></p>
+<p><strong>Les « plus » qui peuvent faire la différence :</strong></p>
+<ul>
+<li>Tickets restaurants</li>
+<li>Mutuelle familiale</li>
+<li>Réductions sur vos séjours dans nos villages (dès 8 mois d’ancienneté)</li>
+<li>Des accords sur la parentalité pour accompagner les familles dans leurs projets</li>
+<li>Des accords sur l’équilibre pro/perso et le bien-être au travail</li>
+<li>Des parcours de formation ou de spécialisation accessibles à toutes et tous</li>
+<li>Une association solidaire et engagée</li>
+<li>Beaucoup de projets porteurs de sens qui n’attendent que vous</li>
+</ul>
+<p><strong>Le processus de recrutement :</strong></p>
+<p>Un entretien est prévu avec le ou la directrice du site. Prévoyez 1h.</p>
+<p><strong>Et si vous êtes sensibles aux valeurs de VVF, n’hésitez plus et rejoignez notre équipe !</strong></p>
+<p><strong><em>« À compétences égales, une attention particulière sera apportée aux personnes en situation de handicap</em></strong> <em>»</em></p>
+
+]]></description>
+  <startdate></startdate>
+  <enddate></enddate>
+  <createddate></createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://vvfrecrute.factorial.fr/apply/responsable-d-hebergement-h-f-297901?utm_source=cookorico.com</url>
+  <applyurl>https://vvfrecrute.factorial.fr/apply/responsable-d-hebergement-h-f-297901?utm_source=cookorico.com</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Aragnouet</city>
+      <zip></zip>
+      <address></address>
+      <countrycode></countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job><job>
+  <company>VVF</company>
+  <companydescription></companydescription>
+  <companyuuid></companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>16046376</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Réceptionniste (H/F) </title>
+<description><![CDATA[<p>VVF depuis plus de 60 ans, est le premier opérateur touristique familial solidaire et durable en France. Groupe associatif dont les missions contribuent au développement économique et social des territoires en proposant des séjours, des vacances et des loisirs accessibles à tous.</p>
+<p>VVF propose plus de 100 destinations sport, culture et nature, en montagne, moyenne montagne, campagne et littoral dans plus de 60 départements. L’association accueille 450 000 vacanciers par an.</p>
+<p>Elle propose des activités pour les parents et les enfants dans des villages vacances, des gîtes, des campings et des résidences de tourisme.</p>
+<p>VVF c’est aussi 450 salariés permanents et 3000 saisonniers en haute saison.</p>
+<p>Rejoignez-nous !</p>
+<p><strong>Informations générales du poste :</strong></p>
+<ul>
+<li>Dates contrats : 02/07/2026 au 29/08/2026</li>
+<li>CDD saisonnier</li>
+<li>Rémunération : 1823.03€ Brut Mensuel</li>
+<li>Logement possible sur place</li>
+<li>35 heures hebdomadaire</li>
+<li>2 jours de congés par semaine</li>
+<li>Site : <a href="https://www.vvf.fr/destination/hiver/piau-engaly?startDate=&#x26;endDate=&#x26;adult=2&#x26;children=0&#x26;baby=0&#x26;animal=0">https://www.vvf.fr/destination/hiver/piau-engaly?startDate=&#x26;endDate=&#x26;adult=2&#x26;children=0&#x26;baby=0&#x26;animal=0</a></li>
+</ul>
+<p><strong>Sous la responsabilité du ou de la directrice du site (ou du ou de la responsable d'hébergement, selon l'organisation), vous aurez la charge de l'accueil des vacanciers mais aussi du suivi de leur séjour.</strong></p>
+<p><strong>Un rôle clef mêlant relationnel et service client.</strong></p>
+<p><strong>Votre diplomatie et votre sens du relationnel seront des atouts indispensables pour vos missions quotidiennes :</strong></p>
+<ul>
+<li>Assurer l'accueil physique et téléphonique du site</li>
+<li>Gérer les départs et arrivées des vacanciers et assurer le lien entre les services</li>
+<li>Assurer la gestion de la boutique et des prêts de matériel</li>
+<li>Effectuer les encaissements et les clôtures de caisses quotidiennes</li>
+<li>Recevoir et traiter les demandes et réclamations des vacanciers.</li>
+<li>Transmettre les demandes des vacanciers aux services concernées et suivre le bon traitement</li>
+<li>Participer au suivi et accueil des dossiers groupes</li>
+</ul>
+<p><strong>Lien privilégié avec les vacanciers, vous serez garant(e) de leur satisfaction et du suivi de leurs séjours.</strong></p>
+<p><strong>Issu(e) d'une formation dans le tourisme, une première expérience dans ces missions serait un plus pour votre intégration et votre autonomie sur le poste.</strong></p>
+<p><strong>Votre dynamisme et votre esprit d'équipe seront également indispensables pour véhiculer les valeurs de VVF.</strong></p>
+<p><strong>Les « plus » qui peuvent faire la différence :</strong></p>
+<ul>
+<li>Tickets restaurants</li>
+<li>Mutuelle familiale</li>
+<li>Réductions sur vos séjours dans nos villages (dès 8 mois d’ancienneté)</li>
+<li>Des accords sur la parentalité pour accompagner les familles dans leurs projets</li>
+<li>Des accords sur l’équilibre pro/perso et le bien-être au travail</li>
+<li>Des parcours de formation ou de spécialisation accessibles à toutes et tous</li>
+<li>Une association solidaire et engagée</li>
+<li>Beaucoup de projets porteurs de sens qui n’attendent que vous</li>
+</ul>
+<p><strong>Le processus de recrutement :</strong></p>
+<p>Un entretien est prévu avec le ou la directrice du site. Prévoyez 1h.</p>
+<p><strong>Et si vous êtes sensibles aux valeurs de VVF, n’hésitez plus et rejoignez notre équipe !</strong></p>
+<p><strong><em>« À compétences égales, une attention particulière sera apportée aux personnes en situation de handicap</em></strong> <em>»</em></p>
+
+]]></description>
+  <startdate></startdate>
+  <enddate></enddate>
+  <createddate></createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://vvfrecrute.factorial.fr/apply/receptionniste-h-f-297903?utm_source=cookorico.com</url>
+  <applyurl>https://vvfrecrute.factorial.fr/apply/receptionniste-h-f-297903?utm_source=cookorico.com</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Aragnouet</city>
+      <zip></zip>
+      <address></address>
+      <countrycode></countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job><job>
+  <company>VVF</company>
+  <companydescription></companydescription>
+  <companyuuid></companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>16046638</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Employé de ménage (H/F) </title>
+<description><![CDATA[<p>VVF depuis plus de 60 ans, est le premier opérateur touristique familial solidaire et durable en France. Groupe associatif dont les missions contribuent au développement économique et social des territoires en proposant des séjours, des vacances et des loisirs accessibles à tous.</p>
+<p>VVF propose plus de 100 destinations sport, culture et nature, en montagne, moyenne montagne, campagne et littoral dans plus de 60 départements. L’association accueille 450 000 vacanciers par an.</p>
+<p>Elle propose des activités pour les parents et les enfants dans des villages vacances, des gîtes, des campings et des résidences de tourisme.</p>
+<p>VVF c’est aussi 450 salariés permanents et 3000 saisonniers en haute saison.</p>
+<p>Rejoignez-nous !</p>
+<p><strong>Informations générales du poste :</strong></p>
+<ul>
+<li>Dates contrats : 17/06/2026 au 29/08/2026</li>
+<li>CDD saisonnier</li>
+<li>Rémunération : SMIC mensuel brut</li>
+<li>Logement possible sur place</li>
+<li>35 heures hebdomadaire</li>
+<li>2 jours de congés par semaine</li>
+<li>Site : <a href="https://www.vvf.fr/destination/hiver/piau-engaly?startDate=&#x26;endDate=&#x26;adult=2&#x26;children=0&#x26;baby=0&#x26;animal=0">https://www.vvf.fr/destination/hiver/piau-engaly?startDate=&#x26;endDate=&#x26;adult=2&#x26;children=0&#x26;baby=0&#x26;animal=0</a></li>
+</ul>
+<p><strong>Sous la responsabilité du directeur ou de la directrice du VVF, ou du responsable d’hébergement, vous assurerez la prestation ménage :</strong></p>
+<ul>
+<li>Effectuer la désinfection, le nettoyage et le rangement des logements, chambres et/ou lieux communs ;</li>
+<li>Préparer les logements et les chambres à l'arrivée des nouveaux clients (en fonction des prestations définies) ;</li>
+<li>Retirer le linge des logements et le préparer pour la prise en charge par la blanchisserie ;</li>
+<li>Nettoyer certains linges et écarter les linges abîmés, tâchés ou non conformes ;</li>
+</ul>
+<p><strong>Dans le respect du référentiel métier et des normes de sécurités et d'hygiène, vous êtes un rouage essentiel de la satisfaction des vacanciers.</strong></p>
+<p><strong>Votre réactivité, votre autonomie et votre sens du service seront sollicités au quotidien.</strong></p>
+<p><strong>Les « plus » qui peuvent faire la différence :</strong></p>
+<ul>
+<li>Tickets restaurants</li>
+<li>Mutuelle familiale</li>
+<li>Réductions sur vos séjours dans nos villages (dès 8 mois d’ancienneté)</li>
+<li>Des accords sur la parentalité pour accompagner les familles dans leurs projets</li>
+<li>Des accords sur l’équilibre pro/perso et le bien-être au travail</li>
+<li>Des parcours de formation ou de spécialisation accessibles à toutes et tous</li>
+<li>Une association solidaire et engagée</li>
+<li>Beaucoup de projets porteurs de sens qui n’attendent que vous</li>
+</ul>
+<p><strong>Le processus de recrutement :</strong></p>
+<p>Un entretien est prévu avec le ou la directrice du site. Prévoyez 1h.</p>
+<p><strong>Et si vous êtes sensibles aux valeurs de VVF, n’hésitez plus et rejoignez notre équipe !</strong></p>
+<p><strong><em>À compétences égales, une attention particulière sera apportée aux personnes en situation de handicap</em></strong> <em>»</em></p>
+
+]]></description>
+  <startdate></startdate>
+  <enddate></enddate>
+  <createddate></createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://vvfrecrute.factorial.fr/apply/employe-de-menage-h-f-297904?utm_source=cookorico.com</url>
+  <applyurl>https://vvfrecrute.factorial.fr/apply/employe-de-menage-h-f-297904?utm_source=cookorico.com</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Aragnouet</city>
+      <zip></zip>
+      <address></address>
+      <countrycode></countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job><job>
+  <company>VVF</company>
+  <companydescription></companydescription>
+  <companyuuid></companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>16046668</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Chef de cuisine (H/F)</title>
+<description><![CDATA[<p>VVF depuis plus de 60 ans, est le premier opérateur touristique familial solidaire et durable en France. Groupe associatif dont les missions contribuent au développement économique et social des territoires en proposant des séjours, des vacances et des loisirs accessibles à tous.</p>
+<p>VVF propose plus de 100 destinations sport, culture et nature, en montagne, moyenne montagne, campagne et littoral dans plus de 60 départements. L’association accueille 450 000 vacanciers par an.</p>
+<p>Elle propose des activités pour les parents et les enfants dans des villages vacances, des gîtes, des campings et des résidences de tourisme.</p>
+<p>VVF c’est aussi 450 salariés permanents et 3000 saisonniers en haute saison.</p>
+<p>Rejoignez-nous !</p>
+<p><strong>Informations générales du poste :</strong></p>
+<ul>
+<li>Dates contrats : 29/06/2026 au 29/08/2026</li>
+<li>CDD saisonnier</li>
+<li>Rémunération : 1973.08 € Brut Mensuel</li>
+<li>Logement possible sur place</li>
+<li>35 heures hebdomadaire</li>
+<li>2 jours de congés par semaine</li>
+<li>Site : <a href="https://www.vvf.fr/destination/hiver/piau-engaly?startDate=&#x26;endDate=&#x26;adult=2&#x26;children=0&#x26;baby=0&#x26;animal=0">https://www.vvf.fr/destination/hiver/piau-engaly?startDate=&#x26;endDate=&#x26;adult=2&#x26;children=0&#x26;baby=0&#x26;animal=0</a></li>
+</ul>
+<p><strong>Sous la responsabilité du ou de la directrice de site, le ou la cheffe de cuisine est le ou la garante de la satisfaction client concernant l’alimentation. Vous managerez votre brigade (second et commis) tout en assurant les missions confiées.</strong></p>
+<p><strong>Votre aptitude à gérer le référentiel VVF est essentiel dans les missions suivantes :</strong></p>
+<ul>
+<li>Élaborer les menus (entrées, desserts, plats chauds et dressage) ;</li>
+<li>Superviser le rangement de l’environnement de travail et le nettoyage de celui-ci ;</li>
+<li>Appliquer les normes d’hygiène et de sécurité HACCP ;</li>
+<li>Respecter les fiches techniques et le cadre VVF ;</li>
+<li>Entretenir les locaux et le matériel fourni ;</li>
+<li>Effectuer les commandes de marchandises ;</li>
+<li>Surveiller températures des chambres froides et des aliments lors des livraisons.</li>
+</ul>
+<p><strong>Vous êtes issu d’une formation en cuisine type CAP ou BEP et vous possédez de l’expérience sur le même type de poste afin de maitriser tous les aspects techniques du référentiel.</strong></p>
+<p><strong>Vos missions nécessitent un relationnel fort et une attitude exemplaire auprès de l’équipe et des vacanciers. Votre leadership et votre esprit d’équipe seront essentiels au quotidien.</strong></p>
+<p><strong>Vous devez posséder obligatoirement :</strong></p>
+<ul>
+<li>Connaissance des normes HACCP (formation possible) ;</li>
+<li>Utilisation des appareils selon les normes de sécurité.</li>
+</ul>
+<p><strong>Les « plus » qui peuvent faire la différence :</strong></p>
+<ul>
+<li>Tickets restaurants</li>
+<li>Mutuelle familiale</li>
+<li>Réductions sur vos séjours dans nos villages (dès 8 mois d’ancienneté)</li>
+<li>Des accords sur la parentalité pour accompagner les familles dans leurs projets</li>
+<li>Des accords sur l’équilibre pro/perso et le bien-être au travail</li>
+<li>Des parcours de formation ou de spécialisation accessibles à toutes et tous</li>
+<li>Une association solidaire et engagée</li>
+<li>Beaucoup de projets porteurs de sens qui n’attendent que vous</li>
+</ul>
+<p><strong>Le processus de recrutement :</strong></p>
+<p>Un entretien est prévu avec le ou la directrice du site. Prévoyez 1h.</p>
+<p><strong>Et si vous êtes sensibles aux valeurs de VVF, n’hésitez plus et rejoignez notre équipe !</strong></p>
+<p><strong><em>« À compétences égales, une attention particulière sera apportée aux personnes en situation de handicap</em></strong> <em>»</em></p>
+
+]]></description>
+  <startdate></startdate>
+  <enddate></enddate>
+  <createddate></createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://vvfrecrute.factorial.fr/apply/chef-de-cuisine-h-f-297907?utm_source=cookorico.com</url>
+  <applyurl>https://vvfrecrute.factorial.fr/apply/chef-de-cuisine-h-f-297907?utm_source=cookorico.com</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Aragnouet</city>
+      <zip></zip>
+      <address></address>
+      <countrycode></countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job><job>
+  <company>VVF</company>
+  <companydescription></companydescription>
+  <companyuuid></companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>16046673</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Second de cuisine (H/F) </title>
+<description><![CDATA[<p>VVF depuis plus de 60 ans, est le premier opérateur touristique familial solidaire et durable en France. Groupe associatif dont les missions contribuent au développement économique et social des territoires en proposant des séjours, des vacances et des loisirs accessibles à tous.</p>
+<p>VVF propose plus de 100 destinations sport, culture et nature, en montagne, moyenne montagne, campagne et littoral dans plus de 60 départements. L’association accueille 450 000 vacanciers par an.</p>
+<p>Elle propose des activités pour les parents et les enfants dans des villages vacances, des gîtes, des campings et des résidences de tourisme.</p>
+<p>VVF c’est aussi 450 salariés permanents et 3000 saisonniers en haute saison.</p>
+<p>Rejoignez-nous !</p>
+<p><strong>Informations générales du poste :</strong></p>
+<ul>
+<li>Dates contrats : 01/07/2026 au 29/08/2026</li>
+<li>CDD saisonnier</li>
+<li>Rémunération : 1869.26€ Brut Mensuel</li>
+<li>Logement possible sur place</li>
+<li>35 heures hebdomadaire</li>
+<li>2 jours de congés par semaine</li>
+<li>Site : <a href="https://www.vvf.fr/destination/hiver/piau-engaly?startDate=&#x26;endDate=&#x26;adult=2&#x26;children=0&#x26;baby=0&#x26;animal=0">https://www.vvf.fr/destination/hiver/piau-engaly?startDate=&#x26;endDate=&#x26;adult=2&#x26;children=0&#x26;baby=0&#x26;animal=0</a></li>
+</ul>
+<p><strong>Sous la responsabilité du ou de la cheffe de cuisine, le ou la seconde de cuisine élaborera les repas et les menus.</strong></p>
+<p><strong>Au sein de la brigade, vous serez amené(e) à prendre le relais du chef de cuisine en son absence.</strong></p>
+<p><strong>Force de proposition avec un grand sens de l'exemplarité, vos missions seront les suivantes :</strong></p>
+<ul>
+<li>Assurer la préparation des plats</li>
+<li>Dresser et mettre en place les buffets si besoin</li>
+<li>Garantir la propreté de la cuisine et du matériel mis à disposition</li>
+<li>Veiller au respect des normes d’hygiène et de sécurité HACCP</li>
+<li>Respecter les fiches techniques et le cadre VVF</li>
+<li>Contrôler, si besoin, l’adéquation entre les commandes et les besoins</li>
+<li>Remplacer le chef de cuisine en son absence</li>
+</ul>
+<p><strong>Vos missions nécessitent une posture et une attitude exemplaires auprès de l’équipe et des vacanciers.</strong></p>
+<p><strong>Vous êtes issu d’une formation en cuisine type CAP ou BEP et vous possédez un vécu similaire sur les mêmes missions.</strong></p>
+<p><strong>Votre esprit d'équipe et votre sens de l'initiative seront également valorisés afin de véhiculer les valeurs de VVF et de respecter le référentiel restauration.</strong></p>
+<p><strong>La connaissance des normes HACCP est nécessaire pour le poste.</strong></p>
+<p><strong>Les « plus » qui peuvent faire la différence :</strong></p>
+<ul>
+<li>Tickets restaurants</li>
+<li>Mutuelle familiale</li>
+<li>Réductions sur vos séjours dans nos villages (dès 8 mois d’ancienneté)</li>
+<li>Des accords sur la parentalité pour accompagner les familles dans leurs projets</li>
+<li>Des accords sur l’équilibre pro/perso et le bien-être au travail</li>
+<li>Des parcours de formation ou de spécialisation accessibles à toutes et tous</li>
+<li>Une association solidaire et engagée</li>
+<li>Beaucoup de projets porteurs de sens qui n’attendent que vous</li>
+</ul>
+<p><strong>Le processus de recrutement :</strong></p>
+<p>Un entretien est prévu avec le ou la directrice du site. Prévoyez 1h.</p>
+<p><strong>Et si vous êtes sensibles aux valeurs de VVF, n’hésitez plus et rejoignez notre équipe !</strong></p>
+<p><strong><em>« À compétences égales, une attention particulière sera apportée aux personnes en situation de handicap</em></strong> <em>»</em></p>
+
+]]></description>
+  <startdate></startdate>
+  <enddate></enddate>
+  <createddate></createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://vvfrecrute.factorial.fr/apply/second-de-cuisine-h-f-297910?utm_source=cookorico.com</url>
+  <applyurl>https://vvfrecrute.factorial.fr/apply/second-de-cuisine-h-f-297910?utm_source=cookorico.com</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Aragnouet</city>
+      <zip></zip>
+      <address></address>
+      <countrycode></countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job><job>
+  <company>VVF</company>
+  <companydescription></companydescription>
+  <companyuuid></companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>16046678</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Barman (H/F) </title>
+<description><![CDATA[<p>VVF depuis plus de 60 ans, est le premier opérateur touristique familial solidaire et durable en France. Groupe associatif dont les missions contribuent au développement économique et social des territoires en proposant des séjours, des vacances et des loisirs accessibles à tous.</p>
+<p>VVF propose plus de 100 destinations sport, culture et nature, en montagne, moyenne montagne, campagne et littoral dans plus de 60 départements. L’association accueille 450 000 vacanciers par an.</p>
+<p>Elle propose des activités pour les parents et les enfants dans des villages vacances, des gîtes, des campings et des résidences de tourisme.</p>
+<p>VVF c’est aussi 450 salariés permanents et 3000 saisonniers en haute saison.</p>
+<p>Rejoignez-nous !</p>
+<p><strong>Informations générales du poste :</strong></p>
+<ul>
+<li>Dates contrats : 02/07/2026 au 29/08/2026</li>
+<li>CDD saisonnier</li>
+<li>Rémunération : SMIC mensuel brut</li>
+<li>Logement possible sur place</li>
+<li>35 heures hebdomadaire</li>
+<li>2 jours de congés par semaine</li>
+<li>Site : <a href="https://www.vvf.fr/destination/hiver/piau-engaly?startDate=&#x26;endDate=&#x26;adult=2&#x26;children=0&#x26;baby=0&#x26;animal=0">https://www.vvf.fr/destination/hiver/piau-engaly?startDate=&#x26;endDate=&#x26;adult=2&#x26;children=0&#x26;baby=0&#x26;animal=0</a></li>
+</ul>
+<p><strong>En lien avec l'équipe restauration et sous la responsabilité du responsable restauration ou bien directement du ou de la directrice du site, vous gérerez toutes les prestations liées au bar, dans le respect du référentiel VVF.</strong></p>
+<p><strong>Animé (e) par le sens du service, vos missions seront les suivantes :</strong></p>
+<ul>
+<li>Créer de nouveaux cocktails</li>
+<li>Proposer et créer des thématiques de soirée en collaboration avec le service animation</li>
+<li>Nettoyer et préparer la salle et les tables</li>
+<li>Assurer la plonge</li>
+<li>Définir le cocktail du jour en adéquation avec le thème ou l’animation</li>
+<li>Appliquer les règles HACCP</li>
+</ul>
+<p><strong>Vos relations avec les vacanciers est primordiale, de plus, vous serez informé (e) des programmes d’activités et d’animations pour renseigner le public du bar si besoin.</strong></p>
+<p><strong>Une première expérience sur ce poste serait appréciée pour votre capacité à vous rendre opérationnel (le) rapidement.</strong></p>
+<p><strong>Votre créativité mais aussi votre polyvalence seront des atouts indispensables pour ces missions.</strong></p>
+<p><strong>Votre connaissance des normes HACCP seront également nécessaires comme votre intérêt et curiosité pour les spécificités autour du site.</strong></p>
+<p><strong>Les « plus » qui peuvent faire la différence :</strong></p>
+<ul>
+<li>Tickets restaurants</li>
+<li>Mutuelle familiale</li>
+<li>Réductions sur vos séjours dans nos villages (dès 8 mois d’ancienneté)</li>
+<li>Des accords sur la parentalité pour accompagner les familles dans leurs projets</li>
+<li>Des accords sur l’équilibre pro/perso et le bien-être au travail</li>
+<li>Des parcours de formation ou de spécialisation accessibles à toutes et tous</li>
+<li>Une association solidaire et engagée</li>
+<li>Beaucoup de projets porteurs de sens qui n’attendent que vous</li>
+</ul>
+<p><strong>Le processus de recrutement :</strong></p>
+<p>Un entretien est prévu avec le ou la directrice du site. Prévoyez 1h.</p>
+<p><strong>Et si vous êtes sensibles aux valeurs de VVF, n’hésitez plus et rejoignez notre équipe !</strong></p>
+<p><strong><em>« À compétences égales, une attention particulière sera apportée aux personnes en situation de handicap »</em></strong></p>
+
+]]></description>
+  <startdate></startdate>
+  <enddate></enddate>
+  <createddate></createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://vvfrecrute.factorial.fr/apply/barman-h-f-297912?utm_source=cookorico.com</url>
+  <applyurl>https://vvfrecrute.factorial.fr/apply/barman-h-f-297912?utm_source=cookorico.com</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Aragnouet</city>
+      <zip></zip>
+      <address></address>
+      <countrycode></countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job><job>
+  <company>VVF</company>
+  <companydescription></companydescription>
+  <companyuuid></companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>16046947</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Employé polyvalent de restauration (H/F)</title>
+<description><![CDATA[<p>VVF depuis plus de 60 ans, est le premier opérateur touristique familial solidaire et durable en France. Groupe associatif dont les missions contribuent au développement économique et social des territoires en proposant des séjours, des vacances et des loisirs accessibles à tous.</p>
+<p>VVF propose plus de 100 destinations sport, culture et nature, en montagne, moyenne montagne, campagne et littoral dans plus de 60 départements. L’association accueille 450 000 vacanciers par an.</p>
+<p>Elle propose des activités pour les parents et les enfants dans des villages vacances, des gîtes, des campings et des résidences de tourisme.</p>
+<p>VVF c’est aussi 450 salariés permanents et 3000 saisonniers en haute saison.</p>
+<p>Rejoignez-nous !</p>
+<p><strong>Informations générales du poste :</strong></p>
+<ul>
+<li>Dates contrats : 02/07/2026 au 29/08/2026</li>
+<li>CDD saisonnier</li>
+<li>Rémunération : 1823.03€ Brut Mensuel</li>
+<li>Logement possible sur place</li>
+<li>35 heures hebdomadaire</li>
+<li>2 jours de congés par semaine</li>
+<li>Site : <a href="https://www.vvf.fr/destination/hiver/piau-engaly?startDate=&#x26;endDate=&#x26;adult=2&#x26;children=0&#x26;baby=0&#x26;animal=0">https://www.vvf.fr/destination/hiver/piau-engaly?startDate=&#x26;endDate=&#x26;adult=2&#x26;children=0&#x26;baby=0&#x26;animal=0</a></li>
+</ul>
+<p><strong>Sous la responsabilité du directeur ou de la directrice du VVF (ou du chef de service selon les missions) vous assurerez avec polyvalence et selon les besoins, les missions d’aide de cuisine , de plongeur et de salle</strong></p>
+<p><strong>Pour la plonge :</strong></p>
+<ul>
+<li>Assurer le nettoyage et le rinçage de la vaisselle, des plats, du matériel de cuisine et des ustensiles ;</li>
+<li>Éliminer et évacuer la vaisselle cassée ;</li>
+<li>Entretenir les équipements de cuisine ;</li>
+<li>Informer la maintenance en cas de dysfonctionnement ou panne.</li>
+</ul>
+<p><strong>Pour la cuisine :</strong></p>
+<ul>
+<li>Préparer les aliments</li>
+<li>Assurer le dressage et l'envoi des plats</li>
+<li>Participer à la préparation des plats chauds et froids</li>
+<li>Dresser les buffets selon l'organisation</li>
+</ul>
+<p><strong>Pour la salle :</strong></p>
+<ul>
+<li>Avoir connaissance des menus quotidiens et des spécificités liées ;</li>
+<li>Assurer la mise en place des buffets ;</li>
+<li>Effectuer la mise en place de la salle selon les publics, recommandations ;</li>
+<li>Assurer le service en salle ;</li>
+<li>Veiller au réapprovisionnement, débarrassage des tables ;</li>
+<li>Participer au rangement de la salle ;</li>
+<li>Gérer les changements de dernière minute ;</li>
+<li>Ranger et répartir la vaisselle ;</li>
+<li>Effectuer le nettoyage de la salle et de l’office après chaque service.</li>
+</ul>
+<p><strong>Dans le respect du référentiel métier et des normes de sécurités et d'hygiène, vous êtes un rouage essentiel de la satisfaction des vacanciers.</strong></p>
+<p><strong>Vous avez déjà exercé une partie ou toutes les missions. Votre réactivité, votre autonomie et votre sens du service seront sollicités au quotidien.</strong></p>
+<p><strong>Les « plus » qui peuvent faire la différence :</strong></p>
+<ul>
+<li>Tickets restaurants</li>
+<li>Mutuelle familiale</li>
+<li>Réductions sur vos séjours dans nos villages (dès 8 mois d’ancienneté)</li>
+<li>Des accords sur la parentalité pour accompagner les familles dans leurs projets</li>
+<li>Des accords sur l’équilibre pro/perso et le bien-être au travail</li>
+<li>Des parcours de formation ou de spécialisation accessibles à toutes et tous</li>
+<li>Une association solidaire et engagée</li>
+<li>Beaucoup de projets porteurs de sens qui n’attendent que vous</li>
+</ul>
+<p><strong>Le processus de recrutement :</strong></p>
+<p>Un entretien est prévu avec le ou la directrice du site. Prévoyez 1h.</p>
+<p><strong>Et si vous êtes sensibles aux valeurs de VVF, n’hésitez plus et rejoignez notre équipe !</strong></p>
+<p><strong><em>« À compétences égales, une attention particulière sera apportée aux personnes en situation de handicap</em></strong> <em>»</em></p>
+
+]]></description>
+  <startdate></startdate>
+  <enddate></enddate>
+  <createddate></createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://vvfrecrute.factorial.fr/apply/employe-polyvalent-de-restauration-h-f-297915?utm_source=cookorico.com</url>
+  <applyurl>https://vvfrecrute.factorial.fr/apply/employe-polyvalent-de-restauration-h-f-297915?utm_source=cookorico.com</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Aragnouet</city>
+      <zip></zip>
+      <address></address>
+      <countrycode></countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job><job>
+  <company>VVF</company>
+  <companydescription></companydescription>
+  <companyuuid></companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>16047498</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Animateur enfants (H/F)</title>
+<description><![CDATA[<p>VVF depuis plus de 60 ans, est le premier opérateur touristique familial solidaire et durable en France. Groupe associatif dont les missions contribuent au développement économique et social des territoires en proposant des séjours, des vacances et des loisirs accessibles à tous.</p>
+<p>VVF propose plus de 100 destinations sport, culture et nature, en montagne, moyenne montagne, campagne et littoral dans plus de 60 départements. L’association accueille 450 000 vacanciers par an.</p>
+<p>Elle propose des activités pour les parents et les enfants dans des villages vacances, des gîtes, des campings et des résidences de tourisme.</p>
+<p>VVF c’est aussi 450 salariés permanents et 3000 saisonniers en haute saison.</p>
+<p>Rejoignez-nous !</p>
+<p><strong>Informations générales du poste :</strong></p>
+<ul>
+<li>Dates : du 01/07/2026 au 31/08/2026 (un animateur 7/10 ans) ou du 01/07/2026 au 30/07/2026 (un animateur 11/17 ans)</li>
+<li>Rémunération : 1823.03€ Brut Mensuel</li>
+<li>35 heures par semaine</li>
+<li>2 jours de congés par semaine</li>
+<li>Logement possible sur place</li>
+<li>Site : <a href="http://vvf.fr/destination/ete/bitche">vvf.fr/destination/ete/bitche</a></li>
+</ul>
+<p><strong>Sous la responsabilité du responsable d’animation et au sein d’une équipe dédiée à l’encadrement de groupes d'enfants, vous accompagnerez un groupe et mettrez en place les activités et animations selon le planning prévu. Les clubs enfants sont découpés par tranches d’âges spécifique (3/6 ans, 7/10 ans, 11/14 ans, 15/17 ans) selon les effectifs inscrits.</strong></p>
+<p><strong>Votre esprit d’équipe et votre relationnel seront des atouts essentiels dans les missions suivantes :</strong></p>
+<ul>
+<li>Préparer l’espace d’accueil selon le public accueilli (disposition, affichage, rangement)</li>
+<li>Elaborer et proposer un programme d’activités variées et adapté à l’âge des enfants</li>
+<li>Animer les activités proposées</li>
+<li>Prendre en charge les repas/pique-niques lors des journées continues</li>
+<li>Participer aux réunions de préparation et d’accueil des vacanciers</li>
+</ul>
+<p><strong>Vous serez le lien privilégié entre les parents et les enfants. A ce titre, votre exemplarité sur le village est indispensable. Vous communiquez l’image de VVF au travers de vos missions.</strong></p>
+<p><strong>Muni du BAFA/BPJEPS/ALT ou tout autre diplôme lié à l'animation, votre envie et votre dynamisme sont des qualités essentielles pour faire passer de belles vacances aux enfants.</strong></p>
+<p><strong>Les "plus" qui peuvent faire la différence :</strong></p>
+<ul>
+<li>Hébergement et alimentation sur place selon les sites (selon barème)</li>
+<li>Mutuelle familiale</li>
+<li>CSE (dès 8 mois d’ancienneté sur une ou deux saisons consécutives)</li>
+<li>13ème mois (dès 8 mois d’ancienneté sur une ou deux saisons consécutives)</li>
+<li>Des accords sur la parentalité pour accompagner les parents dans leurs projets</li>
+<li>Des parcours de formation accessibles à toutes et tous</li>
+<li>Un état d’esprit solidaire et engagé</li>
+<li>Beaucoup de projets porteurs de sens qui n’attendent que vous</li>
+</ul>
+<p><strong>Le processus de recrutement :</strong></p>
+<ul>
+<li>Un entretien est prévu avec le responsable animation du site. Prévoyez 1h.</li>
+</ul>
+<p><strong>Et si vous êtes sensibles aux valeurs de VVF, n’hésitez plus et rejoignez notre équipe !</strong></p>
+<p><strong><em>« À compétences égales, une attention particulière sera apportée aux personnes en situation de handicap</em></strong> <em>»</em></p>
+
+]]></description>
+  <startdate></startdate>
+  <enddate></enddate>
+  <createddate></createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://vvfrecrute.factorial.fr/apply/animateur-enfants-h-f-297940?utm_source=cookorico.com</url>
+  <applyurl>https://vvfrecrute.factorial.fr/apply/animateur-enfants-h-f-297940?utm_source=cookorico.com</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Bitche</city>
       <zip></zip>
       <address></address>
       <countrycode></countrycode>
