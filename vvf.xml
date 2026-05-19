@@ -1,7 +1,7 @@
 <source>
 <publisher>Cookorico</publisher>
 <publisherurl>https://www.cookorico.com</publisherurl>
-<lastupdatedat>2026-05-18 03:01</lastupdatedat>
+<lastupdatedat>2026-05-19 09:01</lastupdatedat>
 
 <job>
   <company>VVF</company>
@@ -174,7 +174,7 @@
 ]]></description>
   <startdate></startdate>
   <enddate></enddate>
-  <createddate>2026-05-04</createddate>
+  <createddate>2026-05-18</createddate>
   <remotestatus></remotestatus>
   <employmenttype></employmenttype>
   <employmentlevel></employmentlevel>
@@ -283,7 +283,7 @@
 ]]></description>
   <startdate></startdate>
   <enddate></enddate>
-  <createddate>2026-05-03</createddate>
+  <createddate>2026-05-18</createddate>
   <remotestatus></remotestatus>
   <employmenttype></employmenttype>
   <employmentlevel></employmentlevel>
@@ -809,7 +809,7 @@
 ]]></description>
   <startdate></startdate>
   <enddate></enddate>
-  <createddate>2026-05-03</createddate>
+  <createddate>2026-05-18</createddate>
   <remotestatus></remotestatus>
   <employmenttype></employmenttype>
   <employmentlevel></employmentlevel>
@@ -3740,7 +3740,7 @@ Autonomie indispensable, un bon esprit d’équipe sera fortement apprécié.</p
 ]]></description>
   <startdate></startdate>
   <enddate></enddate>
-  <createddate>2026-05-04</createddate>
+  <createddate>2026-05-18</createddate>
   <remotestatus></remotestatus>
   <employmenttype></employmenttype>
   <employmentlevel></employmentlevel>
@@ -8802,7 +8802,7 @@ Autonomie indispensable, un bon esprit d’équipe sera fortement apprécié.</p
 ]]></description>
   <startdate></startdate>
   <enddate></enddate>
-  <createddate>2026-05-06</createddate>
+  <createddate>2026-05-18</createddate>
   <remotestatus></remotestatus>
   <employmenttype></employmenttype>
   <employmentlevel></employmentlevel>
@@ -13853,6 +13853,111 @@ Autonomie indispensable, un bon esprit d’équipe sera fortement apprécié.</p
     <location>
       <country>France</country>
       <city>Ceillac</city>
+      <zip></zip>
+      <address></address>
+      <countrycode></countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job><job>
+  <company>VVF</company>
+  <companydescription></companydescription>
+  <companyuuid></companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>16178490</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Serveur (H/F) </title>
+<description><![CDATA[<p>VVF depuis plus de 60 ans, est le premier opérateur touristique familial solidaire et durable en France. Groupe associatif dont les missions contribuent au développement économique et social des territoires en proposant des séjours, des vacances et des loisirs accessibles à tous.</p>
+<p>VVF propose plus de 100 destinations sport, culture et nature, en montagne, moyenne montagne, campagne et littoral dans plus de 60 départements. L’association accueille 450 000 vacanciers par an.</p>
+<p>Elle propose des activités pour les parents et les enfants dans des villages vacances, des gîtes, des campings et des résidences de tourisme.</p>
+<p>VVF c’est aussi 450 salariés permanents et 3000 saisonniers en haute saison.</p>
+<p>Rejoignez-nous !</p>
+<p><strong>Informations générales du poste :</strong></p>
+<ul>
+<li>Dates contrats : 01/07/2026 au 31/08/2026</li>
+<li>CDD saisonnier</li>
+<li>Rémunération : SMIC mensuel brut</li>
+<li>Logement possible sur place</li>
+<li>35 heures hebdomadaire</li>
+<li>2 jours de congés par semaine</li>
+<li>Remboursement des frais de transport en fin de contrat (selon barème en vigueur)</li>
+<li>Site : <a href="https://www.vvf.fr/destination/ete/prapoutel-les-sept-laux">https://www.vvf.fr/destination/ete/prapoutel-les-sept-laux</a></li>
+</ul>
+<p><strong>Sous la responsabilité du responsable restauration ou du responsable de salle, vous assurez la mise en place et le service en salle. Vous serez un ou une actrice essentielle de la satisfaction de nos vacanciers dans les espaces dédiés à la restauration.</strong></p>
+<p><strong>Vos missions consisteront à :</strong></p>
+<ul>
+<li>Avoir connaissance des menus quotidiens et des spécificités liées ;</li>
+<li>Assurer la mise en place des buffets ;</li>
+<li>Effectuer la mise en place de la salle selon les publics, recommandations ;</li>
+<li>Assurer le service en salle ;</li>
+<li>Veiller au réapprovisionnement, débarrassage des tables ;</li>
+<li>Participer au rangement de la salle ;</li>
+<li>Gérer les changements de dernière minute ;</li>
+<li>Ranger et répartir la vaisselle ;</li>
+<li>Effectuer le nettoyage de la salle et de l’office après chaque service.</li>
+</ul>
+<p><strong>Vous avez de l’expérience dans les missions proposées et vous connaissez les normes HACCP. Votre esprit d’équipe et votre relationnel fort seront sollicités quotidiennement.</strong></p>
+<p><strong>Nous souhaitons que vous possédiez également un sens aiguisé du service et de la diplomatie. Votre capacité à communiquer positivement et votre patience sont également des qualités requises.</strong></p>
+<p><strong>Les « plus » qui peuvent faire la différence :</strong></p>
+<ul>
+<li>Tickets restaurants</li>
+<li>Mutuelle familiale</li>
+<li>Réductions sur vos séjours dans nos villages (dès 8 mois d’ancienneté)</li>
+<li>Des accords sur la parentalité pour accompagner les familles dans leurs projets</li>
+<li>Des accords sur l’équilibre pro/perso et le bien-être au travail</li>
+<li>Des parcours de formation ou de spécialisation accessibles à toutes et tous</li>
+<li>Une association solidaire et engagée</li>
+<li>Beaucoup de projets porteurs de sens qui n’attendent que vous</li>
+</ul>
+<p><strong>Le processus de recrutement :</strong></p>
+<p>Un entretien est prévu avec le ou la directrice du site. Prévoyez 1h.</p>
+<p><strong>Et si vous êtes sensibles aux valeurs de VVF, n’hésitez plus et rejoignez notre équipe !</strong></p>
+<p><strong>"Toutes les candidatures sont les bienvenues, quel que soit le parcours, l'âge, l'origine ou le genre."</strong></p>
+
+]]></description>
+  <startdate></startdate>
+  <enddate></enddate>
+  <createddate></createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://vvfrecrute.factorial.fr/apply/serveur-h-f-302753?utm_source=cookorico.com</url>
+  <applyurl>https://vvfrecrute.factorial.fr/apply/serveur-h-f-302753?utm_source=cookorico.com</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Theys</city>
       <zip></zip>
       <address></address>
       <countrycode></countrycode>
