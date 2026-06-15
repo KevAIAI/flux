@@ -1,7 +1,7 @@
 <source>
 <publisher>Cookorico</publisher>
 <publisherurl>https://www.cookorico.com</publisherurl>
-<lastupdatedat>2026-06-14 03:00</lastupdatedat>
+<lastupdatedat>2026-06-15 09:00</lastupdatedat>
 
 <job>
   <company>VVF</company>
@@ -174,7 +174,7 @@
 ]]></description>
   <startdate></startdate>
   <enddate></enddate>
-  <createddate>2026-06-02</createddate>
+  <createddate>2026-06-14</createddate>
   <remotestatus></remotestatus>
   <employmenttype></employmenttype>
   <employmentlevel></employmentlevel>
@@ -5497,7 +5497,7 @@ Autonomie indispensable, un bon esprit d’équipe sera fortement apprécié.</p
 ]]></description>
   <startdate></startdate>
   <enddate></enddate>
-  <createddate>2026-06-01</createddate>
+  <createddate>2026-06-14</createddate>
   <remotestatus></remotestatus>
   <employmenttype></employmenttype>
   <employmentlevel></employmentlevel>
@@ -5598,7 +5598,7 @@ Autonomie indispensable, un bon esprit d’équipe sera fortement apprécié.</p
 ]]></description>
   <startdate></startdate>
   <enddate></enddate>
-  <createddate>2026-06-02</createddate>
+  <createddate>2026-06-14</createddate>
   <remotestatus></remotestatus>
   <employmenttype></employmenttype>
   <employmentlevel></employmentlevel>
@@ -9893,6 +9893,116 @@ Autonomie indispensable, un bon esprit d’équipe sera fortement apprécié.</p
     <location>
       <country>France</country>
       <city>Val-Cenis</city>
+      <zip></zip>
+      <address></address>
+      <countrycode></countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min></min>
+    <max></max>
+    <currency></currency>
+    <timeunit></timeunit>
+  </salary>
+</job><job>
+  <company>VVF</company>
+  <companydescription></companydescription>
+  <companyuuid></companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>16307889</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title>Animateur nature (H/F)  </title>
+<description><![CDATA[<p>VVF depuis plus de 60 ans, est le premier opérateur touristique familial solidaire et durable en France. Groupe associatif dont les missions contribuent au développement économique et social des territoires en proposant des séjours, des vacances et des loisirs accessibles à tous.</p>
+<p>VVF propose plus de 100 destinations sport, culture et nature, en montagne, moyenne montagne, campagne et littoral dans plus de 60 départements. L’association accueille 450 000 vacanciers par an.</p>
+<p>Elle propose des activités pour les parents et les enfants dans des villages vacances, des gîtes, des campings et des résidences de tourisme.</p>
+<p>VVF c’est aussi 450 salariés permanents et 3000 saisonniers en haute saison.</p>
+<p>Rejoignez-nous !</p>
+<p><strong>Informations générales du poste :</strong></p>
+<ul>
+<li>Dates contrats : 02/07/2026 au 30/08/2026</li>
+<li>CDD saisonnier</li>
+<li>Rémunération : SMIC</li>
+<li>Logement possible sur place</li>
+<li>35 heures hebdomadaire</li>
+<li>2 jours de congés par semaine</li>
+<li>Site : <a href="https://www.vvf.fr/destination/ete/tence?startDate=&#x26;endDate=&#x26;adult=2&#x26;children=0&#x26;baby=0&#x26;animal=0">https://www.vvf.fr/destination/ete/tence?startDate=&#x26;endDate=&#x26;adult=2&#x26;children=0&#x26;baby=0&#x26;animal=0</a></li>
+</ul>
+<p><strong>Nos sites VVF proposent des programmes dédiés à la nature. Balades, visites, activités de plein air, découverte, autant de possibilités pour vivre des vacances uniques.</strong></p>
+<p><strong>Vous aurez la charge de l’organisation et de l’animation de moments inoubliables pour les vacanciers, avec en “toile de fond” la création de lien et l’intergénérationnel, avec des activités pour toutes et tous, pour les plus grands et les plus petits.</strong></p>
+<p><strong>En charge de l’élaboration du planning et de l’encadrement des activités, voici vos missions quotidiennes :</strong></p>
+<ul>
+<li>Élaborer le planning d’activités selon le référentiel nature</li>
+<li>Budgétiser et commander le matériel nécessaire</li>
+<li>Coordonner le planning</li>
+<li>Communiquer sur les activités au sein du site</li>
+<li>Assurer l’encadrement et l’animation des activités</li>
+<li>Accompagner et informer les vacanciers si nécessaire</li>
+<li>Former et suivre l’équipe d’animation pour s’assurer de la qualité des animations sportives proposées</li>
+</ul>
+<p><strong>Il est important de tenir compte des thématiques et du projet pédagogique du village sur lequel vous êtes recrutés : sport, nature ou original.</strong></p>
+<p>À vous de proposer, avec l'équipe d'animation, des activités en rapport avec ces thématiques.</p>
+<p>Vous aurez à disposition un catalogue d'activités nature pour toutes les tranches d'âge.</p>
+<p>Votre champ d’action se situe aussi bien chez les plus jeunes, dans les clubs enfants, qu’auprès des plus grands lors de temps dédiés aux adultes. Mais aussi lors de temps mixés pendant lesquels vous serez susceptible d’accueillir tous les publics présents.</p>
+<p>Cette polyvalence est nécessaire car hors des vacances scolaires, le public vous sollicitera sur des activités, hors de la thématique, notamment sur les fins d’après-midi ou les soirées.</p>
+<p><strong>Vous êtes issu(e) d’une formation liée à la nature ou à l’environnement, votre sensibilité forte pour faire découvrir toutes les richesses du territoire vous anime au quotidien. Le parcours d’un guide touristique peut être intéressant.</strong></p>
+<p><strong>Nous attendons du vécu dans des activités similaires, de découvertes et de vie au travers du territoire, afin de proposer des activités variées qui plairont au plus grand nombre.</strong></p>
+<p><strong>Votre curiosité et votre sens du partage seront des atouts indispensables pour apprécier la vie au sein de nos sites mais aussi pour aller à la rencontre d’acteurs locaux par exemple.</strong></p>
+<p><strong>Votre dynamisme et votre positivité sont également importants afin de fédérer et créer du lien avec les vacanciers.</strong></p>
+<p><strong>Les « plus » qui peuvent faire la différence :</strong></p>
+<ul>
+<li>Tickets restaurants</li>
+<li>Mutuelle familiale</li>
+<li>Réductions sur vos séjours dans nos villages (dès 8 mois d’ancienneté)</li>
+<li>Des accords sur la parentalité pour accompagner les familles dans leurs projets</li>
+<li>Des accords sur l’équilibre pro/perso et le bien-être au travail</li>
+<li>Des parcours de formation ou de spécialisation accessibles à toutes et tous</li>
+<li>Une association solidaire et engagée</li>
+<li>Beaucoup de projets porteurs de sens qui n’attendent que vous</li>
+</ul>
+<p><strong>Le processus de recrutement :</strong></p>
+<p>Un entretien est prévu avec le ou la directrice du site. Prévoyez 1h.</p>
+<p><strong>Et si vous êtes sensibles aux valeurs de VVF, n’hésitez plus et rejoignez notre équipe !</strong></p>
+<p><strong><em>« À compétences égales, une attention particulière sera apportée aux personnes en situation de handicap</em></strong> <em>»</em></p>
+
+]]></description>
+  <startdate></startdate>
+  <enddate></enddate>
+  <createddate></createddate>
+  <remotestatus></remotestatus>
+  <employmenttype></employmenttype>
+  <employmentlevel></employmentlevel>
+  <url>https://vvfrecrute.factorial.fr/apply/animateur-nature-h-f-307656?utm_source=cookorico.com</url>
+  <applyurl>https://vvfrecrute.factorial.fr/apply/animateur-nature-h-f-307656?utm_source=cookorico.com</applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city>Tence</city>
       <zip></zip>
       <address></address>
       <countrycode></countrycode>
