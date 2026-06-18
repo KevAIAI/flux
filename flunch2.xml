@@ -1,8 +1,67 @@
 <source>
 <publisher>Cookorico</publisher>
 <publisherurl>https://www.cookorico.com</publisherurl>
-<lastupdatedat>2026-06-18 09:38</lastupdatedat>
+<lastupdatedat>2026-06-18 03:01</lastupdatedat>
 
+<job>
+  <company>Flunch</company>
+  <companydescription/>
+  <companyuuid>55292609139</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>bb8474b1-ce29-41ff-a3d3-edd35dd0225f</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title><![CDATA[Adjoint(e) de Direction en restaurant]]></title>
+<description><![CDATA[<p>Flunch, pour son restaurant, recherche un(e) adjoint(e) de Direction pour compléter son équipe encadrement. Hopopop !</p><br><p><strong>Tu seras rattaché(e) au Directeur de Restaurant et auras pour objectifs :</strong></p><ul><li>De garantir au quotidien, par une animation des équipes exigeante et bienveillante, la bonne marche opérationnelle de ton restaurant</li><li>De recruter, manager et développer les équipes d’employés de restaurant</li><li>D’offrir à tes clients une expérience unique lors de leurs venues dans ton restaurant</li><li>De garantir l’excellence opérationnelle au sein de ton restaurant, en t’assurant notamment de la satisfaction du client par une présence active lors des services</li><li>D’assurer les activités de gestion au sein de ton restaurant (commerce, RH, gestion financière…)</li></ul> <p><strong>Ce que nous recherchons chez toi :</strong></p><ul><li>Une formation de type gestion, management, commerce ou hôtellerie/restauration</li><li>Une première expérience professionnelle idéalement acquise dans le secteur de la restauration</li><li>L’envie de satisfaire, jour après jour, nos clients, petits et grands</li><li>L’envie d’apprendre et d’entreprendre</li><li>Une capacité à communiquer et donner du sens</li><li>Une posture managériale fédératrice</li></ul> <p>Salaire entre 2200 et 2500 euros brut mensuel</p><p>+ Gratification de l'équivalent d'un mois de salaire supplémentaire variable en fonction du nombre d'absences sur la période<br>+ Bonus annuel sur objectifs pouvant aller jusqu'à 3000 EUR bruts.&nbsp;<br>&nbsp;</p><p>Repas à la charge de l'employeur à hauteur de 14€/repas<br>Mutuelle à partir de 10€ (isolé) / 30€ (famille) part salarié</p><p><br>Pas de coupure<br>Plusieurs options d'horaires (pouvant varier selon les restaurants) :<br>- Ouverture : 7H30 - 16H<br>- Fermeture : 15H - 22H30<br>- Gestion : Horaires de jour</p><p><br>2 jours de repos par semaine - planning tournant<br>1 week-end complet de repos toutes les 4 semaines minimum<br>25j de CP + Repos compensateurs</p><br><p>Envie de rejoindre une équipe engagée et motivée ? Et d’intégrer une entreprise qui accompagne ses collaborateurs dans l’évolution de leur carrière ? <strong>Contacte-nous !</strong></p> <p>Enseigne de restauration actuellement en pleine transformation, flunch, grâce à l'ensemble de ces collaborateurs, innove chaque jour pour offrir à ses clients une expérience de restauration la plus optimale possible.<br><br>Pour l'ensemble des collaborateurs flunch qui oeuvrent chaque jour, que ce soit aux postes d'employé(e) de restaurant, d'adjoint(e) ou de Directeur(rice), nous souhaitons pouvoir les accompagner et les faire se développer au sein de l'entreprise. Fervents pratiquants de la promotion interne, tous ceux qui le souhaitent et s'en donnent les moyens peuvent se tracer un beau chemin chez flunch !</p>]]></description>
+  <startdate>2026-06-18</startdate>
+  <enddate></enddate>
+  <createddate>2026-06-18</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype>CDI</employmenttype>
+  <employmentlevel></employmentlevel>
+  <url><![CDATA[https://api.magnet.work/v2/redirect/job-offer/flunch_careersite_cvcatcher/30404-xbw68R?_fallback_url=https%3A%2F%2Fwww.hw-recruteur.com%2Foffer%2Fjoboffer%2Foffre-30404-xbw68R%3Futm_source%3Dcookorico&utm_source=cookorico]]></url>
+  <applyurl><![CDATA[https://api.magnet.work/v2/redirect/job-offer/flunch_careersite_cvcatcher/30404-xbw68R?_fallback_url=https%3A%2F%2Fwww.hw-recruteur.com%2Foffer%2Fjoboffer%2Foffre-30404-xbw68R%3Futm_source%3Dcookorico&utm_source=cookorico]]></applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city><![CDATA[Île-de-France]]></city>
+      <zip></zip>
+      <address><![CDATA[]]></address>
+      <countrycode></countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min>2200</min>
+    <max>2500</max>
+    <currency>EUR</currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
 <job>
   <company>Flunch</company>
   <companydescription/>
@@ -117,65 +176,6 @@
   <salary>
     <min>2050</min>
     <max>2230</max>
-    <currency>EUR</currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-<job>
-  <company>Flunch</company>
-  <companydescription/>
-  <companyuuid>55292609139</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>43ff428b-64e1-4db1-b12d-bb9bb73e6d83</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title><![CDATA[Employé(e) polyvalent en restaurant]]></title>
-<description><![CDATA[<p><strong>Flunch est à la recherche de nouveaux éléments pour compléter son équipe !</strong></p><p><i><strong>HOPOPOP !</strong></i></p><p><br>Ta mission principale est de régaler les clients, petits et grands et de leur faire plaisir grâce à un accueil et un service de qualité.</p><br><p><strong>Tu seras rattaché(e) au Directeur de Restaurant et auras pour objectifs de :</strong></p><ul><li>Contribuer au développement des résultats du restaurant en accueillant et accompagnant les clients, préparant les plats, buffets ;</li><li>Garantir la bonne tenue du restaurant ;</li><li>Veiller à effectuer les missions qui te sont confiées en respectant les normes et procédures (hygiène…) en vigueur chez flunch !<br>&nbsp;</li></ul><p>Voici les différents pôles dans lesquels tu pourras être amené(e) à évoluer, après une période de formation interne :<br>&nbsp;</p><p><i><strong>Secteur Fabrication (froid/pâtisserie, plats cuisinés, grillades, planchas, burgers) :</strong></i></p><ul><li>Préparer et dresser des mets simples ou chauds par assemblage des différents éléments nécessaires, en se conformant à des procédures de fabrication.</li><li>Procéder au ravitaillement en salle ou en cuisine et assurer un service- conseil auprès de la clientèle.&nbsp;</li></ul><p><i><strong>Secteur Caisse&nbsp;/ Flunch café :&nbsp;</strong></i></p><ul><li>Accueillir le client</li><li>Réaliser les commandes</li><li>Tenir la caisse et assurer un service/conseil auprès de la clientèle.&nbsp;</li></ul><p><i><strong>Secteur Salle / Laverie&nbsp;:&nbsp;</strong></i></p><ul><li>Débarrasser, nettoyer, ranger la salle et participer au lavage de la vaisselle.&nbsp;<br>&nbsp;</li></ul><p><strong>L’objectif est d’être, à terme, PO-LY-VA-LENTS !</strong></p><p>Notre grille de rémunération est indexée sur le niveau de polyvalence.&nbsp;<br>&nbsp;</p><p>Chez Flunch, des possibilités d’évolution existent : référent(e) formation, animateur(-rice) de service, adjoint(e) de direction…. Nous sommes des fervents pratiquants de la promotion interne.</p> <p><strong>Ce que nous recherchons chez toi :</strong></p><ul><li>Ton enthousiasme, ton énergie et ton esprit d’équipe ;</li><li>De l’organisation, de la réactivité, de l’autonomie ;</li><li>L’envie de satisfaire, jour après jour, nos clients, petits et grands.</li></ul><p>Ce poste est accessible sans condition particulière de formation préalable ou d’expérience.</p><p>Une formation théorique et pratique sera assurée par l’entreprise.</p><p>Tu es prêt(e) à rejoindre l’aventure ? Hopopop !</p> <p>Quelques informations sur l'organisation de travail :</p><ul><li>Poste en coupure* : 2 coupures max par semaine, + si volontariat (rémunéré 8€ bruts par coupure supplémentaire dans la semaine)</li><li>Maximum 3 soirs travaillés par semaine, + si volontariat</li><li>2 jours de repos non consécutifs par semaine minimum - planning tournant</li><li>1 week-end de repos (samedi &amp; dimanche) minimum toutes les 4 semaines</li><li>Annualisation du temps de travail&nbsp;</li></ul><p>Et les avantages ?&nbsp;</p><ul><li>Repas avant service pris en charge à hauteur de 14€ par l’entreprise</li><li>Réduction de 20% sur l’addition Flunch</li><li>Diverses allocations sont possibles sous conditions de ressources (allocations familiales supplémentaire, prime naissance...)</li><li>Des congés supplémentaires accordés dans divers cas (enfant malade, proche aidant, ancienneté...)</li><li>Salaire brut sur 12 mois + Gratification (prime annuelle croissante en fonction de l’ancienneté jusqu’à atteindre l’équivalent d’un mois de salaire au bout de la troisième année)</li><li>Participation de l’employeur à la cotisation mutuelle à hauteur de 20 euros / mois</li><li>Tenue complète fournie + 240 euros / an pour l’entretien et un congé supplémentaire prévu pour le temps d'habillage et de déshabillage</li><li>2 doubles maximum par semaine avec un Versement d’une prime de 8 euros par double supplémentaire et un Versement d’une prime de 8 euros par remplacement à partir du 3ème dans le mois</li><li>Une majoration des salariés pour les jours fériés travaillés&nbsp;</li><li>1 week-end de repos garanti toutes les 4 semaines</li></ul><p>Horaires de fin de poste à titre d’indication : 21h45 la semaine - 22h15 le week-end</p><p>*Coupure = assurer le service du midi - pause sur l’après-midi - assurer le service du soir</p> <p>Présente depuis 1971, notre société est une enseigne de restauration historique pionnière de son concept.&nbsp;</p><p>Nous défendons le bien manger à moindre coût pour donner accès au restaurant à tous : oui au resto plus souvent !</p><p>Dédié plus particulièrement aux petits et grands, flunch est élu le restaurant préféré des familles depuis 2021.</p><p>Enseigne de restauration actuellement en pleine transformation, flunch, grâce à l'ensemble de ces collaborateurs, innove chaque jour pour offrir à ses clients une expérience de restauration la plus optimale possible.<br><br>Pour l'ensemble des collaborateurs flunch qui œuvrent chaque jour, que ce soit aux postes d'employé(e) de restaurant, d'adjoint(e) ou de Directeur(rice), nous souhaitons pouvoir les accompagner et les faire se développer au sein de l'entreprise. Fervents pratiquants de la promotion interne, tous ceux qui le souhaitent et s'en donnent les moyens peuvent se tracer un beau chemin chez flunch !</p>]]></description>
-  <startdate>2026-06-17</startdate>
-  <enddate></enddate>
-  <createddate>2026-06-17</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype>CDI</employmenttype>
-  <employmentlevel></employmentlevel>
-  <url><![CDATA[https://api.magnet.work/v2/redirect/job-offer/flunch_careersite_cvcatcher/30404-WU3MNV?_fallback_url=https%3A%2F%2Fwww.hw-recruteur.com%2Foffer%2Fjoboffer%2Foffre-30404-WU3MNV%3Futm_source%3Dcookorico&utm_source=cookorico]]></url>
-  <applyurl><![CDATA[https://api.magnet.work/v2/redirect/job-offer/flunch_careersite_cvcatcher/30404-WU3MNV?_fallback_url=https%3A%2F%2Fwww.hw-recruteur.com%2Foffer%2Fjoboffer%2Foffre-30404-WU3MNV%3Futm_source%3Dcookorico&utm_source=cookorico]]></applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city><![CDATA[Quetigny]]></city>
-      <zip>21800</zip>
-      <address><![CDATA[Centre Commercial Carrefour]]></address>
-      <countrycode></countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min>1867.02</min>
-    <max>2000</max>
     <currency>EUR</currency>
     <timeunit></timeunit>
   </salary>
@@ -1431,65 +1431,6 @@
   <salary>
     <min>1867.02</min>
     <max>2000</max>
-    <currency>EUR</currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-<job>
-  <company>Flunch</company>
-  <companydescription/>
-  <companyuuid>55292609139</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>bb8474b1-ce29-41ff-a3d3-edd35dd0225f</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title><![CDATA[Adjoint(e) de Direction en restaurant]]></title>
-<description><![CDATA[<p>Flunch, pour son restaurant, recherche un(e) adjoint(e) de Direction pour compléter son équipe encadrement. Hopopop !</p><p><br>&nbsp;</p><p><strong>Tu seras rattaché(e) au Directeur de Restaurant et auras pour objectifs :</strong></p><ul><li>De garantir au quotidien, par une animation des équipes exigeante et bienveillante, la bonne marche opérationnelle de ton restaurant</li><li>De recruter, manager et développer les équipes d’employés de restaurant</li><li>D’offrir à tes clients une expérience unique lors de leurs venues dans ton restaurant</li><li>De garantir l’excellence opérationnelle au sein de ton restaurant, en t’assurant notamment de la satisfaction du client par une présence active lors des services</li><li>D’assurer les activités de gestion au sein de ton restaurant (commerce, RH, gestion financière…)</li></ul> <p><strong>Ce que nous recherchons chez toi :</strong></p><ul><li>Une formation de type gestion, management, commerce ou hôtellerie/restauration</li><li>Une première expérience professionnelle idéalement acquise dans le secteur de la restauration</li><li>L’envie de satisfaire, jour après jour, nos clients, petits et grands</li><li>L’envie d’apprendre et d’entreprendre</li><li>Une capacité à communiquer et donner du sens</li><li>Une posture managériale fédératrice</li></ul> <p>Salaire entre 2520 et 2500 euros brut mensuel</p><p>Gratification de l'équivalent d'un mois de salaire supplémentaire variable en fonction du nombre d'absences sur la période<br>Bonus annuel sur objectifs pouvant aller jusqu'à 3000 EUR bruts.&nbsp;<br>&nbsp;</p><p>Repas à la charge de l'employeur à hauteur de 14€/repas<br>Mutuelle à partir de 10€ (isolé) / 30€ (famille) part salarié</p><p><br>Pas de coupure<br>Plusieurs options d'horaires (pouvant varier selon les restaurants) :<br>- Ouverture : 7H30 - 16H<br>- Fermeture : 15H - 22H30<br>- Gestion : Horaires de jour</p><p><br>2 jours de repos par semaine - planning tournant<br>1 week-end complet de repos toutes les 4 semaines minimum<br>25j de CP + Repos compensateurs</p><br><p>Envie de rejoindre une équipe engagée et motivée ? Et d’intégrer une entreprise qui accompagne ses collaborateurs dans l’évolution de leur carrière ? <strong>Contacte-nous !</strong></p> <p>Enseigne de restauration actuellement en pleine transformation, flunch, grâce à l'ensemble de ces collaborateurs, innove chaque jour pour offrir à ses clients une expérience de restauration la plus optimale possible.<br><br>Pour l'ensemble des collaborateurs flunch qui oeuvrent chaque jour, que ce soit aux postes d'employé(e) de restaurant, d'adjoint(e) ou de Directeur(rice), nous souhaitons pouvoir les accompagner et les faire se développer au sein de l'entreprise. Fervents pratiquants de la promotion interne, tous ceux qui le souhaitent et s'en donnent les moyens peuvent se tracer un beau chemin chez flunch !</p>]]></description>
-  <startdate>2026-06-17</startdate>
-  <enddate></enddate>
-  <createddate>2026-06-17</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype>CDI</employmenttype>
-  <employmentlevel></employmentlevel>
-  <url><![CDATA[https://api.magnet.work/v2/redirect/job-offer/flunch_careersite_cvcatcher/30404-xbw68R?_fallback_url=https%3A%2F%2Fwww.hw-recruteur.com%2Foffer%2Fjoboffer%2Foffre-30404-xbw68R%3Futm_source%3Dcookorico&utm_source=cookorico]]></url>
-  <applyurl><![CDATA[https://api.magnet.work/v2/redirect/job-offer/flunch_careersite_cvcatcher/30404-xbw68R?_fallback_url=https%3A%2F%2Fwww.hw-recruteur.com%2Foffer%2Fjoboffer%2Foffre-30404-xbw68R%3Futm_source%3Dcookorico&utm_source=cookorico]]></applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city><![CDATA[Île-de-France]]></city>
-      <zip></zip>
-      <address><![CDATA[]]></address>
-      <countrycode></countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min>2200</min>
-    <max>2499.96</max>
     <currency>EUR</currency>
     <timeunit></timeunit>
   </salary>
