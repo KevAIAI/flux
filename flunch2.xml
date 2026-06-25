@@ -1,8 +1,67 @@
 <source>
 <publisher>Cookorico</publisher>
 <publisherurl>https://www.cookorico.com</publisherurl>
-<lastupdatedat>2026-06-25 09:00</lastupdatedat>
+<lastupdatedat>2026-06-25 03:00</lastupdatedat>
 
+<job>
+  <company>Flunch Traiteur</company>
+  <companydescription/>
+  <companyuuid>55610187823</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>4a02e06f-2c00-465f-b0e2-54dc6b785a8a</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title><![CDATA[Alternance Chargé(e) commercial traiteur]]></title>
+<description><![CDATA[<p><i><strong>HOPOPOP !&nbsp;</strong></i></p><p><strong>Flunch est à la recherche d’un(e) Chargé(e) commercial traiteur en alternance pour compléter son équipe au sein du restaurant de Béziers !</strong></p><p><br>Sous la responsabilité du Directeur(trice) de restaurant (F/H) et après une période de découverte du restaurant et de l'activité traiteur, tu t’inities et te perfectionnes au quotidien sur la mission opérationnelle du métier de Chargé(e) commercial traiteur.</p><p><br>&nbsp;</p><p><strong>Tes principales actions au quotidien :</strong></p><ul><li>Prospecter,</li><li>Développer, fidéliser et animer un portefeuille de clients traiteur,</li><li>Créer un kit d'animation des ventes digital et physique,</li><li>En collaboration avec l'équipe dédiée, mettre en production les commandes réalisées.</li></ul><p><strong>Tu prépares ton diplôme en alternance pour obtenir rapidement des responsabilités dans la gestion d'un restaurant ?</strong> A chaque étape et dès ton intégration, nos formations te permettront de prendre des responsabilités en toute confiance. Aujourd’hui étudiant(e), demain adjoint(e) de direction, futur(e) Directeur(trice), nos parcours internes te permettront de t'épanouir chez nous !</p> <p>Nous recherchons une personne enthousiaste, dynamique et dotée d’un bon esprit d’équipe. Organisée, réactive, autonome, elle aime satisfaire les clients au quotidien.</p><p>À l’aise dans un environnement en mouvement, adaptable, rigoureuse et motivée par le travail en équipe et le management.&nbsp;</p><p>Si tu veux rejoindre une entreprise à l’écoute et qui te fait confiance, envoie ta candidature !</p> <p>Les restaurants sont ouverts 7j/7, midi et soir donc tu pourras être amené(e) à travailler du lundi au dimanche, midi et soir.&nbsp;</p><p><br>Des coupures sont éventuelles surtout lors de la partie formation métier.&nbsp;</p><p><br>Sinon, tu pourras travailler :&nbsp;</p><ul><li>de 8h à 16h</li><li>de 15h à 22h30&nbsp;</li><li>de journée&nbsp;</li></ul><p>Tu recherches un contrat d'apprentissage pour la rentrée 2026 d'une durée de 12 à 24 mois maximum.</p> <p>Repas de fête, menus traiteur, plateaux repas, cocktails... Pour tous vos événements, Flunch Traiteur met à votre service 15 ans d'expérience et de savoir-faire.</p><p>Flunch Traiteur, c'est l'esprit Flunch dans un service traiteur !</p><p>&nbsp;</p><p>Depuis plus de 15 ans, nous accompagnons vos événements.&nbsp;Soirée entre amis,&nbsp;repas de famille,&nbsp;déjeuner entre collègues,&nbsp;mariage, cocktails dinatoires... Toute l'année, Flunch Traiteur&nbsp;vous propose un large choix de mets qui sauront séduire tous les palais et rendre vos événements inoubliables.<br>&nbsp;</p><p>Avec professionnalisme et passion, nous nous occupons de votre&nbsp;menu traiteur, des mises en bouche, aux&nbsp;desserts.&nbsp;Un&nbsp;menu traiteur&nbsp;que nous renouvelons régulièrement pour satisfaire vos envies de nouveautés et&nbsp;vos&nbsp;papilles gustatives&nbsp;bien sûr.</p>]]></description>
+  <startdate>2026-06-25</startdate>
+  <enddate></enddate>
+  <createddate>2026-06-25</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype>Apprentissage</employmenttype>
+  <employmentlevel></employmentlevel>
+  <url><![CDATA[https://api.magnet.work/v2/redirect/job-offer/flunch_careersite_cvcatcher/30404-hEWWmI?_fallback_url=https%3A%2F%2Fwww.hw-recruteur.com%2Foffer%2Fjoboffer%2Foffre-30404-hEWWmI%3Futm_source%3Dcookorico&utm_source=cookorico]]></url>
+  <applyurl><![CDATA[https://api.magnet.work/v2/redirect/job-offer/flunch_careersite_cvcatcher/30404-hEWWmI?_fallback_url=https%3A%2F%2Fwww.hw-recruteur.com%2Foffer%2Fjoboffer%2Foffre-30404-hEWWmI%3Futm_source%3Dcookorico&utm_source=cookorico]]></applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city><![CDATA[Béziers]]></city>
+      <zip>34500</zip>
+      <address><![CDATA[]]></address>
+      <countrycode></countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min>650</min>
+    <max>1867.02</max>
+    <currency>EUR</currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
 <job>
   <company>Flunch</company>
   <companydescription/>
@@ -358,65 +417,6 @@
   </salary>
 </job>
 <job>
-  <company>Flunch Traiteur</company>
-  <companydescription/>
-  <companyuuid>55610187823</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>4a02e06f-2c00-465f-b0e2-54dc6b785a8a</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title><![CDATA[Alternance Chargé(e) commercial traiteur]]></title>
-<description><![CDATA[<p><i><strong>HOPOPOP !&nbsp;</strong></i></p><p><strong>Flunch est à la recherche d’un(e) Chargé(e) commercial traiteur en alternance pour compléter son équipe au sein du restaurant de Béziers !</strong></p><p><br>Sous la responsabilité du Directeur(trice) de restaurant (F/H) et après une période de découverte du restaurant et de l'activité traiteur, tu t’inities et te perfectionnes au quotidien sur la mission opérationnelle du métier de Chargé(e) commercial traiteur.</p><p><br>&nbsp;</p><p><strong>Tes principales actions au quotidien :</strong></p><ul><li>Prospecter,</li><li>Développer, fidéliser et animer un portefeuille de clients traiteur,</li><li>Créer un kit d'animation des ventes digital et physique,</li><li>En collaboration avec l'équipe dédiée, mettre en production les commandes réalisées.</li></ul><p><strong>Tu prépares ton diplôme en alternance pour obtenir rapidement des responsabilités dans la gestion d'un restaurant ?</strong> A chaque étape et dès ton intégration, nos formations te permettront de prendre des responsabilités en toute confiance. Aujourd’hui étudiant(e), demain adjoint(e) de direction, futur(e) Directeur(trice), nos parcours internes te permettront de t'épanouir chez nous !</p> <p>Nous recherchons une personne enthousiaste, dynamique et dotée d’un bon esprit d’équipe. Organisée, réactive, autonome, elle aime satisfaire les clients au quotidien.</p><p>À l’aise dans un environnement en mouvement, adaptable, rigoureuse et motivée par le travail en équipe et le management.&nbsp;</p><p>Si tu veux rejoindre une entreprise à l’écoute et qui te fait confiance, envoie ta candidature !</p> <p>Les restaurants sont ouverts 7j/7, midi et soir donc tu pourras être amené(e) à travailler du lundi au dimanche, midi et soir.&nbsp;</p><p><br>Des coupures sont éventuelles surtout lors de la partie formation métier.&nbsp;</p><p><br>Sinon, tu pourras travailler :&nbsp;</p><ul><li>de 8h à 16h</li><li>de 15h à 22h30&nbsp;</li><li>de journée&nbsp;</li></ul><p>Tu recherches un contrat d'apprentissage pour la rentrée 2026 d'une durée de 12 à 24 mois maximum.</p> <p>Repas de fête, menus traiteur, plateaux repas, cocktails... Pour tous vos événements, Flunch Traiteur met à votre service 15 ans d'expérience et de savoir-faire.</p><p>Flunch Traiteur, c'est l'esprit Flunch dans un service traiteur !</p><p>&nbsp;</p><p>Depuis plus de 15 ans, nous accompagnons vos événements.&nbsp;Soirée entre amis,&nbsp;repas de famille,&nbsp;déjeuner entre collègues,&nbsp;mariage, cocktails dinatoires... Toute l'année, Flunch Traiteur&nbsp;vous propose un large choix de mets qui sauront séduire tous les palais et rendre vos événements inoubliables.<br>&nbsp;</p><p>Avec professionnalisme et passion, nous nous occupons de votre&nbsp;menu traiteur, des mises en bouche, aux&nbsp;desserts.&nbsp;Un&nbsp;menu traiteur&nbsp;que nous renouvelons régulièrement pour satisfaire vos envies de nouveautés et&nbsp;vos&nbsp;papilles gustatives&nbsp;bien sûr.</p>]]></description>
-  <startdate>2026-06-23</startdate>
-  <enddate></enddate>
-  <createddate>2026-06-23</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype>Apprentissage</employmenttype>
-  <employmentlevel></employmentlevel>
-  <url><![CDATA[https://api.magnet.work/v2/redirect/job-offer/flunch_careersite_cvcatcher/30404-hEWWmI?_fallback_url=https%3A%2F%2Fwww.hw-recruteur.com%2Foffer%2Fjoboffer%2Foffre-30404-hEWWmI%3Futm_source%3Dcookorico&utm_source=cookorico]]></url>
-  <applyurl><![CDATA[https://api.magnet.work/v2/redirect/job-offer/flunch_careersite_cvcatcher/30404-hEWWmI?_fallback_url=https%3A%2F%2Fwww.hw-recruteur.com%2Foffer%2Fjoboffer%2Foffre-30404-hEWWmI%3Futm_source%3Dcookorico&utm_source=cookorico]]></applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city><![CDATA[Béziers]]></city>
-      <zip>34500</zip>
-      <address><![CDATA[]]></address>
-      <countrycode></countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min>650</min>
-    <max>1867.02</max>
-    <currency>EUR</currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-<job>
   <company>Flunch</company>
   <companydescription/>
   <companyuuid>55292609139</companyuuid>
@@ -451,65 +451,6 @@
       <city><![CDATA[Dunkerque]]></city>
       <zip>59140</zip>
       <address><![CDATA[]]></address>
-      <countrycode></countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min>600</min>
-    <max>1750</max>
-    <currency>EUR</currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-<job>
-  <company>Flunch</company>
-  <companydescription/>
-  <companyuuid>55292609139</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>039cbf44-cebf-4e99-9fee-7ab3b746ed62</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title><![CDATA[Assistant(e) manager en alternance]]></title>
-<description><![CDATA[<p><i><strong>HOPOPOP !</strong></i></p><p><strong>Flunch est à la recherche d’un(e) Assistant(e) manager en alternance pour compléter son équipe au sein du restaurant d'Englos !</strong></p><br><p>Flunch se réinvente et nous avons besoin de toi ! Nous recherchons des assistant(e)s manager en alternance de 12 à 24 mois, répartis sur toute la France.</p><br><p>Sous la responsabilité du Directeur(trice) de restaurant, tu débutes par une immersion terrain pour découvrir l’ensemble des métiers du restaurant : traiteur, caisse, salle, Flunch Café… Une fois cette phase de découverte terminée, tu montes progressivement en compétences sur les deux missions principales de ton alternance :&nbsp;<strong>Animer ton équipe, ton restaurant et développer l’activité traiteur.&nbsp;</strong></p><p><br>&nbsp;Un poste complet, terrain et stimulant, pour apprendre, progresser et faire grandir l’activité avec ton équipe.</p><p><br>&nbsp;<strong>Plus en détail, tes principales missions au quotidien :&nbsp;</strong></p><ul><li>Accompagner une équipe sur le terrain en organisant le travail dans chaque secteur, et en s’assurant du bon fonctionnement du restaurant</li><li>Garantir la qualité des produits et le respect des normes d’hygiène&nbsp;</li><li>Accueillir les clients et t’assurer de leur satisfaction</li><li>Clôturer le service, éditer et contrôler la balance des caisses</li><li>Venir en renfort sur le service sur ton équipe à besoin de toi</li><li>Prospecter, développer, fidéliser et animer un portefeuille de clients sur la partie flunch traiteur</li></ul><p><br>&nbsp;<strong>Tu prépares ton diplôme en alternance pour obtenir rapidement des responsabilités dans la gestion d'un restaurant ?</strong> A chaque étape et dès ton intégration, nos formations te permettront de prendre des responsabilités en toute confiance. Aujourd’hui étudiant(e), demain adjoint(e) de direction, futur(e) Directeur(trice), ,nos parcours internes te permettront de t'épanouir chez nous !</p> <p>Nous recherchons une personne enthousiaste, dynamique et doté' d’un bon esprit d’équipe. Organisée, réactive, autonome, vous aimez satisfaire les clients au quotidien.</p><p>À l’aise dans un environnement en mouvement, adaptable, rigoureuse et motivée par le travail en équipe et le management.&nbsp;</p><p>Si tu veux rejoindre une entreprise à l’écoute et qui te fait confiance, envoie ta candidature !</p> <p>Les restaurants sont ouverts 7j/7, midi et soir donc tu pourras être amené(e) à travailler du lundi au dimanche, midi et soir.&nbsp;</p><p><br>Des coupures sont éventuelles surtout lors de la partie formation métier.&nbsp;</p><p><br>Sinon, tu pourras travailler :&nbsp;</p><ul><li>de 8h à 16h</li><li>de 15h à 22h30&nbsp;</li><li>de journée&nbsp;</li></ul><p>Tu recherches un contrat d'apprentissage pour la rentrée 2026 d'une durée de 12 à 24 mois maximum.</p> <p>Présente depuis 1971, notre société est une enseigne de restauration libre-service historique, pionnière de son concept. Nous défendons le bien manger à moindre coût pour donner accès au restaurant à tous : oui au resto plus souvent ! Dédié plus particulièrement aux petits et grands, Flunch est élu le restaurant préféré des familles depuis 2021.&nbsp;</p><p>Enseigne de restauration actuellement en pleine transformation, Flunch, grâce à l'ensemble de ses collaborateurs, innove chaque jour pour offrir à ses clients une expérience de restauration la plus optimale possible.</p><p><br>Pour l'ensemble des collaborateurs Flunch qui œuvrent chaque jour, que ce soit aux postes d'employé(e) de restaurant, d'adjoint(e) ou de Directeur(rice), nous souhaitons pouvoir les accompagner et les faire se développer au sein de l'entreprise. Fervents pratiquants de la promotion interne, tous ceux qui le souhaitent et s'en donnent les moyens peuvent se tracer un beau chemin chez Flunch !</p>]]></description>
-  <startdate>2026-06-23</startdate>
-  <enddate></enddate>
-  <createddate>2026-06-23</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype>Alternance</employmenttype>
-  <employmentlevel></employmentlevel>
-  <url><![CDATA[https://api.magnet.work/v2/redirect/job-offer/flunch_careersite_cvcatcher/30404-VQ1d0z?_fallback_url=https%3A%2F%2Fwww.hw-recruteur.com%2Foffer%2Fjoboffer%2Foffre-30404-VQ1d0z%3Futm_source%3Dcookorico&utm_source=cookorico]]></url>
-  <applyurl><![CDATA[https://api.magnet.work/v2/redirect/job-offer/flunch_careersite_cvcatcher/30404-VQ1d0z?_fallback_url=https%3A%2F%2Fwww.hw-recruteur.com%2Foffer%2Fjoboffer%2Foffre-30404-VQ1d0z%3Futm_source%3Dcookorico&utm_source=cookorico]]></applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city><![CDATA[Englos]]></city>
-      <zip>59320</zip>
-      <address><![CDATA[Auchan, A25 C.Cial, Route Nationale 352]]></address>
       <countrycode></countrycode>
       <region/>
     </location>
