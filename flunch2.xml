@@ -1,8 +1,79 @@
 <source>
 <publisher>Cookorico</publisher>
 <publisherurl>https://www.cookorico.com</publisherurl>
-<lastupdatedat>2026-06-29 03:01</lastupdatedat>
+<lastupdatedat>2026-06-30 09:01</lastupdatedat>
 
+<job>
+  <company>Flunch.</company>
+  <companydescription/>
+  <companyuuid></companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>4cdb4ddf-9411-4a63-9297-20b130c12e84</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title><![CDATA[Employé de restaurant - temps partiel (F/H)]]></title>
+<description><![CDATA[<p>Tu seras rattaché(e) au Directeur de Restaurant et auras pour objectifs : 
+</p><p>- Contribuer au développement des résultats du restaurant en accueillant et accompagnant les clients, réceptionnant les marchandises, préparant les plats, buffets ;
+</p><p>- Garantir la bonne tenue du restaurant (propreté des buffets, de la salle, laverie...) ;
+</p><p>- Veiller à effectuer les missions qui te sont confiées en respectant les normes et procédures (hygiène…) en vigueur chez flunch</p> <p>Ce que nous recherchons chez toi :
+</p><p>-  Ton enthousiasme, ton énergie et ton esprit d’équipe ;
+</p><p>-  De l’organisation, de la réactivité, de l’autonomie ;
+</p><p>-  L’envie de satisfaire, jour après jour, nos clients, petits et grands ;
+</p><p>- Idéalement, une formation en restauration enrichie d'une première expérience dans ce secteur.
+</p><p>
+</p><p>Envie de rejoindre une équipe engagée et motivée ? Et d’intégrer une entreprise qui accompagne ses collaborateurs dans l’évolution de leur carrière ? Contacte-nous !</p> <p>Ce poste est à pouvoir à temps partiel</p><p>Vous serez amené(e ) à travailler le week-end par roulement</p> <p>A chaque moment, à chaque endroit, il y a toujours un flunch pour moi.
+</p><p>D’ailleurs, 89% des français connaissent flunch et nous avons été élus Meilleure Chaîne en Restauration par les consommateurs pour la 3ème année consécutive !
+</p><p>
+Parce que notre ambition est de donner à tous le plaisir de fluncher en toutes occasions, dans tous les moments et lieux de vie, nous recherchons le fluncheur qui rejoindra nos équipes.</p>]]></description>
+  <startdate>2026-06-29</startdate>
+  <enddate></enddate>
+  <createddate>2026-06-29</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype>CDI</employmenttype>
+  <employmentlevel></employmentlevel>
+  <url><![CDATA[https://api.magnet.work/v2/redirect/job-offer/flunch_careersite_cvcatcher/30404-8co0qZ?_fallback_url=https%3A%2F%2Fwww.hw-recruteur.com%2Foffer%2Fjoboffer%2Foffre-30404-8co0qZ%3Futm_source%3Dcookorico&utm_source=cookorico]]></url>
+  <applyurl><![CDATA[https://api.magnet.work/v2/redirect/job-offer/flunch_careersite_cvcatcher/30404-8co0qZ?_fallback_url=https%3A%2F%2Fwww.hw-recruteur.com%2Foffer%2Fjoboffer%2Foffre-30404-8co0qZ%3Futm_source%3Dcookorico&utm_source=cookorico]]></applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city><![CDATA[Antibes]]></city>
+      <zip>06160</zip>
+      <address><![CDATA[]]></address>
+      <countrycode></countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min>10.03</min>
+    <max>10.03</max>
+    <currency>EUR</currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
 <job>
   <company>Flunch</company>
   <companydescription/>
