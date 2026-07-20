@@ -1,7 +1,7 @@
 <source>
 <publisher>Cookorico</publisher>
 <publisherurl>https://www.cookorico.com</publisherurl>
-<lastupdatedat>2026-07-20 09:02</lastupdatedat>
+<lastupdatedat>2026-07-20 03:00</lastupdatedat>
 
 <job>
   <company>Institut Lyfe</company>
@@ -707,65 +707,6 @@
   <salary>
     <min>45000</min>
     <max>49000</max>
-    <currency>EUR</currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-<job>
-  <company>Institut Lyfe</company>
-  <companydescription/>
-  <companyuuid>55836244231</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>cc57b06f-0ebf-4b1a-b2f3-fe42e4af23bc</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title><![CDATA[Cuisinier F/H]]></title>
-<description><![CDATA[<p>Dans le cadre de l’ouverture de ce nouvel établissement prévue <strong>fin août 2026</strong>&nbsp;<i>(date d’ouverture conditionnée au bon avancement des travaux)&nbsp;</i>nous recherchons un·e <strong>Cuisinier·ère F/H</strong> en <strong>CDI&nbsp;</strong>à partir du<strong> 17 août 2026&nbsp;</strong>pour intégrer les équipes en cuisine.</p><br><p><strong>Vos missions principales sont les suivantes&nbsp;:&nbsp;</strong></p><ul><li>Maîtriser et participer à la production culinaire du restaurant&nbsp;;</li><li>Appliquer et faire appliquer les règles d’hygiène et de sécurité alimentaire (normes HACCP)&nbsp;;</li><li>Veiller à la propreté de la cuisine et de sa partie, à l’état de l’équipement et du matériel utilisés&nbsp;;</li><li>Communiquer à sa hiérarchie ses besoins en produits pour les commandes.</li></ul><br><p>Cette liste n’est pas exhaustive et vous pouvez être amené·e à réaliser des missions transverses permettant de contribuer à la performance du service.&nbsp;</p> <p><strong>Et si vous étiez LA personne qu’il nous faut&nbsp;?</strong></p><br><p>Vous justifiez d’une formation CAP/BEP ou Bac Pro Cuisine au minimum.</p><p>Vous justifiez d’une <strong>première expérience professionnelle réussie (stage et alternance comprise)&nbsp;</strong>en tant que Commis·e de Cuisine.</p><p>Vous êtes reconnu·e pour votre<strong> réactivité,&nbsp;</strong>votre<strong> capacité d’adaptation</strong> et votre esprit d’équipe.</p><p>La <strong>maîtrise de l’anglais</strong> est un atout pour réussir sur ce poste.</p><ul><li><strong>Contrat&nbsp;</strong>: CDI</li><li><strong>Temps de travail&nbsp;:</strong> temps plein</li><li><strong>Prise de poste souhaitée&nbsp;:&nbsp;</strong>17 août 2026</li><li><strong>Statut&nbsp;:</strong> Employé</li><li><strong>Rémunération&nbsp;:</strong> Entre 24&nbsp;700€ et 25 800€ brut annuel</li><li><strong>Lieu de travail&nbsp;:</strong> 20 Place Bellecour – 69002 LYON</li></ul> <p><strong>Les avantages au sein de l’Institut Lyfe&nbsp;:&nbsp;</strong></p><br><p>Prix préférentiels dans les restaurants et hôtel du groupe, forfait mobilité durable, prime de cooptation, fermeture annuelle 2 semaines en août et 1 semaine à Noël, possibilité de réaliser des immersions en interne dans les autres établissements du Groupe Institut Lyfe, développement des compétences professionnelles par le biais de la formation, cadre de travail agréable (Place Bellecour), environnement challengeant et passionnant, opportunités de mobilités interne&nbsp;au sein du Groupe Institut Lyfe.</p><br><p><i>Toutes nos offres sont ouvertes aux personnes en situation de handicap et chaque candidature qualifiée est prise en considération sans égard pour&nbsp;la couleur, la religion, le sexe, l'ethnicité, l'âge, l'orientation sexuelle.</i></p> <p><strong>L’Institut Lyfe (ex-Institut Paul Bocuse)</strong> est une école de référence internationale qui forme, du Bachelor au Doctorat, les futur·e·s décideurs et décideuses des métiers de l’hôtellerie, des arts culinaires et de la pâtisserie, grâce à une pédagogie expérientielle axée sur le management, la créativité et l’innovation.</p><br><p>Fort d’un écosystème unique alliant formation, recherche et pratique professionnelle, il accueille plus de 1 200 étudiants de 75 nationalités et se distingue notamment par ses établissements d’application d’exception.</p><p>Dans le cadre de son développement, l’Institut Lyfe s’associe au <i>Groupe Yannick Alléno</i> pour ouvrir prochainement <strong>Pavyllon Lyon</strong>, un <i>restaurant-école</i> situé place Bellecour, permettant d’offrir aux étudiant·e·s un nouveau lieu d’application d’exception.&nbsp;</p><br><p>L’objectif est de construire une culture d’entreprise forte, fondée sur la confiance, la bienveillance, le professionnalisme et l’esprit d’équipe, où chacun peut s’épanouir, évoluer et réaliser ses ambitions</p>]]></description>
-  <startdate>2026-06-26</startdate>
-  <enddate></enddate>
-  <createddate>2026-06-26</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype>CDI</employmenttype>
-  <employmentlevel></employmentlevel>
-  <url><![CDATA[https://www.hw-recruteur.com/offer/joboffer/offre-107731-lieunE?utm_source=cookorico]]></url>
-  <applyurl><![CDATA[https://www.hw-recruteur.com/offer/apply/107731-lieunE?utm_source=cookorico]]></applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city><![CDATA[Lyon 2e]]></city>
-      <zip>69</zip>
-      <address><![CDATA[]]></address>
-      <countrycode></countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min>24700</min>
-    <max>25800</max>
     <currency>EUR</currency>
     <timeunit></timeunit>
   </salary>
