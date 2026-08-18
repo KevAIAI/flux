@@ -1,8 +1,67 @@
 <source>
 <publisher>Cookorico</publisher>
 <publisherurl>https://www.cookorico.com</publisherurl>
-<lastupdatedat>2026-08-17 03:03</lastupdatedat>
+<lastupdatedat>2026-08-18 09:01</lastupdatedat>
 
+<job>
+  <company>Flunch Traiteur</company>
+  <companydescription/>
+  <companyuuid>55610187823</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>8960cd89-ee08-4610-96de-63dccd37fc90</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title><![CDATA[Alternance Chargé(e) commercial traiteur]]></title>
+<description><![CDATA[<p><i><strong>HOPOPOP !</strong></i></p><p><strong>Flunch est à la recherche d’un(e) Chargé(e) commercial traiteur en alternance pour compléter son équipe au sein du restaurant de Toulouse Roques !</strong></p><p><br>Sous la responsabilité du Directeur(trice) de restaurant (F/H) et après une période de découverte du restaurant et de l'activité traiteur, tu t’inities et te perfectionnes au quotidien sur la mission opérationnelle du métier de Chargé(e) commercial traiteur.</p><br><p><strong>Tes principales actions au quotidien :</strong></p><ul><li>Prospecter,</li><li>Développer, fidéliser et animer un portefeuille de clients traiteur,</li><li>Créer un kit d'animation des ventes digital et physique,</li><li>En collaboration avec l'équipe dédiée, mettre en production les commandes réalisées.</li></ul><p><strong>Tu prépares ton diplôme en alternance pour obtenir rapidement des responsabilités dans la gestion d'un restaurant ?</strong> A chaque étape et dès ton intégration, nos formations te permettront de prendre des responsabilités en toute confiance. Aujourd’hui étudiant(e), demain adjoint(e) de direction, futur(e) Directeur(trice), nos parcours internes te permettront de t'épanouir chez nous !</p> <p>Nous recherchons une personne enthousiaste, dynamique et dotée d’un bon esprit d’équipe. Organisée, réactive, autonome, elle aime satisfaire les clients au quotidien.</p><p>À l’aise dans un environnement en mouvement, adaptable, rigoureuse et motivée par le travail en équipe et le management.&nbsp;</p><p>Si tu veux rejoindre une entreprise à l’écoute et qui te fait confiance, envoie ta candidature !</p> <p>Les restaurants sont ouverts 7j/7, midi et soir donc tu pourras être amené(e) à travailler du lundi au dimanche, midi et soir.&nbsp;</p><p><br>Des coupures sont éventuelles surtout lors de la partie formation métier.&nbsp;</p><p><br>Sinon, tu pourras travailler :&nbsp;</p><ul><li>de 8h à 16h</li><li>de 15h à 22h30&nbsp;</li><li>de journée&nbsp;</li></ul><p>Tu recherches un contrat d'apprentissage pour la rentrée 2026 d'une durée de 12 à 24 mois maximum.</p> <p>Repas de fête, menus traiteur, plateaux repas, cocktails... Pour tous vos événements, Flunch Traiteur met à votre service 15 ans d'expérience et de savoir-faire.</p><p>Flunch Traiteur, c'est l'esprit Flunch dans un service traiteur !</p><p>&nbsp;</p><p>Depuis plus de 15 ans, nous accompagnons vos événements.&nbsp;Soirée entre amis,&nbsp;repas de famille,&nbsp;déjeuner entre collègues,&nbsp;mariage, cocktails dinatoires... Toute l'année, Flunch Traiteur&nbsp;vous propose un large choix de mets qui sauront séduire tous les palais et rendre vos événements inoubliables.<br>&nbsp;</p><p>Avec professionnalisme et passion, nous nous occupons de votre&nbsp;menu traiteur, des mises en bouche, aux&nbsp;desserts.&nbsp;Un&nbsp;menu traiteur&nbsp;que nous renouvelons régulièrement pour satisfaire vos envies de nouveautés et&nbsp;vos&nbsp;papilles gustatives&nbsp;bien sûr.</p>]]></description>
+  <startdate>2026-08-17</startdate>
+  <enddate></enddate>
+  <createddate>2026-08-17</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype>Apprentissage</employmenttype>
+  <employmentlevel></employmentlevel>
+  <url><![CDATA[https://api.magnet.work/v2/redirect/job-offer/flunch_careersite_cvcatcher/30404-3efymj?_fallback_url=https%3A%2F%2Fwww.hw-recruteur.com%2Foffer%2Fjoboffer%2Foffre-30404-3efymj%3Futm_source%3Dcookorico&utm_source=cookorico]]></url>
+  <applyurl><![CDATA[https://api.magnet.work/v2/redirect/job-offer/flunch_careersite_cvcatcher/30404-3efymj?_fallback_url=https%3A%2F%2Fwww.hw-recruteur.com%2Foffer%2Fjoboffer%2Foffre-30404-3efymj%3Futm_source%3Dcookorico&utm_source=cookorico]]></applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city><![CDATA[Toulouse]]></city>
+      <zip>31000</zip>
+      <address><![CDATA[5 All. de Fraixinet C.CIAL LECLERC, 31120 Roques]]></address>
+      <countrycode></countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min>650</min>
+    <max>1867.02</max>
+    <currency>EUR</currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
 <job>
   <company>Flunch.</company>
   <companydescription/>
