@@ -1,8 +1,67 @@
 <source>
 <publisher>Cookorico</publisher>
 <publisherurl>https://www.cookorico.com</publisherurl>
-<lastupdatedat>2026-08-24 09:01</lastupdatedat>
+<lastupdatedat>2026-08-24 03:02</lastupdatedat>
 
+<job>
+  <company>Fa!m</company>
+  <companydescription/>
+  <companyuuid>55610616154</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>1b2abfbc-6910-410f-91fa-11d48736921d</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title><![CDATA[Employé(e) polyvalent(e) en restauration]]></title>
+<description><![CDATA[<p>Tu as peut-être entendu parler de nous ? Nous sommes le 1er concept de restauration digital et connecté, avec la technologie Amazon Hub, pensé pour offre aux clients un service de <i>click &amp; collect </i>simple, tout en garantissant une expérience de restauration humaine et commerçante de proximité.</p><br><p>Dans ce cadre novateur mêlant <strong>technologie, logistique urbaine et relation client </strong>situé dans le centre-ville de Lille, nous recrutons un(e) Employé(e) de restauration (CDI temps partiel 25h) pour animer ce lieu du lundi au dimanche !&nbsp;<br><br>Vos missions principales incluent :</p><ul><li>Agir en véritable commerçant par un accueil irréprochable et une approche de conseil aux clients avec le sourire, tout en garantissant leur satisfaction ;</li><li>Assurer un service rapide et efficace au comptoir ;</li><li>Participer à la préparation des plats selon les standards culinaires de fa!m ;</li><li>Assurer l'entretien quotidien des espaces polyvalents (cuisine, salle, sanitaires), en respectant rigoureusement les normes d'hygiène et de sécurité ;</li><li>Gérer les encaissements ;&nbsp;</li><li>Contribuer au bon fonctionnement général du point de restauration par votre entraide au sein de l'équipe ;</li></ul> <p><strong>Ce que nous recherchons :</strong></p><ul><li>Une posture avenante, souriante et commerçante</li><li>Une bonne capacité à travailler en équipe dans un environnement dynamique</li><li>Des compétences relationnelles solides envers les clients et collègues</li><li>Une grande adaptabilité aux divers besoins inhérents au poste</li><li>Un sens aigu des priorités pour gérer plusieurs tâches simultanément</li><li>Une aisance avec les outils numériques.</li></ul> <p>Tes avantages sociaux :</p><ul><li>Repas fournis pour chaque service presté</li><li>2 jours de repos non consécutifs par semaine</li><li>Mutuelle entreprise</li><li>Une hiérarchie respectueuse</li><li>Une équipe au top !</li></ul> <p><strong>Pourquoi nous rejoindre ?</strong></p><ul><li>Une&nbsp;<strong>aventure&nbsp;</strong>dans un concept unique ;&nbsp;</li><li>Intégrer une équipe passionnée par la restauration, la qualité et le service ;</li><li>Participer à la réussite d’un concept&nbsp;<strong>unique et prometteur</strong>.</li></ul><p>Fais partie de celles et ceux qui écrivent le début de l’histoire&nbsp;<strong>Fa!m</strong>.&nbsp;</p>]]></description>
+  <startdate>2026-08-24</startdate>
+  <enddate></enddate>
+  <createddate>2026-08-24</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype>CDI</employmenttype>
+  <employmentlevel></employmentlevel>
+  <url><![CDATA[https://api.magnet.work/v2/redirect/job-offer/flunch_careersite_cvcatcher/30404-dJcgAc?_fallback_url=https%3A%2F%2Fwww.hw-recruteur.com%2Foffer%2Fjoboffer%2Foffre-30404-dJcgAc%3Futm_source%3Dcookorico&utm_source=cookorico]]></url>
+  <applyurl><![CDATA[https://api.magnet.work/v2/redirect/job-offer/flunch_careersite_cvcatcher/30404-dJcgAc?_fallback_url=https%3A%2F%2Fwww.hw-recruteur.com%2Foffer%2Fjoboffer%2Foffre-30404-dJcgAc%3Futm_source%3Dcookorico&utm_source=cookorico]]></applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city><![CDATA[Lille]]></city>
+      <zip>59000</zip>
+      <address><![CDATA[]]></address>
+      <countrycode></countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min>1867.02</min>
+    <max>1867.02</max>
+    <currency>EUR</currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
 <job>
   <company>Flunch.</company>
   <companydescription/>
@@ -1557,65 +1616,6 @@ Parce que notre ambition est de donner à tous le plaisir de fluncher en toutes 
   <salary>
     <min>1867.02</min>
     <max>2000</max>
-    <currency>EUR</currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-<job>
-  <company>Fa!m</company>
-  <companydescription/>
-  <companyuuid>55610616154</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>1b2abfbc-6910-410f-91fa-11d48736921d</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title><![CDATA[Employé(e) polyvalent(e) en restauration]]></title>
-<description><![CDATA[<p>Tu as peut-être entendu parler de nous ? Nous sommes le 1er concept de restauration digital et connecté, avec la technologie Amazon Hub, pensé pour offre aux clients un service de <i>click &amp; collect </i>simple, tout en garantissant une expérience de restauration humaine et commerçante de proximité.</p><br><p>Dans ce cadre novateur mêlant <strong>technologie, logistique urbaine et relation client </strong>situé dans le centre-ville de Lille, nous recrutons un(e) Employé(e) de restauration (CDI temps partiel 25h) pour animer ce lieu du lundi au dimanche !&nbsp;<br><br>Vos missions principales incluent :</p><ul><li>Agir en véritable commerçant par un accueil irréprochable et une approche de conseil aux clients avec le sourire, tout en garantissant leur satisfaction ;</li><li>Assurer un service rapide et efficace au comptoir ;</li><li>Participer à la préparation des plats selon les standards culinaires de fa!m ;</li><li>Assurer l'entretien quotidien des espaces polyvalents (cuisine, salle, sanitaires), en respectant rigoureusement les normes d'hygiène et de sécurité ;</li><li>Gérer les encaissements ;&nbsp;</li><li>Contribuer au bon fonctionnement général du point de restauration par votre entraide au sein de l'équipe ;</li></ul> <p><strong>Ce que nous recherchons :</strong></p><ul><li>Une posture avenante, souriante et commerçante</li><li>Une bonne capacité à travailler en équipe dans un environnement dynamique</li><li>Des compétences relationnelles solides envers les clients et collègues</li><li>Une grande adaptabilité aux divers besoins inhérents au poste</li><li>Un sens aigu des priorités pour gérer plusieurs tâches simultanément</li><li>Une aisance avec les outils numériques.</li></ul> <p>Tes avantages sociaux :</p><ul><li>Repas fournis pour chaque service presté</li><li>2 jours de repos non consécutifs par semaine</li><li>Mutuelle entreprise</li><li>Une hiérarchie respectueuse</li><li>Une équipe au top !</li></ul> <p><strong>Pourquoi nous rejoindre ?</strong></p><ul><li>Une&nbsp;<strong>aventure&nbsp;</strong>dans un concept unique ;&nbsp;</li><li>Intégrer une équipe passionnée par la restauration, la qualité et le service ;</li><li>Participer à la réussite d’un concept&nbsp;<strong>unique et prometteur</strong>.</li></ul><p>Fais partie de celles et ceux qui écrivent le début de l’histoire&nbsp;<strong>Fa!m</strong>.&nbsp;</p>]]></description>
-  <startdate>2026-08-14</startdate>
-  <enddate></enddate>
-  <createddate>2026-08-14</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype>CDI</employmenttype>
-  <employmentlevel></employmentlevel>
-  <url><![CDATA[https://api.magnet.work/v2/redirect/job-offer/flunch_careersite_cvcatcher/30404-dJcgAc?_fallback_url=https%3A%2F%2Fwww.hw-recruteur.com%2Foffer%2Fjoboffer%2Foffre-30404-dJcgAc%3Futm_source%3Dcookorico&utm_source=cookorico]]></url>
-  <applyurl><![CDATA[https://api.magnet.work/v2/redirect/job-offer/flunch_careersite_cvcatcher/30404-dJcgAc?_fallback_url=https%3A%2F%2Fwww.hw-recruteur.com%2Foffer%2Fjoboffer%2Foffre-30404-dJcgAc%3Futm_source%3Dcookorico&utm_source=cookorico]]></applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city><![CDATA[Lille]]></city>
-      <zip>59000</zip>
-      <address><![CDATA[]]></address>
-      <countrycode></countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min>1867.02</min>
-    <max>1867.02</max>
     <currency>EUR</currency>
     <timeunit></timeunit>
   </salary>
