@@ -1,7 +1,7 @@
 <source>
 <publisher>Cookorico</publisher>
 <publisherurl>https://www.cookorico.com</publisherurl>
-<lastupdatedat>2026-10-24 03:00</lastupdatedat>
+<lastupdatedat>2026-10-25 09:00</lastupdatedat>
 
 <job>
   <company>Flunch</company>
@@ -1992,65 +1992,6 @@ Parce que notre ambition est de donner à tous le plaisir de fluncher en toutes 
   <salary>
     <min>1867.02</min>
     <max>2000</max>
-    <currency>EUR</currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-<job>
-  <company>Flunch</company>
-  <companydescription/>
-  <companyuuid>55292609139</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>6f735a3f-08c5-44c6-a4d9-a4f2c3f24885</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title><![CDATA[Technicien(ne) de maintenance]]></title>
-<description><![CDATA[<p><strong>Hop Hop Hop ! Oui toi là …</strong></p><p>Tu as envie de participer à une belle aventure ?</p><p>Flunch recrute un <strong>technicien de maintenance (H/F) </strong>pour deux restaurants de<strong> l'agglomération bordelaise </strong>afin d'assurer la pérennité et le fonctionnement optimal du matériel, des équipements et infrastructures.<br>&nbsp;</p><p><strong>Rattaché(e) hiérarchiquement à la Direction du restaurant et en lien fonctionnel avec la Direction Technique nationale, ta mission sera de :</strong></p><p>▪ Prendre en charge la maintenance des&nbsp;restaurants de manière organisée, coordonnée et efficace ;</p><p>▪ Assurer l’entretien préventif et curatif de l’ensemble des équipements et matériels du restaurant ;</p><p>▪ Contribuer à maintenir en état le patrimoine ;</p><p>▪Contribuer à la satisfaction des clients ainsi qu’au bien-être des collaborateurs en assurant le bon fonctionnement des machines et matériels, en garantissant l’entretien technique des locaux ;</p><p>▪ Veiller à effectuer les missions qui te sont confiées en respectant les normes et procédures en vigueur chez Flunch.</p> <p><strong>Ce que nous recherchons chez toi :</strong></p><ul><li>Une formation validée en électricité et en électrotechnique (Minimum Bac Pro, Formation en maintenance industrielle ou&nbsp;BTS) ;</li><li>Une première expérience professionnelle acquise dans le domaine de la maintenance et qui t’a permis de développer des compétences en climatisation / froid et dans les techniques&nbsp;des métiers du bâtiment (plomberie, peinture, carrelage ..) ;</li><li>la pratique d'un logiciel de GMAO (Gestion de Maintenance Assistée par Ordinateur) et la maîtrise de la lecture et de l’interprétation des notices et schémas d’équipements&nbsp;sont des atouts supplémentaires&nbsp;;</li><li>Organisé, réactif, autonome et persévérant, tu aimes la technique et respectes scrupuleusement les règles&nbsp;d'hygiène alimentaire&nbsp;et normes de sécurité des ERP dédiés à la restauration ;</li><li>Pédagogue, tu garantis la bonne utilisation des matériels par les équipes en restaurant ;</li><li>Par ton comportement exemplaire, tu contribues pleinement au bon mode de fonctionnement des équipes et à la satisfaction de nos clients : petits et grands ;</li></ul><p>Envie de rejoindre une équipe engagée et motivée ? Et d’intégrer une entreprise qui accompagne ses collaborateurs dans l’évolution de leur carrière ?<strong> Contacte-nous !</strong></p> <p>Ce poste est à pouvoir en CDI à temps complet (35 heures/semaine).&nbsp;</p><p>Les formations sont prises en charge par l'entreprise.</p><p>Les avantages :</p><ul><li>Véhicule de service avec carte essence&nbsp;</li><li>Pas d'astreinte&nbsp;</li><li>Téléphone portable</li><li>Gratification de l'équivalent d'un mois de salaire s'acquiérant progressivement sur les trois premières années&nbsp;</li></ul> <p>Enseigne de restauration actuellement en pleine transformation, flunch, grâce à l'ensemble de ces collaborateurs, innove chaque jour pour offrir à ses clients une expérience de restauration la plus optimale possible.<br><br>Pour l'ensemble des collaborateurs flunch qui oeuvrent chaque jour, que ce soit en restaurant ou au siège social, nous souhaitons pouvoir les accompagner et les faire se développer au sein de l'entreprise. Fervents pratiquants de la promotion interne, tous ceux qui le souhaitent et s'en donnent les moyens peuvent se tracer un beau chemin chez flunch !</p>]]></description>
-  <startdate>2026-10-12</startdate>
-  <enddate></enddate>
-  <createddate>2026-10-12</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype>CDI</employmenttype>
-  <employmentlevel></employmentlevel>
-  <url><![CDATA[https://www.hw-recruteur.com/offer/joboffer/offre-30404-bR51t2?utm_source=cookorico]]></url>
-  <applyurl><![CDATA[https://www.hw-recruteur.com/offer/apply/30404-bR51t2?utm_source=cookorico]]></applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city><![CDATA[Bordeaux]]></city>
-      <zip>33000</zip>
-      <address><![CDATA[]]></address>
-      <countrycode></countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min>2300</min>
-    <max>2300</max>
     <currency>EUR</currency>
     <timeunit></timeunit>
   </salary>
