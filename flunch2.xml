@@ -1,8 +1,67 @@
 <source>
 <publisher>Cookorico</publisher>
 <publisherurl>https://www.cookorico.com</publisherurl>
-<lastupdatedat>2026-10-26 09:02</lastupdatedat>
+<lastupdatedat>2026-10-26 03:01</lastupdatedat>
 
+<job>
+  <company>Flunch</company>
+  <companydescription/>
+  <companyuuid>55292609139</companyuuid>
+  <logotype></logotype>
+  <headquarters>
+    <country></country>
+    <city></city>
+    <postalcode></postalcode>
+    <zip></zip>
+    <address></address>
+    <countrycode></countrycode>
+    <region/>
+  </headquarters>
+  <referencenumber>8b675ac9-b0a8-46fc-9d63-8af1e4f544a7</referencenumber>
+  <jobboardid>cookorico</jobboardid>
+  <title><![CDATA[Juriste droit social]]></title>
+<description><![CDATA[<p><strong>Rejoignez FLUNCH, enseigne de restauration en pleine transformation !</strong></p><br><p>Intégrez notre Direction des Ressources Humaines pour accompagner au quotidien nos RRH et managers sur l'ensemble de leurs enjeux juridiques et sociaux.&nbsp;</p><br><p>Au sein d’un environnement multisites, nous recherchons un(e) <strong>Juriste en droit social expérimenté(e)</strong> pour accompagner nos équipes RH et managers dans la gestion des relations de travail et sécuriser nos pratiques sociales.<br>&nbsp;</p><p><strong>Missions principales</strong> :</p><ul><li>Conseil et Relations individuelles : accompagner les RRH et managers sur les relations individuelles et collectives du travail : procédures disciplinaires, rédaction des courriers et des contrats de travail, gestion des situations sensibles, etc …;</li><li>Contentieux : Piloter les dossiers complexes et suivre les procédures avec nos avocats ;</li><li>Relations collectives &amp; Dialogue social&nbsp;: Piloter et sécuriser les élections professionnelles, participer à la rédaction des accords d'entreprise et veiller à leur déploiement opérationnel ;</li><li>Projets stratégiques : Accompagner juridiquement les opérations de réorganisation, cessions, acquisitions ou procédures de PSE;&nbsp;</li><li>Formation : Concevoir et animer des sessions de formations en droit du travail à destination des managers ;</li><li>Veille &amp; Outils : Assurer la veille juridique et la traduire en supports adaptés aux besoins des équipes (modèles types, procédures et notes d’information).</li></ul> <p>Vous disposez d’une formation supérieure en droit social (Master 2 ou équivalent) et justifiez d’une expérience d’au moins 5 ans sur un poste similaire, acquise dans un environnement multisites.<br>&nbsp;</p><p>Expert(e) en droit du travail, vous maîtrisez les relations individuelles et collectives.&nbsp;<br>&nbsp;</p><p>Vous êtes reconnu(e) pour votre capacité à rendre le droit accessible et à proposer des solutions concrètes, pragmatiques et sécurisées.<br>&nbsp;</p><p>Rigoureux(se) et autonome, vous faites preuve de pédagogie, de réactivité et d’un réel sens du service auprès des équipes opérationnelles.<br>&nbsp;</p> <p><strong>Envie de mettre votre expertise au service d’une enseigne en pleine mutation ? Rejoignez FLUNCH et contribuez activement à la sécurisation de nos pratiques RH et au développement de nos équipes !</strong></p><p>Vous bénéficierez notamment de :</p><ul><li>Tickets restaurant ;</li><li>Gratification annuelle de l'équivalent d'un mois de salaire supplémentaire sauf absences ;</li><li>Bonus annuel sur objectifs ;</li><li>Télétravail à raison d'un jour par semaine après la période d'intégration ;</li><li>Mutuelle et prévoyance ;</li><li>Avantages CSE&nbsp;</li></ul> <p>Présente depuis 1971, notre société est une enseigne de restauration historique pionnière de son concept.&nbsp;<br>&nbsp;</p><p>Nous défendons le bien manger à moindre coût pour donner accès au restaurant à tous : oui au resto plus souvent !</p><br><p>Dédié plus particulièrement aux petits et grands, flunch est élu le restaurant préféré des familles depuis 2021.</p><br><p>Enseigne de restauration actuellement en pleine transformation, flunch, grâce à l'ensemble de ces collaborateurs, innove chaque jour pour offrir à ses clients une expérience de restauration la plus optimale possible.<br><br>Pour l'ensemble des collaborateurs flunch qui œuvrent chaque jour, que ce soit aux postes d'employé(e) de restaurant, d'adjoint(e) ou de Directeur(rice), nous souhaitons pouvoir les accompagner et les faire se développer au sein de l'entreprise. Fervents pratiquants de la promotion interne, tous ceux qui le souhaitent et s'en donnent les moyens peuvent se tracer un beau chemin chez flunch !</p>]]></description>
+  <startdate>2026-10-26</startdate>
+  <enddate></enddate>
+  <createddate>2026-10-26</createddate>
+  <remotestatus></remotestatus>
+  <employmenttype>CDI</employmenttype>
+  <employmentlevel></employmentlevel>
+  <url><![CDATA[https://www.hw-recruteur.com/offer/joboffer/offre-30404-1QfPO5?utm_source=cookorico]]></url>
+  <applyurl><![CDATA[https://www.hw-recruteur.com/offer/apply/30404-1QfPO5?utm_source=cookorico]]></applyurl>
+  <coverimageurl></coverimageurl>
+  <pitch></pitch>
+  <applybuttontext/>
+  <locations>
+    <location>
+      <country>France</country>
+      <city><![CDATA[Lezennes]]></city>
+      <zip>59260</zip>
+      <address><![CDATA[]]></address>
+      <countrycode></countrycode>
+      <region/>
+    </location>
+  </locations>
+  <customfields/>
+  <department>
+    <name></name>
+  </department>
+  <role>
+    <name/>
+  </role>
+  <recruiter>
+    <name></name>
+    <email></email>
+    <phone></phone>
+  </recruiter>
+  <tags/>
+  <salary>
+    <min>40000</min>
+    <max>50000</max>
+    <currency>EUR</currency>
+    <timeunit></timeunit>
+  </salary>
+</job>
 <job>
   <company>Flunch</company>
   <companydescription/>
@@ -117,65 +176,6 @@
   <salary>
     <min>650</min>
     <max>1867.02</max>
-    <currency>EUR</currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-<job>
-  <company>Flunch</company>
-  <companydescription/>
-  <companyuuid>55292609139</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>8b675ac9-b0a8-46fc-9d63-8af1e4f544a7</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title><![CDATA[Juriste droit social]]></title>
-<description><![CDATA[<p><strong>Rejoignez FLUNCH, enseigne de restauration en pleine transformation !</strong></p><br><p>Intégrez notre Direction des Ressources Humaines pour accompagner au quotidien nos RRH et managers sur l'ensemble de leurs enjeux juridiques et sociaux.&nbsp;</p><br><p>Au sein d’un environnement multisites, nous recherchons un(e) <strong>Juriste en droit social expérimenté(e)</strong> pour accompagner nos équipes RH et managers dans la gestion des relations de travail et sécuriser nos pratiques sociales.<br>&nbsp;</p><p><strong>Missions principales</strong> :</p><ul><li>Conseil et Relations individuelles : accompagner les RRH et managers sur les relations individuelles et collectives du travail : procédures disciplinaires, rédaction des courriers et des contrats de travail, gestion des situations sensibles, etc …;</li><li>Contentieux : Piloter les dossiers complexes et suivre les procédures avec nos avocats ;</li><li>Relations collectives &amp; Dialogue social&nbsp;: Piloter et sécuriser les élections professionnelles, participer à la rédaction des accords d'entreprise et veiller à leur déploiement opérationnel ;</li><li>Projets stratégiques : Accompagner juridiquement les opérations de réorganisation, cessions, acquisitions ou procédures de PSE;&nbsp;</li><li>Formation : Concevoir et animer des sessions de formations en droit du travail à destination des managers ;</li><li>Veille &amp; Outils : Assurer la veille juridique et la traduire en supports adaptés aux besoins des équipes (modèles types, procédures et notes d’information).</li></ul> <p>Vous disposez d’une formation supérieure en droit social (Master 2 ou équivalent) et justifiez d’une expérience d’au moins 5 ans sur un poste similaire, acquise dans un environnement multisites.<br>&nbsp;</p><p>Expert(e) en droit du travail, vous maîtrisez les relations individuelles et collectives.&nbsp;<br>&nbsp;</p><p>Vous êtes reconnu(e) pour votre capacité à rendre le droit accessible et à proposer des solutions concrètes, pragmatiques et sécurisées.<br>&nbsp;</p><p>Rigoureux(se) et autonome, vous faites preuve de pédagogie, de réactivité et d’un réel sens du service auprès des équipes opérationnelles.<br>&nbsp;</p> <p><strong>Envie de mettre votre expertise au service d’une enseigne en pleine mutation ? Rejoignez FLUNCH et contribuez activement à la sécurisation de nos pratiques RH et au développement de nos équipes !</strong></p><p>Vous bénéficierez notamment de :</p><ul><li>Tickets restaurant ;</li><li>Gratification annuelle de l'équivalent d'un mois de salaire supplémentaire sauf absences ;</li><li>Bonus annuel sur objectifs ;</li><li>Télétravail à raison d'un jour par semaine après la période d'intégration ;</li><li>Mutuelle et prévoyance ;</li><li>Avantages CSE&nbsp;</li></ul> <p>Présente depuis 1971, notre société est une enseigne de restauration historique pionnière de son concept.&nbsp;<br>&nbsp;</p><p>Nous défendons le bien manger à moindre coût pour donner accès au restaurant à tous : oui au resto plus souvent !</p><br><p>Dédié plus particulièrement aux petits et grands, flunch est élu le restaurant préféré des familles depuis 2021.</p><br><p>Enseigne de restauration actuellement en pleine transformation, flunch, grâce à l'ensemble de ces collaborateurs, innove chaque jour pour offrir à ses clients une expérience de restauration la plus optimale possible.<br><br>Pour l'ensemble des collaborateurs flunch qui œuvrent chaque jour, que ce soit aux postes d'employé(e) de restaurant, d'adjoint(e) ou de Directeur(rice), nous souhaitons pouvoir les accompagner et les faire se développer au sein de l'entreprise. Fervents pratiquants de la promotion interne, tous ceux qui le souhaitent et s'en donnent les moyens peuvent se tracer un beau chemin chez flunch !</p>]]></description>
-  <startdate>2026-10-23</startdate>
-  <enddate></enddate>
-  <createddate>2026-10-23</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype>CDI</employmenttype>
-  <employmentlevel></employmentlevel>
-  <url><![CDATA[https://www.hw-recruteur.com/offer/joboffer/offre-30404-1QfPO5?utm_source=cookorico]]></url>
-  <applyurl><![CDATA[https://www.hw-recruteur.com/offer/apply/30404-1QfPO5?utm_source=cookorico]]></applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city><![CDATA[Lezennes]]></city>
-      <zip>59260</zip>
-      <address><![CDATA[]]></address>
-      <countrycode></countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min>40000</min>
-    <max>50000</max>
     <currency>EUR</currency>
     <timeunit></timeunit>
   </salary>
