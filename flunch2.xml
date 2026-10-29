@@ -1,7 +1,7 @@
 <source>
 <publisher>Cookorico</publisher>
 <publisherurl>https://www.cookorico.com</publisherurl>
-<lastupdatedat>2026-10-28 03:00</lastupdatedat>
+<lastupdatedat>2026-10-29 09:01</lastupdatedat>
 
 <job>
   <company>Flunch</company>
@@ -2096,66 +2096,6 @@
   <salary>
     <min>2050</min>
     <max>2230</max>
-    <currency>EUR</currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-<job>
-  <company>Flunch</company>
-  <companydescription/>
-  <companyuuid>55292609139</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>8835adec-4612-418d-bdcc-350f9bb6dbdc</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title><![CDATA[Job étudiant - Employé(e) polyvalent(e) de restaurant]]></title>
-<description><![CDATA[<p>Le restaurant Flunch de Cambrai recherche dès aujourd'hui de nouveaux employés de restauration (H/F) en job étudiant pour venir compléter l'équipe actuelle.<br>&nbsp;</p><p><strong>Sous la Direction du directeur de restaurant, ta mission sera de :</strong></p><ul><li>Contribuer au développement des résultats du restaurant en accueillant et accompagnant les clients, réceptionnant les marchandises, préparant les plats, buffets ;</li><li>Garantir la bonne tenue du restaurant (propreté des buffets, de la salle, laverie...) ;</li><li>Veiller à effectuer les missions qui te sont confiées en respectant les normes et procédures (hygiène…) en vigueur chez Flunch ;</li><li>Faire preuve d'autonomie et prendre des initiatives afin que les managers puissent te déléguer au fur et à mesure des missions.</li></ul><p>Voici les différents pôles dans lesquels tu pourras être amené(e) à évoluer, après une période de formation interne :</p><br><p><i><strong>Secteur Fabrication (froid/pâtisserie, plats cuisinés, grillades, planchas, burgers) :</strong></i></p><ul><li>Préparer et dresser des mets simples ou chauds par assemblage des différents éléments nécessaires, en se conformant à des procédures de fabrication.</li><li>Procéder au ravitaillement en salle ou en cuisine et assurer un service- conseil auprès de la clientèle.</li></ul><p><i><strong>Secteur Caisse&nbsp;/ Flunch café :&nbsp;</strong></i></p><ul><li>Accueillir le client</li><li>Réaliser les commandes</li><li>Tenir la caisse et assurer un service/conseil auprès de la clientèle.&nbsp;</li></ul><p><i><strong>Secteur Salle / Laverie&nbsp;:&nbsp;</strong></i></p><ul><li>Débarrasser, nettoyer, ranger la salle et participer au lavage de la vaisselle.&nbsp;</li></ul><p>Nous valorisons la promotion interne : après une intégration réussie sur le poste d'employé de restaurant, tu peux viser les métiers de référents formation et même managers !</p> <p><strong>Ce que nous recherchons chez toi : </strong></p> <ul> <li>Ton enthousiasme, ton énergie et ton esprit d’équipe ;</li> <li>De l’organisation, de la réactivité, de l’autonomie ;</li> <li>L’envie de satisfaire, jour après jour, nos clients, petits et grands ;</li> <li>Idéalement, une formation en restauration enrichie d'une première expérience dans ce secteur ou sur un poste en cuisine est un plus.</li>
-</ul> <p>Envie de rejoindre une équipe engagée et motivée ? Et d’intégrer une entreprise qui accompagne ses collaborateurs dans l’évolution de leur carrière ?<strong> Contacte-nous !</strong></p> <p>Ce poste est à pouvoir immédiatement en CDI&nbsp;à temps partiel. Le planning sera adapté en fonction de votre emploi du temps.</p><br><p>Repas sur place pris en charge à hauteur de 14€15 par repas par l'employeur</p> <p>A chaque moment, à chaque endroit, il y a toujours un flunch pour moi.</p> <p>D’ailleurs, 89% des français connaissent Flunch et nous avons été élus Meilleure Chaîne en Restauration par les consommateurs pour la 3ème année consécutive !</p> <p>Parce que notre ambition est de donner à tous le plaisir de fluncher en toutes occasions, dans tous les moments et lieux de vie, nous recherchons le fluncheur qui rejoindra nos équipes.</p>]]></description>
-  <startdate>2026-10-12</startdate>
-  <enddate></enddate>
-  <createddate>2026-10-12</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype>CDI</employmenttype>
-  <employmentlevel></employmentlevel>
-  <url><![CDATA[https://www.hw-recruteur.com/offer/joboffer/offre-30404-r05CQP?utm_source=cookorico]]></url>
-  <applyurl><![CDATA[https://www.hw-recruteur.com/offer/apply/30404-r05CQP?utm_source=cookorico]]></applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city><![CDATA[Cambrai]]></city>
-      <zip>59400</zip>
-      <address><![CDATA[Centre Commercial Auchan]]></address>
-      <countrycode></countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min>1867.02</min>
-    <max>2000</max>
     <currency>EUR</currency>
     <timeunit></timeunit>
   </salary>
