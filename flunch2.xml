@@ -1,7 +1,7 @@
 <source>
 <publisher>Cookorico</publisher>
 <publisherurl>https://www.cookorico.com</publisherurl>
-<lastupdatedat>2026-11-13 03:00</lastupdatedat>
+<lastupdatedat>2026-11-14 09:00</lastupdatedat>
 
 <job>
   <company>Flunch</company>
@@ -1534,66 +1534,6 @@
       <city><![CDATA[Nice]]></city>
       <zip>06000</zip>
       <address><![CDATA[Centre commercial Carrefour Nice Lingostière]]></address>
-      <countrycode></countrycode>
-      <region/>
-    </location>
-  </locations>
-  <customfields/>
-  <department>
-    <name></name>
-  </department>
-  <role>
-    <name/>
-  </role>
-  <recruiter>
-    <name></name>
-    <email></email>
-    <phone></phone>
-  </recruiter>
-  <tags/>
-  <salary>
-    <min>1867.02</min>
-    <max>1867.02</max>
-    <currency>EUR</currency>
-    <timeunit></timeunit>
-  </salary>
-</job>
-<job>
-  <company>Flunch</company>
-  <companydescription/>
-  <companyuuid>55292609139</companyuuid>
-  <logotype></logotype>
-  <headquarters>
-    <country></country>
-    <city></city>
-    <postalcode></postalcode>
-    <zip></zip>
-    <address></address>
-    <countrycode></countrycode>
-    <region/>
-  </headquarters>
-  <referencenumber>97f1ca9a-6fab-49d9-8b92-cdd78109a5f1</referencenumber>
-  <jobboardid>cookorico</jobboardid>
-  <title><![CDATA[Job étudiant - Employé de restaurant]]></title>
-<description><![CDATA[<p>Le flunch de Metz Semécourt est à la recherche des derniers étudiants pour compléter l'équipe en place pour cette fin d'année&nbsp;!&nbsp;</p><br><p>Tu souhaites&nbsp;en CDI étudiant avec un planning sur mesure par rapport à ton emploi du temps ! Alors qu'est-ce que tu attends ?&nbsp;</p><br><p>Tu seras rattaché(e) au Directeur de Restaurant et auras pour objectifs :</p><p>- Contribuer au développement des résultats du restaurant en accueillant et accompagnant les clients, réceptionnant les marchandises, préparant les plats, buffets ;</p><p>- Garantir la bonne tenue du restaurant (propreté des buffets, de la salle, laverie...) ;</p><p>- Veiller à effectuer les missions qui te sont confiées en respectant les normes et procédures (hygiène…) en vigueur chez Flunch !</p> <p>Ce que nous recherchons chez toi :</p> <ul> <li>Ton enthousiasme, ton énergie et ton esprit d’équipe ;</li> <li>De l’organisation, de la réactivité, de l’autonomie ;</li> <li>L’envie de satisfaire, jour après jour, nos clients, petits et grands.</li>
-</ul> <ul><li>Planning sur-mesure par rapport à ton emploi du temps !</li><li>Volume d'heures par semaine que nous définirons ensemble (8h, 10h, 12h, 15h?)</li><li>2 jours de repos par semaine minimum</li><li>Repas pris en charge sur place&nbsp;</li></ul> <p>A chaque moment, à chaque endroit, il y a toujours un flunch pour moi !</p><p>Parce que notre ambition est de donner à tous le plaisir de fluncher en toutes occasions, dans tous les moments et lieux de vie, nous recherchons le fluncheur qui rejoindra nos équipes.</p>]]></description>
-  <startdate>2026-10-29</startdate>
-  <enddate></enddate>
-  <createddate>2026-10-29</createddate>
-  <remotestatus></remotestatus>
-  <employmenttype>CDI</employmenttype>
-  <employmentlevel></employmentlevel>
-  <url><![CDATA[https://www.hw-recruteur.com/offer/joboffer/offre-30404-hTUuMh?utm_source=cookorico]]></url>
-  <applyurl><![CDATA[https://www.hw-recruteur.com/offer/apply/30404-hTUuMh?utm_source=cookorico]]></applyurl>
-  <coverimageurl></coverimageurl>
-  <pitch></pitch>
-  <applybuttontext/>
-  <locations>
-    <location>
-      <country>France</country>
-      <city><![CDATA[Semécourt]]></city>
-      <zip>57280</zip>
-      <address><![CDATA[AuShopping Semécourt - Voie Romaine - 57100 Semécourt]]></address>
       <countrycode></countrycode>
       <region/>
     </location>
